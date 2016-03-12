@@ -745,6 +745,7 @@ FOX 5 (US):US/Eastern
 Fox 8 (NL):Europe/Amsterdam
 Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
+Fox Channel (UK):Europe/London
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
@@ -1615,6 +1616,7 @@ Sci-Fi (NL):Europe/Amsterdam
 SciFi:US/Eastern
 Scuzz:Europe/London
 SEC ESPN NETWORK (US):US/Eastern
+Seeso:US/Eastern
 Semerkand TV:Europe/Istanbul
 Séries+:Canada/Eastern
 Servus TV:Europe/Vienna
