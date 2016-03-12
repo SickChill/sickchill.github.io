@@ -1616,6 +1616,7 @@ Sci-Fi (NL):Europe/Amsterdam
 SciFi:US/Eastern
 Scuzz:Europe/London
 SEC ESPN NETWORK (US):US/Eastern
+Seeso:US/Eastern
 Semerkand TV:Europe/Istanbul
 Séries+:Canada/Eastern
 Servus TV:Europe/Vienna
