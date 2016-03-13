@@ -658,6 +658,7 @@ Encore:US/Eastern
 Encuentro:America/Buenos_Aires
 EO:Europe/Amsterdam
 epix (US):US/Eastern
+EPIX:US/Eastern
 Epsilon TV:Europe/Athens
 eqhd:Canada/Eastern
 ERT:Europe/Athens
