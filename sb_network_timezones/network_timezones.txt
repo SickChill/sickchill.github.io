@@ -1098,6 +1098,7 @@ LLink (NL):Europe/Amsterdam
 LMN:US/Eastern
 Local 4 (US):US/Eastern
 Logo:US/Eastern
+LOGO:US/Eastern
 LONDON LIVE (UK):Europe/London
 LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
