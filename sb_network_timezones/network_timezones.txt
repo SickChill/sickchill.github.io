@@ -130,6 +130,7 @@ Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
 Animax:Asia/Tokyo
 Anime Network:US/Eastern
+The Anime Network:US/Eastern
 ANT1:Europe/Athens
 Antena 3:Europe/Madrid
 ANTENNA TV (US):US/Eastern
@@ -2051,6 +2052,7 @@ TV3 (SE):Europe/Stockholm
 TV3 Puls:Europe/Copenhagen
 TV3:Europe/Stockholm
 TV3+:Europe/Copenhagen
+TV4 (SE):Europe/Stockholm
 TV4 Fakta:Europe/Stockholm
 TV4 Guld:Europe/Stockholm
 TV4 Komedi:Europe/Stockholm
