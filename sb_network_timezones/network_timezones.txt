@@ -747,6 +747,7 @@ Fox 8 (NL):Europe/Amsterdam
 Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
 Fox Channel (UK):Europe/London
+Fox Channel (BR):America/Sao_Paulo
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
@@ -1300,6 +1301,7 @@ NFL Redzone (US):US/Eastern
 NFL Sunday Ticket (US):US/Eastern
 NFL Sunday Ticket Redzone (US):US/Eastern
 NHK World (UK):Europe/London
+NHK TV:Asia/Tokyo
 NHK:Asia/Tokyo
 NHK Animax:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
