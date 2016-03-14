@@ -3,6 +3,16 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2016-03-14####  
+
+Some users can experience that air-dates are not updated for every show.  
+If that is the case, than go to "Mass-update" and select "Update" for all shows, and let it run.  
+
+Also when you get a warning in your log like **Missing time zone for network:** those can be added [here.](https://github.com/SickRage/sickrage.github.io/blob/master/sb_network_timezones/network_timezones.txt)  
+They are used to calculate the exact airtime of a show in your specific timezone. This allows Sickrage to start searching more precise, without this the search starts at exactly midnight local time.  
+
+<br/>
+
 ####2016-01-12####
 
 Here are another 200+ commits for you guys, which brings many bug fixes. Many providers were fixed up,
