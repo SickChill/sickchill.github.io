@@ -570,6 +570,7 @@ DISCOVERY home&health (UK):Europe/London
 Discovery Kids:US/Eastern
 Discovery Life:US/Eastern
 Discovery MAX:Europe/Madrid
+Discovery Real Time:Europe/London
 Discovery Science (AU):Australia/Sydney
 DISCOVERY SCIENCE (CA):Canada/Eastern
 Discovery Science (UK):Europe/London
