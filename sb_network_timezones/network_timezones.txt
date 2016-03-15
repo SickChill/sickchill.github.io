@@ -1505,6 +1505,7 @@ RCTI:Asia/Jakarta
 RCTV:America/Caracas
 RDI:Canada/Eastern
 Real Hip-Hop Network (US):US/Eastern
+Really:Europe/London
 REALLY (UK):Europe/London
 RECIPE.TV (US):US/Eastern
 Record TV (UK):Europe/London
@@ -1552,6 +1553,7 @@ RT (UK):Europe/London
 RT America (US):US/Eastern
 RT:Europe/Kaliningrad
 RTBF:Europe/Brussels
+RTE:Europe/Dublin
 rté jr (IE):Europe/Dublin
 RTÉjr:Europe/Dublin
 RTÉ NEWS NOW (IE):Europe/Dublin
