@@ -1970,6 +1970,7 @@ Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
 travel CHANNEL (UK):Europe/London
 Travel Channel:US/Eastern
+The Travel Channel:US/Eastern
 Treehouse TV:Canada/Eastern
 Trend E:Asia/Seoul
 Trinity Broadcasting Network (US):US/Eastern
