@@ -1675,6 +1675,7 @@ sky ARTS 2 (UK):Europe/London
 Sky Arts:Europe/London
 Sky Atlantic HD (DE):Europe/Berlin
 Sky Atlantic:Europe/London
+Sky Atlantic (UK):Europe/London
 Sky Atlantic (IT):Europe/Rome
 Sky Box Office:Europe/London
 SKY Business TV (AU):Australia/Sydney
@@ -2260,6 +2261,7 @@ WPIX:US/Eastern
 WTV (AU):Australia/Sydney
 WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
+www.welcometothescene.com:US/Eastern
 Xbox Video:US/Eastern
 XY TV:US/Eastern
 Yahoo! Japan:Asia/Tokyo
@@ -2326,4 +2328,4 @@ ZUUS Latino (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
-Sky Atlantic (UK):Europe/London
+
