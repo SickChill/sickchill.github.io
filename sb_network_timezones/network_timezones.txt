@@ -2328,3 +2328,5 @@ ZUUS Latino (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
+Comedy Central UK:Europe/London
+Showcase (AU):Australia/Sydney
