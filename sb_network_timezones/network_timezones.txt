@@ -1382,6 +1382,7 @@ one (AU):Australia/Sydney
 ONE (NZ):Pacific/Auckland
 One America NEWS NETWORK (US):US/Eastern
 One World Sport (US):US/Eastern
+Online:Europe/London
 OnStyle:Asia/Seoul
 Open Heaven TV (UK):Europe/London
 Oprah Winfrey Network:US/Eastern
@@ -2262,6 +2263,7 @@ WTV (AU):Australia/Sydney
 WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 www.welcometothescene.com:US/Eastern
+www.startrekofgodsandmen.net:US/Eastern
 Xbox Video:US/Eastern
 XY TV:US/Eastern
 Yahoo! Japan:Asia/Tokyo
