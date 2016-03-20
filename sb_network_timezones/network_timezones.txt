@@ -142,6 +142,7 @@ Apostolic Oneness Network (US):US/Eastern
 aptn (CA):Canada/Eastern
 APTN:Canada/Eastern
 Arabic Channel (US):US/Eastern
+ARD:Europe/Berlin
 Arena:Australia/Sydney
 Argos TV (UK):Europe/London
 ARISE News (UK):Europe/London
