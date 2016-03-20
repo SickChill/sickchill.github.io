@@ -1019,6 +1019,7 @@ KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
+Kanal5 (SE):Europe/Stockholm
 Kanal 5:Europe/Copenhagen
 Kanal 5 (DK):Europe/Copenhagen
 Kanal 7:Europe/Istanbul
@@ -1348,6 +1349,7 @@ NovaTV:Europe/Sofia
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
+NRK:Europe/Oslo
 NRK Super:Europe/Oslo
 NRK1:Europe/Oslo
 NRK2:Europe/Oslo
@@ -1845,6 +1847,7 @@ SVT1:Europe/Stockholm
 SVT2:Europe/Stockholm
 SVT24:Europe/Stockholm
 SVTB:Europe/Stockholm
+SVT Drama:Europe/Stockholm
 Swarnawahini:Asia/Colombo
 Swearnet:Canada/Eastern
 SWR:Europe/Berlin
@@ -2008,6 +2011,7 @@ TUFF TV (US):US/Eastern
 TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
 Turner South:US/Eastern
+TV1:Europe/Stockholm
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Nyhetskanalen:Europe/Oslo
@@ -2035,6 +2039,7 @@ TV Kanagawa (JP):Asia/Tokyo
 TV Land:US/Eastern
 TV Markíza (SK):Europe/Bratislava
 TV Net:Europe/Istanbul
+TV Norge:Europe/Oslo
 TV Nova:Europe/Prague
 TV One (NZ):Pacific/Auckland
 TV One (US):US/Eastern
