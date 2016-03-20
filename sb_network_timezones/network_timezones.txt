@@ -227,6 +227,7 @@ BBC One North West:Europe/London
 BBC one Northern Ireland:Europe/London
 BBC One Oxfordshire:Europe/London
 BBC one Scotland:Europe/London
+BBC One Scotland:Europe/London
 BBC One South East:Europe/London
 BBC One South West:Europe/London
 BBC one Wales:Europe/London
