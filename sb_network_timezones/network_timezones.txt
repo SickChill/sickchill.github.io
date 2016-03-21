@@ -1278,7 +1278,7 @@ Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 NEN (AU):Australia/Sydney
 neonalley.com (US):US/Eastern
-NET5:Europe/Amsterdam
+NET5 & VT4:Europe/Amsterdam
 NET 5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
