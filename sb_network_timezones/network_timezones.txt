@@ -1389,6 +1389,7 @@ ONE (NZ):Pacific/Auckland
 One America NEWS NETWORK (US):US/Eastern
 One World Sport (US):US/Eastern
 Online:Europe/London
+Online - www.cad-series.com:US/Eastern
 OnStyle:Asia/Seoul
 Open Heaven TV (UK):Europe/London
 Oprah Winfrey Network:US/Eastern
