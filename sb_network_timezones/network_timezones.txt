@@ -475,6 +475,7 @@ Comedy Central (NL):Europe/Amsterdam
 COMEDY CENTRAL (UK):Europe/London
 Comedy Central (UK):Europe/London
 Comedy Central (US):US/Eastern
+Comedy Central UK:Europe/London
 COMEDY CENTRAL EXTRA (UK):Europe/London
 Comedy Central:US/Eastern
 comedy channel (AU):Australia/Sydney
@@ -1277,6 +1278,7 @@ Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 NEN (AU):Australia/Sydney
 neonalley.com (US):US/Eastern
+NET5:Europe/Amsterdam
 NET 5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
@@ -1650,6 +1652,7 @@ SHO NEXT (US):US/Eastern
 sho.com (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
 Show TV:Europe/Istanbul
+Showcase (AU):Australia/Sydney
 showcase (AU):Australia/Sydney
 Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
@@ -2337,5 +2340,3 @@ ZUUS Latino (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
-Comedy Central UK:Europe/London
-Showcase (AU):Australia/Sydney
