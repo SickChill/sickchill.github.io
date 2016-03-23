@@ -1449,6 +1449,7 @@ Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
+Play UK:Europe/London
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 POP (UK):Europe/London
@@ -1846,6 +1847,7 @@ Super Écran:Canada/Eastern
 Super RTL (DE):Europe/Berlin
 Super!:Europe/Rome
 Superstation WGN:US/Eastern
+Sveriges Television:Europe/Stockholm
 SVT:Europe/Stockholm
 SVT1:Europe/Stockholm
 SVT2:Europe/Stockholm
