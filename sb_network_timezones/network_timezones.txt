@@ -1441,6 +1441,7 @@ Phoenix:Europe/Berlin
 Pick TV:Europe/London
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
+Pivot:US/Eastern
 pivot:US/Eastern
 PIX 11 (US):US/Eastern
 Planet Green:US/Eastern
