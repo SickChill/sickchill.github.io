@@ -1,9 +1,18 @@
-####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
+####Please read the [Wiki/FAQ](https://github.com/SickRage/SickRage/wiki) before opening an issue####
+All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/SickRage/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
 <br/>
 
-####2016-03-14####  
+####2016-03-25####
+
+Quick note for Synology users. Yesterday Synology released [DSM 6,](https://www.synology.com/en-global/dsm/6.0) we advice users to wait with the update.
+The problem is that the Sickbead-custom (and other Synocommunity) packages are not fully compatible yet.
+If the packages are installed on DSM 5.2 and you upgrade they will keep working, but on a fresh DSM6 install or if you need to re-install the package they wont work anymore. More info and workarounds can be found on our [issue tracker](https://github.com/SickRage/sickrage-issues/issues/587#issuecomment-201275502)
+
+<br/>
+
+
+####2016-03-14####
 
 Some users can experience that air-dates are not updated for every show.  
 If that is the case, than go to "Mass-update" and select "Update" for all shows, and let it run.  
