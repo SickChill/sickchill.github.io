@@ -433,6 +433,7 @@ Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 cloo (US):US/Eastern
 CLTV (US):US/Eastern
+Club Illico:Canada/Eastern
 Club RTL:Europe/Brussels
 Clubland (UK):Europe/London
 CMC (AU):Australia/Sydney
