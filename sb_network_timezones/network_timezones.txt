@@ -215,6 +215,7 @@ BBC ALBA:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Four:Europe/London
+BBC FOUR:Europe/London
 BBC HD:Europe/London
 BBC iPlayer:Europe/London
 BBC Kids:Canada/Eastern
