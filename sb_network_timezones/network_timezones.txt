@@ -754,6 +754,7 @@ Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
 Fox Channel (UK):Europe/London
 Fox Channel (BR):America/Sao_Paulo
+Fox Channel (IT):Europe/Rome
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
