@@ -298,6 +298,7 @@ Bravo:US/Eastern
 bravotv.com (US):US/Eastern
 Brit Asia TV (UK):Europe/London
 British Eurosport 2:Europe/London
+BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS11:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
@@ -2234,6 +2235,7 @@ VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 VPRO:Europe/Amsterdam
 Vrak.TV:Canada/Eastern
+VRT:Europe/Brussels
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 vtmKzoom:Europe/Brussels
