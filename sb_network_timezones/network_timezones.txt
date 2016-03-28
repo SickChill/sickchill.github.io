@@ -302,6 +302,7 @@ BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS11:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
+BS-i:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -2049,6 +2050,7 @@ TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
 TV Kanagawa (JP):Asia/Tokyo
+TV Kanagawa:Asia/Tokyo
 TV Land:US/Eastern
 TV Markíza (SK):Europe/Bratislava
 TV Net:Europe/Istanbul
@@ -2061,6 +2063,7 @@ TV One:US/Eastern
 TV Osaka:Asia/Tokyo
 TV Pública:America/Buenos_Aires
 TV Saitama (JP):Asia/Tokyo
+TV Saitama:Asia/Tokyo
 TV São Carlos:America/Buenos_Aires
 TV Setouchi (JP):Asia/Tokyo
 TV Shop (UK):Europe/London
@@ -2115,6 +2118,7 @@ TVGN:US/Eastern
 TVI:Europe/Lisbon
 tvK (US):US/Eastern
 tvk:Asia/Tokyo
+TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
