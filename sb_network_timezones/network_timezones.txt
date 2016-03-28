@@ -1877,6 +1877,7 @@ Syndication:US/Eastern
 tagesschau24 (DE):Europe/Berlin
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
+Talpa, RTL4:Europe/Amsterdam
 Tapesh TV (US):US/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
 TBN Enlace (US):US/Eastern
