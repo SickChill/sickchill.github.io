@@ -1405,6 +1405,7 @@ ORF III:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORTF:Europe/Paris
 Outdoor Channel:US/Eastern
+Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
 OUTtv (CA):Canada/Eastern
 Ovation TV:US/Eastern
