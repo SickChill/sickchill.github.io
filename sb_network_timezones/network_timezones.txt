@@ -506,6 +506,7 @@ create (US):US/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
 crime & investigation network (AU):Australia/Sydney
+Crime & Investigation Network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
 C-Span:US/Eastern
