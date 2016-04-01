@@ -1017,6 +1017,7 @@ jts.tv (US):US/Eastern
 JUCE TV (US):US/Eastern
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
+Jupiter Broadcasting:US/Eastern
 JUS ONE (US):US/Eastern
 JUS PUNJABI (US):US/Eastern
 JUSTICE CENTRAL (US):US/Eastern
