@@ -1144,6 +1144,7 @@ MavTV:US/Eastern
 Max (AU):Australia/Sydney
 MAX (NL):Europe/Amsterdam
 MBC Drama:Asia/Seoul
+MBC 1:Asia/Seoul
 MBC Every 1:Asia/Seoul
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
