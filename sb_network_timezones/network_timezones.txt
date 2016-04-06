@@ -1025,6 +1025,7 @@ KABC-TV Los Angeles (US):US/Eastern
 Kabel1 (DE):Europe/Berlin
 Kampüs TV:Europe/Istanbul
 KanaalTwee:Europe/Brussels
+Kanaal 2:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
