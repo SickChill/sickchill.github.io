@@ -1546,6 +1546,7 @@ Revision3:US/Eastern
 REVOLT (US):US/Eastern
 RFD-TV (US):US/Eastern
 RHC (AU):Australia/Sydney
+RichardDawkins.net:US/Eastern
 Ricavision channel 7 (ES):Europe/Madrid
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 RIPE TV (US):US/Eastern
