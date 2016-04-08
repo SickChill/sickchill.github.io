@@ -3,6 +3,15 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2016-04-08####
+
+Among the many fixes in today's release, there is something special.  
+**The web interface in SickRage is now translatable into any language!**  
+If you would like to help translating the strings some information can be found on the [WIKI](https://github.com/SickRage/SickRage/wiki/Translations)  
+Also, we would like to thank [CrowdIn](https://crowdin.com/project/sickrage) for our free open source project account to help managing the translations.
+
+<br/>
+
 ####2016-03-25####
 
 Quick note for Synology users. Yesterday Synology released [DSM 6,](https://www.synology.com/en-global/dsm/6.0) we advice users to wait with the update.
@@ -10,7 +19,6 @@ The problem is that the Sickbead-custom (and other Synocommunity) packages are n
 If the packages are installed on DSM 5.2 and you upgrade they will keep working, but on a fresh DSM6 install or if you need to re-install the package they wont work anymore. More info and workarounds can be found on our [issue tracker](https://github.com/SickRage/sickrage-issues/issues/587#issuecomment-201275502)
 
 <br/>
-
 
 ####2016-03-14####
 
