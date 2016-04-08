@@ -729,6 +729,7 @@ Fitness Channel (UK):Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Five:Europe/London
+five:Europe/London
 FLAVA (UK):Europe/London
 FLIX (US):US/Eastern
 Flow TV (US):US/Eastern
@@ -994,6 +995,7 @@ itv WEST COUNTRY (UK):Europe/London
 itv YORKSHIRE (UK):Europe/London
 ITV:Europe/London
 ITV1:Europe/London
+ITV 1:Europe/London
 ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
