@@ -824,6 +824,7 @@ Fuji TV:Asia/Tokyo
 FUNimation Channel:US/Eastern
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
+Fuse:US/Eastern
 Fusion (US):US/Eastern
 FX (AU):Australia/Sydney
 FX (US):US/Eastern
@@ -1796,6 +1797,7 @@ SPORTSNET WORLD (CA):Canada/Eastern
 Sprout (US):US/Eastern
 spt tv (US):US/Eastern
 SR:Europe/Berlin
+SRC:Canada/Eastern
 SRF 1:Europe/Zurich
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
