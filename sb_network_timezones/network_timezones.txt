@@ -1904,6 +1904,7 @@ Télé (CA):Canada/Eastern
 Tele 5:Europe/Berlin
 Tele Curacao (AN):America/Lower_Princes
 Télé Monte Carlo (FR):Europe/Paris
+Telefe:America/Buenos_Aires
 Teleac (NL):Europe/Amsterdam
 TELECARE (US):US/Eastern
 Telecinco 5 (ES):Europe/Madrid
