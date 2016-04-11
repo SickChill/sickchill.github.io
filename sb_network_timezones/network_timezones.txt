@@ -562,6 +562,7 @@ Deutsche Telekom (DE):Europe/Berlin
 Deutsche Welle (US):US/Eastern
 Deutsche Welle TV:Europe/Berlin
 DFamilia (US):US/Eastern
+DirecTV Japan:Asia/Tokyo
 Discovery Channel (Asia):Asia/Singapore
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery Channel (Australia):Australia/Sydney
