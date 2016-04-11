@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2016-04-11####
+
+With my next commit, your web interface may revert to english translation. However, it is now a configurable option as to which language you want to use.  
+You can find the option to change the language on http://localhost:8081/config/general/ at the top of the 'Interface' tab.
+I hope you all are enjoying the translations, and please feel free to help out with them on [crowdin.com](https://crowdin.com/project/sickrage)
+
+<br/>
+
 ####2016-04-08####
 
 Among the many fixes in today's release, there is something special.  
