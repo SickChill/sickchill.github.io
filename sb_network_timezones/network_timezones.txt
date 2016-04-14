@@ -2083,6 +2083,7 @@ TV Tokjo (DE):Europe/Berlin
 TV Tokyo:Asia/Tokyo
 TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
+Tv2:Europe/Oslo
 TV2 (NO):Europe/Oslo
 TV2:Pacific/Auckland
 TV3 (ES):Europe/Madrid
