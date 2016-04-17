@@ -1467,6 +1467,7 @@ Playhouse Disney:US/Eastern
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Play UK:Europe/London
+Play UK, BBC Choice:Europe/London
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 POP (UK):Europe/London
