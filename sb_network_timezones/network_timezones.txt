@@ -426,6 +426,7 @@ Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
 Cinelatino (US):US/Eastern
 Cinemax:US/Eastern
+CineMax:US/Eastern
 Citv (UK):Europe/London
 CITV:Europe/London
 City Channel:Europe/Dublin
