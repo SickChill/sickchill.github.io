@@ -1908,6 +1908,7 @@ TCN (AU):Australia/Sydney
 TCT (US):US/Eastern
 TCT Family (US):US/Eastern
 TDT (AU):Australia/Sydney
+TED.com:US/Eastern
 TeenNick:US/Eastern
 Télé (CA):Canada/Eastern
 Tele 5:Europe/Berlin
