@@ -1853,6 +1853,7 @@ SUN music:Asia/Kolkata
 SUN NEWS NETWORK (CA):Canada/Eastern
 SUN news:Asia/Kolkata
 SUN TV:Asia/Kolkata
+Sun TV:Asia/Kolkata
 SundanceTV:US/Eastern
 Sundance:US/Eastern
 Sunrise TV (UK):Europe/London
