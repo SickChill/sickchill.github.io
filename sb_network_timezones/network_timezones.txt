@@ -180,6 +180,7 @@ ATV:Europe/Vienna
 AT-X:Asia/Tokyo
 Audience Network:US/Eastern
 aurora (AU):Australia/Sydney
+Australian Broadcasting Corporation:Australia/Sydney
 Australian Christian Channel:Australia/Sydney
 aux (CA):Canada/Eastern
 AVRO:Europe/Amsterdam
