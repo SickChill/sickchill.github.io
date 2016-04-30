@@ -11,6 +11,7 @@
 24/7 (US):US/Eastern
 24:Europe/Istanbul
 2BE:Europe/Brussels
+2be:Europe/Brussels
 3+:Europe/Zurich
 31 DIGITAL (AU):Australia/Sydney
 360:Europe/Istanbul
@@ -111,6 +112,7 @@ Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
 AMAZING FACTS (US):US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
+Amazon Prime Instant Video:US/Eastern
 Amazon:US/Eastern
 amc (CA):Canada/Eastern
 AMC:US/Eastern
@@ -1067,6 +1069,7 @@ KNXT (US):US/Eastern
 KO-AM TV (US):US/Eastern
 Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
+KRO-NCRV:Europe/Amsterdam
 KRO:Europe/Amsterdam
 KRO / NCRV:Europe/Amsterdam
 KTLA 5 (US):US/Eastern
