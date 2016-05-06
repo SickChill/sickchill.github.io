@@ -1810,6 +1810,7 @@ spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRC:Canada/Eastern
 SRF 1:Europe/Zurich
+Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
 Star Gold (UK):Europe/London
