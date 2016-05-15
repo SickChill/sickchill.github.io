@@ -2383,3 +2383,4 @@ ZUUS Latino (US):US/Eastern
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
 Vara:Europe/Amsterdam
+RTL Crime:Europe/Berlin
