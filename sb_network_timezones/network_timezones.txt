@@ -2384,3 +2384,10 @@ ZUUS Latino (US):US/Eastern
 רשת:Asia/Jerusalem
 Vara:Europe/Amsterdam
 RTL Crime:Europe/Berlin
+ProSieben Fun:Europe/Berlin
+Sat.1 Emotions:Europe/Berlin
+SyFy:Europe/Berlin
+SRF zwei:Europe/Berlin
+ProSieben MAXX:Europe/Berlin
+RTL Crime:Europe/Berlin
+Sat.1:Europe/Berlin
