@@ -1,15 +1,26 @@
+### 2016.05.09-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.05.09-1...master)
+
+* Added Responsive UI (thx to @beschoenen)
+* Fix unable to set label for torrent in qbittorrent
+* Update subliminal to 14707b6
+* Add some more translations
+* Remove postpone if no subs feature, in preparation for a better solution
+* Various fixes and code optimization
 
 ### 2016.04.28-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.28-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.28-1...master)
 
 * Removed Strike and Bitsoup providers, strike is taken down, bitsoup is pay only
 * Add german scene release tag 'netflix', to quality web-dl
 * Update translations
+* Various fixes and code optimization
 
 ### 2016.04.27-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.27-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.27-1...master)
 
 * Show specific required/ignored words now totally override global settings if they are set*
 * Updated torrentproject to use api magnet (#1632)
@@ -19,27 +30,30 @@
 * Added putio client and update search providers templates (#1550)
 * Added Join notifier (#1588)
 * Updated icon sprite sheet
+* Various fixes and code optimization
 
 ### 2016.04.17-2
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.17-2...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.17-2...master)
 
 * Update translations
 * Move github setup out of sickbeard init to sickrage.common.helper, so a restart isnt required after entering github credentials (#1533)
 * Fanart background in displayShow (#1531)
 * Change level of all loggers when enabling debug, so a restart isnt required! (#1529)
+* Various fixes and code optimization
 
 ### 2016.04.17-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.17-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.17-1...master)
 
 * Fix database upgrade to 43.1
 * Update translations
 * Add Bulgarian translations
+* Various fixes and code optimization
 
 ### 2016.04.16-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.16-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.16-1...master)
 
 * Update translations
 * Added more text for translation (#1504) (#1503) (#1499)
@@ -48,16 +62,17 @@
 * Add MBC 1 logo (#1515)
 * Clickable icon to open shows page on http://www.fanart.tv (#1512)
 * Added some missing buttons for translation (#1506) (#1507) (#1509)
+* Various fixes and code optimization
 
 ### 2016.04.14-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.14-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.14-1...master)
 
 * Update languages, add a few translation strings
 
 ### 2016.04.13-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.13-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.13-1...master)
 
 * Bump DB version to 43 to avoid issues updating when DB was previously used with SRTV
 * Specify encoding for config file
@@ -65,52 +80,57 @@
 * Fix typo in rename-selected url
 * Improve handling of windows file operations, fix issue with getting free space
 * Temporarily Disabled pymediainfo due to segfaults
+* Various fixes and code optimization
 
 ### 2016.04.12-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.12-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.12-1...master)
 
 * Update translations, add en_GB translation
 * Fix a few syntax errors in mako embedded python Fix manageSearches page syntax error for translatable string and clean it up some
 * Some additions for the translations.
 * Update subliminal to 2.0.rc1 (b48c0c9) VANILLA! (#1459)
 * Remove itasa subtitle provider and add shooter.cn subtitle provider
+* Various fixes and code optimization
 
 ### 2016.04.11-2
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.11-2...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.11-2...master)
 
 * Add ability to select your language for the web ui in config/general on the interface tab
 
 ### 2016.04.11-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.11-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.11-1...master)
 
 * Fix issue tracker link in readme
 * Combine show req/ign words with global ign/req words when checking release names so it doesnt require a word from BOTH ign lists or BOTH req lists
 * Fix issue with manual pp and nzbtomedia
 * Fix a few str formatting errors and add a few localizable strings
+* Various fixes and code optimization
 
 ### 2016.04.10-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.10-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.10-1...master)
 
 * Update translation strings
 * Fix typos related to translations
 * Fix selecting subtitle languages
+* Various fixes and code optimization
 
 ### 2016.04.09-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.09-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.09-1...master)
 
 * Fix issue matching subtitles from the wrong show to downloads in the PP folder
 * Add mediainfo integration for getting video screen size, to help guessing quality from unknown quality files. Can be used for more things in the future
 * Translate the rest of the ui, still small tweaks here and there to-do
 * Update with latest translations, you guys are on fire
+* Various fixes and code optimization
 
 ### 2016.04.08-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.08-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.08-1...master)
 
 * Add ability to fully translate the web interface Use crowdin.com for managing translations
 * Fix issue listing files associated with an episode or video file. This fixes subtitles and nfo not being moved during post processing,
@@ -136,20 +156,22 @@
 * Disable verify for plex media server, since it is signed with the plex direct wildcard cert (even locally)
 * Adjust metadata file log messages
 * Fix up tvshow.nfo parsing a bit so it doesnt give warnings when id/tvdbid is an empty string
+* Various fixes and code optimization
 
 ### 2016.04.01-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.04.01-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.04.01-1...master)
 
 * Fix "Unable to determine free space"
 * Fix issue where importing existing files that parsed to unknown quality would not change episode status to downloaded
 * Fix issue causing incorrect airdates
 * Fix issue with timezones causing Synology DSM6 to fail to start
 * Fix bug where qualityFromFileMeta was getting double and triple called
+* Various fixes and code optimization
 
 ### 2016.03.31-1
 
-[full changelog] (https://github.com/SickRage/SickRage/compare/2016.03.31-1...master)
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.03.31-1...master)
 
 * Allow sending NZB's to DSM on Synology
 * Ignored/Required words for specific shows override global defaults now
@@ -173,6 +195,7 @@
 * Make disk_usage return int, and convert it from K to B Assure df returns in KB (default on most systems, but lets be sure) Fixes #1269
 * Remove helpers._getTempDir as it is unused Use platform.system instead of os.name in helpers
 * Add functions to check for Pushbullet channels
+* Various fixes and code optimization
 
 ### 2016.03.28-2
 
