@@ -983,6 +983,7 @@ IQRA TV (UK):Europe/London
 ishop tv (AU):Australia/Sydney
 Islam Channel (UK):Europe/London
 Italia 1:Europe/Rome
+iTunes:US/Eastern
 iTunes (US):US/Eastern
 itv ANGLIA (UK):Europe/London
 itv BORDER (UK):Europe/London
