@@ -1010,6 +1010,7 @@ itvBe (UK):Europe/London
 ITVBe:Europe/London
 ivfilms.net (US):US/Eastern
 Jak-TV (ID):Asia/Jakarta
+Jetix:Europe/Amsterdam
 Jetix (NL):Europe/Amsterdam
 Jeuxvideo.com:Europe/Paris
 Jewellery Channel (UK):Europe/London
@@ -2019,6 +2020,7 @@ Travel + Escape (CA):Canada/Eastern
 travel CHANNEL (UK):Europe/London
 Travel Channel:US/Eastern
 The Travel Channel:US/Eastern
+Treehouse:Canada/Eastern
 Treehouse TV:Canada/Eastern
 Trend E:Asia/Seoul
 Trinity Broadcasting Network (US):US/Eastern
