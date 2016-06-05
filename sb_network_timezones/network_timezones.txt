@@ -386,6 +386,7 @@ Centric (US):US/Eastern
 Centric:US/Eastern
 Česká televize:Europe/Prague
 Ceskoslovenská televize:Europe/Prague
+Československá televize:Europe/Prague
 CGN TV (US):US/Eastern
 CGV:Asia/Seoul
 Challenge:Europe/London
