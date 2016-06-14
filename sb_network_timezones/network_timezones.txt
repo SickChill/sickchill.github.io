@@ -113,6 +113,7 @@ Altitude sports (US):US/Eastern
 AMAZING FACTS (US):US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Instant Video:US/Eastern
+Amazon Instant Video:US/Eastern
 Amazon:US/Eastern
 amc (CA):Canada/Eastern
 AMC:US/Eastern
@@ -1422,6 +1423,7 @@ Orbit Network (PK):Asia/Karachi
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
 ORF III:Europe/Vienna
+ORF eins:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORTF:Europe/Paris
 Outdoor Channel:US/Eastern
@@ -1499,6 +1501,8 @@ Primetime (UK):Europe/London
 PRO TV:Europe/Bucharest
 propellor (UK):Europe/London
 ProSieben:Europe/Berlin
+ProSieben Fun:Europe/Berlin
+ProSieben MAXX:Europe/Berlin
 Psychic Today (UK):Europe/London
 PTC Global (UK):Europe/London
 PTC Prime (UK):Europe/London
@@ -1599,12 +1603,15 @@ RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Two:Europe/Dublin
 RTL 2 (DE):Europe/Berlin
+RTL II:Europe/Berlin
 RTL 4:Europe/Amsterdam
 RTL 5:Europe/Amsterdam
 RTL 7:Europe/Amsterdam
 RTL 8:Europe/Amsterdam
+RTL Crime:Europe/Berlin
 RTL Klub:Europe/Budapest
 RTL Nitro (DE):Europe/Berlin
+RTL Nitro:Europe/Berlin
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL TVI:Europe/Brussels
@@ -1648,6 +1655,8 @@ Sanskar:Asia/Kolkata
 SAS (AU):Australia/Sydney
 Sat. 1 Comedy (DE):Europe/Berlin
 SAT.1:Europe/Berlin
+Sat.1:Europe/Berlin
+Sat.1 Emotions:Europe/Berlin
 SBS (AU):Australia/Sydney
 SBS 6:Europe/Amsterdam
 SBS Plus:Asia/Seoul
@@ -1815,6 +1824,7 @@ spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRC:Canada/Eastern
 SRF 1:Europe/Zurich
+SRF zwei:Europe/Berlin
 Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
@@ -1879,6 +1889,7 @@ Super Channel:Canada/Eastern
 SUPER ÉCRAN (CA):Canada/Eastern
 Super Écran:Canada/Eastern
 Super RTL (DE):Europe/Berlin
+Super RTL:Europe/Berlin
 Super!:Europe/Rome
 Superstation WGN:US/Eastern
 Sveriges Television:Europe/Stockholm
@@ -1896,6 +1907,7 @@ Syfy (UK):Europe/London
 SyFy Universal (DE):Europe/Berlin
 SyFy.com (US):US/Eastern
 Syfy:US/Eastern
+SyFy:Europe/Berlin
 Syndicated (AU):Australia/Sydney
 Syndicated (JP):Asia/Tokyo
 Syndicated (UK):Europe/London
@@ -2239,6 +2251,7 @@ UTV:Europe/Dublin
 V Channel (UK):Europe/London
 V:Canada/Eastern
 VARA:Europe/Amsterdam
+Vara:Europe/Amsterdam
 Varsity TV:US/Eastern
 Vault (UK):Europe/London
 Velocity:US/Eastern
@@ -2390,12 +2403,3 @@ ZUUS Latino (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
-Vara:Europe/Amsterdam
-RTL Crime:Europe/Berlin
-ProSieben Fun:Europe/Berlin
-Sat.1 Emotions:Europe/Berlin
-SyFy:Europe/Berlin
-SRF zwei:Europe/Berlin
-ProSieben MAXX:Europe/Berlin
-RTL Crime:Europe/Berlin
-Sat.1:Europe/Berlin
