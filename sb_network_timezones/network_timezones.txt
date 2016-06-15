@@ -1131,6 +1131,7 @@ Local 4 (US):US/Eastern
 Logo:US/Eastern
 LOGO:US/Eastern
 LONDON LIVE (UK):Europe/London
+London Weekend Television (LWT):Europe/London
 LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
 Loveworld TV (UK):Europe/London
