@@ -2336,6 +2336,7 @@ WPIX:US/Eastern
 WTV (AU):Australia/Sydney
 WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
+www.purepwnage.com:Canada/Eastern
 www.welcometothescene.com:US/Eastern
 www.startrekofgodsandmen.net:US/Eastern
 Xbox Video:US/Eastern
