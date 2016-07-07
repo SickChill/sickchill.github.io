@@ -243,10 +243,12 @@ BBC One West Midlands:Europe/London
 BBC One West:Europe/London
 BBC One Yorkshire & Lincolnshire:Europe/London
 BBC One:Europe/London
+BBC ONE:Europe/London
 BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC RED BUTTON:Europe/London
 BBC Three:Europe/London
+BBC THREE:Europe/London
 BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
@@ -1787,6 +1789,7 @@ SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
+Sony:US/Eastern
 Sony Entertainment Television (BR):America/Sao_Paulo
 Sony Entertainment Television (CL):America/Santiago
 Sony Entertainment Television (IN):Asia/Kolkata
@@ -2195,6 +2198,7 @@ TVW (AU):Australia/Sydney
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
+Twitch:US/Eastern
 TXCN (US):US/Eastern
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
