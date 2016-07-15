@@ -1238,6 +1238,7 @@ MTV Mandarin:Asia/Taipei
 MTV MUSIC (AU):Australia/Sydney
 MTV MUSIC (UK):Europe/London
 MTV Nederland:Europe/Amsterdam
+MTV network:US/Eastern
 MTV Poland:Europe/Warsaw
 MTV ROCKS (UK):Europe/London
 MTV:US/Eastern
