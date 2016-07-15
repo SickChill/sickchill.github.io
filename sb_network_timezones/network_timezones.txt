@@ -1616,6 +1616,7 @@ RTL Crime:Europe/Berlin
 RTL Klub:Europe/Budapest
 RTL Nitro (DE):Europe/Berlin
 RTL Nitro:Europe/Berlin
+RTL Passion (DE):Europe/Berlin
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL TVI:Europe/Brussels
