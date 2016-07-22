@@ -927,6 +927,7 @@ HGTV:US/Eastern
 Hidayat TV (UK):Europe/London
 HIFI:Canada/Eastern
 High Street TV (UK):Europe/London
+HKTV:Asia/Hong_Kong
 Hír TV:Europe/Budapest
 Historia:Canada/Eastern
 HISTORY (AU):Australia/Sydney
