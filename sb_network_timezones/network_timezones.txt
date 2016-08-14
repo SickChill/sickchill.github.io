@@ -829,6 +829,7 @@ FRANCE24 (US):US/Eastern
 Fred TV:US/Eastern
 Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
+FSN:US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
 FUEL TV (AU):Australia/Sydney
@@ -1427,6 +1428,7 @@ Open Heaven TV (UK):Europe/London
 Oprah Winfrey Network:US/Eastern
 Ora TV:US/Eastern
 Orbit Network (PK):Asia/Karachi
+ORF:Europe/Berlin
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
 ORF III:Europe/Vienna
