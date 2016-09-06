@@ -933,6 +933,7 @@ High Street TV (UK):Europe/London
 HKTV:Asia/Hong_Kong
 Hír TV:Europe/Budapest
 Historia:Canada/Eastern
+Historia (CA):Canada/Eastern
 HISTORY (AU):Australia/Sydney
 History (CA):Canada/Eastern
 HISTORY (UK):Europe/London
