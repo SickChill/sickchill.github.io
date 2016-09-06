@@ -1440,6 +1440,7 @@ Outdoor Channel:US/Eastern
 Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
 OUTtv (CA):Canada/Eastern
+OutTV:Canada/Eastern
 Ovation TV:US/Eastern
 ovationchannel.com.au:Australia/Sydney
 Overcomer Ministries (US):US/Eastern
@@ -2277,6 +2278,7 @@ VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
 Viasat 4:Europe/Oslo
+Viaplay:Europe/Stockholm
 Viceland:US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
