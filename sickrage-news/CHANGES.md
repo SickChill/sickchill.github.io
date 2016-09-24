@@ -1,3 +1,136 @@
+
+### 2016.09.18-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.09.18-1)
+
+* Add openSans to grunt's mainFiles to suppress warning and include css
+* Added NZBFinder.ws as default provider (#2179)
+* Issue 1907 (#2344)
+* providers/scenetime: Fix broken search after site changes (#2335)
+* Fixed Dave network logo (#2326)
+* Added HorribleSubs as provider (#2246)
+* Outline poster with table (#2320)
+
+### 2016.09.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.09.10-1)
+
+* Update pullapprove.yaml
+* Fixes #2311 (#2317)
+* Use Torrentz2 (#2312)
+* replaced banner.png (#2309)
+* Fix dupe import in itasa
+* Parser exception (#2302)
+* Various UI tweaks (#2298)
+
+### 2016.09.03-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.09.03-1)
+
+* Fix slack error breaking post processing when NOTIFY_SUBTITLE settings are used.
+* Fix icon wrapping in cubmenu on error viewer
+
+### 2016.09.01-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.09.01-1)
+
+* Add NTV (JP) logo (#2283)
+* Fix notification responsiveness #2274 (#2277)
+* Adding Slack notification for snatches and downloads (#2276)
+* Add x265 categories to Torrentday provider (#2263)
+* Fix add show from imdb popular
+* Fix imdb popular page parsing due to change in imdb site (#2257)
+
+### 2016.08.25-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.08.25-1)
+
+* Fixes #1907 (#2256)
+* Fix #1621 (#2254)
+* Fix Debian/Ubuntu install script (#2242)
+* Fix form submit for firefox (#2238)
+* Fix reverse symlink menu item in settings (#2235)
+* Fix 'Error: [Errno 1] Operation not permitted:' when using SymLink (#2231)
+
+### 2016.08.20-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.08.20-1)
+
+* Fix iptorrents
+* Remove torrentz
+* Fix some page formatting/label
+* Fix massEdit for users with srHome prefix
+
+### 2016.07.31-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.07.31-1)
+
+* Support reverse symlinking
+* Fix `stupid` regex and tests
+* Add support for retrying subtitle downloads
+* Disable KAT
+* More responsive ui changes
+
+### 2016.07.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.07.10-1)
+
+* Change "No Show Object found for show with indexerID" log message to warning (#2059)
+* fix upstart to use default folder when using installer script (#2053)
+* For installer script: if folder not exist, clone repo (#2054)
+* ItaSa: fix manage season number (#2038)
+* Fixed typo which loaded the cookies setting into api_key variable. (#2048)
+* Enable cookies field for all TorrentProviders, if they have the provider.enable_cookies attribute set. (#2034)
+* remove trailing comma from list of columns to select when checking for duplicate shows (#2029)
+* Use unique seasons when searching (#2027)
+* Updates qbittorrent api calls to reflect changes made in qbittorrent with version 3.3.5. Ensure backward compatibility with older versions of qbt. (#1996)
+* Fixes #1976 - encoding userid/password before logging in to SMTP server (#1977)
+* Fix for torrentday
+
+### 2016.06.14-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.06.14-1)
+
+* Feature to metadata for subtitles, add retry for itasa using 'rip suffix'
+* Small fixes
+
+### 2016.05.20-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.05.20-1)
+
+* Fixes #1802
+* Update author typo
+* Rewrite xthor to use api (#1818)
+* Added some lines for translation (#1803)
+* Fixes #1775
+* Subtitle improvement (#1784)
+* Fix offset checkboxes in config pages (#1780)
+* Responsive ui - round 2 (#1767)
+* Small tweakes to the icons/css (#1766)
+* newpct rss ayer (#1745)
+
+### 2016.05.12-1
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.05.12-1)
+
+* Fixes jquery for adding scene exceptions, black/whitelist Fixes #1746…
+* Fixes #1747 Fixes #1759
+* Fix season pack search in tvchuk and "fix" titles (#1752)
+* Fix regexes (#1750)
+* Fix show info width (#1755)
+* Fix label in deluge, needs to be lower case (#1749)
+* Change log to info, no need to be warning (#1742)
+* Fixes search in windows systems for danishbits (#1741)
+
+### 2016.05.09-2
+
+[full changelog](https://github.com/SickRage/SickRage/releases/tag/2016.05.09-2)
+
+* Fix put.io client
+* Fix icons on the schedule page
+* Fix IndexError in home.mako
+* Fix incorrect log when a result is not found on KAT
+
 ### 2016.05.09-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.05.09-1...master)
