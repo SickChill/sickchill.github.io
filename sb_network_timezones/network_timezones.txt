@@ -1609,6 +1609,7 @@ RT (UK):Europe/London
 RT America (US):US/Eastern
 RT:Europe/Kaliningrad
 RTBF:Europe/Brussels
+RTBF Webcréation:Europe/Brussels
 RTE:Europe/Dublin
 rté jr (IE):Europe/Dublin
 RTÉjr:Europe/Dublin
