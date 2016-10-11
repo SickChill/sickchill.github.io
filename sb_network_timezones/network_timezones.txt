@@ -156,6 +156,7 @@ Arizona NewsChannel (US):US/Eastern
 ART TV:Europe/Athens
 arte (DE):Europe/Berlin
 Arte:Europe/Paris
+Arte Creative:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
 ARY Digital (UK):Europe/London
