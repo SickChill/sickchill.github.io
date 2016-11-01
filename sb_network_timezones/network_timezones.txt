@@ -250,6 +250,7 @@ BBC ONE:Europe/London
 BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC RED BUTTON:Europe/London
+BBC Scotland:Europe/London
 BBC Three:Europe/London
 BBC THREE:Europe/London
 BBC TWO Northern Ireland:Europe/London
@@ -995,6 +996,7 @@ ion LIFE (US):US/Eastern
 Ion Television:US/Eastern
 iQiyi:Asia/Shanghai
 IQRA TV (UK):Europe/London
+IRIB TV1:Asia/Tehran
 ishop tv (AU):Australia/Sydney
 Islam Channel (UK):Europe/London
 Italia 1:Europe/Rome
