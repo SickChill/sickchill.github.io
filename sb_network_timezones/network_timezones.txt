@@ -821,6 +821,7 @@ FOX Traveller:Asia/Kolkata
 FOX Türkiye:Europe/Istanbul
 Fox:Europe/Rome
 FOX:US/Eastern
+Fox (Latin America):America/Sao_Paulo
 Fox8:Australia/Sydney
 France 2:Europe/Paris
 France 24 (UK):Europe/London
@@ -2369,6 +2370,7 @@ YLE Fem (FI):Europe/Helsinki
 YLE:Europe/Helsinki
 Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
+Yomiuri TV:Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
 York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
