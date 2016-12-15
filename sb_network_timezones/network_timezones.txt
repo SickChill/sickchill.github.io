@@ -587,10 +587,12 @@ DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
+Discovery Channel (UK):Europe/London
 Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
+Discovery en Español (US):US/Eastern
 Discovery Family (US):US/Eastern
 Discovery Family:US/Eastern
 Discovery HD World:Asia/Singapore
