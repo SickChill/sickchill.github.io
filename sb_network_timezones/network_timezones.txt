@@ -545,8 +545,8 @@ DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
 Discovery:US/Eastern
-Discovery CHANNEL (AU):Australia/Sydney
-Discovery CHANNEL (UK):Europe/London
+Discovery Channel (AU):Australia/Sydney
+Discovery Channel (UK):Europe/London
 Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
@@ -1703,6 +1703,7 @@ Studio 23:Asia/Manila
 Style:US/Eastern
 Style (AU):Australia/Sydney
 Style TV:US/Eastern
+Stöð 2:Atlantic/Reykjavik
 Stöð 2 (IS):Atlantic/Reykjavik
 Sub:Europe/Helsinki
 Sundance:US/Eastern
@@ -2081,6 +2082,8 @@ Veronica:Europe/Amsterdam
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viceland:US/Eastern
+Viceland (US):US/Eastern
+Viceland (CA):US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
 VijfTV:Europe/Brussels
