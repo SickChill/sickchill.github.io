@@ -3,6 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2016-12-20####
+
+There is a small issue related to network timezones after the recent commits to make them case insensitive.
+If stopping SickRage completely and then starting it again, stopping it and deleting cache.db and then starting it back up should resolve the issue.
+
+<br/>
+
 ####2016-04-11####
 
 With my next commit, your web interface may revert to english translation. However, it is now a configurable option as to which language you want to use.  
