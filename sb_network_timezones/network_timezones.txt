@@ -8,7 +8,6 @@
 24:Europe/Istanbul
 24/7 (US):US/Eastern
 2BE:Europe/Brussels
-2be:Europe/Brussels
 2×2:Europe/Kaliningrad
 3+:Europe/Zurich
 31 DIGITAL (AU):Australia/Sydney
@@ -195,13 +194,11 @@ BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
 BBC FOUR:Europe/London
-BBC Four:Europe/London
 BBC HD:Europe/London
 BBC Kids:Canada/Eastern
 BBC Knowledge (AU):Australia/Sydney
 BBC News:Europe/London
 BBC ONE:Europe/London
-BBC One:Europe/London
 BBC One East:Europe/London
 BBC One East Midlands:Europe/London
 BBC One North East & Cumbria:Europe/London
@@ -222,14 +219,11 @@ BBC TWO:Europe/London
 BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
-BBC Three:Europe/London
-BBC Two:Europe/London
 BBC UKTV (AU):Australia/Sydney
 BBC World News:Europe/London
 BBC iPlayer:Europe/London
 BBC one London:Europe/London
 BBC one Northern Ireland:Europe/London
-BBC one Scotland:Europe/London
 BBC one Wales:Europe/London
 BCV (AU):Australia/Sydney
 BET:US/Eastern
@@ -456,7 +450,6 @@ Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
 CineMax:US/Eastern
 Cinelatino (US):US/Eastern
-Cinemax:US/Eastern
 Citv (UK):Europe/London
 City:Canada/Eastern
 City Channel:Europe/Dublin
@@ -476,7 +469,6 @@ Comedy (CA):Canada/Eastern
 Comedy Central:US/Eastern
 Comedy Central (DE):Europe/Berlin
 Comedy Central (NL):Europe/Amsterdam
-Comedy Central (UK):Europe/London
 Comedy Central (US):US/Eastern
 Comedy Central UK:Europe/London
 Comedy Channel:US/Eastern
@@ -559,7 +551,6 @@ Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
-Discovery Channel (UK):Europe/London
 Discovery Family:US/Eastern
 Discovery Family (US):US/Eastern
 Discovery HD World:Asia/Singapore
@@ -583,7 +574,6 @@ Discovery turbo MAX (AU):Australia/Sydney
 Dish TV:US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (Germany):Europe/Berlin
-Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Cinemagic:Europe/London
 Disney Junior:US/Eastern
@@ -747,7 +737,6 @@ Flow TV (US):US/Eastern
 Food Network:US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
-Fox:Europe/Rome
 Fox (BZ):America/Belize
 Fox (CR):America/Costa_Rica
 Fox (GT):America/Guatemala
@@ -832,7 +821,6 @@ H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 HBO:US/Eastern
 HBO CANADA:Canada/Eastern
-HBO Canada:Canada/Eastern
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
 HBO Latin America:America/Sao_Paulo
@@ -1035,7 +1023,6 @@ Living:Europe/London
 Living Asia Channel (PH):Asia/Manila
 Living Faith TV (US):US/Eastern
 Local 4 (US):US/Eastern
-Logo:US/Eastern
 London Weekend Television (LWT):Europe/London
 Loveworld TV (UK):Europe/London
 Luxury TV (UK):Europe/London
@@ -1263,7 +1250,6 @@ NickToons Network:US/Eastern
 Nickelodeon:US/Eastern
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (NL):Europe/Amsterdam
-Nicktoons Network:US/Eastern
 Niconico:Asia/Tokyo
 Nine Network:Australia/Sydney
 Nippon Television:Asia/Tokyo
@@ -1609,7 +1595,6 @@ Sahara One (UK):Europe/London
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
 Sat. 1 Comedy (DE):Europe/Berlin
-Sat.1:Europe/Berlin
 Sat.1 Emotions:Europe/Berlin
 Schweizer Fernsehen:Europe/Zurich
 Sci-Fi (NL):Europe/Amsterdam
@@ -1686,7 +1671,6 @@ Soul of the South Television Network (US):US/Eastern
 Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
 Southern Cross Ten (AU):Australia/Sydney
-Space:Canada/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
@@ -1721,7 +1705,6 @@ Style (AU):Australia/Sydney
 Style TV:US/Eastern
 Stöð 2 (IS):Atlantic/Reykjavik
 Sub:Europe/Helsinki
-Sun TV:Asia/Kolkata
 Sundance:US/Eastern
 SundanceTV:US/Eastern
 Sunrise TV (UK):Europe/London
@@ -1742,7 +1725,6 @@ Swearnet:Canada/Eastern
 SyFy:Europe/Berlin
 SyFy Universal (DE):Europe/Berlin
 SyFy.com (US):US/Eastern
-Syfy:US/Eastern
 Syfy (AU):Australia/Sydney
 Syfy (UK):Europe/London
 Syndicated:US/Eastern
@@ -1843,7 +1825,6 @@ TV Net:Europe/Istanbul
 TV Norge:Europe/Oslo
 TV Nova:Europe/Prague
 TV ONE:Pacific/Auckland
-TV One:US/Eastern
 TV One (NZ):Pacific/Auckland
 TV One (US):US/Eastern
 TV Osaka:Asia/Tokyo
@@ -1952,7 +1933,6 @@ Telefe:America/Buenos_Aires
 Telemundo:US/Eastern
 Telemundo (MX):America/Mexico_City
 Teletama:Europe/Madrid
-Teletoon:Canada/Eastern
 Televen:America/Caracas
 Televisa:America/Mexico_City
 Television Osaka:Asia/Tokyo
@@ -2015,7 +1995,6 @@ True Movies 1 (UK):Europe/London
 True Movies 2 (UK):Europe/London
 TrueVisions:Asia/Bangkok
 Turner South:US/Eastern
-Tv2:Europe/Oslo
 Twitch:US/Eastern
 Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
@@ -2093,7 +2072,6 @@ VRT:Europe/Brussels
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 VTV (AU):Australia/Sydney
-Vara:Europe/Amsterdam
 Varsity TV:US/Eastern
 Vault (UK):Europe/London
 Velocity:US/Eastern
@@ -2166,7 +2144,6 @@ YTV (JP):Asia/Tokyo
 YTV (UK):Europe/London
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
-Yle:Europe/Helsinki
 Yomiuri TV:Asia/Tokyo
 Yomiuri TV (JP):Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
@@ -2212,9 +2189,7 @@ aspire TV (AU):Australia/Sydney
 aurora (AU):Australia/Sydney
 aux (CA):Canada/Eastern
 azteca america (US):US/Eastern
-bTV:Europe/Sofia
 bafta.org (UK):Europe/London
-bbc:Europe/London
 beIN SPORT (US):US/Eastern
 beats per minute television (CA):Canada/Eastern
 biTe (CA):Canada/Eastern
@@ -2224,7 +2199,6 @@ bravotv.com (US):US/Eastern
 cartoonito (UK):Europe/London
 casa club tv (US):US/Eastern
 channel one (UK):Europe/London
-chiller (US):US/Eastern
 cloo (US):US/Eastern
 clásico TV (US):US/Eastern
 comcast NETWORK Philadelphia (US):US/Eastern
@@ -2238,7 +2212,6 @@ comcast SPORTSNET PHILADELPHIA (US):US/Eastern
 comedy:Canada/Eastern
 comedy channel (AU):Australia/Sydney
 create (US):US/Eastern
-crime & investigation network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
@@ -2258,9 +2231,7 @@ estrellaTV (US):US/Eastern
 euronews (UK):Europe/London
 extra (AU):Australia/Sydney
 family MOVIES (AU):Australia/Sydney
-five:Europe/London
 funnyordie.com (US):US/Eastern
-fuse:US/Eastern
 fyi (CA):Canada/Eastern
 game tv (CA):Canada/Eastern
 get TV (US):US/Eastern
@@ -2296,7 +2267,6 @@ ivfilms.net (US):US/Eastern
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
 jts.tv (US):US/Eastern
-laSexta:Europe/Madrid
 lifetime real women (US):US/Eastern
 link TV (US):US/Eastern
 machinima.com (US):US/Eastern
@@ -2327,7 +2297,6 @@ nova (CZ):Europe/Prague
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
-pivot:US/Eastern
 propellor (UK):Europe/London
 pursuit CHANNEL (US):US/Eastern
 qubo (US):US/Eastern
@@ -2339,7 +2308,6 @@ roosterteeth.com (US):US/Eastern
 rox.com (US):US/Eastern
 rté jr (IE):Europe/Dublin
 sho.com (US):US/Eastern
-showcase (AU):Australia/Sydney
 sky 3D (UK):Europe/London
 sky ARTS 2 (UK):Europe/London
 sky LIVING LOVES (UK):Europe/London
@@ -2380,9 +2348,7 @@ travel CHANNEL (UK):Europe/London
 truTV:US/Eastern
 truTV (UK):Europe/London
 tvK (US):US/Eastern
-tvN:Asia/Seoul
 tvb8 (US):US/Eastern
-tvk:Asia/Tokyo
 téva:Europe/Paris
 unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
