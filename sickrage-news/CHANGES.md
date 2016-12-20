@@ -1,18 +1,18 @@
 ### v2016.12.20-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.12.20-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/1983507caa0a1759a059c9179d4fcd89de9e08e7 ...v2016.12.20-2)
 
 * Update subliminal to 2.1.0.dev
 
 ### v2016.12.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.12.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/a097e440a4b3cfe075dcb426e8cd7c24b4606d49...v2016.12.20-1)
 
 * Remove network_timezones lib and make network_timezones.py use lowercase network keys (#2721)
 
 ### v2016.12.18-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.12.18-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/17e9b81c71fd4ae12ab2371998c8fa04bee4fd7a ...v2016.12.18-1)
 
 * Reduce noise from the episode parser. (#2709)
 * Fix regex for RARBG.mp4, Fixes #2705 Fix tests and add RARBG.mp4 to test strings.
@@ -24,7 +24,7 @@
 
 ### v2016.12.15-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.12.15-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/a1bf3b30a9a0d6319c09fb0cf48d2d468dbf4e61...v2016.12.15-1)
 
 * Try and set upstream on branch before checking latest commit hash from remote, Fixes #2657 (#2700)
 * issuee with refresh paused s show (#2694)
@@ -33,7 +33,7 @@
 
 ### v2016.10.28-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.28-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/17ee2872052786b7824c78acbb50e1ea6b0b90f7...v2016.10.28-1)
 
 * Add cookie auth to ipt, Fixes #2511
 * Newpct hdtv by url (#2524)
@@ -41,7 +41,7 @@
 
 ### v2016.10.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/9b2f19888d6c12e8b2d1693f6161ed123a779be4...v2016.10.20-1)
 
 * Add custom_url option for IPT, Fixes #2511 Fix custom_url for TPB
 * Tagger resolution improvements (#2431)
@@ -50,7 +50,7 @@
 
 ### v2016.10.18-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.18-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/f67267f210a487d209f88cf3384a0e59facb3f97...v2016.10.18-1)
 
 * Fixes #2508 - It's only a visual issue since PP can only run once at a time anyways
 * Fix size parsing for TPB Use categories and check only tv-shows and hd shows for rss in TPB Convert URL for TPB before requesting to avoid a 302 (The 301 is expected due to the .se redirector to best mirror) Fix an issue with title parsing, sometimes had js in the title
@@ -61,7 +61,7 @@
 
 ### v2016.10.11-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.11-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/0583eb4bbbdb227fe0b850e43e0ecf83061bf3c2...v2016.10.11-1)
 
 * Mostly bug fixes
 * Replaces #2436 (elitetorrents throttling)
@@ -76,7 +76,7 @@
 
 ### v2016.10.07-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.07-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/433fd54986ca7d855c022a0fdc0a64a7ed0f7e1a ...v2016.10.07-1)
 
 * Fix adding shows with ' in the name (#2441)
 * Add cloudflare-scrape
@@ -84,7 +84,7 @@
 
 ### v2016.10.05-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.10.05-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/b8e13a4837fd64efb83b1f7134c49fa2c621fb08...v2016.10.05-1)
 
 * Attempt to fix #2429, and also show proper parser result in the log (#2434)
 * Added FileList.ro torrent provider (#1145)
@@ -92,14 +92,14 @@
 
 ### v2016.09.28-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.09.28-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/4127db91f7ae3d9638fcad1fb67113be0a1bf931...v2016.09.28-1)
 
 * Update subliminal to 2.1.0.dev
 * Fix wrong season for season banners and posters #2011
 
 ### v2016.09.18-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.09.18-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/38757cd9a849eb3ecfef4d22610c81f8549f0e52...v2016.09.18-1)
 
 * b6041e9 Add openSans to grunt's mainFiles to suppress warning and include css
 * 38757cd Added NZBFinder.ws as default provider (#2179)
@@ -111,7 +111,7 @@
 
 ### v2016.09.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.09.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8564c29aa3b2d95bf41e03eed7e5a6938f1a6b3a ...v2016.09.10-1)
 
 * 043fb0d (origin/develop, develop) Update pullapprove.yaml
 * b7d3e5e Fixes #2311 (#2317)
@@ -123,7 +123,7 @@
 
 ### v2016.09.03-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.09.03-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/4219585709dc1d9ed23ec7ea773a51e92c97b7b5 ...v2016.09.03-1)
 
 * Fix slack error breaking post processing when NOTIFY_SUBTITLE settings are used.
 * Fix icon wrapping in cubmenu on error viewer
@@ -131,7 +131,7 @@
 
 ### v2016.09.01-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.09.01-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/75042d8c406bb4356d88b6b67a73c847a56ce3f3 ...v2016.09.01-1)
 
 * Add NTV (JP) logo (#2283)
 * Fix notification responsiveness #2274 (#2277)
@@ -143,7 +143,7 @@
 
 ### v2016.08.25-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.08.25-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/ae848a6c2915815167b69d9662a785cb9f889781...v2016.08.25-1)
 
 * cfc6d09 (origin/develop, develop) Fixes #1907 (#2256)
 * 820c59a Fix #1621 (#2254)
@@ -155,7 +155,7 @@
 
 ### v2016.08.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.08.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/cee2058963fb4be42443d65bdff2976bb3bb4b93...v2016.08.20-1)
 
 * Fix iptorrents
 * Remove torrentz
@@ -165,7 +165,7 @@
 
 ### v2016.07.31-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.07.31-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/a97af68389d2348b1b1740eb918b401e26c571ba...v2016.07.31-1)
 
 * Support reverse symlinking
 * Fix `stupid` regex and tests
@@ -176,7 +176,7 @@
 
 ### v2016.07.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.07.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/33c3008471c15742c7264e14ff4a9e243bc1c119...v2016.07.10-1)
 
 * Change "No Show Object found for show with indexerID" log message to warning (#2059)
 * fix upstart to use default folder when using installer script (#2053)
@@ -193,7 +193,7 @@
 
 ### v2016.06.14-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.06.14-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/946f6be31a26c661a5e0903c5d66e4ce348ce19d...v2016.06.14-1)
 
 * Feature to metadata for subtitles, add retry for itasa using 'rip suffix'
 * Small fixes
@@ -201,7 +201,7 @@
 
 ### v2016.05.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.05.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/88637a4da7da930272adeb8c2daee5ba7404b2f4...v2016.05.20-1)
 
 * 0b7e099 Fixes #1802
 * dee4d9f Update author typo
@@ -217,7 +217,7 @@
 
 ### v2016.05.12-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.05.12-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/61b8a1965bcee524b557a667fa11ffdece31ba72...v2016.05.12-1)
 
 * Fixes jquery for adding scene exceptions, black/whitelist Fixes #1746 Fixes #1747 Fixes #1759
 * Fix season pack search in tvchuk and "fix" titles (#1752)
@@ -230,7 +230,7 @@
 
 ### v2016.05.09-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.05.09-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/14f70d96464ff48adfa35e9df6d8c4d8e6211d3d...v2016.05.09-2)
 
 * Fix put.io client
 * Fix icons on the schedule page
@@ -239,7 +239,7 @@
 
 ### v2016.05.09-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.05.09-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/b6fbce6af0236a182241a1048d8991a5c3f88f2e...v2016.05.09-1)
 
 * Fix unable to set label for torrent in qbittorrent
 * Update subliminal to 14707b6
@@ -249,7 +249,7 @@
 
 ### v2016.04.28-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.28-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/0771ed9c40318b58b88a5a823488f64defe71fb9...v2016.04.28-1)
 
 * Remove Strike and Bitsoup providers, strike is taken down, bitsoup is pay only
 * Add german scene release tag 'netflix', matches web-dl
@@ -257,7 +257,7 @@
 
 ### v2016.04.27-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.27-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/88883c1ddd4aab833bbf28b3f35e36ffae54be93...v2016.04.27-1)
 
 * Refactor FilterBadReleases to filter_bad_releases, and adjust the logic:
 *     **Show specific required/ignored words now totally override global settings if they are set**
@@ -294,7 +294,7 @@
 
 ### v2016.04.17-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.17-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/3d8fffd084b63e5a3cfb538f2619b6ed91e65c90...v2016.04.17-2)
 
 * Update translations
 * Move github setup out of sickbeard init to sickrage.common.helper, so a restart isnt required after entering github credentials (#1533)
@@ -303,7 +303,7 @@
 
 ### v2016.04.17-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.17-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8e2ceeef340bef7c9e268b218d62b4f12ee6af4e ...v2016.04.17-1)
 
 * Fix database upgrade to 43.1
 * Update translations
@@ -311,7 +311,7 @@
 
 ### v2016.04.16-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.16-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/b80c18dbb712a91c38d3617576a2aff67ed17bb0...v2016.04.16-1)
 
 * Update translations
 * Added more text for translation (#1504) (#1503) (#1499)
@@ -323,13 +323,13 @@
 
 ### v2016.04.14-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.14-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/5709abdbe82611c8c941ddc0cda9784e8ef65bcd ...v2016.04.14-1)
 
 * Update languages, add a few translation strings
 
 ### v2016.04.13-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.13-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/707f8dc8dd5000bc08af66db2b91697e4bbcb69b...v2016.04.13-1)
 
 * Bump DB version to 43 to avoid issues updating when DB was previously used with SRTV
 * Specify encoding for config file
@@ -340,7 +340,7 @@
 
 ### v2016.04.12-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.12-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/31b5be571b3cc4d7e11dc543ea5b3c071bf55b41...v2016.04.12-1)
 
 * Merge pull request #1469 from SickRage/neoatomic-develop
 * Update translations, add en_GB translation
@@ -353,13 +353,13 @@
 
 ### v2016.04.11-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.11-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/3472b28fe1509a95479cec52d138be1e08dc3307...v2016.04.11-2)
 
 * Add ability to select your language for the web ui in config/general on the interface tab
 
 ### v2016.04.11-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.11-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/f36e21bb5a96d946aa773a4cba875ed86572cd7c...v2016.04.11-1)
 
 * Fix issue tracker link in readme
 * Combine show req/ign words with global ign/req words when checking release names so it doesnt require a word from BOTH ign lists or BOTH req lists
@@ -368,7 +368,7 @@
 
 ### v2016.04.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8e2b26857c85a4bada2b6cc068279c081c7c8311 ...v2016.04.10-1)
 
 * Update translation strings
 * Fix typos related to translations
@@ -377,7 +377,7 @@
 
 ### v2016.04.09-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.09-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/5120ba8d8fc3ee1c7a3fbfb1efddb3c63f2e1274...v2016.04.09-1)
 
 * Fix issue matching subtitles from the wrong show to downloads in the PP folder
 * Add mediainfo integration for getting video screen size, to help guessing quality from unknown quality files. Can be used for more things in the future
@@ -387,7 +387,7 @@
 
 ### v2016.04.08-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.08-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/6e3ebea4d634d3e5894ae9b85eabffe4284be0ca...v2016.04.08-1)
 
 * Add ability to fully translate the web interface
 *   Use crowdin.com for managing translations
@@ -429,7 +429,7 @@
 
 ### v2016.04.01-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.04.01-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/f59e46744829adf67a73a7dc9442eda26c40301d...v2016.04.01-1)
 
 * Fixes #1309, #1304, #1285
 * Fix "Unable to determine free space"
@@ -440,7 +440,7 @@
 
 ### v2016.03.31-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.31-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/9a4b1fd2cf04451e74cd8ed51c6210545a7d7fd3...v2016.03.31-1)
 
 * Highlights:
 *     Allow sending NZB's to DSM on Synology
@@ -472,7 +472,7 @@
 
 ### v2016.03.28-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.28-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/1847f03608e96cf80b9999233811ff58021ddb3e ...v2016.03.28-2)
 
 * Unicode literals for TorrentDay Try and parse size from a dict by default in GenericTorrentProvider
 * Split out disk_usage logic so that verify_freespace and getDiskSpaceUsage use the same logic Replaces #1262 Fixes #1259
@@ -499,7 +499,7 @@
 
 ### v2016.03.28-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.28-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/c34cbbdbca3d999372b34f5b1c61f858ce7cb8d6...v2016.03.28-1)
 
 * Use cookie auth for DSM Show error messages for error codes returned from DSM according to DSM docs Check DSM version, and fix the download location if it is absolute on DSM6
 * Fix transmission test connection Replaces #1247
@@ -516,7 +516,7 @@
 
 ### v2016.03.23-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.23-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/5b4d865cb5b5a908cd474c3cb5752b848592943d...v2016.03.23-1)
 
 * Quantified code, please dont force format tokens to strings, lol Fixes https://github.com/SickRage/sickrage-issues/issues/1370
 * Show how many characters the url has exceeded the limit in the alert when operating on too many shows https://github.com/SickRage/sickrage-issues/issues/1203#issuecomment-200097373
@@ -525,7 +525,7 @@
 
 ### v2016.03.22-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.22-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/e7ec19c820a246e9a07701cbfcad7b64c323d40b...v2016.03.22-1)
 
 * Use unicode_literals in show_queue Use str.format() Lint, and fix some funkyness Normalize text between ui notifications and logger
 * Send verify=False for sab requests Fixes https://github.com/SickRage/sickrage-issues/issues/1201
@@ -541,7 +541,7 @@
 
 ### v2016.03.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/bc5e61a8f96a8abae80ae78fbf261ff3023a664d...v2016.03.20-1)
 
 * Change wiki/issues links to main repo
 * Clean up gui imports, and some other finagery
@@ -585,7 +585,7 @@
 
 ### v2016.03.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/99a6af8382a36339a55431308fad5ca991ad5d1a...v2016.03.10-1)
 
 * Don't save filter_Rows state through page refreshes Fixes https://github.com/SickRage/sickrage-issues/issues/1177
 * No need to specify timezone in datetime.now() in the footer
@@ -627,7 +627,7 @@
 
 ### v2016.03.05-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.03.05-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/ace5e56d632654b03f00d533c2489440e792cba9...v2016.03.05-1)
 
 * Use content when downloading nzbs
 * Updated the provider icons & added viceland network logo.
@@ -770,7 +770,7 @@
 
 ### v2016.02.22-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.22-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/26ddbf4b882c293c187fe3ec88dd6e826eeed7a7...v2016.02.22-1)
 
 * Use a decorator to prevent processing a dir more than once at a time, regardless of caller Fixes https://github.com/SickRage/sickrage-issues/issues/1028
 * Fixes https://github.com/SickRage/sickrage-issues/issues/1042 Fixes touchFile to use ek and check file exists
@@ -808,7 +808,7 @@
 
 ### v2016.02.16-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.16-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/820b900a6dc72ed4958a90ac027d8f92d785810b...v2016.02.16-1)
 
 * Add option to ini to allow PMS update without token or user/pass when you dont require authentication config.ini only option for now
 * Use provider's get_url for getting rss feeds instead of urllib/httplib2 Fixes bozo, and removes old code Normalizes logging
@@ -851,7 +851,7 @@
 
 ### v2016.02.11-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.11-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/4f3207fa6ab2db95f11a86bc7305ccef45523ecb...v2016.02.11-1)
 
 * Explicitly encode in the exception raises for name parser Partial issue of https://github.com/SickRage/sickrage-issues/issues/12
 * Must check if generic exceptions are in the exceptionList already before appending them. Fixes https://github.com/SickRage/sickrage-issues/issues/852
@@ -868,7 +868,7 @@
 
 ### v2016.02.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/7a94dd094c2861d54f500c39af5fb2cdb856dfdc ...v2016.02.10-1)
 
 * Use json scene exceptions
 * Only get scene exceptions matching season we are searching for
@@ -880,7 +880,7 @@
 
 ### v2016.02.09-2
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.09-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/c285305affd7385dbd228f95ac1dd5f0f50bf1d1 ...v2016.02.09-2)
 
 * Use xem absolute numbers for tvdb mapping if tvdb doesnt provide them, fixes american dad if you disable scene numbering
 * Dont pass q on rss update, use sickbeard.USENET_RETENTION directly regardless of mode
@@ -890,7 +890,7 @@
 
 ### v2016.02.08-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.08-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/cdf22bfe1cf70b90c32932a6b9326b6d3b8f7e63...v2016.02.08-1)
 
 * Fix decode by using utf-8 instead Fix unnecessary decode on urlencoded string
 * Make sickbeard.gh work even when github login settings are incorrect so that the updater still works Lint sickbeard.__init__
@@ -924,7 +924,7 @@
 
 ### v2016.02.07-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.02.07-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/5d51b1687edf252958317c8cbb110069d7b207b3...v2016.02.07-1)
 
 * encode io.open in helper with ek()
 * Updated subliminal develop (f245383)
@@ -961,7 +961,7 @@
 
 ### v2016.01.31-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.01.31-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/f568d1515557f854042511d7bfee3ae070c864bd...v2016.01.31-1)
 
 * Fix restart not reloading page
 * Add an "Add from anidb popular list" page
@@ -978,7 +978,7 @@
 
 ### v2016.01.23-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.01.23-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/32c0fcf8b6a238047d028d121f1699fa1207e090...v2016.01.23-1)
 
 * Remove duplicate FDH setting
 * Add seeds/leechers to some log messages during searches
@@ -997,7 +997,7 @@
 
 ### v2016.01.20-1
 
-[full changelog](https://github.com/SickRage/SickRage/releases/tag/v2016.01.20-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/c58107f10fa5fcd1331a2a6a34c1d077839c8af7...v2016.01.20-1)
 
 * Change TPB domain back to .se, use a custom url if it doesnt work
 * Fix restart on gentoo
@@ -1012,4 +1012,29 @@
 * Switch to nosetests and abandon custom unit test loader
 * Fix NZBGet HTTPS setting and sabNZBd Forced Priority setting
 * General refactoring and code cleanup
+
+### show
+
+[full changelog](https://github.com/SickRage/SickRage/compare/89efb07b1e482a6c8b21b0ac4e18e069d25c856e...show)
+
+* * Changed: Major change to mako templates from cheetah
+* * Added: Mako added to libraries
+* * Added: New torrent client deluge daemon (deluged direct)
+* * Added: View popular shows on IMDB (Still has issue with images)
+* * Added: Free disk space info on status page
+* * Added: Send tweets via direct message
+* * Added: Ability to use sounds with pushover notifications
+* * Added: More missing network logos
+* * Removed: Animezb provider (domain up for sale)
+* * Updated: Hachoir library updated
+* * Updated: Pynma to version 1.0
+* * Updated: Wiki URL in post processing
+* * Updated: Version checker urls, to use cdn.rawgit
+* * Fixed: Stop starting backlog search on show updates
+* * Fixed: Rarbg SSL error, switched to http from https
+* * Fixed: NyaaTorrents bugs
+* * Fixed: Prevent robots from indexing SR pages
+* * Fixed: Subtitles flags on history
+* * Fixed: Sending torrents to Download Station and others
+* * Fixed: NyaaTorrents bug
 
