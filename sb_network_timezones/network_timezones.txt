@@ -474,6 +474,7 @@ Comedy Central UK:Europe/London
 Comedy Channel:US/Eastern
 Comedy MOVIES (AU):Australia/Sydney
 Comedy.tv (US):US/Eastern
+Comic-Con HQ:US/Pacific
 Community Channel:Europe/London
 Comédie !:Europe/Paris
 Comédie+:Europe/Paris
@@ -618,6 +619,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
+ESPN2:US/Pacific
 ESPN2 (AU):Australia/Sydney
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
@@ -672,8 +674,8 @@ FOX 32 (US):US/Eastern
 FOX 5 (US):US/Eastern
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
-FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
-FOX COLLEGE SPORTS PACIFIC (US):US/Eastern
+FOX COLLEGE SPORTS CENTRAL (US):US/Central
+FOX COLLEGE SPORTS PACIFIC (US):US/Pacific
 FOX DEPORTES (US):US/Eastern
 FOX FOOTY (AU):Australia/Sydney
 FOX NEWS channel (US):US/Eastern
