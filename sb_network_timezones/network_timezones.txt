@@ -619,7 +619,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
-ESPN2:US/Pacific
+ESPN2:US/Eastern
 ESPN2 (AU):Australia/Sydney
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
