@@ -1,6 +1,16 @@
+### v2016.12.27-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/a88b77a2b76b32b2db4644a8481ada60df71fb46...v2016.12.27-1)
+
+* Fix #2079
+* bobbysteel - Remove dead provders: bluetigers btdigg ilovetorrents, replaces #2720 (#2801)
+* Fix score detection (#2800)
+* Fix missed js in trendingShows and other issues, Fixes #2725
+* Use proxy everywhere when proxy is set: imdb, tvdb. Remove proxy_indexers setting Fixes #2685
+
 ### v2016.12.20-2
 
-[full changelog](https://github.com/SickRage/SickRage/compare/1983507caa0a1759a059c9179d4fcd89de9e08e7 ...v2016.12.20-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/1983507caa0a1759a059c9179d4fcd89de9e08e7...v2016.12.20-2)
 
 * Update subliminal to 2.1.0.dev
 
@@ -12,7 +22,7 @@
 
 ### v2016.12.18-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/17e9b81c71fd4ae12ab2371998c8fa04bee4fd7a ...v2016.12.18-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/17e9b81c71fd4ae12ab2371998c8fa04bee4fd7a...v2016.12.18-1)
 
 * Reduce noise from the episode parser. (#2709)
 * Fix regex for RARBG.mp4, Fixes #2705 Fix tests and add RARBG.mp4 to test strings.
@@ -76,7 +86,7 @@
 
 ### v2016.10.07-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/433fd54986ca7d855c022a0fdc0a64a7ed0f7e1a ...v2016.10.07-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/433fd54986ca7d855c022a0fdc0a64a7ed0f7e1a...v2016.10.07-1)
 
 * Fix adding shows with ' in the name (#2441)
 * Add cloudflare-scrape
@@ -111,7 +121,7 @@
 
 ### v2016.09.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/8564c29aa3b2d95bf41e03eed7e5a6938f1a6b3a ...v2016.09.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8564c29aa3b2d95bf41e03eed7e5a6938f1a6b3a...v2016.09.10-1)
 
 * 043fb0d (origin/develop, develop) Update pullapprove.yaml
 * b7d3e5e Fixes #2311 (#2317)
@@ -123,7 +133,7 @@
 
 ### v2016.09.03-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/4219585709dc1d9ed23ec7ea773a51e92c97b7b5 ...v2016.09.03-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/4219585709dc1d9ed23ec7ea773a51e92c97b7b5...v2016.09.03-1)
 
 * Fix slack error breaking post processing when NOTIFY_SUBTITLE settings are used.
 * Fix icon wrapping in cubmenu on error viewer
@@ -131,7 +141,7 @@
 
 ### v2016.09.01-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/75042d8c406bb4356d88b6b67a73c847a56ce3f3 ...v2016.09.01-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/75042d8c406bb4356d88b6b67a73c847a56ce3f3...v2016.09.01-1)
 
 * Add NTV (JP) logo (#2283)
 * Fix notification responsiveness #2274 (#2277)
@@ -303,7 +313,7 @@
 
 ### v2016.04.17-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/8e2ceeef340bef7c9e268b218d62b4f12ee6af4e ...v2016.04.17-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8e2ceeef340bef7c9e268b218d62b4f12ee6af4e...v2016.04.17-1)
 
 * Fix database upgrade to 43.1
 * Update translations
@@ -323,7 +333,7 @@
 
 ### v2016.04.14-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/5709abdbe82611c8c941ddc0cda9784e8ef65bcd ...v2016.04.14-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/5709abdbe82611c8c941ddc0cda9784e8ef65bcd...v2016.04.14-1)
 
 * Update languages, add a few translation strings
 
@@ -368,7 +378,7 @@
 
 ### v2016.04.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/8e2b26857c85a4bada2b6cc068279c081c7c8311 ...v2016.04.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/8e2b26857c85a4bada2b6cc068279c081c7c8311...v2016.04.10-1)
 
 * Update translation strings
 * Fix typos related to translations
@@ -472,7 +482,7 @@
 
 ### v2016.03.28-2
 
-[full changelog](https://github.com/SickRage/SickRage/compare/1847f03608e96cf80b9999233811ff58021ddb3e ...v2016.03.28-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/1847f03608e96cf80b9999233811ff58021ddb3e...v2016.03.28-2)
 
 * Unicode literals for TorrentDay Try and parse size from a dict by default in GenericTorrentProvider
 * Split out disk_usage logic so that verify_freespace and getDiskSpaceUsage use the same logic Replaces #1262 Fixes #1259
@@ -868,7 +878,7 @@
 
 ### v2016.02.10-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/7a94dd094c2861d54f500c39af5fb2cdb856dfdc ...v2016.02.10-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/7a94dd094c2861d54f500c39af5fb2cdb856dfdc...v2016.02.10-1)
 
 * Use json scene exceptions
 * Only get scene exceptions matching season we are searching for
@@ -880,7 +890,7 @@
 
 ### v2016.02.09-2
 
-[full changelog](https://github.com/SickRage/SickRage/compare/c285305affd7385dbd228f95ac1dd5f0f50bf1d1 ...v2016.02.09-2)
+[full changelog](https://github.com/SickRage/SickRage/compare/c285305affd7385dbd228f95ac1dd5f0f50bf1d1...v2016.02.09-2)
 
 * Use xem absolute numbers for tvdb mapping if tvdb doesnt provide them, fixes american dad if you disable scene numbering
 * Dont pass q on rss update, use sickbeard.USENET_RETENTION directly regardless of mode
