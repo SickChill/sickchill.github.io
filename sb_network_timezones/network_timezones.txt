@@ -247,6 +247,7 @@ BS Fuji (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS11:Asia/Tokyo
+BS Fuji:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -322,6 +323,7 @@ CBS action (UK):Europe/London
 CBS drama (UK):Europe/London
 CBS reality (UK):Europe/London
 CBS.com (US):US/Eastern
+CBS All Access (US):US/Eastern
 CBeebies:Europe/London
 CBeebies (US):US/Eastern
 CC:STUDIOS (US):US/Eastern
@@ -2400,3 +2402,4 @@ youtoo SOCIAL TV (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
+日本テレビ:Asia/Tokyo
