@@ -1,3 +1,13 @@
+### v2016.12.30-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2c4eddbdbf40c2ec56a3897225d5c29dbaa28ffb...v2016.12.30-1)
+
+* Fix #2815 - Anime regex matching wrong
+* Fix up linux desktop notifications, add some missing notifications
+* Catch some unnecessary gi.repository warnings, remove some unnecessary error logs
+* Support for adding torrents as paused to rTorrent
+* AuthException is when they provide wrong user/pass, its not an error
+
 ### v2016.12.27-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/a88b77a2b76b32b2db4644a8481ada60df71fb46...v2016.12.27-1)
