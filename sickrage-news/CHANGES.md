@@ -1,3 +1,12 @@
+### v2017.01.01-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/1db7ce5220bac059246d1967ee145bd71203ea89...v2017.01.01-1)
+
+* Make sure the show location exists or at least the root dir exists and is set for the show dir. Fixes #2521
+* Update "Bot" name (#2819)
+* Update add torrent paused for rtorrent (#2820)
+* Fix #2690 - Show location encoding error with latin-1 when changing root dir in mass edit or location in editShow Set utf-8 for accept-encoding and encoding of some js files Fix problem where users got confused that the filebrowser didnt keep the location they typed in the location filebrowser but didnt hit enter, now it uses the location in the text box always, which is also updated when you click dirs
+
 ### v2016.12.30-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2c4eddbdbf40c2ec56a3897225d5c29dbaa28ffb...v2016.12.30-1)
