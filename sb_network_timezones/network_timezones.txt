@@ -1959,6 +1959,7 @@ The Amp:Europe/London
 The Anime Network:US/Eastern
 The Box:Europe/London
 The CW:US/Eastern
+The Comedy Channel (AU):Australia/Sydney
 The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Family Channel:US/Eastern
