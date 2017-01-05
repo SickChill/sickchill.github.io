@@ -1,3 +1,23 @@
+### v2017.01.05-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/f1e0d1d826bd0943d5e8ebc4d24347fad3086dc4...v2017.01.05-1)
+
+* Fixes #1600 (#2843) - Api Errors 512, etc
+* Log page auto-updating, don't need to spam refresh anymore (#2842)
+* Add a queue for post processor, fixes issue of auto-pp running on top of itself and/manual (#2839)
+* Fix show_queue and search_queue errors causing the schedulers to die, and fix issue where the queueItems were never removed from the queue when finished
+* Fix TorrentLeech, Fixes #2837
+* Fix bs code in rTorrent lib that caused a bunch of hard to trace rTorrent bugs, #2829
+* Update extratorrent.py (#2836)
+
+### v2017.01.02-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/d4da66fc4bcf3f711624fc6ba91c709ce5459af4...v2017.01.02-1)
+
+* Update extratorrent.py (#2828)
+* Fix #2826 (#2827)
+* Club Illico Network logo (#2825)
+
 ### v2017.01.01-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/1db7ce5220bac059246d1967ee145bd71203ea89...v2017.01.01-1)
