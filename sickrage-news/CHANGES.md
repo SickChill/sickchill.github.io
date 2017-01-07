@@ -1062,28 +1062,12 @@
 * Fix NZBGet HTTPS setting and sabNZBd Forced Priority setting
 * General refactoring and code cleanup
 
-### show
+### v2016.01.07-1
 
-[full changelog](https://github.com/SickRage/SickRage/compare/89efb07b1e482a6c8b21b0ac4e18e069d25c856e...show)
+[full changelog](https://github.com/SickRage/SickRage/compare/203d7b4ce1f0020bca2da75a796c8510c6a79b07...v2016.01.07-1)
 
-* * Changed: Major change to mako templates from cheetah
-* * Added: Mako added to libraries
-* * Added: New torrent client deluge daemon (deluged direct)
-* * Added: View popular shows on IMDB (Still has issue with images)
-* * Added: Free disk space info on status page
-* * Added: Send tweets via direct message
-* * Added: Ability to use sounds with pushover notifications
-* * Added: More missing network logos
-* * Removed: Animezb provider (domain up for sale)
-* * Updated: Hachoir library updated
-* * Updated: Pynma to version 1.0
-* * Updated: Wiki URL in post processing
-* * Updated: Version checker urls, to use cdn.rawgit
-* * Fixed: Stop starting backlog search on show updates
-* * Fixed: Rarbg SSL error, switched to http from https
-* * Fixed: NyaaTorrents bugs
-* * Fixed: Prevent robots from indexing SR pages
-* * Fixed: Subtitles flags on history
-* * Fixed: Sending torrents to Download Station and others
-* * Fixed: NyaaTorrents bug
+* Add delete to api pp command, add icacls support (#2850)
+* Fix nzbtomedia with new pp queue (hackfix until nzbtomedia can be updated)
+* Fix small bug with log viewer code
+* Update translations
 
