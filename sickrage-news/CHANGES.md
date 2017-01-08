@@ -1,3 +1,12 @@
+### v2017.01.07-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/203d7b4ce1f0020bca2da75a796c8510c6a79b07...v2017.01.07-1)
+
+* Add delete to api pp command, add icacls support (#2850)
+* Fix nzbtomedia with new pp queue (hackfix until nzbtomedia can be updated)
+* Fix small bug with log viewer code
+* Update translations
+
 ### v2017.01.05-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/f1e0d1d826bd0943d5e8ebc4d24347fad3086dc4...v2017.01.05-1)
@@ -1061,13 +1070,4 @@
 * Switch to nosetests and abandon custom unit test loader
 * Fix NZBGet HTTPS setting and sabNZBd Forced Priority setting
 * General refactoring and code cleanup
-
-### v2016.01.07-1
-
-[full changelog](https://github.com/SickRage/SickRage/compare/203d7b4ce1f0020bca2da75a796c8510c6a79b07...v2016.01.07-1)
-
-* Add delete to api pp command, add icacls support (#2850)
-* Fix nzbtomedia with new pp queue (hackfix until nzbtomedia can be updated)
-* Fix small bug with log viewer code
-* Update translations
 
