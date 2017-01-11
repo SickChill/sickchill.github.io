@@ -1200,6 +1200,7 @@ NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
 NOS:Europe/Amsterdam
+NPO 3:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
