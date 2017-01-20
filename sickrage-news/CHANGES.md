@@ -1,3 +1,25 @@
+### v2017.01.19-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/87e5ce80cda49518d2ece8a9075d73ca53ec8405...v2017.01.19-1)
+
+* Fix magnets in rtorrent, Fixes #2880
+* Fix anime episode search
+* Fixes #2898
+* Add custom_url support to torrentday, Fixes #2834 (#2877)
+
+### v2017.01.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/407e4200d80a9a96bcb02da835250da8e5ba20c5...v2017.01.10-1)
+
+* Fix nzbToMedia issue by allowing to force being the next item in the queue to run, allows force_clean in nzbtomedia (must update to nzbToMedia nightly to work!)
+* Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled (#2867)
+* Fix https://github.com/SickRage/SickRage/issues/2659 (#2862)
+* Switch from getopt to argparse, replaces #737 (#2853)
+* fov regex update (#2851)
+* Add a test around isRarFile
+* Use 3 digit episode numbers for anime (#2855)
+* NZBtoMedia needs updated
+
 ### v2017.01.07-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/203d7b4ce1f0020bca2da75a796c8510c6a79b07...v2017.01.07-1)
