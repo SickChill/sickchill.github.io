@@ -3,6 +3,20 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2017-01-26####
+
+WINDOWS ONLY: SickRage now requires WinRar to be installed for windows users to be able to unrar releases.
+The location of unrar should now be autodetected with the latest update, but if it is not you may need to add `C:\Program Files\WinRar` to your system path and restart SickRage.
+As you windows users should know, restarting SickRage from the interface does not work, you will have to restart the service either through the service manager,
+or from an administrator level command prompt with the following commands:
+    net stop sickrage
+    net start sickrage
+
+The library we use to interface with unrar had to be changed for several reasons, including unrar lockups, memory issues, and a lack of support for newer RAR5 format.
+
+
+<br/>
+
 ####2016-12-20####
 
 There is a small issue related to network timezones after the recent commits to make them case insensitive.
