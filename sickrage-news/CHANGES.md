@@ -1,3 +1,12 @@
+### v2017.01.28-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/774804cadb31f933ef85b4a2ae3d297397b6e856...v2017.01.28-1)
+
+* New provider : ArcheTorrent (French Tracker) (#3006)
+* Fix github login credentials check (#3034)
+* Try to fix constant unrarring - #2994 (#3007)
+* Ignore synology system folders (#3005)
+
 ### v2017.01.26-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/b6caed54ea69cc40fc698a77695579dfd1ecf9c5...v2017.01.26-1)
