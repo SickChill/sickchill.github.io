@@ -1,3 +1,9 @@
+### v2017.01.28-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/b944d5361f18c178b59e821fab6d74aed9c11913...v2017.01.28-2)
+
+* Skip scene detection when rescanning files (#3004)
+
 ### v2017.01.28-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/774804cadb31f933ef85b4a2ae3d297397b6e856...v2017.01.28-1)
