@@ -1,3 +1,19 @@
+### v2017.02.2-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/fa2b9a1570df0d3098458901b3dcabf2bab6fd56...v2017.02.2-1)
+
+* Dont ignore TV_DOWNLOAD_DIR if it is hidden.
+* django-like Site messages (#3065)
+* Network Logo: yes (Israel) (#3067)
+* Fix #1907
+* Fix #3060
+* Fix #3060
+* Fix #3056
+* Fix request in #2685
+* Fixed a label that was linked to wrong element (#3054)
+* Maybe Fix #2975
+* Move SxEE regex up (#3038)
+
 ### v2017.01.28-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/b944d5361f18c178b59e821fab6d74aed9c11913...v2017.01.28-2)
