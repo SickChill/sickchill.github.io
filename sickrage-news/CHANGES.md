@@ -1,18 +1,9 @@
-### v2017.02.2-1
+### v2017.02.12-2
 
-[full changelog](https://github.com/SickRage/SickRage/compare/fa2b9a1570df0d3098458901b3dcabf2bab6fd56...v2017.02.2-1)
+[full changelog](https://github.com/SickRage/SickRage/compare/18a85580e50ddae473c951c4a6649fb991cfd255...v2017.02.12-2)
 
-* Dont ignore TV_DOWNLOAD_DIR if it is hidden.
-* django-like Site messages (#3065)
-* Network Logo: yes (Israel) (#3067)
-* Fix #1907
-* Fix #3060
-* Fix #3060
-* Fix #3056
-* Fix request in #2685
-* Fixed a label that was linked to wrong element (#3054)
-* Maybe Fix #2975
-* Move SxEE regex up (#3038)
+* Fix #3134 - Checking for tv-search on newznab when supportedparams is not provided
+* Fix #3136 - No need to filter through tvdb results anyways. They should be matching it on their end.
 
 ### v2017.02.11-1
 
@@ -28,6 +19,22 @@
 * Add hdtorrents.it, images for filelist and archetorrent Closes #2914
 * Dont need to have reports when github isnt available.
 * Discord Notification Support (#3080)
+
+### v2017.02.02-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/fa2b9a1570df0d3098458901b3dcabf2bab6fd56...v2017.02.02-1)
+
+* Dont ignore TV_DOWNLOAD_DIR if it is hidden.
+* django-like Site messages (#3065)
+* Network Logo: yes (Israel) (#3067)
+* Fix #1907
+* Fix #3060
+* Fix #3060
+* Fix #3056
+* Fix request in #2685
+* Fixed a label that was linked to wrong element (#3054)
+* Maybe Fix #2975
+* Move SxEE regex up (#3038)
 
 ### v2017.01.28-2
 
