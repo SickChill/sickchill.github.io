@@ -14,6 +14,21 @@
 * Maybe Fix #2975
 * Move SxEE regex up (#3038)
 
+### v2017.02.11-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/31a17b14c843c15fc30b8c1b3f07188f3aa898f1...v2017.02.11-1)
+
+* Add media_format optional parameter for show.getposter api command. (#3118)
+* Fix #1328, update translation files
+* Fix #3102
+* Fix #3100
+* Fix show poster popover on hover when posters are small
+* Try and fix #3052
+* Add hdtorrents.it favicon
+* Add hdtorrents.it, images for filelist and archetorrent Closes #2914
+* Dont need to have reports when github isnt available.
+* Discord Notification Support (#3080)
+
 ### v2017.01.28-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/b944d5361f18c178b59e821fab6d74aed9c11913...v2017.01.28-2)
