@@ -30,6 +30,7 @@
 7NBC (US):US/Eastern
 7TWO (AU):Australia/Sydney
 7mate (AU):Australia/Sydney
+7mate:Australia/Sydney
 8TV (MY):Asia/Kuala_Lumpur
 9Live (DE):Europe/Berlin
 9XM (UK):Europe/London
@@ -108,6 +109,7 @@ ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
 ATV:Europe/Vienna
 ATV (AU):Australia/Sydney
+ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
 ATV Türkiye:Europe/Istanbul
 AVRO:Europe/Amsterdam
@@ -264,6 +266,7 @@ Bay TV Clywd (UK):Europe/London
 Bay TV Liverpool (UK):Europe/London
 Bay TV Swansea (UK):Europe/London
 Bebo.com (US):US/Eastern
+Belgische Radio en Televisie (BRTN):Europe/Brussels
 Believe TV (UK):Europe/London
 Best Direct (UK):Europe/London
 Beyaz TV:Europe/Istanbul
@@ -1775,6 +1778,7 @@ TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT:US/Eastern
+TNT Latin America:America/Sao_Paulo
 TNT (US):US/Eastern
 TNT Serie:Europe/Berlin
 TNU:America/Montevideo
@@ -2013,6 +2017,7 @@ UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
 UFC FIGHT PASS (US):US/Eastern
 UK Entertainment Channel:Europe/London
+UK Play:Europe/London
 UKTV Drama:Europe/London
 UKTV Food:Europe/London
 UKTV Gold:Europe/London
@@ -2130,6 +2135,7 @@ WOWOW:Asia/Tokyo
 WPIX:US/Eastern
 WTV (AU):Australia/Sydney
 WWE Network (US):US/Eastern
+WWE Network:US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
