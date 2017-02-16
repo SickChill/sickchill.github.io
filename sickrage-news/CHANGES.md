@@ -1,3 +1,14 @@
+### v2017.02.15-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/a4f8915283034b08646722edc6bf6ab153b97a54...v2017.02.15-1)
+
+* Fix #3130
+* fix #3146 (#3151)
+* Fix: Season collapse & General config label typo (#3144)
+* Proper description for media_format parameter and add same parameter to ShowGetBanner API (#3149)
+* Try to fix #3148
+* Feature: Selective history logs removal (#3138)
+
 ### v2017.02.12-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/18a85580e50ddae473c951c4a6649fb991cfd255...v2017.02.12-2)
