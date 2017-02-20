@@ -1155,6 +1155,7 @@ NASA TELEVISION (US):US/Eastern
 NAT GEO PEOPLE (AU):Australia/Sydney
 NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
+NATIONAL GEOGRAPHIC (AU):Australia/Sydney
 NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
 NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
 NAVER tvcast:Asia/Seoul
@@ -2085,6 +2086,7 @@ VRT:Europe/Brussels
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 VTV (AU):Australia/Sydney
+VRV:US/Eastern
 Varsity TV:US/Eastern
 Vault (UK):Europe/London
 Velocity:US/Eastern
