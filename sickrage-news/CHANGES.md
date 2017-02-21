@@ -1,3 +1,20 @@
+### v2017.02.20-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/bcc8a3a604e50e5db6346ba3569bc5dd320be5c1...v2017.02.20-1)
+
+* Added support for Github token auth, (#3185)
+* Add seeso network logo (#3182)
+* A workaround for #1377 (#3178)
+* Fixes https://github.com/MGaetan89/ShowsRage/issues/132 Replaces #3180
+* Switch to new BTN api hostname (#3177)
+* Fix for accents on elitetorrent (#3176)
+* Fixes #3152 - Add torrenting.com prefix to remove_non_release_groups
+* Fixes #3159
+* Some more changes to try and fix #3116
+* Simplify massEDitSubmit code a bit and fix an edge case problem when switching show root
+* flatten_folders -> season_folders (part 1) (#3171)
+* Discord Notification Enhancements (#3162)
+
 ### v2017.02.15-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/a4f8915283034b08646722edc6bf6ab153b97a54...v2017.02.15-1)
