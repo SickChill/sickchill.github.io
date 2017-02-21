@@ -3,6 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2017-02-21####
+
+It seems that the long-time free `Womble's Index` for nzb's has been taken offline.
+We thank Womble for all of the years providing this free usenet index, and as a result of it going down we have had to remove the provider code for it from SickRage.
+
+<br/>
+
 ####2017-01-26####
 
 WINDOWS ONLY: SickRage now requires WinRar to be installed for windows users to be able to unrar releases.
