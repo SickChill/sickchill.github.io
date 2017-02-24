@@ -1,3 +1,15 @@
+### v2017.02.24-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/b1f1a8c18ff04ba138ab8abc5f4e47edf83908c7...v2017.02.24-1)
+
+* Fixes #3200
+* Fix for Post Processing extracted folder deletion (#3207)
+* Several fixes (#3203)
+* Fix #3184. Set locale when starting SR with upstart (#3202)
+* Limetorrents fix + Unpack directory new feature (#3199)
+* Add "Scrambled" to removeWordsList (#3197)
+* Rework on post processing logic for associated files (#3193)
+
 ### v2017.02.20-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/bcc8a3a604e50e5db6346ba3569bc5dd320be5c1...v2017.02.20-1)
