@@ -1,3 +1,15 @@
+### v2017.02.28-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/99d94e1c0756eb7b43ec3a53ea6ac9957db540ba...v2017.02.28-1)
+
+* Fix coming episodes ordering. Fixes #3243 (#3244)
+* Fix Immortalseed RSS parameters (#3242)
+* More sqlie3.Row
+* Allow to turn off searching subtitles for specials globally (#3241)
+* Only delete RAR files after they're processed. +1 (#3237)
+* Adapt anime SxxExx regex (#3239)
+* Small tweak to list_associated_files
+
 ### v2017.02.24-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/b1f1a8c18ff04ba138ab8abc5f4e47edf83908c7...v2017.02.24-1)
@@ -1220,6 +1232,63 @@
 * New icons on the status page
 * Fix several providers
 * Many small random fixes
+
+### v2016.01.25-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/a3ce318f2c3b207da474db4c8e3cf62bb9032e0e...v2016.01.25-1)
+
+* Fix #2967 (#2972)
+* Genres bug (#2969)
+* Fix #2965 + #1789 (#2966)
+* Fix the imdb image regex so that the images on '/addShows/popularShows' (#2964)
+* Add skytorrents (#2957)
+* Fix #2951 - This will be a merge conflict with merging develop, dont overlook!
+* (skytorrents) Fix bulkcheck in displayShow for seasons (#2958)
+* Initialize HTTPServer correctly for xheaders (#2955)
+* Fix tablesorter on mass update page, Fixes #2951 (#2954)
+* Fixes (#2946)
+* Add Anime support for SxEE (#2949)
+* Fix scene search (#2938)
+* More work on rtorrent lib Fixes #2934 Fixes #2936
+* TRAKT_REMOVE_SHOW_FROM_SICKRAGE will also check for Canceled series, Fixes #2921
+* Fix magnets in rtorrent, Fixes #2880
+* Update certifi
+* Update main.mako (#2924)
+* Small adjustment
+* Change cert/key len to 4096 to appease debian
+* Dont enable sickrage background by default
+* fix filelist provider - unknown download link (#2918)
+* Fix #1269
+* Fix #2897 (#2910)
+* Fix layout issue on show details page (#2909)
+* Custom Background, fix file browser bug when browsing for files (not dirs) (#2907)
+* More clean
+* Fix recursion with disk_usage caused by refactor, rewrite much of pp
+* Fix bug in tv.py
+* Fix bug in pp, more refactoring
+* Fix is_sync_file tests
+* Some more refactoring
+* Rename is_rarfile to is_rar_file
+* Rename isMediaFile to is_media_file
+* Adjust validate_dir, remove part from sync files, adjust logger so exceptions show in log viewer
+* (2898) Fixes #2898
+* Fix anime episode search
+* (rarfile) Fix tests
+* Adjust code to work with rarfile rather than unrar2
+* Remove unrar2, update rarfile
+* Add custom_url support to torrentday, Fixes #2834 (#2877)
+* Fix pycharm warnings (mostly)
+* Make calling super init first in subclasses init work.
+* Suppress abstract class warning for api classes Rename class names to match pep8 camelCase Call super init correctly
+* Pp adjustments (#2870)
+* Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled (#2867)
+* Fix https://github.com/SickRage/SickRage/issues/2659 (#2862)
+* Use 3 digit episode numbers for anime (#2855)
+* NZBtoMedia needs updated
+* Switch from getopt to argparse, replaces #737 (#2853)
+* fov regex update (#2851)
+* Add a test around isRarFile
+* Fix content and enhance email notification
 
 ### v2016.01.23-1
 
