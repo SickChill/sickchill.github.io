@@ -1,3 +1,22 @@
+### v2017.03.01-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/783a0561394d90ffb771fe81e2c243b000b5921e...v2017.03.01-1)
+
+* Fixes #3240 - Only process release_name when called with nzb_to_media… (#3267)
+* Show 'Split in tabs' only when 'Split show lists' is enabled. (#3265)
+* Fix new_file__path problem when pp but not renaming.
+* Fix errant AA in log
+* Fixes #3263
+* Fixes #3264
+* Check if is video_files empty in process_media() (#3261)
+* Fixes #3260 - Dropdowns out of order
+* Fixes #3258
+* Fixes #3258
+* Fixes #3254
+* Fixes #3092 and #3101 - Work on QualityChooser (#3247)
+* Remove duplicate showTabs id
+* Refactor home screen to allow split in tabs
+
 ### v2017.02.28-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2d666e8cb9f73c62881fa3ac6f68b93293908887...v2017.02.28-2)
