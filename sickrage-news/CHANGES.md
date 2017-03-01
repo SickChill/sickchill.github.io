@@ -1,3 +1,11 @@
+### v2017.02.28-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2d666e8cb9f73c62881fa3ac6f68b93293908887...v2017.02.28-2)
+
+* Fix #3252 + #3257 + Rollback to normal show size calculation. (#3255)
+* Fix syntax errors... (#3251)
+* Some attempted fixes (#3250)
+
 ### v2017.02.28-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/99d94e1c0756eb7b43ec3a53ea6ac9957db540ba...v2017.02.28-1)
