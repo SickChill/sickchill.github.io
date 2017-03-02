@@ -1,3 +1,13 @@
+### v2017.03.02-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/758ccc0cee201c6dc728afe43da8f51f8f8a3439...v2017.03.02-1)
+
+* New Feature - Post-Processor: Follow symlinks (#3294)
+* New Feature - unpack 'Treat as video' option to treat RARs as video files (#3271)
+* Fix #3288
+* Fix #3218 (#3270)
+* Fix #3268 (#3269)
+
 ### v2017.03.01-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/783a0561394d90ffb771fe81e2c243b000b5921e...v2017.03.01-1)
