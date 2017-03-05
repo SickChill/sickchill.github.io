@@ -1501,6 +1501,7 @@ Rocks & Co. (UK):Europe/London
 Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Royal News:Asia/Karachi
+RTL Passion:Europe/Berlin
 Russia Today:Europe/Kaliningrad
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
@@ -1543,6 +1544,7 @@ SIC Mulher:Europe/Lisbon
 SIC Notícias:Europe/Lisbon
 SIC Radical:Europe/Lisbon
 SIC Sempre Gold:Europe/Lisbon
+SKY 1:Europe/Berlin
 SKY Business TV (AU):Australia/Sydney
 SKY International (AU):Australia/Sydney
 SKY PerfecTV!:Asia/Tokyo
@@ -1782,6 +1784,7 @@ TNT:US/Eastern
 TNT Latin America:America/Sao_Paulo
 TNT (US):US/Eastern
 TNT Serie:Europe/Berlin
+TNT Glitz:Europe/Berlin
 TNU:America/Montevideo
 Tou.tv:Canada/Eastern
 TPC (US):US/Eastern
