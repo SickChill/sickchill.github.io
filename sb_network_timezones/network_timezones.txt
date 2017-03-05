@@ -1783,6 +1783,7 @@ TNT Latin America:America/Sao_Paulo
 TNT (US):US/Eastern
 TNT Serie:Europe/Berlin
 TNU:America/Montevideo
+Tou.tv:Canada/Eastern
 TPC (US):US/Eastern
 TPS Star (FR):Europe/Paris
 TQS:Canada/Eastern
@@ -1870,6 +1871,7 @@ TV4 Komedi:Europe/Stockholm
 TV4 Plus:Europe/Stockholm
 TV4 Science Fiction:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
+TV5 (CA):Canada/Eastern
 TV5:Canada/Eastern
 TV5 Monde:Europe/Paris
 TV5MONDE Europe (UK):Europe/London
