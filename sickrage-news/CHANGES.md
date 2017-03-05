@@ -1,3 +1,20 @@
+### v2017.03.04-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/8ece26025688714fad6674047ba5591506d4708b...v2017.03.04-1)
+
+* Remove images that are no longer used.
+* Clean up restart js and template... make it work correctly again (#3320)
+* Fix logout link, web address in doc level licenses (#3319)
+* Fix ajax subtitles search and spinner/icons. Move ajaxEpSubtitles into core.js, clean up more template code (#3318)
+* Added ilCorsaroNero Provider (#3315)
+* Move more img tags over to span class for icons
+* Fix loading shows layout in show list (#3312)
+* Fix spinners on manual search, ajaxEpSearch, schedule. Needs some more work and moved into core.js (#3308)
+* Show 'Use SR Metdata' when 'Subtitles' are checked (#3302)
+* Fix exception when booting after update due to missing twilio notify_git_update
+* Change format pattern for anime_type = 2 (#3301)
+* Fix #2292 - Ensure post data and params are encoded to utf-8 if they contain unicode (#3304)
+
 ### v2017.03.02-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/758ccc0cee201c6dc728afe43da8f51f8f8a3439...v2017.03.02-1)
