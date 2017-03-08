@@ -582,6 +582,7 @@ Dish TV:US/Eastern
 Disney Channel:US/Eastern
 Disney Channel (Germany):Europe/Berlin
 Disney Channel (US):US/Eastern
+Disney Channel (Latin America):America/Sao_Paulo
 Disney Cinemagic:Europe/London
 Disney Junior:US/Eastern
 Disney Junior (CA):Canada/Eastern
