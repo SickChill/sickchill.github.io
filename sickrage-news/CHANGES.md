@@ -1,3 +1,26 @@
+### v2017.03.08-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/f6417585969da6d5a838fe4471ba4ceb28f8712f...v2017.03.08-1)
+
+* NOTE: Post Processor is still going through changes, this may or may not work well for you.
+* Auto download UnRAR.exe for Windows users (revisited) (#3354)
+* Fix delete associated files on rename (#3343)
+* SickRage restart adjustments (#3353)
+* Hotfix unrar on windows. Dont try to download unrar.exe (#3349)
+* added explanatory comments to tests/sickrage/show tests (#3344)
+* Fix #3317 - reference addShow parameters by name (#3337)
+* Schedule missed episodes (#3335)
+* Fix MassUpdate tablesorter (#3333)
+* Hotfix unrar on windows. Dont try to download unrar.exe
+* Some small tweaks (#3330)
+* Hotfix unrar download
+* Alter metadata writers logging, fix for site_message, showlist 'active' images (+1) (#3298)
+* Update FAQ link in README.md (#3328)
+* Fix #3322
+* Hotfix unrar tool check
+* Adjust unrar location code to try and autofind unrar, and possibly download unrarw32.exe and use that on windows. (#3321)
+* Fix #3305 - No need to force changing push url, setting developer = 1 will make it not touch your remotes at all.
+
 ### v2017.03.04-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/8ece26025688714fad6674047ba5591506d4708b...v2017.03.04-1)
