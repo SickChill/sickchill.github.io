@@ -1,3 +1,14 @@
+### v2017.03.13-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/1799dce6ddb819a117e2607816420eeecc4dd095...v2017.03.13-1)
+
+* Clean up path building for transmission, fix bug for torrent download path with transmission (#3387)
+* Possible fix for Deluge client and some more small stuff (#3381)
+* Make some adjustments to tpb, update translations, cleanup
+* (trakt-images2) Fix todo in config.py (#3376)
+* Extend locale support to include javascript files (#3367)
+* Relative episode location manual search AJAX (#3364)
+
 ### v2017.03.08-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/f6417585969da6d5a838fe4471ba4ceb28f8712f...v2017.03.08-1)
