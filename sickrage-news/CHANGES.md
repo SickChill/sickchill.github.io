@@ -1,3 +1,14 @@
+### v2017.03.16-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/726486e582e5710c19a0a4733b9ed52b5eb08170...v2017.03.16-1)
+
+* Update translations
+* 726486e Noinspection for six.moves
+* 2b30d59 Add min/max values for check_setting_int/float (#3409)
+* a721df3 Some small modifications and fixes (#3401)
+* ade7184 Fix mismatched checkboxes and labels 'for' attribute (#3405)
+* aea6d46 Small additions and fixes (#3392)
+
 ### v2017.03.13-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/1799dce6ddb819a117e2607816420eeecc4dd095...v2017.03.13-1)
