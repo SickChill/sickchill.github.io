@@ -326,7 +326,7 @@ CBS action (UK):Europe/London
 CBS drama (UK):Europe/London
 CBS reality (UK):Europe/London
 CBS.com (US):US/Eastern
-CBS All Access (US):US/Eastern
+CBS All Access:US/Eastern
 CBeebies:Europe/London
 CBeebies (US):US/Eastern
 CC:STUDIOS (US):US/Eastern
