@@ -89,6 +89,16 @@
 * Remove duplicate showTabs id
 * Refactor home screen to allow split in tabs
 
+### v2017.03-19-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/409448e83d193bf008fc1857e8f190d31079c0ab...v2017.03-19-1)
+
+* Fixes #3420 (#3429)
+* Fixes #3083 - nzb providers categories resetting (#3423)
+* Quote showname when it is being used in url parameter (#3419)
+* Further locale support for Javascript files (#3402)
+* Properly escape sender email in notifications page (#3412)
+
 ### v2017.02.28-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2d666e8cb9f73c62881fa3ac6f68b93293908887...v2017.02.28-2)
