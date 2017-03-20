@@ -1,3 +1,9 @@
+### v2017.03.20-3
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-2...v2017.03.20-3)
+
+* (HEAD -> master, origin/develop, develop) Fix auto pushing changelog commit
+
 ### v2017.03.20-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-1...v2017.03.20-2)
