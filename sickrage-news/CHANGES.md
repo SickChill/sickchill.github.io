@@ -1,3 +1,31 @@
+### v2017.03.19-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/599431d9c5a99ad57512c2e84c54ff15bb493a88...v2017.03.19-2)
+
+* Add channel 5 (uk) network image - #3431
+* Cleanup some templating, remove resorting of show lists and iterable … (#3433)
+* Workaround to fix "Unknown" languages in general config
+* Fix mocha tests and remove 'test' folder.
+* Optimize /locale static route
+* COMING_EPS_MISSED_RANGE fallback to min_val/max_val instead of def_val
+* (#3429)
+* Add yarn.lock (npm alternative)
+* Don't display shows in the showList if they are in the queue to be removed
+* Cleanup some templating, remove resorting of show lists and iterable container type changes
+* Update some bower/npm packages,
+* Fix shecdule_missed_range default to be like min_max
+* Use a proper label in confirm dialog for delete show.
+* Grunt
+* Update translations
+* Update translations
+* Dont need a config helper method for coming_eps_missed_range
+* Closes #3431
+* camelCase to snake_case in tvcache.py
+* camelCase to snake_case in show_queue.py
+* yarn, grunt
+* Should fix #3413 - If they don't specify tvdbid in their searching caps then they can take the spam of the q param
+* Add ncu to dev depends, grunt
+
 ### v2017.03.19-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/409448e83d193bf008fc1857e8f190d31079c0ab...v2017.03.19-1)
