@@ -1,3 +1,10 @@
+### v2017.03.20-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-1...v2017.03.20-2)
+
+* (HEAD -> master, origin/develop, develop) Update translations
+* More workaround for nzb.su - #3413
+
 ### v2017.03.20-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.19-2...v2017.03.20-1)
