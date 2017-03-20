@@ -1,3 +1,9 @@
+### v2017.03.20-4
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-3...v2017.03.20-4)
+
+* (HEAD -> master, origin/develop, develop) Use unidecode for network images, rename stod2 image
+
 ### v2017.03.20-3
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-2...v2017.03.20-3)
