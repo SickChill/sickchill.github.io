@@ -1,31 +1,38 @@
+### v2017.03.21-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-4...v2017.03.21-1)
+
+* Fix git_list_tags
+* Use
+
 ### v2017.03.20-4
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-3...v2017.03.20-4)
 
-* (HEAD -> master, origin/develop, develop) Use unidecode for network images, rename stod2 image
+* Use unidecode for network images, rename stod2 image
 
 ### v2017.03.20-3
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-2...v2017.03.20-3)
 
-* (HEAD -> master, origin/develop, develop) Fix auto pushing changelog commit
+* Fix auto pushing changelog commit
 
 ### v2017.03.20-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-1...v2017.03.20-2)
 
-* (HEAD -> master, origin/develop, develop) Update translations
+* Update translations
 * More workaround for nzb.su - #3413
 
 ### v2017.03.20-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.19-2...v2017.03.20-1)
 
-* (HEAD -> master, origin/develop, develop) https://github.com/jharding/grunt-exec#accessing-grunt-object
+* https://github.com/jharding/grunt-exec#accessing-grunt-object
 * Update translations, cannot newrelease just after update_trans
 * Grunt additions (#3445)
 * (origin/test, test) Work on Gruntfile.js (#3436)
-* (origin/master, origin/HEAD) Remove accidentally added png
+* Remove accidentally added png
 * Fix network images for #3431
 
 ### v2017.03.19-2
