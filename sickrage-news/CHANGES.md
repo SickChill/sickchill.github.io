@@ -1,3 +1,28 @@
+### v2017.03.22-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.21-1...v2017.03.22-1)
+
+* Hate that I cant test this without pushing it to develop FIRST
+* Fix grunt tagging, bad command substitution
+* Add log  on git_tag_new
+* Enable stdout on git_tag_new
+* jshint gruntfile
+* Some changes, try to fix grunt release/publish
+* Revert more bad bad consecutive ifs fixes
+* Fix #3463 failed to create hardlink on Windows
+* Revert consecutive ifs fix that broke checking naming validity.
+* Duplicate key in dict
+* Fix 3640 - Add API key setting for Join.
+* Change IMDB parser to html.parse.
+* Possible fix for #3443
+* Fix TNTVillage Leechers/Seeders extractor, thanks @cybertex1969
+* Caching site-packages breaks tox. Cache .tox
+* Cache site-packages in appveyor, redirect stderr to nul on del *.db in tox.ini
+* Fix error
+* Improve appveyor.yml for speed
+* Fix npm cache path
+* remove console.log from Gruntfile.js
+
 ### v2017.03.21-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-4...v2017.03.21-1)
