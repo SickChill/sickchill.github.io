@@ -1,3 +1,14 @@
+### v2017.03.24-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.22-1...v2017.03.24-1)
+
+* Pycharm code inspection on install script
+* Custom CSS (#3459)
+* cd to opt first and extra comments for progress (#3479)
+* 3359 (#3475)
+* Fixes SickRage/old-sickrage-issues#1494 (#3473)
+* Integrate Codecov (#3461)
+
 ### v2017.03.22-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.21-1...v2017.03.22-1)
