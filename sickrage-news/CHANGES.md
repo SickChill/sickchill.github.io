@@ -1,3 +1,10 @@
+### v2017.03.24-3
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-2...v2017.03.24-3)
+
+* Try to fix new tag message (#3483)
+* Patch socket.getaddrinfo so that dns resolution in requests returns ip4 addresses rather than ip6, since some of our providers have dns for ip6 that does not resolve. This is better than forcing users to disable ip6. Fixes #3450 (#3482)
+
 ### v2017.03.24-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-1...v2017.03.24-2)
@@ -1530,6 +1537,7 @@
 
 ### v2016.01.20-1
 
+[full changelog](https://github.com/SickRage/SickRage/compare/show...v2016.01.20-1)
 
 * Change TPB domain back to .se, use a custom url if it doesnt work
 * Fix restart on gentoo
@@ -1544,4 +1552,9 @@
 * Switch to nosetests and abandon custom unit test loader
 * Fix NZBGet HTTPS setting and sabNZBd Forced Priority setting
 * General refactoring and code cleanup
+
+### show
+
+
+* Patch socket.getaddrinfo so that dns resolution in requests returns ip4 addresses rather than ip6, since some of our providers have dns for ip6 that does not resolve. This is better than forcing users to disable ip6. Fixes #3450
 
