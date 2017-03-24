@@ -1,3 +1,12 @@
+### v2017.03.24-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-1...v2017.03.24-2)
+
+* Allow using an env variable to set changes file path in grunt task
+* Further try and force utf-8 when sending requests to t411, could not test because the api is down right now. #3418 (#3481)
+* Fix build, test more of browser.py (#3480)
+* Rebase sickrage.github.io before push and change main repo back to develop after pushing tags
+
 ### v2017.03.24-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.22-1...v2017.03.24-1)
