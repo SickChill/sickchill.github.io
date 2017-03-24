@@ -1,3 +1,9 @@
+### v2017.03.24-4
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-3...v2017.03.24-4)
+
+* New T411 domain (#3486)
+
 ### v2017.03.24-3
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-2...v2017.03.24-3)
