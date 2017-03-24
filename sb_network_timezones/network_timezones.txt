@@ -792,6 +792,7 @@ GMA:Asia/Manila
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
 GO! (AU):Australia/Sydney
+Go90:US/Eastern
 GOLD (AU):Australia/Sydney
 GOLD (UK):Europe/London
 GOLD2 (AU):Australia/Sydney
