@@ -1,3 +1,11 @@
+### v2017.03.25-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-4...v2017.03.25-1)
+
+* Grunt and update translations
+* Allow daemonizing on osx. Fixes #3491
+* Putio client refactor to address authorization issues (#3490)
+
 ### v2017.03.24-4
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-3...v2017.03.24-4)
