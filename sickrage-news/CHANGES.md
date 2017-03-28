@@ -1,3 +1,9 @@
+### v2017.03.28-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.25-1...v2017.03.28-1)
+
+* GSN (USA) network logo (#3499)
+
 ### v2017.03.25-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.24-4...v2017.03.25-1)
