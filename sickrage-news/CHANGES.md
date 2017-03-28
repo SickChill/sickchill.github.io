@@ -1,3 +1,9 @@
+### v2017.03.28-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.28-1...v2017.03.28-2)
+
+* Dont try to verify a URL that might need auth
+
 ### v2017.03.28-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.25-1...v2017.03.28-1)
