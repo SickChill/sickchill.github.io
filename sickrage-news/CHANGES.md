@@ -1,3 +1,9 @@
+### v2017.03.29-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.28-2...v2017.03.29-1)
+
+* Hotfix Javascript (#3512)
+
 ### v2017.03.28-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.28-1...v2017.03.28-2)
