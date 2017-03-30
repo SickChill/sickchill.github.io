@@ -1,3 +1,9 @@
+### v2017.03.30-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.29-1...v2017.03.30-1)
+
+* Fix js-gettext, for the last time I hope (#3523)
+
 ### v2017.03.29-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.28-2...v2017.03.29-1)
