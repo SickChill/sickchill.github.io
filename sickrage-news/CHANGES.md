@@ -1,3 +1,9 @@
+### v2017.03.31-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.31-1...v2017.03.31-2)
+
+* Fixes #3558 - Missed a return
+
 ### v2017.03.31-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.30-2...v2017.03.31-1)
