@@ -1,3 +1,9 @@
+### v2017.03.30-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.30-1...v2017.03.30-2)
+
+* Fix providers config not working (#3542)
+
 ### v2017.03.30-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.29-1...v2017.03.30-1)
