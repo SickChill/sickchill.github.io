@@ -19,7 +19,12 @@ network name:timezone
 
 **Part 2:**
 
-File: *update_networks_list.py*
+File: *update_networks_list.py [-q] [-p]*
+
+Arguments:
+  - **-q** : Quiet - disable listing the preformed actions
+  - **-p** : Purge - purge old/invalid networks (right now causes many missing networks for users.)<br>
+  All purged networks are stored in *DISCARDED_network_timezones.txt*
 
 Description: A Python script that fetches the latest network list from TheTVDB.com,
 compares it to the current list to check for removed or new networks,
@@ -29,7 +34,7 @@ then rebuilds the list, sorted alphabetically.
 The networks that it can't guess will be appended to the end of the list,
 with an empty time zone.
 
-* Any removed networks are stored in *DISCARDED_network_timezones.txt*
+* The script **will re-add** old/invalid networks by default.
 
 
 ----------
