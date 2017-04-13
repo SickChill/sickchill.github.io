@@ -345,6 +345,7 @@ CBS 2 HD (US):US/Eastern
 CBS 2 LOS ANGELES (US):US/Eastern
 CBS 2 NEW YORK (US):US/Eastern
 CBS 4 (US):US/Eastern
+CBS All Access (US):America/New_York
 CBS All Access:US/Eastern
 CBS Korean (US):US/Eastern
 CBS Reality (UK):Europe/London
@@ -599,6 +600,7 @@ Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
 Discovery Channel (PL):Europe/Warsaw
+Discovery Channel (Poland):Europe/Warsaw
 Discovery Channel (SE):Europe/Stockholm
 Discovery Channel (UK):Europe/London
 Discovery Family (US):US/Eastern
@@ -954,6 +956,7 @@ Historia (ES):Europe/Madrid
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
 History (UK):Europe/London
+History Channel (UK):Europe/London
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
 History:US/Eastern
@@ -1254,6 +1257,7 @@ More4:Europe/London
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
+Movie Extra (Australia):Australia/Lord_Howe
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
 Movistar+:Europe/Madrid
@@ -1386,6 +1390,7 @@ Nickelodeon (DE):Europe/Berlin
 Nickelodeon (NL):Europe/Amsterdam
 Nickelodeon:US/Eastern
 Niconico:Asia/Tokyo
+Nine (Australia):Australia/Lord_Howe
 Nine Network:Australia/Sydney
 Nippon Television:Asia/Tokyo
 Noggin:US/Eastern
@@ -2143,9 +2148,12 @@ The Anime Network:US/Eastern
 The Box:Europe/London
 The CW:US/Eastern
 The Comedy Channel (AU):Australia/Sydney
+The Comedy Channel:US/Eastern
 The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
+The Discovery Channel Canada:Canada/Eastern
 The Family Channel:US/Eastern
+The Food Network:US/Eastern
 The History Channel:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
@@ -2198,12 +2206,15 @@ UCB TV (UK):Europe/London
 UFC FIGHT PASS (US):US/Eastern
 UK Entertainment Channel:Europe/London
 UK Play:Europe/London
+UKTV Documentary:Europe/London
 UKTV Drama:Europe/London
 UKTV Food:Europe/London
+UKTV G2:Europe/London
 UKTV Gold:Europe/London
 UKTV History:Europe/London
 UKTV Style:Europe/London
 UKTV Yesterday:Europe/London
+UKTV style:Europe/London
 UMP Movies (UK):Europe/London
 UMP Stars (UK):Europe/London
 UND SPORTS NETWORK (US):US/Eastern
@@ -2343,6 +2354,8 @@ Xbox Video:US/Eastern
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
 YLE Fem (FI):Europe/Helsinki
+YLE TV1:Europe/Helsinki
+YLE TV2:Europe/Helsinki
 YLE:Europe/Helsinki
 YTV (CA):Canada/Eastern
 YTV (JP):Asia/Tokyo
@@ -2460,6 +2473,7 @@ iCHANNEL (CA):Canada/Eastern
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
+inDEMAND:US/Eastern
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
 ion LIFE (US):US/Eastern
@@ -2512,6 +2526,7 @@ one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
 propellor (UK):Europe/London
+puhutv:Europe/Istanbul
 pursuit CHANNEL (US):US/Eastern
 qubo (US):US/Eastern
 radX:Canada/Eastern
@@ -2577,6 +2592,8 @@ westlink (AU):Australia/Sydney
 www.purepwnage.com:Canada/Eastern
 www.startrekofgodsandmen.net:US/Eastern
 www.welcometothescene.com:US/Eastern
+yamato video:Europe/Rome
+yes stars ישראלי:Asia/Jerusalem
 yes:Asia/Jerusalem
 yesSTARS (IL):Asia/Jerusalem
 youtoo SOCIAL TV (US):US/Eastern
@@ -2610,8 +2627,170 @@ youtoo SOCIAL TV (US):US/Eastern
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
+ערוץ הילדים:Asia/Jerusalem
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
 ช่อง one:Asia/Bangkok
+中央电视台影视部:Asia/Shanghai
 日本テレビ:Asia/Tokyo
+1UP.com:
+20th Century Fox:
+4SD:
+BBC Choice:
+BBC Five:
+BIP:
+BRB International:
+BRT2:
+BRT:
+Bt-x:
+DIY:
+DR:
+DSF:
+Direct to DVD:
+Discovery Canada:
+Discovery Channel Canada:
+Discovery Channel and Global Television Netwo:
+Discovery Chnnel:
+Discovery HD Theater:
+Discovery Health Channel:
+Discovery Health:
+ETB-2:
+FEARNet:
+FTV, Nova:
+Facebook Live:
+Fashion:
+Fiver:
+Flairbar.com:
+Flooxer:
+FoodTV:
+Fox Sports Net:
+Fox Sports:
+Foxsports:
+Fuji Television:
+Fuse TV:
+G4TechTV Canada:
+Gamestar Cover CD:
+Globo:
+HBO - BBC:
+Hessischer Rundfunk:
+History International:
+IPTV | Downloadable Show:
+IPTV |Downloadable Show:
+ITV London:
+JIMtv:
+JOJ:
+KSS:
+KTV:
+Kabel 1:
+Kanal5:
+La 2:
+La 7:
+La Cinquième:
+La sexta:
+La1 de TVE:
+Life Network:
+LivingTV:
+Locomotion:
+London Weekend Television:
+MEGA TV:
+Markíza:
+Mega:
+Men & Motor:
+Men & Motors:
+Mojo HD:
+MuchMusic:
+NED3:
+NET:
+NGC:
+NPS:
+National Geographic Channel:
+National Geographiс:
+Nature:
+Nederland 3:
+Network 10 Australia:
+Nick:
+Nicktoons Network:
+Nico Nico Douga:
+Nippon Housou Kyoukai:
+Nova:
+ORF, ZDF, SRG:
+OVA:
+Off The Fence:
+On Networks:
+PC.MAG.com Network:
+POP TV:
+Pink Pineapple:
+Poker VT:
+Premiere:
+RAI Fiction:
+RTB:
+RTL 2:
+RTS 1:
+RTS1:
+RTV Slovenija:
+RTÉ:
+Rai Uno:
+RaiUno:
+Revision 3:
+Rooster Teeth Productions:
+Sat 1:
+Sci-Fi:
+Skjáreinn:
+Sky Three:
+Sky:
+Southern TV:
+Speed Network:
+Stacked:
+Studio Canal:
+Style Network:
+Stöð 2 Sport:
+Sun TV:
+Super Deluxe:
+SuperRTL:
+TTC:
+TV Asashi:
+TV One:
+TV Slovenija:
+TV Vest:
+TV2 Danmark:
+TV2 Norge:
+TV2 Norway:
+TV400:
+TV9:
+Talpa:
+TechTV Canada:
+Televisa S.A. de C.V.:
+Televisa S.A. de C.V:
+Televizija Zagreb:
+The Austin Systems Channel:
+The History Channel International:
+The Science Channel:
+TomGreen.com:
+Travel:
+Trinity Broadcasting Network:
+Victor Entertainment:
+Vitaya:
+Vuze:
+WEB:
+Wilder:
+Womens Entertainment Network:
+Worldwide:
+Xover:
+Yorin:
+ZTV:
+family gekijou (japan):
+hr-fernsehen:
+http://curraldemoinas.blogspot.com/:
+http://revision3.com/internetsuperstar/:
+http://roosterteeth.com/:
+http://www.labrats.tv/:
+http://www.lachansondudimanche.com:
+jap TV:
+kykNET:
+pivot:
+subtv:
+ΕΡΤ 1:
+ΕΡΤ:
+ΕΤ1:
+ΝΕΤ:
