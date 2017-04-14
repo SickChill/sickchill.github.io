@@ -1,3 +1,21 @@
+### v2017.04.14-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.03-1...v2017.04.14-1)
+
+* Update node packages and grunt....please grunt all js changes in each PR
+* Bugfixes for ilCorsaroNero provider ([#3620](https://github.com/SickRage/SickRage/issues/3620))
+* Update login.mako ([#3621](https://github.com/SickRage/SickRage/issues/3621))
+* Auto grunt and update translations ([#3557](https://github.com/SickRage/SickRage/issues/3557))
+* Fix error when adding show with invalid TVDB ID ([#3598](https://github.com/SickRage/SickRage/issues/3598))
+* Fix schedule table layout ([#3604](https://github.com/SickRage/SickRage/issues/3604))
+* finnish tv network logos ([#3612](https://github.com/SickRage/SickRage/issues/3612))
+* Add --force-update argument ([#3591](https://github.com/SickRage/SickRage/issues/3591))
+* Faster helpers.py file functions ([#3597](https://github.com/SickRage/SickRage/issues/3597))
+* Get Trakt trending show images from TVDB ([#3368](https://github.com/SickRage/SickRage/issues/3368))
+* Bump requests ([#3596](https://github.com/SickRage/SickRage/issues/3596))
+* No need to import all of github module in logger - [#3587](https://github.com/SickRage/SickRage/issues/3587)
+* Fixes [#3585](https://github.com/SickRage/SickRage/issues/3585)
+
 ### v2017.04.03-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.31-2...v2017.04.03-1)
@@ -121,7 +139,12 @@
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.03.20-4...v2017.03.21-1)
 
 * Fix git_list_tags
-* Use
+* Use @@@ instead of 12851$ to prevent shell expansion problems
+* Patches ([#3451](https://github.com/SickRage/SickRage/issues/3451))
+* Cross-platform tox.ini ([#3453](https://github.com/SickRage/SickRage/issues/3453))
+* Fix small bug in tornado, not catching AttributeError when no multiprocessing is available and trying to check os.sysconfig on Windows
+* Try setting up appveyor tests
+* Add twit and missing korean network icons
 
 ### v2017.03.20-4
 
