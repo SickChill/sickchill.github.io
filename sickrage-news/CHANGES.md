@@ -1,3 +1,11 @@
+### v2017.04.26-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.14-1...v2017.04.26-1)
+
+* Fallback for anime search on absolute numbering ([#3657](https://github.com/SickRage/SickRage/issues/3657))
+* Fix travis:update task ([#3630](https://github.com/SickRage/SickRage/issues/3630))
+* ncore - Add new search terms ([#3643](https://github.com/SickRage/SickRage/issues/3643))
+
 ### v2017.04.14-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.03-1...v2017.04.14-1)
