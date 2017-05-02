@@ -1,3 +1,16 @@
+### v2017.05.02-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.26-1...v2017.05.02-1)
+
+* FSF address fixed ([#3697](https://github.com/SickRage/SickRage/issues/3697))
+* New T411 domain ([#3700](https://github.com/SickRage/SickRage/issues/3700)) ([#3701](https://github.com/SickRage/SickRage/issues/3701))
+* Snatched episodes in Schedule view ([#3616](https://github.com/SickRage/SickRage/issues/3616))
+* Fix the webcal protocol when running behind a reverse proxy ([#3679](https://github.com/SickRage/SickRage/issues/3679))
+* Changes in error logging ([#3685](https://github.com/SickRage/SickRage/issues/3685))
+* Conditionally skip BinSearch provider test ([#3690](https://github.com/SickRage/SickRage/issues/3690))
+* Ignore broken symlink ([#3687](https://github.com/SickRage/SickRage/issues/3687))
+* Consolidate location to postprocessor methods to keep api in sync ([#3681](https://github.com/SickRage/SickRage/issues/3681))
+
 ### v2017.04.26-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.14-1...v2017.04.26-1)
