@@ -1,3 +1,12 @@
+### v2017.05.04-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.02-1...v2017.05.04-1)
+
+* Support adding LabelPlus labels to Deluge client torrents. ([#3713](https://github.com/SickRage/SickRage/issues/3713))
+* Standardize GIT errors ([#3710](https://github.com/SickRage/SickRage/issues/3710))
+* Fallback to magnet links for HorribleSubsProvider ([#3712](https://github.com/SickRage/SickRage/issues/3712))
+* qBittorrent: Verify torrent was added ([#3706](https://github.com/SickRage/SickRage/issues/3706))
+
 ### v2017.05.02-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.04.26-1...v2017.05.02-1)
