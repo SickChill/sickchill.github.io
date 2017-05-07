@@ -1,3 +1,15 @@
+### v2017.05.07-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.04-1...v2017.05.07-1)
+
+* Site messages 'tag', enhancements for translations ([#3718](https://github.com/SickRage/SickRage/issues/3718))
+* Fix git error logging ([#3724](https://github.com/SickRage/SickRage/issues/3724))
+* Fix HorribleSubs search with group constraint ([#3719](https://github.com/SickRage/SickRage/issues/3719))
+* prevent obvious bad date from changing statuses ([#3723](https://github.com/SickRage/SickRage/issues/3723))
+* Update Python dependencies ([#3716](https://github.com/SickRage/SickRage/issues/3716))
+* Remove NyaaTorrents ([#3717](https://github.com/SickRage/SickRage/issues/3717))
+* Add option to show/hide snatched episodes in Schedule ([#3720](https://github.com/SickRage/SickRage/issues/3720))
+
 ### v2017.05.04-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.02-1...v2017.05.04-1)
