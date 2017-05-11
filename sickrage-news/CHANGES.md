@@ -1,3 +1,10 @@
+### v2017.05.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.07-1...v2017.05.10-1)
+
+* Fix name parser for regex which thinks there are more than 4 episodes ([#3742](https://github.com/SickRage/SickRage/issues/3742))
+* Added Season Search mode in torrent9.py ([#3732](https://github.com/SickRage/SickRage/issues/3732))
+
 ### v2017.05.07-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.04-1...v2017.05.07-1)
