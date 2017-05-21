@@ -1,3 +1,15 @@
+### v2017.05.21-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.10-1...v2017.05.21-1)
+
+* Remove ExtraTorrent ([#3765](https://github.com/SickRage/SickRage/issues/3765))
+* Add Nyaa.si provider ([#3754](https://github.com/SickRage/SickRage/issues/3754))
+* Fixed sorting error where double/triple headers with the same air date & time show in random order. ([#3776](https://github.com/SickRage/SickRage/issues/3776))
+* Generate self-signed certificates using 'sha256' digest ([#3777](https://github.com/SickRage/SickRage/issues/3777))
+* Update requests to 2.14.2 (was 2.13.0) ([#3762](https://github.com/SickRage/SickRage/issues/3762))
+* Attempt to fix [#3656](https://github.com/SickRage/SickRage/issues/3656) ([#3748](https://github.com/SickRage/SickRage/issues/3748))
+* Changed Transmithe.net to Nebulance.io ([#3747](https://github.com/SickRage/SickRage/issues/3747))
+
 ### v2017.05.10-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.07-1...v2017.05.10-1)
