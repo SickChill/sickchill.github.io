@@ -1,3 +1,11 @@
+### v2017.05.23-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.21-1...v2017.05.23-1)
+
+* Re-add language names ([#3790](https://github.com/SickRage/SickRage/issues/3790))
+* Fix source update notification ([#3784](https://github.com/SickRage/SickRage/issues/3784))
+* Remove Freshon.tv provider ([#3789](https://github.com/SickRage/SickRage/issues/3789))
+
 ### v2017.05.21-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.10-1...v2017.05.21-1)
