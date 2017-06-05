@@ -298,6 +298,7 @@ Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
 Biography Channel:US/Eastern
+Blackpills:America/New_York
 Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television (UK):Europe/London
@@ -449,6 +450,7 @@ Carlton Television:Europe/London
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network:US/Eastern
+Cartoonito:Europe/London
 Casa:Canada/Eastern
 Celebrity Shop (UK):Europe/London
 Centric (US):US/Eastern
@@ -483,6 +485,7 @@ Chiller (US):US/Eastern
 Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
+Christian Broadcasting Network:America/New_York
 Christian Television Network (US):US/Eastern
 Chubu-Nippon Broadcasting:Asia/Tokyo
 Chukyo TV (JP):Asia/Tokyo
@@ -631,6 +634,7 @@ Disney Channel (DE):Europe/Berlin
 Disney Channel (Germany):Europe/Berlin
 Disney Channel (IT):Europe/Rome
 Disney Channel (Latin America):America/Sao_Paulo
+Disney Channel (NL):Europe/Amsterdam
 Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
@@ -639,6 +643,7 @@ Disney Junior (CA):Canada/Eastern
 Disney Junior (UK):Europe/London
 Disney Junior:US/Eastern
 Disney XD (CA):Canada/Eastern
+Disney XD (Latin America):America/Argentina/Buenos_Aires
 Disney XD:US/Eastern
 Divine TV (US):US/Eastern
 Doordarshan National:Asia/Kolkata
@@ -973,6 +978,7 @@ Hum TV:Asia/Karachi
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
+ICE TV:Indian/Maldives
 ICI Explora:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICTV (AU):Australia/Sydney
@@ -1003,6 +1009,7 @@ Imparja (AU):Australia/Sydney
 Indus Music:Asia/Karachi
 Indus News:Asia/Karachi
 Indus Vision:Asia/Karachi
+Infinity:Europe/Rome
 Information TV (UK):Europe/London
 Inmigrante TV (US):US/Eastern
 Inspiration (UK):Europe/London
@@ -1119,6 +1126,7 @@ La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
 La Uno (TVE1):Europe/Madrid
+La5:Europe/Rome
 La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
@@ -1387,6 +1395,7 @@ Nick at Nite:US/Eastern
 NickToons Network:US/Eastern
 NickToons:US/Eastern
 Nickelodeon (DE):Europe/Berlin
+Nickelodeon (Latin America):America/Argentina/Buenos_Aires
 Nickelodeon (NL):Europe/Amsterdam
 Nickelodeon:US/Eastern
 Niconico:Asia/Tokyo
@@ -1499,6 +1508,7 @@ Planet Green:US/Eastern
 Planet POP (UK):Europe/London
 Planète+ (Canada):America/St_Johns
 Planète+:Europe/Paris
+Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
 PlayJam:Europe/London
@@ -1625,6 +1635,7 @@ Rai 1:Europe/Rome
 Rai 2:Europe/Rome
 Rai 3:Europe/Rome
 Rai 4:Europe/Rome
+Rai 5:Europe/Rome
 Rai Gulp:Europe/Rome
 Real Hip-Hop Network (US):US/Eastern
 Real Time:Europe/Rome
@@ -1822,6 +1833,7 @@ Slice:Canada/Eastern
 Smart Live Casino (UK):Europe/London
 Smash Hits:Europe/London
 Smile of a Child TV (US):US/Eastern
+Smithsonian Channel (CA):America/St_Johns
 Smithsonian Channel:US/Eastern
 Smooth (AU):Australia/Sydney
 SoHo:Australia/Sydney
@@ -1917,6 +1929,8 @@ TBN Russia (US):US/Eastern
 TBS (DE):Europe/Berlin
 TBS (JP):Asia/Tokyo
 TBS (Latin America):America/Argentina/Buenos_Aires
+TBS (US of A):US/Eastern
+TBS (US of fucking A):US/Eastern
 TBS Superstation:US/Eastern
 TBS:US/Eastern
 TCM:Europe/London
@@ -2455,6 +2469,11 @@ estrellaTV (US):US/Eastern
 euronews (UK):Europe/London
 extra (AU):Australia/Sydney
 family MOVIES (AU):Australia/Sydney
+france.2:Europe/Paris
+france.3:Europe/Paris
+france.4:Europe/Paris
+france.5:Europe/Paris
+france.Ô:Europe/Paris
 funnyordie.com (US):US/Eastern
 fuse:America/New_York
 fyi (CA):Canada/Eastern
