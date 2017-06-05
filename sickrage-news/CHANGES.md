@@ -1,3 +1,21 @@
+### v2017.06.05-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.23-1...v2017.06.05-1)
+
+* Sorry about that.. Fixed breaking change. ([#3825](https://github.com/SickRage/SickRage/issues/3825))
+* updating torrentday provider to use the new api ([#3830](https://github.com/SickRage/SickRage/issues/3830))
+* lossless compression of images saved 2.1MB ([#3827](https://github.com/SickRage/SickRage/issues/3827))
+* Fix providers, fix tests, fix build... ([#3826](https://github.com/SickRage/SickRage/issues/3826))
+* Disable new SubsCenter provider from [#3820](https://github.com/SickRage/SickRage/issues/3820) - The unregister/register causes SR to not start for me
+* Fix issue submitter regex and auto log submission ([#3822](https://github.com/SickRage/SickRage/issues/3822))
+* Hotfix/subscenter fix ([#3820](https://github.com/SickRage/SickRage/issues/3820))
+* Update config_notifications.mako ([#3803](https://github.com/SickRage/SickRage/issues/3803))
+* Add username & pass to subscenter ([#3813](https://github.com/SickRage/SickRage/issues/3813))
+* Fixes [#2809](https://github.com/SickRage/SickRage/issues/2809) ([#3812](https://github.com/SickRage/SickRage/issues/3812))
+* Danishbits provider now abides by their new rules, using couchpotato.php as systems are not allowed to search torrents.php. ([#3811](https://github.com/SickRage/SickRage/issues/3811))
+* Nyaa RSS update ([#3793](https://github.com/SickRage/SickRage/issues/3793))
+* Fix [#3795](https://github.com/SickRage/SickRage/issues/3795) + added test for cert generation ([#3796](https://github.com/SickRage/SickRage/issues/3796))
+
 ### v2017.05.23-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.05.21-1...v2017.05.23-1)
