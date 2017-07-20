@@ -3,6 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2017-07-20####
+
+A false DMCA takedown request was sent to GitHub, resulting in multiple repositories, including SickRage/SickRage, to be taken down.
+We're countering this and should have the repo back very soon. We thank you for your patience.
+
+<br/>
+
 ####2017-02-21####
 
 It seems that the long-time free `Womble's Index` for nzb's has been taken offline.
