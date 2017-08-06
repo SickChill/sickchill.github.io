@@ -1,7 +1,24 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickRage/SickRage/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/SickRage/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
+All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/SickRage/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage.github.io#submitting-a-bugissue-ticket).
 
 <br/>
+
+####2017-08-05####
+
+Our main repository on Github [SickRage/SickRage](https://github.com/SickRage/SickRage) is now available.<br/>
+If you installed SickRage using a mirror of **our** repository, or switched your installation to get updates from a mirror, please make sure that you're back on the main repo URL in order to be able to receive future updates.<br/>
+The basic set of commands is described [here](https://github.com/SickRage/sickrage.github.io#before-you-open-an-issue):
+```
+git remote set-url origin https://github.com/SickRage/SickRage.git
+git fetch origin
+git checkout master
+git branch -u origin/master
+git reset --hard origin/master
+git pull
+```
+
+<br/>
+
 
 ####2017-07-20####
 

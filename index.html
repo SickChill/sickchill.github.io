@@ -64,32 +64,29 @@
             </div>
         </div>
         <!-- Start temporary DMCA takedown information -->
-        <div class="row text-center" style="color: #fbf1f1; background-color: #b30f0f; padding: 15px 20px;">
-            <h2><strong>SickRage is currently unavailable</strong></h2>
+        <div id="post-dmca-info" class="row text-center" style="color: #fbf1f1; background-color: #3d4146; padding: 15px 20px; display: none;">
+            <h2><strong>SickRage is back up!</strong></h2>
             <p>
-                A false DMCA takedown request was sent to GitHub,<br />
-                resulting in multiple GitHub repositories, including SickRage, to be taken down.<br />
-				<br />
-                We're countering this and should have the repo back very soon.
+                A false DMCA takedown request was sent to GitHub about two weeks ago,<br />
+                that resulted in multiple GitHub repositories, including SickRage, to be taken down.<br />
             </p>
-			<h3><strong>You do not need to change anything!</strong></h3>
+            <h3><strong>We're happy to report that we're back up and running.</strong></h3>
             <p>
-				Please <strong>avoid</strong> any sites claiming to have a fix or new installers for SickRage.<br />
-                We will make sure to spread the word when the main SickRage repository is back online.<br />
-				<br />
-                There is a forum with the same name and a similar logo,<br />
-                prompting you to change the repository to theirs if you're having issues updating.<br />
-                That site is <strong>NOT</strong> owned by us,<br />
-				and it provides a completely different SickRage version from what we offer.
-            </p>
-            <p>
-				<strong>We thank you for your patience.</strong><br />
-				<span style="font-size: 12px;">
-					Getting <strong>Mako Error</strong> when trying to access General Config?
-					<a href="https://gist.github.com/sharkykh/6d6ada91a6787925a25b12cf878a1c2f" target="_blank" style="color: #fff; text-decoration: underline;">Try this!</a>
-				</span>
+                If you installed SickRage using a mirror of <strong>our</strong> repository,<br />
+                or switched your installation to get updates from a mirror,<br />
+                please make sure that you're back on the main repo URL<br />
+                in order to be able to receive future updates.<br />
+                The basic set of commands is described <a href="https://github.com/SickRage/sickrage.github.io#before-you-open-an-issue" target="_blank" style="color: #fff; text-decoration: underline; font-weight: bold;">here</a>.
             </p>
         </div>
+        <script type="text/javascript">
+            // Only show the above section for a month.
+            var dmcaOff = new Date(2017, 8, 10, 0, 0, 0, 0);  // Sep 10th, 2017 12:00:00 AM (local timezone)
+            var dmcaToday = new Date();
+            if (dmcaToday <= dmcaOff) {
+                document.getElementById("post-dmca-info").style.display = "block";
+            }
+        </script>
         <!-- End temporary DMCA takedown information -->
         <!-- Start home section -->
         <div id="home">
