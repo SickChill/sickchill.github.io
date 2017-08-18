@@ -211,7 +211,7 @@
             "13": [
                 "Power Rangers S.P.D."
             ],
-            "14":[
+            "14": [
                 "Power Rangers Mystic Force"
             ],
             "15": [
@@ -507,7 +507,72 @@
         },
         "76703": {
             "-1": [
-                "Pokemon"
+                "Pokemon",
+                "Pocket Monsters"
+            ],
+            "1": [
+                "Indigo League"
+            ],
+            "2": [
+                "Adventures on the Orange Islands"
+            ],
+            "3": [
+                "The Johto Journeys"
+            ],
+            "4": [
+                "Johto League Champions"
+            ],
+            "5": [
+                "Master Quest"
+            ],
+            "6": [
+                "Advanced"
+            ],
+            "7": [
+                "Advanced Challenge"
+            ],
+            "8": [
+                "Advanced Battle"
+            ],
+            "9": [
+                "Battle Frontier"
+            ],
+            "10": [
+                "Diamond and Pearl",
+                "Diamond & Pearl",
+                "Pocket Monsters Diamond&Pearl",
+                "Pocket Monsters DP"
+            ],
+            "11": [
+                "Diamond and Pearl: Battle Dimension"
+            ],
+            "12": [
+                "Diamond and Pearl: Galactic Battles"
+            ],
+            "13": [
+                "Diamond and Pearl: Sinnoh League Victors"
+            ],
+            "14": [
+                "Black & White",
+                "Best Wishes"
+            ],
+            "15": [
+                "Black & White 2",
+                "Best Wishes 2",
+                "Best Wishes Season 2",
+                "Black & White: Rival Destinies"
+            ],
+            "16": [
+                "XY",
+                "Pocket Monsters XY"
+            ],
+            "17": [
+                "XY&Z",
+                "Pocket Monsters XY&Z"
+            ],
+            "18": [
+                "Sun & Moon",
+                "Pocket Monsters Sun & Moon"
             ]
         },
         "76706": {
@@ -3078,12 +3143,12 @@
         "314087": {
             "-1": [
                 "The Grand Tour",
-                "The Grand Tour (2016)"        
+                "The Grand Tour (2016)"
             ]
         },
         "292157": {
             "-1": [
-                "Taboo UK"        
+                "Taboo UK"
             ]
         },
         "248035": {
@@ -3118,10 +3183,15 @@
                 "Shingeki no Bahamut: Virgin Soul",
                 "Shingeki no Bahamut - Virgin Soul"
             ]
-         },
-          "322399": {
+        },
+        "322399": {
             "-1": [
                 "Genius"
+            ]
+        },
+        "309532": {
+            "2": [
+                "New Game!!"
             ]
         }
     }
