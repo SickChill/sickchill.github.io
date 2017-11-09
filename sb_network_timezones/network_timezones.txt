@@ -2719,14 +2719,14 @@ Men & Motor:
 Men & Motors:
 Mojo HD:
 MuchMusic:
-NED3:
+NED3:Europe/Amsterdam
 NET:
 NGC:
 NPS:
 National Geographic Channel:
 National Geographiс:
 Nature:
-Nederland 3:
+Nederland 3:Europe/Amsterdam
 Network 10 Australia:
 Nick:
 Nicktoons Network:
@@ -2777,7 +2777,7 @@ TV2 Norge:
 TV2 Norway:
 TV400:
 TV9:
-Talpa:
+Talpa:Europe/Amsterdam
 TechTV Canada:
 Televisa S.A. de C.V.:
 Televisa S.A. de C.V:
@@ -2813,3 +2813,4 @@ subtv:
 ΕΡΤ:
 ΕΤ1:
 ΝΕΤ:
+Acorn TV:Europe/London
