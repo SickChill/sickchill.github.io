@@ -1,3 +1,9 @@
+### v2018.01.24-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2017.12.19-1...v2018.01.24-1)
+
+* Merge branch 'develop'
+
 ### v2017.12.19-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2017.12.17-1...v2017.12.19-1)
