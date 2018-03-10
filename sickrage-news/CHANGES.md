@@ -1,3 +1,9 @@
+### v2018.03.10-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.10-1...v2018.03.10-2)
+
+* Merge branch 'develop'
+
 ### v2018.03.10-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.09-1...v2018.03.10-1)
