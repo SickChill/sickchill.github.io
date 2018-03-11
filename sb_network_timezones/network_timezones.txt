@@ -629,7 +629,7 @@ Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
 Discovery:US/Eastern
-Discovery (US): US/Eastern
+Discovery (US):US/Eastern
 Dish TV:US/Eastern
 Disney Channel (BR):America/Noronha
 Disney Channel (DE):Europe/Berlin
