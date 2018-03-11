@@ -535,6 +535,7 @@ Country Music Television (US):US/Eastern
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
+Sony Crackle:US/Eastern
 CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
@@ -628,6 +629,7 @@ Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
 Discovery:US/Eastern
+Discovery (US): US/Eastern
 Dish TV:US/Eastern
 Disney Channel (BR):America/Noronha
 Disney Channel (DE):Europe/Berlin
