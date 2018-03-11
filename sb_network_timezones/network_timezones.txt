@@ -1884,7 +1884,7 @@ Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
 Starz TV (UK):Europe/London
-Stars:US/Eastern
+Starz:US/Eastern
 Starz!:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
