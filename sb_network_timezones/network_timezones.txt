@@ -827,6 +827,7 @@ Fox 1 (Latin America):America/Argentina/Buenos_Aires
 Fox 8 (NL):Europe/Amsterdam
 Fox Action (Brazil):America/Noronha
 Fox Action (Latin America):America/Argentina/Buenos_Aires
+Fox Action Movies:US/Eastern
 Fox Business:US/Eastern
 Fox Channel (BR):America/Sao_Paulo
 Fox Channel (DE):Europe/Berlin
@@ -1883,6 +1884,7 @@ Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
 Starz TV (UK):Europe/London
+Stars:US/Eastern
 Starz!:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
