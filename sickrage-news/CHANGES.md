@@ -1,3 +1,10 @@
+### v2018.03.17-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.17-1...v2018.03.17-2)
+
+* Add weak.pem (shouldnt be needed)
+* Grunt, Update translations (build 9292) [skip ci]
+
 ### v2018.03.17-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.12-1...v2018.03.17-1)
