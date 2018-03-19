@@ -1,3 +1,11 @@
+### v2018.03.19-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.17-2...v2018.03.19-1)
+
+* Fixed [#4304](https://github.com/SickRage/SickRage/issues/4304) by using a workaround for TD api failures
+* Update pynma.py
+* Update translations (build 9296) [skip ci]
+
 ### v2018.03.17-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.17-1...v2018.03.17-2)
