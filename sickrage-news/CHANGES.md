@@ -1,3 +1,11 @@
+### v2018.03.19-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.19-1...v2018.03.19-2)
+
+* Update itasa for new subliminal
+* Update subliminal Fixed [#4153](https://github.com/SickRage/SickRage/issues/4153) [#4400](https://github.com/SickRage/SickRage/issues/4400) - Update subliminal to [4ad5d31](https://github.com/SickRage/SickRage/commit/4ad5d31a6c52c7fa0061ad0da16254580d31dc2a)
+* Update translations (build 9307) [skip ci]
+
 ### v2018.03.19-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.17-2...v2018.03.19-1)
