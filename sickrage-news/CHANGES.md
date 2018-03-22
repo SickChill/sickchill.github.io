@@ -1,3 +1,11 @@
+### v2018.03.22-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.19-2...v2018.03.22-1)
+
+* Add browser to list of requested information for bug reports
+* Fixed [#4225](https://github.com/SickRage/SickRage/issues/4225) - Use indexOf instead of findIndex and set headers in webserverve.searchIndexersForShowName for cache and content type
+* Update translations (build 9316) [skip ci]
+
 ### v2018.03.19-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.19-1...v2018.03.19-2)
