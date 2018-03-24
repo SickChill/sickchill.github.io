@@ -1,3 +1,12 @@
+### v2018.03.23-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.22-1...v2018.03.23-1)
+
+* Update Torrent9.py ([#4435](https://github.com/SickRage/SickRage/issues/4435))
+* Cast to the correct types and objects for comparison to skip writing out a new tvshow.nfo Fixes [#4428](https://github.com/SickRage/SickRage/issues/4428) Closes [#4429](https://github.com/SickRage/SickRage/issues/4429)
+* Don't recreate tvshow.nfo unnecessarily
+* Update translations (build 9329) [skip ci]
+
 ### v2018.03.22-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.19-2...v2018.03.22-1)
