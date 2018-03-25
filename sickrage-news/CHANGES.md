@@ -1,3 +1,10 @@
+### v2018.03.25-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.25-1...v2018.03.25-2)
+
+* Prevent deleting a folder if other shows use the folder as a root dir. Temporary workaround as this should use sql to check and also remove episodes by location. [#4441](https://github.com/SickRage/SickRage/issues/4441)
+* Update translations (build 9360) [skip ci]
+
 ### v2018.03.25-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.23-1...v2018.03.25-1)
