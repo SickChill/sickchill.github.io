@@ -1,3 +1,11 @@
+### v2018.04.02-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.25-2...v2018.04.02-1)
+
+* Resolved Jackett snatching malfunction
+* Check for other shows using the same location before deleting a show, and if so remove individual files instead [#4441](https://github.com/SickRage/SickRage/issues/4441)
+* Update translations (build 9368) [skip ci]
+
 ### v2018.03.25-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.25-1...v2018.03.25-2)
