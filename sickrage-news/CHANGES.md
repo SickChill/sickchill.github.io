@@ -1,3 +1,13 @@
+### v2018.04.08-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.04.02-1...v2018.04.08-1)
+
+* Update the YggTorrent provider due to the new version of the website
+* Update \_\_init\_\_.py
+* Add todo
+* Update provider to call the torrentleech v5 paths
+* Update translations (build 9377) [skip ci]
+
 ### v2018.04.02-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.03.25-2...v2018.04.02-1)
