@@ -1,3 +1,22 @@
+### v2018.05.11-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.04.08-1...v2018.05.11-1)
+
+* Fix bad YggTorrent credentials handling
+* Update sublimina to latest develop, with added [Diaoul/Subliminal#836](https://github.com/Diaoul/Subliminal/issues/836) for a temporary fix to format.lower issue Fixes [#4546](https://github.com/SickRage/SickRage/issues/4546) Signed-off-by: miigotu <miigotu@gmail.com>
+* Fix the number of columns error in tfoot of the compact view in history.mako
+* Typo
+* Rename check_db_version to get_db_version
+* Clean up db.py and fix logging when database errors occur. Added extra information to help debug database issues.
+* Remove invalid js file reference and make nzb splitter request failure only a warning
+* Implement broken provider notifications and disable feedparser test until a replacement to binsearch is available or the test is reworked. unescape rss, client, and custom urls Fixes [#4624](https://github.com/SickRage/SickRage/issues/4624) Fixes [#4548](https://github.com/SickRage/SickRage/issues/4548) Signed-off-by: miigotu <miigotu@gmail.com>
+* Try and fix appveyor
+* Try and fix appveyor
+* Updated .in TLDs to .lol in test definitions
+* Skytorrents URL changed to proper ending
+* Add Paramount Network logo
+* Update translations (build 9390) [skip ci]
+
 ### v2018.04.08-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.04.02-1...v2018.04.08-1)
