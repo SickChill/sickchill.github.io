@@ -1,3 +1,15 @@
+### v2018.06.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.05.11-1...v2018.06.10-1)
+
+* apostrophe fix
+* more apostrophe fixes
+* YggTorrent : Fix for session expiration (very short)
+* Adding missing Dutch network names: BNN-VARA, KRO-NCRV and Videoland (NL)
+* Apostrophe fixes
+* Unescape HTML in paths in WebFileBrowser
+* Update translations (build 9432) [skip ci]
+
 ### v2018.05.11-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.04.08-1...v2018.05.11-1)
