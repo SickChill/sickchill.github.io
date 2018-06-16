@@ -1,3 +1,22 @@
+### v2018.06.15-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.06.10-1...v2018.06.15-1)
+
+* Fix comments.
+* Update cassette test to be consistant with the new requests.
+* Iterate on each row of the table.
+* FIX your changes
+* Fix issue when trying to download torrent from torrent9 tracker.
+* add missing '/' for for limetorrents rss search
+* fix limetorrent search
+* Fix danishbits daily search
+* Update Scenetime provider after api change
+* Add TV UHD category
+* Update speedcd.py
+* Update travis-ci python version
+* Fix appveyor build
+* Grunt, Update translations (build 9460) [skip ci]
+
 ### v2018.06.10-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.05.11-1...v2018.06.10-1)
