@@ -1,3 +1,18 @@
+### v2018.07.18-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.06.15-1...v2018.07.18-1)
+
+* run isort to fix import order
+* fix import order
+* fix order \_\_init\_\_.py
+* add gimmepeers icon + \_\_init\_\_ + gimmepeers.py
+* Move inside ss
+* Fix [#4771](https://github.com/SickRage/SickRage/issues/4771)
+* change yggtorrent url
+* Fixed manual post processing not honouring settings when moving files
+* Do not assume that torrenttable div will be present and well formed.
+* Update translations (build 9487) [skip ci]
+
 ### v2018.06.15-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.06.10-1...v2018.06.15-1)
