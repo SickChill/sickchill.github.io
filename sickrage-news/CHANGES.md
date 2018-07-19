@@ -1,3 +1,12 @@
+### v2018.07.18-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.07.18-1...v2018.07.18-2)
+
+* Fix red text warnings on provider settings
+* Add helper functions to make sure enable_daily, enable_backlog, and search_fallback are integers Fixes [#4721](https://github.com/SickRage/SickRage/issues/4721) Closes [#4829](https://github.com/SickRage/SickRage/issues/4829)
+* Add new provider: BJ-Share (Brazillian) ([#4727](https://github.com/SickRage/SickRage/issues/4727))
+* Update translations (build 9506) [skip ci]
+
 ### v2018.07.18-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.06.15-1...v2018.07.18-1)
