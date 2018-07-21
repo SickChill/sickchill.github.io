@@ -1,3 +1,10 @@
+### v2018.07.21-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.07.18-2...v2018.07.21-1)
+
+* change yggtorrent url
+* Update translations (build 9513) [skip ci]
+
 ### v2018.07.18-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.07.18-1...v2018.07.18-2)
