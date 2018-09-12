@@ -1173,6 +1173,7 @@ MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
 MATV:Europe/London
 MAX (NL):Europe/Amsterdam
+Maxdome:Europe/Berlin
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
 MBC Every 1:Asia/Seoul
