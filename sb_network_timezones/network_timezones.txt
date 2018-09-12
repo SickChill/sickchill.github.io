@@ -266,6 +266,7 @@ BOSTEL (US):US/Eastern
 BOUNCE TV (US):US/Eastern
 BR-alpha:Europe/Berlin
 BR:Europe/Berlin
+BRT:Europe/Brussels
 BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS Fuji:Asia/Tokyo
