@@ -1,3 +1,10 @@
+### v2018.09.13-3
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-2...v2018.09.13-3)
+
+* Merge branch 'develop'
+* Update translations (build 9562) [skip ci]
+
 ### v2018.09.13-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-1...v2018.09.13-2)
