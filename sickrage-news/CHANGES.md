@@ -1,3 +1,26 @@
+### v2018.09.13-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-1...v2018.09.13-2)
+
+* Fix releae when commit messages have double quotes
+
+### v2018.09.13-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.07.21-1...v2018.09.13-1)
+
+* Detect yggtorrent url automatically, but only when it is enabled and used and a login is attempted Add custom url functionality to the provider Fixes [#4914](https://github.com/SickRage/SickRage/issues/4914) Fixes [#4931](https://github.com/SickRage/SickRage/issues/4931)
+* Update requirements.txt to reflect protection against CVE-2017-7235
+* Fixes [#3987](https://github.com/SickRage/SickRage/issues/3987)
+* Remove domain auto detection
+* Add anime subcategory for YGG
+* Auto detect YGG domain name
+* Move verbose regex above scene_date_format to fix [#4839](https://github.com/SickRage/SickRage/issues/4839)
+* change yggtorrent url
+* Changed "Download Finished" Notification String
+* Fix issue [#4675](https://github.com/SickRage/SickRage/issues/4675) (Filelist provider not working)
+* Provider changed the domain
+* Update translations (build 9519) [skip ci]
+
 ### v2018.07.21-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.07.18-2...v2018.07.21-1)
