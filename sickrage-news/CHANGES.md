@@ -1,3 +1,9 @@
+### v2018.09.14-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.14-1...v2018.09.14-2)
+
+* Fix [#4856](https://github.com/SickRage/SickRage/issues/4856) - Upsert could be called with empty values for imdb_info
+
 ### v2018.09.14-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-3...v2018.09.14-1)
