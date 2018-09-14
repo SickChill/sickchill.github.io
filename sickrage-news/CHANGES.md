@@ -1,3 +1,10 @@
+### v2018.09.14-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-3...v2018.09.14-1)
+
+* Add back columnSelector to Gruntfile, which is not included in jquery.tablesorter.combined.js
+* Update translations (build 9575) [skip ci]
+
 ### v2018.09.13-3
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.13-2...v2018.09.13-3)
