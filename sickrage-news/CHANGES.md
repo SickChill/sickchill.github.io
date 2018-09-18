@@ -1,3 +1,10 @@
+### v2018.09.17-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.14-2...v2018.09.17-1)
+
+* Fixes [#4959](https://github.com/SickRage/SickRage/issues/4959) - By avoiding phony imdbid and info, and also providing a usable dict to avoid keyerrors
+* Update translations (build 9582) [skip ci]
+
 ### v2018.09.14-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.14-1...v2018.09.14-2)
