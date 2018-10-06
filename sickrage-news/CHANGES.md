@@ -1,3 +1,10 @@
+### v2018.10.06-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.17-1...v2018.10.06-1)
+
+* Update readme
+* Update translations (build 9586) [skip ci]
+
 ### v2018.09.17-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v2018.09.14-2...v2018.09.17-1)
