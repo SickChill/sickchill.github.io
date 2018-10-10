@@ -1,7 +1,7 @@
 {
   "name": "sickchill.github.io",
   "version": "1.0.0",
-  "description": "Site and support files for SickRage",
+  "description": "Site and support files for SickChill",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt-cli": "^0.1.13",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SickRage/sickchill.github.io.git"
+    "url": "git+https://github.com/SickChill/sickchill.github.io.git"
   },
   "keywords": [
-    "SickRage"
+    "SickChill"
   ],
   "author": "miigotu",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/SickRage/sickchill.github.io/issues"
+    "url": "https://github.com/SickChill/sickchill.github.io/issues"
   },
-  "homepage": "https://github.com/SickRage/sickchill.github.io#readme"
+  "homepage": "https://github.com/SickChill/sickchill.github.io#readme"
 }
