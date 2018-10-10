@@ -1,15 +1,15 @@
-####Please read the [Wiki/FAQ](https://github.com/SickRage/SickRage/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/SickRage/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage.github.io#submitting-a-bugissue-ticket).
+####Please read the [Wiki/FAQ](https://github.com/SickChill/SickChill/wiki) before opening an issue####
+All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickchill.github.io#submitting-a-bugissue-ticket).
 
 <br/>
 
 ####2017-08-05####
 
-Our main repository on Github [SickRage/SickRage](https://github.com/SickRage/SickRage) is now available.<br/>
+Our main repository on Github [SickChill/SickChill](https://github.com/SickChill/SickChill) is now available.<br/>
 If you installed SickRage using a mirror of **our** repository, or switched your installation to get updates from a mirror, please make sure that you're back on the main repo URL in order to be able to receive future updates.<br/>
-The basic set of commands is described [here](https://github.com/SickRage/sickrage.github.io#before-you-open-an-issue):
+The basic set of commands is described [here](https://github.com/SickRage/sickchill.github.io#before-you-open-an-issue):
 ```
-git remote set-url origin https://github.com/SickRage/SickRage.git
+git remote set-url origin https://github.com/SickChill/SickChill.git
 git fetch origin
 git checkout master
 git branch -u origin/master
@@ -22,7 +22,7 @@ git pull
 
 ####2017-07-20####
 
-A false DMCA takedown request was sent to GitHub, resulting in multiple repositories, including SickRage/SickRage, to be taken down.
+A false DMCA takedown request was sent to GitHub, resulting in multiple repositories, including SickChill/SickChill, to be taken down.
 We're countering this and should have the repo back very soon. We thank you for your patience.
 
 <br/>
@@ -42,11 +42,11 @@ As you windows users should know, restarting SickRage from the interface does no
 or from an administrator level command prompt with the following commands:
 <br/>
 ```
-    net stop sickrage
+    net stop sickchill
 ```
 <br/>
 ```
-    net start sickrage
+    net start sickchill
 ```
 <br/>
 The library we use to interface with unrar had to be changed for several reasons, including unrar lockups, memory issues, and a lack of support for newer RAR5 format.
@@ -65,7 +65,7 @@ If stopping SickRage completely and then starting it again does not work, stoppi
 
 With my next commit, your web interface may revert to english translation. However, it is now a configurable option as to which language you want to use.  
 You can find the option to change the language on http://localhost:8081/config/general/ at the top of the 'Interface' tab.
-I hope you all are enjoying the translations, and please feel free to help out with them on [crowdin.com](https://crowdin.com/project/sickrage)
+I hope you all are enjoying the translations, and please feel free to help out with them on [crowdin.com](https://crowdin.com/project/sickchill)
 
 <br/>
 
@@ -73,8 +73,8 @@ I hope you all are enjoying the translations, and please feel free to help out w
 
 Among the many fixes in today's release, there is something special.  
 **The web interface in SickRage is now translatable into any language!**  
-If you would like to help translating the strings some information can be found on the [WIKI](https://github.com/SickRage/SickRage/wiki/Translations)  
-Also, we would like to thank [CrowdIn](https://crowdin.com/project/sickrage) for our free open source project account to help managing the translations.
+If you would like to help translating the strings some information can be found on the [WIKI](https://github.com/SickChill/SickChill/wiki/Translations)  
+Also, we would like to thank [CrowdIn](https://crowdin.com/project/sickchill) for our free open source project account to help managing the translations.
 
 <br/>
 
@@ -91,8 +91,8 @@ If the packages are installed on DSM 5.2 and you upgrade they will keep working,
 Some users can experience that air-dates are not updated for every show.  
 If that is the case, than go to "Mass-update" and select "Update" for all shows, and let it run.  
 
-Also when you get a warning in your log like **Missing time zone for network:** those can be added [here.](https://github.com/SickRage/sickrage.github.io/blob/master/sb_network_timezones/network_timezones.txt)  
-They are used to calculate the exact airtime of a show in your specific timezone. This allows Sickrage to start searching more precise, without this the search starts at exactly midnight local time.  
+Also when you get a warning in your log like **Missing time zone for network:** those can be added [here.](https://github.com/SickRage/sickchill.github.io/blob/master/sb_network_timezones/network_timezones.txt)  
+They are used to calculate the exact airtime of a show in your specific timezone. This allows SickChill to start searching more precise, without this the search starts at exactly midnight local time.  
 
 <br/>
 
@@ -119,7 +119,7 @@ This was really overdue, and will pave the road to all the new and cool features
 However there is always a risk that it will expose minor bugs, that we weren't able to catch during testing.  
 In case you encounter one, please make sure to report it on the [issue-tracker](https://github.com/SickRage/sickrage-issues/issues) or [IRC channel](https://kiwiirc.com/client/irc.freenode.net/?theme=basic#sickrage-issues).  
 
-This week we also launched our new [SickRage website](http://sickrage.github.io/).  
+This week we also launched our new [SickRage website](http://sickchill.github.io/).  
 
 <br/>  
 
@@ -134,7 +134,7 @@ As you can see, the team is up and running again and providing updates and suppo
 - New Wiki page    :   https://github.com/SickRage/sickrage-issues/wiki  
 
 Please get the word out so your friends, package builders and tutorial makers are aware.  
-For the Synology users, we made a tutorial so they can easily switch to the new [repository](https://github.com/SickRage/sickrage-issues/wiki/Switching-your-Synology's-Sickrage-to-the-new-repository).  
+For the Synology users, we made a tutorial so they can easily switch to the new [repository](https://github.com/SickRage/sickrage-issues/wiki/Switching-your-Synology's-SickChill-to-the-new-repository).  
 Again, apologies for any inconvenience this has caused.   
 
 <br/>  
@@ -163,13 +163,6 @@ subtitle provider [Legendas.TV](http://legendas.tv/) on top of what subliminal h
 ####2015-10-02####
 
 - Recently we improved the searching of the KAT & TPB Torrent providers. Some users report that they are not able to find new downloads anymore. If that is the case, shut down SickRage and remove the cache.db file. That should solve the problem.  
-
-<br/>
-
-####2015-09-26####
-
-- Today we introduced our new [Feature Tracker.](http://feathub.com/SickRage/SickRage) Let us know what features YOU would like to see added. And cast your vote for the already submitted features.
-- (All feature requests should go to the new tracker, not the issue-tracker.)
 
 <br/>
 
@@ -231,7 +224,7 @@ Also as a consequence of the TVRage shutdown we where forced to push some change
 ####2015-07-21####
 
 - Added ability to run an external script for every subtitle downloaded (can be used to embed subs in mkv/mp4)
-    For info about the parameters passed see [PR#2139](https://github.com/SickRage/SickRage/pull/2139)
+    For info about the parameters passed see [PR#2139](https://github.com/SickChill/SickChill/pull/2139)
 
 - Added IRC tab in web ui, to connect to the SickRage IRC channel
 

@@ -48,7 +48,7 @@
 * Add handler for when Trakt returns no results for Add Show/Add Trending Show page
 * Fix image links when anchor child images are not found at Trakt on Add Show/Add Trending Show page
 * Add image to be used when Trakt posters are void on Add Show/Add Trending Show page
-* Fix growl registration not sending sickrage an update notification registration
+* Fix growl registration not sending sickchill an update notification registration
 * Add an anonymous redirect builder for external links
 * Update kodi link to Kodi at Config Notifications
 * Fix missing url for kickasstorrents in config_providers
@@ -84,14 +84,14 @@
 
 ### 0.2.1 (2014-10-22 06:41:00 UTC)
 
-[full changelog](https://github.com/SickRage/SickRage/compare/release_0.2.0...release_0.2.1)
+[full changelog](https://github.com/SickChill/SickChill/compare/release_0.2.0...release_0.2.1)
 
 * Fix HDtorrents provider screen scraping
 
 
 ### 0.2.0 (2014-10-21 12:36:50 UTC)
 
-[full changelog](https://github.com/SickRage/SickRage/compare/release_0.1.0...release_0.2.0)
+[full changelog](https://github.com/SickChill/SickChill/compare/release_0.1.0...release_0.2.0)
 
 * Fix for failed episodes not counted in total
 * Fix for custom newznab providers with leading integer in name
@@ -114,7 +114,7 @@
 
 --------
 
-[Changelog 2016](https://github.com/SickRage/sickrage.github.io/raw/master/sickrage-news/CHANGES.md)
-[Changelog 2015](https://github.com/SickRage/sickrage.github.io/raw/master/sickrage-news/CHANGES-2015.md)
-[Changelog 2014](https://github.com/SickRage/sickrage.github.io/raw/master/sickrage-news/CHANGES-2014.md)
+[Changelog 2016](https://github.com/SickRage/sickchill.github.io/raw/master/sickrage-news/CHANGES.md)
+[Changelog 2015](https://github.com/SickRage/sickchill.github.io/raw/master/sickrage-news/CHANGES-2015.md)
+[Changelog 2014](https://github.com/SickRage/sickchill.github.io/raw/master/sickrage-news/CHANGES-2014.md)
 

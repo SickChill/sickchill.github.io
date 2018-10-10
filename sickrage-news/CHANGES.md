@@ -583,7 +583,7 @@
 * Allow using an env variable to set changes file path in grunt task
 * Further try and force utf-8 when sending requests to t411, could not test because the api is down right now. [#3418](https://github.com/Sick-Rage/Sick-Rage/issues/3418) ([#3481](https://github.com/Sick-Rage/Sick-Rage/issues/3481))
 * Fix build, test more of browser.py ([#3480](https://github.com/Sick-Rage/Sick-Rage/issues/3480))
-* Rebase sickrage.github.io before push and change main repo back to develop after pushing tags
+* Rebase sickchill.github.io before push and change main repo back to develop after pushing tags
 
 ### v2017.03.24-1
 
@@ -732,7 +732,7 @@
 * Fix delete associated files on rename ([#3343](https://github.com/Sick-Rage/Sick-Rage/issues/3343))
 * SickRage restart adjustments ([#3353](https://github.com/Sick-Rage/Sick-Rage/issues/3353))
 * Hotfix unrar on windows. Dont try to download unrar.exe ([#3349](https://github.com/Sick-Rage/Sick-Rage/issues/3349))
-* added explanatory comments to tests/sickrage/show tests ([#3344](https://github.com/Sick-Rage/Sick-Rage/issues/3344))
+* added explanatory comments to tests/sickchill/show tests ([#3344](https://github.com/Sick-Rage/Sick-Rage/issues/3344))
 * Fix [#3317](https://github.com/Sick-Rage/Sick-Rage/issues/3317) - reference addShow parameters by name ([#3337](https://github.com/Sick-Rage/Sick-Rage/issues/3337))
 * Schedule missed episodes ([#3335](https://github.com/Sick-Rage/Sick-Rage/issues/3335))
 * Fix MassUpdate tablesorter ([#3333](https://github.com/Sick-Rage/Sick-Rage/issues/3333))
@@ -943,7 +943,7 @@
 * Update main.mako ([#2924](https://github.com/Sick-Rage/Sick-Rage/issues/2924))
 * Small adjustment
 * Change cert/key len to 4096 to appease debian
-* Dont enable sickrage background by default
+* Dont enable sickchill background by default
 * fix filelist provider - unknown download link ([#2918](https://github.com/Sick-Rage/Sick-Rage/issues/2918))
 * Fix [#1269](https://github.com/Sick-Rage/Sick-Rage/issues/1269)
 * Fix [#2897](https://github.com/Sick-Rage/Sick-Rage/issues/2897) ([#2910](https://github.com/Sick-Rage/Sick-Rage/issues/2910))
@@ -969,7 +969,7 @@
 * Suppress abstract class warning for api classes Rename class names to match pep8 camelCase Call super init correctly
 * Pp adjustments ([#2870](https://github.com/Sick-Rage/Sick-Rage/issues/2870))
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/Sick-Rage/Sick-Rage/issues/2867))
-* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
+* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
 * Use 3 digit episode numbers for anime ([#2855](https://github.com/Sick-Rage/Sick-Rage/issues/2855))
 * NZBtoMedia needs updated
 * Switch from getopt to argparse, replaces [#737](https://github.com/Sick-Rage/Sick-Rage/issues/737) ([#2853](https://github.com/Sick-Rage/Sick-Rage/issues/2853))
@@ -992,7 +992,7 @@
 
 * Fix nzbToMedia issue by allowing to force being the next item in the queue to run, allows force_clean in nzbtomedia (must update to nzbToMedia nightly to work!)
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/Sick-Rage/Sick-Rage/issues/2867))
-* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
+* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
 * Switch from getopt to argparse, replaces [#737](https://github.com/Sick-Rage/Sick-Rage/issues/737) ([#2853](https://github.com/Sick-Rage/Sick-Rage/issues/2853))
 * fov regex update ([#2851](https://github.com/Sick-Rage/Sick-Rage/issues/2851))
 * Add a test around isRarFile
@@ -1347,7 +1347,7 @@
 [full changelog](https://github.com/Sick-Rage/Sick-Rage/compare/v2016.04.17-1...v2016.04.17-2)
 
 * Update translations
-* Move github setup out of sickbeard init to sickrage.common.helper, so a restart isnt required after entering github credentials ([#1533](https://github.com/Sick-Rage/Sick-Rage/issues/1533))
+* Move github setup out of sickbeard init to sickchill.common.helper, so a restart isnt required after entering github credentials ([#1533](https://github.com/Sick-Rage/Sick-Rage/issues/1533))
 * Fanart background in displayShow ([#1531](https://github.com/Sick-Rage/Sick-Rage/issues/1531))
 * Change level of all loggers when enabling debug, so a restart isnt required! ([#1529](https://github.com/Sick-Rage/Sick-Rage/issues/1529))
 
@@ -1463,7 +1463,7 @@
 * Ditch hachoir for purpose of parsing screen height of files when guessing quality, rolled my own avi WxH implementation and use enzyme for mkv
 * Add test to make sure providers return results in the proper format and valid values
 * Fix TorrentProject requesting trackers with no hash and cure ddos by only requesting when less than 3 seeds, almost dead torrents
-* Partial Dutch Translation for Sickrage
+* Partial Dutch Translation for SickChill
 * Make sure show specific req/ignored words exist before trying to split them
 * Cassettes and tests for public providers' search parsing.
 * Must explicitly cast basestrings to int before using int based format specifiers
@@ -1643,7 +1643,7 @@
 * Fix auth header for pushbullet [#1118](https://github.com/SickRage/sickrage-issues/issues/1118)
 * Add custom notification email subject
 * Fix WEB-DL and WEB-Rip detections * Optimize regex * Add WEB detection * Add DLMux detection
-* Use sickrage.github.io for url to the icon, instead of rawgit
+* Use sickchill.github.io for url to the icon, instead of rawgit
 * Add icon and app name to boxcar notification
 * Boxcar2, use requests, unicode literals, str.format
 * Oops, need to send the session to getURL
@@ -1662,7 +1662,7 @@
 * Clean up scheduler thread formatting in `sickbeard.\_\_init\_\_` Set show updater to cycle time 1hr again, see if that fixes it not running Delay start of most threads at least a minute or two after startup Fix bug adding cycle time to last_run
 * Make show filter on poster view case insensitive match.
 * Add anime category for bluetiger provider
-* Add code to send email on remote login and sickrage updates Use unicode literals Use str.format
+* Add code to send email on remote login and sickchill updates Use unicode literals Use str.format
 * Fix network timezone reporting
 * Refresh show from dir even when it hasnt been updated on tvdb, but do not rebuild metadata (force=False) Fixes [#1089](https://github.com/SickRage/sickrage-issues/issues/1089)
 * Don't error when show was already removed from trakt or never was on trakt. Fixes [#1038](https://github.com/SickRage/sickrage-issues/issues/1038)
@@ -1679,7 +1679,7 @@
 * Use content when downloading nzbs
 * Updated the provider icons & added viceland network logo.
 * Fix "'NoneType' object has no attribute 'indexerid'" when deleting a show when new shows are being added.
-* https://github.com/SickRage/SickRage/commit/[bbd1618](https://github.com/Sick-Rage/Sick-Rage/commit/bbd16184ae6f47d5d260cb08e4dde18cd7c1cd4d)#commitcomment-16505285
+* https://github.com/SickChill/SickChill/commit/[bbd1618](https://github.com/Sick-Rage/Sick-Rage/commit/bbd16184ae6f47d5d260cb08e4dde18cd7c1cd4d)#commitcomment-16505285
 * Fix gingadaddy Fix nzb.su and other providers who don't support tvdbid Use dict for result lists in all torrent providers No need to override get_ratio Fix more get_url calls to use the request hook Fix issue with blank download url when using transmission 2.90+ Fix dupe quality from numDict Sort quality lists Much more
 * Force mimetypes for commonly misconfigured types, ie: when a user has dreamweaver installed Fixes [#1078](https://github.com/SickRage/sickrage-issues/issues/1078)
 * Fix login issue with tvchaosUK, fixes need to double login Fixes [#1077](https://github.com/SickRage/sickrage-issues/issues/1077)
@@ -2140,7 +2140,7 @@
 * Update main.mako ([#2924](https://github.com/Sick-Rage/Sick-Rage/issues/2924))
 * Small adjustment
 * Change cert/key len to 4096 to appease debian
-* Dont enable sickrage background by default
+* Dont enable sickchill background by default
 * fix filelist provider - unknown download link ([#2918](https://github.com/Sick-Rage/Sick-Rage/issues/2918))
 * Fix [#1269](https://github.com/Sick-Rage/Sick-Rage/issues/1269)
 * Fix [#2897](https://github.com/Sick-Rage/Sick-Rage/issues/2897) ([#2910](https://github.com/Sick-Rage/Sick-Rage/issues/2910))
@@ -2166,7 +2166,7 @@
 * Suppress abstract class warning for api classes Rename class names to match pep8 camelCase Call super init correctly
 * Pp adjustments ([#2870](https://github.com/Sick-Rage/Sick-Rage/issues/2870))
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/Sick-Rage/Sick-Rage/issues/2867))
-* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
+* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/Sick-Rage/Sick-Rage/issues/2862))
 * Use 3 digit episode numbers for anime ([#2855](https://github.com/Sick-Rage/Sick-Rage/issues/2855))
 * NZBtoMedia needs updated
 * Switch from getopt to argparse, replaces [#737](https://github.com/Sick-Rage/Sick-Rage/issues/737) ([#2853](https://github.com/Sick-Rage/Sick-Rage/issues/2853))
