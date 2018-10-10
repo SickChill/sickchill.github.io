@@ -1,3 +1,18 @@
+### v2018.10.10-2
+
+[full changelog](https://github.com/Sick-Rage/Sick-Rage/compare/v2018.10.10-1...v2018.10.10-2)
+
+* Update translations (build 9616) [skip ci]
+
+### v2018.10.10-1
+
+[full changelog](https://github.com/Sick-Rage/Sick-Rage/compare/v2018.10.06-2...v2018.10.10-1)
+
+* Typo (!s vs :s)
+* Update db.py
+* Update db.py
+* Update translations (build 9612) [skip ci]
+
 ### v2018.10.06-2
 
 [full changelog](https://github.com/Sick-Rage/Sick-Rage/compare/v2018.10.06-1...v2018.10.06-2)
