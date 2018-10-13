@@ -1,3 +1,9 @@
+### v2018.10.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-1...v2018.10.13-2)
+
+* Update dockerfile
+
 ### v2018.10.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.12-1...v2018.10.13-1)
