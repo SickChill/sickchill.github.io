@@ -1,3 +1,19 @@
+### v2018.10.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.12-1...v2018.10.13-1)
+
+* Compile translations
+* Fix some more references to the wrong URLS.
+
+### v2018.10.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.10-2...v2018.10.12-1)
+
+* Fix travis push
+* Error
+* Grunt
+* Mass renaming, THERE WILL BE A FEW ERRORS
+
 ### v2018.10.10-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.10-1...v2018.10.10-2)
@@ -359,10 +375,10 @@
 * Filter commits in grunt/exec/git_list_changes task ([#3937](https://github.com/SickChill/SickChill/issues/3937))
 * Fix issue with variable in static_url call, add more static calls ([#3921](https://github.com/SickChill/SickChill/issues/3921))
 * Add midgetspy back to copywrite, because echelon sent a DMCA. ([#3938](https://github.com/SickChill/SickChill/issues/3938))
-* Merge pull request [#3923](https://github.com/SickChill/SickChill/issues/3923) from SickChill/lint-js_libs
+* Merge pull request [#3923](https://github.com/SickChill/SickChill/issues/3923) from SickRage/lint-js_libs
 * core.js: Switch .checked on jQuery elements to .is('checked') ([#3926](https://github.com/SickChill/SickChill/issues/3926))
-* Merge pull request [#3922](https://github.com/SickChill/SickChill/issues/3922) from SickChill/lint_js-click-to-on
-* Merge pull request [#3919](https://github.com/SickChill/SickChill/issues/3919) from SickChill/lint_corejs
+* Merge pull request [#3922](https://github.com/SickChill/SickChill/issues/3922) from SickRage/lint_js-click-to-on
+* Merge pull request [#3919](https://github.com/SickChill/SickChill/issues/3919) from SickRage/lint_corejs
 * Docker support ([#3901](https://github.com/SickChill/SickChill/issues/3901))
 * Switched to use sickbeard's TMDB API key. ([#3920](https://github.com/SickChill/SickChill/issues/3920))
 * Swap jshint with xo (+2 more small fixes) ([#3916](https://github.com/SickChill/SickChill/issues/3916))
@@ -583,7 +599,7 @@
 * Allow using an env variable to set changes file path in grunt task
 * Further try and force utf-8 when sending requests to t411, could not test because the api is down right now. [#3418](https://github.com/SickChill/SickChill/issues/3418) ([#3481](https://github.com/SickChill/SickChill/issues/3481))
 * Fix build, test more of browser.py ([#3480](https://github.com/SickChill/SickChill/issues/3480))
-* Rebase sickchill.github.io before push and change main repo back to develop after pushing tags
+* Rebase sickrage.github.io before push and change main repo back to develop after pushing tags
 
 ### v2017.03.24-1
 
@@ -593,7 +609,7 @@
 * Custom CSS ([#3459](https://github.com/SickChill/SickChill/issues/3459))
 * cd to opt first and extra comments for progress ([#3479](https://github.com/SickChill/SickChill/issues/3479))
 * 3359 ([#3475](https://github.com/SickChill/SickChill/issues/3475))
-* Fixes [SickChill/old-sickchill-issues#1494](https://github.com/SickChill/old-sickchill-issues/issues/1494) ([#3473](https://github.com/SickChill/SickChill/issues/3473))
+* Fixes [SickRage/old-sickrage-issues#1494](https://github.com/SickRage/old-sickrage-issues/issues/1494) ([#3473](https://github.com/SickChill/SickChill/issues/3473))
 * Integrate Codecov ([#3461](https://github.com/SickChill/SickChill/issues/3461))
 
 ### v2017.03.22-1
@@ -730,9 +746,9 @@
 * NOTE: Post Processor is still going through changes, this may or may not work well for you.
 * Auto download UnRAR.exe for Windows users (revisited) ([#3354](https://github.com/SickChill/SickChill/issues/3354))
 * Fix delete associated files on rename ([#3343](https://github.com/SickChill/SickChill/issues/3343))
-* SickChill restart adjustments ([#3353](https://github.com/SickChill/SickChill/issues/3353))
+* SickRage restart adjustments ([#3353](https://github.com/SickChill/SickChill/issues/3353))
 * Hotfix unrar on windows. Dont try to download unrar.exe ([#3349](https://github.com/SickChill/SickChill/issues/3349))
-* added explanatory comments to tests/sickchill/show tests ([#3344](https://github.com/SickChill/SickChill/issues/3344))
+* added explanatory comments to tests/sickrage/show tests ([#3344](https://github.com/SickChill/SickChill/issues/3344))
 * Fix [#3317](https://github.com/SickChill/SickChill/issues/3317) - reference addShow parameters by name ([#3337](https://github.com/SickChill/SickChill/issues/3337))
 * Schedule missed episodes ([#3335](https://github.com/SickChill/SickChill/issues/3335))
 * Fix MassUpdate tablesorter ([#3333](https://github.com/SickChill/SickChill/issues/3333))
@@ -943,7 +959,7 @@
 * Update main.mako ([#2924](https://github.com/SickChill/SickChill/issues/2924))
 * Small adjustment
 * Change cert/key len to 4096 to appease debian
-* Dont enable sickchill background by default
+* Dont enable sickrage background by default
 * fix filelist provider - unknown download link ([#2918](https://github.com/SickChill/SickChill/issues/2918))
 * Fix [#1269](https://github.com/SickChill/SickChill/issues/1269)
 * Fix [#2897](https://github.com/SickChill/SickChill/issues/2897) ([#2910](https://github.com/SickChill/SickChill/issues/2910))
@@ -969,7 +985,7 @@
 * Suppress abstract class warning for api classes Rename class names to match pep8 camelCase Call super init correctly
 * Pp adjustments ([#2870](https://github.com/SickChill/SickChill/issues/2870))
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/SickChill/SickChill/issues/2867))
-* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
+* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
 * Use 3 digit episode numbers for anime ([#2855](https://github.com/SickChill/SickChill/issues/2855))
 * NZBtoMedia needs updated
 * Switch from getopt to argparse, replaces [#737](https://github.com/SickChill/SickChill/issues/737) ([#2853](https://github.com/SickChill/SickChill/issues/2853))
@@ -992,7 +1008,7 @@
 
 * Fix nzbToMedia issue by allowing to force being the next item in the queue to run, allows force_clean in nzbtomedia (must update to nzbToMedia nightly to work!)
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/SickChill/SickChill/issues/2867))
-* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
+* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
 * Switch from getopt to argparse, replaces [#737](https://github.com/SickChill/SickChill/issues/737) ([#2853](https://github.com/SickChill/SickChill/issues/2853))
 * fov regex update ([#2851](https://github.com/SickChill/SickChill/issues/2851))
 * Add a test around isRarFile
@@ -1333,7 +1349,7 @@
 * Updated torrentproject to use api magnet ([#1632](https://github.com/SickChill/SickChill/issues/1632))
 * Fix Legendas.tv subtitle provider not showing for some people (stevedore...) Fixes [#1626](https://github.com/SickChill/SickChill/issues/1626)
 * Fixed [#1623](https://github.com/SickChill/SickChill/issues/1623)
-* Fixed [#778](https://github.com/SickChill/sickchill-issues/issues/778)
+* Fixed [#778](https://github.com/SickRage/sickrage-issues/issues/778)
 * Fixed [#1578](https://github.com/SickChill/SickChill/issues/1578)
 * Fixed [#1585](https://github.com/SickChill/SickChill/issues/1585)
 * Removed phxbit, no longer exists ([#1605](https://github.com/SickChill/SickChill/issues/1605))
@@ -1347,7 +1363,7 @@
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.04.17-1...v2016.04.17-2)
 
 * Update translations
-* Move github setup out of sickbeard init to sickchill.common.helper, so a restart isnt required after entering github credentials ([#1533](https://github.com/SickChill/SickChill/issues/1533))
+* Move github setup out of sickbeard init to sickrage.common.helper, so a restart isnt required after entering github credentials ([#1533](https://github.com/SickChill/SickChill/issues/1533))
 * Fanart background in displayShow ([#1531](https://github.com/SickChill/SickChill/issues/1531))
 * Change level of all loggers when enabling debug, so a restart isnt required! ([#1529](https://github.com/SickChill/SickChill/issues/1529))
 
@@ -1392,7 +1408,7 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.04.11-2...v2016.04.12-1)
 
-* Merge pull request [#1469](https://github.com/SickChill/SickChill/issues/1469) from SickChill/neoatomic-develop
+* Merge pull request [#1469](https://github.com/SickChill/SickChill/issues/1469) from SickRage/neoatomic-develop
 * Update translations, add en_GB translation
 * Fix a few syntax errors in mako embedded python Fix manageSearches page syntax error for translatable string and clean it up some
 * Some additions for the translations.
@@ -1463,7 +1479,7 @@
 * Ditch hachoir for purpose of parsing screen height of files when guessing quality, rolled my own avi WxH implementation and use enzyme for mkv
 * Add test to make sure providers return results in the proper format and valid values
 * Fix TorrentProject requesting trackers with no hash and cure ddos by only requesting when less than 3 seeds, almost dead torrents
-* Partial Dutch Translation for SickChill
+* Partial Dutch Translation for Sickrage
 * Make sure show specific req/ignored words exist before trying to split them
 * Cassettes and tests for public providers' search parsing.
 * Must explicitly cast basestrings to int before using int based format specifiers
@@ -1505,11 +1521,11 @@
 * Fix tuple index out of range
 * Make "Available Groups" sort by alphabetical order
 * Fix typo from unicode_literals regexing...
-* Disable OneRun wrapper for PP, we need a better solution Fixes [#1282](https://github.com/SickChill/SickChill/issues/1282) [#1389](https://github.com/SickChill/sickchill-issues/issues/1389)
+* Disable OneRun wrapper for PP, we need a better solution Fixes [#1282](https://github.com/SickChill/SickChill/issues/1282) [#1389](https://github.com/SickRage/sickrage-issues/issues/1389)
 ...
 * Handle when hash or size are missing
 * Fix error with multiple search results per provider Thanks @p0psicles
-[#1390](https://github.com/SickChill/sickchill-issues/issues/1390)
+[#1390](https://github.com/SickRage/sickrage-issues/issues/1390)
 * Add debian/ubuntu install script contributed by @DirtyCajunRice
 * Make sure df returns 1k blocks without the K suffix
 * These arent coding errors, whoever made them logger.ERROR should be swatted Fixes [#1263](https://github.com/SickChill/SickChill/issues/1263)
@@ -1530,12 +1546,12 @@
 * Use cookie auth for DSM Show error messages for error codes returned from DSM according to DSM docs Check DSM version, and fix the download location if it is absolute on DSM6
 * Fix transmission test connection Replaces [#1247](https://github.com/SickChill/SickChill/issues/1247)
 * Remove alt.binaries.teevee from binsearch provider (no longer exists) Fixes [#1238](https://github.com/SickChill/SickChill/issues/1238)
-* Change code back to use original bencode Fix some logs Fixes wrong torrent hash calculation (labels sometimes not working in utorrent) Fixes [#1235](https://github.com/SickChill/SickChill/issues/1235) [#1203](https://github.com/SickChill/SickChill/issues/1203) [#1375](https://github.com/SickChill/sickchill-issues/issues/1375)
+* Change code back to use original bencode Fix some logs Fixes wrong torrent hash calculation (labels sometimes not working in utorrent) Fixes [#1235](https://github.com/SickChill/SickChill/issues/1235) [#1203](https://github.com/SickChill/SickChill/issues/1203) [#1375](https://github.com/SickRage/sickrage-issues/issues/1375)
 * Comment lines that cause most errors with bdecode
 * Switch back to official libtorrent bencoder
 * Update snyk Use .on('click'... instead of .click(... syntax in js Set a default value for downCurQuality in retryEpisode Use the callback in $.post in js to make sure the reload is after the post finishes, otherwise the reload is before eg. the episode status has changed
-* Fix indice error when no results in an omgwtfnzbs search Fixes [#1380](https://github.com/SickChill/sickchill-issues/issues/1380) Fixes [#1225](https://github.com/SickChill/SickChill/issues/1225)
-* Dont warn saying incorrect passkey for shazbat when it has no results Fixes [#283](https://github.com/SickChill/sickchill-issues/issues/283)
+* Fix indice error when no results in an omgwtfnzbs search Fixes [#1380](https://github.com/SickRage/sickrage-issues/issues/1380) Fixes [#1225](https://github.com/SickChill/SickChill/issues/1225)
+* Dont warn saying incorrect passkey for shazbat when it has no results Fixes [#283](https://github.com/SickRage/sickrage-issues/issues/283)
 * showDir is utf-8 when addExisting shows Fixes [#1229](https://github.com/SickChill/SickChill/issues/1229)
 * Fix Seeders and Leechers on TtN
 * Add a few more non release groups
@@ -1551,12 +1567,12 @@
 * Use cookie auth for DSM Show error messages for error codes returned from DSM according to DSM docs Check DSM version, and fix the download location if it is absolute on DSM6
 * Fix transmission test connection Replaces [#1247](https://github.com/SickChill/SickChill/issues/1247)
 * Remove alt.binaries.teevee from binsearch provider (no longer exists) Fixes [#1238](https://github.com/SickChill/SickChill/issues/1238)
-* Change code back to use original bencode Fix some logs Fixes wrong torrent hash calculation (labels sometimes not working in utorrent) Fixes [#1235](https://github.com/SickChill/SickChill/issues/1235) [#1203](https://github.com/SickChill/SickChill/issues/1203) [#1375](https://github.com/SickChill/sickchill-issues/issues/1375)
+* Change code back to use original bencode Fix some logs Fixes wrong torrent hash calculation (labels sometimes not working in utorrent) Fixes [#1235](https://github.com/SickChill/SickChill/issues/1235) [#1203](https://github.com/SickChill/SickChill/issues/1203) [#1375](https://github.com/SickRage/sickrage-issues/issues/1375)
 * Comment lines that cause most errors with bdecode
 * Switch back to official libtorrent bencoder
 * Update snyk Use .on('click'... instead of .click(... syntax in js Set a default value for downCurQuality in retryEpisode Use the callback in $.post in js to make sure the reload is after the post finishes, otherwise the reload is before eg. the episode status has changed
-* Fix indice error when no results in an omgwtfnzbs search Fixes [#1380](https://github.com/SickChill/sickchill-issues/issues/1380) Fixes [#1225](https://github.com/SickChill/SickChill/issues/1225)
-* Dont warn saying incorrect passkey for shazbat when it has no results Fixes [#283](https://github.com/SickChill/sickchill-issues/issues/283)
+* Fix indice error when no results in an omgwtfnzbs search Fixes [#1380](https://github.com/SickRage/sickrage-issues/issues/1380) Fixes [#1225](https://github.com/SickChill/SickChill/issues/1225)
+* Dont warn saying incorrect passkey for shazbat when it has no results Fixes [#283](https://github.com/SickRage/sickrage-issues/issues/283)
 * showDir is utf-8 when addExisting shows Fixes [#1229](https://github.com/SickChill/SickChill/issues/1229)
 * Update btn.py
 * Fix web_root prepend for redirects.
@@ -1565,8 +1581,8 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.03.22-1...v2016.03.23-1)
 
-* Quantified code, please dont force format tokens to strings, lol Fixes [#1370](https://github.com/SickChill/sickchill-issues/issues/1370)
-* Show how many characters the url has exceeded the limit in the alert when operating on too many shows [#1203](https://github.com/SickChill/sickchill-issues/issues/1203)#issuecomment-200097373
+* Quantified code, please dont force format tokens to strings, lol Fixes [#1370](https://github.com/SickRage/sickrage-issues/issues/1370)
+* Show how many characters the url has exceeded the limit in the alert when operating on too many shows [#1203](https://github.com/SickRage/sickrage-issues/issues/1203)#issuecomment-200097373
 * Pass true to loaction.reload, to ensure it doesnt reload from cache Fixes [#1202](https://github.com/SickChill/SickChill/issues/1202)
 * Clean up generic client and utorrent client use unicode_literals and str.format()
 
@@ -1575,15 +1591,15 @@
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.03.20-1...v2016.03.22-1)
 
 * Use unicode_literals in show_queue Use str.format() Lint, and fix some funkyness Normalize text between ui notifications and logger
-* Send verify=False for sab requests Fixes [#1201](https://github.com/SickChill/sickchill-issues/issues/1201)
+* Send verify=False for sab requests Fixes [#1201](https://github.com/SickRage/sickrage-issues/issues/1201)
 * add number index to string format replacements, normalize the search string log line
 * match bs4 search results by direct parameter rather than attrs=
 * Use bs4 objects as a method instead of explicitly calling findAll/find_all for shorter code
 * Remove unnecessary cookielib
 * Unify requests exception handling
-* Unicode literals for common, helpers, naming, and tv Fixes [#1340](https://github.com/SickChill/sickchill-issues/issues/1340)
-* Disable SSL verify in t411 since their cert does not match Fixes [#1341](https://github.com/SickChill/sickchill-issues/issues/1341)
-* Only encode potential extra script params if there is actually a script to run Add some try/except. Might need one to catch the execv error Fixes [#1237](https://github.com/SickChill/sickchill-issues/issues/1237)
+* Unicode literals for common, helpers, naming, and tv Fixes [#1340](https://github.com/SickRage/sickrage-issues/issues/1340)
+* Disable SSL verify in t411 since their cert does not match Fixes [#1341](https://github.com/SickRage/sickrage-issues/issues/1341)
+* Only encode potential extra script params if there is actually a script to run Add some try/except. Might need one to catch the execv error Fixes [#1237](https://github.com/SickRage/sickrage-issues/issues/1237)
 * Modified itasa provvider for better scores
 
 ### v2016.03.20-1
@@ -1598,7 +1614,7 @@
 * Avoid mutable defaults for method parameters
 * Avoid using `len(x)` to check if x is empty
 * Remove funkyness with torrentday, untested
-* Hacky fix for 11.22.63, the warning was never really an error anyways, just a warning on one of the regex iterations that it didnt match to Fixes [#1221](https://github.com/SickChill/sickchill-issues/issues/1221)
+* Hacky fix for 11.22.63, the warning was never really an error anyways, just a warning on one of the regex iterations that it didnt match to Fixes [#1221](https://github.com/SickRage/sickrage-issues/issues/1221)
 * Only show commit hash for ERROR log lines
 * Update nzbtomedia reference to V10.14
 * Update requests to 2.9.1
@@ -1615,18 +1631,18 @@
 * Change NMA URL
 * Show commit hash and branch even if we dont know the tag number (source installs especially)
 * Fix download link on transmithenet
-* Try again for 1086 Fixes [SickChill/sickchill-issues#1086](https://github.com/SickChill/sickchill-issues/issues/1086)
+* Try again for 1086 Fixes [SickRage/sickrage-issues#1086](https://github.com/SickRage/sickrage-issues/issues/1086)
 * Cleanup sickbeard.\_\_init\_\_ to remove some global keywords and write out the config nicer
 * If adding existing shows, and you have a show in your list with a missing show dir, re-use the existing show object in the db and update it's info rather than skipping it
 * Add limit for massupdate url generated by js
 * Limit url length generated by addExisting with an ugly js alert =P Temporary solution
-* Fixes [#1198](https://github.com/SickChill/sickchill-issues/issues/1198)
+* Fixes [#1198](https://github.com/SickRage/sickrage-issues/issues/1198)
 * Switch bencode implementation, using https://pypi.python.org/pypi/python-bencode
 * update dateutil to d05b837
 * Remove some spamminous logging from name_cache, db upgrade checks, and setter sets location (tv.py) Cleanup db.py
 * Add missing ITASA globals in sickbeard.\_\_init\_\_
 * Some changes to nw timezones, hopefully will make it more reliable.
-* Encode file path and episode location to SYS_ENCODING (usually utf-8) before calling popen Fixes [#1086](https://github.com/SickChill/sickchill-issues/issues/1086)
+* Encode file path and episode location to SYS_ENCODING (usually utf-8) before calling popen Fixes [#1086](https://github.com/SickRage/sickrage-issues/issues/1086)
 * Add .pullapprove.yml
 * Added ItaSA subtitle provider
 
@@ -1634,41 +1650,41 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.03.05-1...v2016.03.10-1)
 
-* Don't save filter_Rows state through page refreshes Fixes [#1177](https://github.com/SickChill/sickchill-issues/issues/1177)
+* Don't save filter_Rows state through page refreshes Fixes [#1177](https://github.com/SickRage/sickrage-issues/issues/1177)
 * No need to specify timezone in datetime.now() in the footer
 * Newznab provider handles show id internally now, and rid is no longer used, so this is stray code that does nothing
 * Use a better module property name for hachoir's log
-* log ERROR=>DEBUG when show is already being updated and attempted to be done again Fixes [#1165](https://github.com/SickChill/sickchill-issues/issues/1165)
-* Fix commit hash update notifications when using source install. Fixes [#1118](https://github.com/SickChill/sickchill-issues/issues/1118)
-* Fix auth header for pushbullet [#1118](https://github.com/SickChill/sickchill-issues/issues/1118)
+* log ERROR=>DEBUG when show is already being updated and attempted to be done again Fixes [#1165](https://github.com/SickRage/sickrage-issues/issues/1165)
+* Fix commit hash update notifications when using source install. Fixes [#1118](https://github.com/SickRage/sickrage-issues/issues/1118)
+* Fix auth header for pushbullet [#1118](https://github.com/SickRage/sickrage-issues/issues/1118)
 * Add custom notification email subject
 * Fix WEB-DL and WEB-Rip detections * Optimize regex * Add WEB detection * Add DLMux detection
-* Use sickchill.github.io for url to the icon, instead of rawgit
+* Use sickrage.github.io for url to the icon, instead of rawgit
 * Add icon and app name to boxcar notification
 * Boxcar2, use requests, unicode literals, str.format
 * Oops, need to send the session to getURL
 * Rework pushbullet, might need some message improvements
-* Rework pushalot notifier Fixes [#1034](https://github.com/SickChill/sickchill-issues/issues/1034)
+* Rework pushalot notifier Fixes [#1034](https://github.com/SickRage/sickrage-issues/issues/1034)
 * update dateutil to c2c9700
 * Fix NoneType for CUR_COMMIT_HASH error when github is not available
 * Updated "Sync File Extension" list for qBittorrent
-* Fix typo in TTN Fixes [#1112](https://github.com/SickChill/sickchill-issues/issues/1112)
+* Fix typo in TTN Fixes [#1112](https://github.com/SickRage/sickrage-issues/issues/1112)
 * Use request hook for download_file in providers, until we can be sure sessions are working correctly
-* Don't require TLD with validators for providers that may be local (bitcannon, torznab, newznab) Fixes [#1117](https://github.com/SickChill/sickchill-issues/issues/1117)
+* Don't require TLD with validators for providers that may be local (bitcannon, torznab, newznab) Fixes [#1117](https://github.com/SickRage/sickrage-issues/issues/1117)
 * Rework how session and request parameters are handled Prevents residual params in the session Prevents session getting stuck in stream mode Allows ssl_verify to be disabled without a restart Allows passing verify as a kwarg to disable it on a per request basis Allows passing headers without contaminating the session Removes old code from glype that was poisoning the session/headers/proxies
 * Add setup.py and tox
 * Add better test coverage to GenericProvider
-* Fixes [SickChill/sickchill-issues#1115](https://github.com/SickChill/sickchill-issues/issues/1115)
+* Fixes [SickRage/sickrage-issues#1115](https://github.com/SickRage/sickrage-issues/issues/1115)
 * Clean up scheduler thread formatting in `sickbeard.\_\_init\_\_` Set show updater to cycle time 1hr again, see if that fixes it not running Delay start of most threads at least a minute or two after startup Fix bug adding cycle time to last_run
 * Make show filter on poster view case insensitive match.
 * Add anime category for bluetiger provider
-* Add code to send email on remote login and sickchill updates Use unicode literals Use str.format
+* Add code to send email on remote login and sickrage updates Use unicode literals Use str.format
 * Fix network timezone reporting
-* Refresh show from dir even when it hasnt been updated on tvdb, but do not rebuild metadata (force=False) Fixes [#1089](https://github.com/SickChill/sickchill-issues/issues/1089)
-* Don't error when show was already removed from trakt or never was on trakt. Fixes [#1038](https://github.com/SickChill/sickchill-issues/issues/1038)
+* Refresh show from dir even when it hasnt been updated on tvdb, but do not rebuild metadata (force=False) Fixes [#1089](https://github.com/SickRage/sickrage-issues/issues/1089)
+* Don't error when show was already removed from trakt or never was on trakt. Fixes [#1038](https://github.com/SickRage/sickrage-issues/issues/1038)
 * Fix errant nzbget string after converting strings
 * Fix searching tvdb to add shows when result contains a result that has no firstaired set. Clean up sickbeard.classes
-* pre-sort qualities for quality list Fixes [#1087](https://github.com/SickChill/sickchill-issues/issues/1087)
+* pre-sort qualities for quality list Fixes [#1087](https://github.com/SickRage/sickrage-issues/issues/1087)
 * Hotfix dateutil error for timezone names on Windows
 * Fix error where sometimes client did not log into the provider before downloading a torrent or nzb Fix error where sab was calling an undefined method Switch sab code over to completelt requests Pass returns= in all calls to get_url Remove json= and need_bytes= params from getURL and get_url Cleaner \_\_str\_\_ for search result class Remove some dupe logging
 
@@ -1679,12 +1695,12 @@
 * Use content when downloading nzbs
 * Updated the provider icons & added viceland network logo.
 * Fix "'NoneType' object has no attribute 'indexerid'" when deleting a show when new shows are being added.
-* https://github.com/SickChill/SickChill/commit/[bbd1618](https://github.com/SickChill/SickChill/commit/bbd16184ae6f47d5d260cb08e4dde18cd7c1cd4d)#commitcomment-16505285
+* https://github.com/SickRage/SickRage/commit/[bbd1618](https://github.com/SickChill/SickChill/commit/bbd16184ae6f47d5d260cb08e4dde18cd7c1cd4d)#commitcomment-16505285
 * Fix gingadaddy Fix nzb.su and other providers who don't support tvdbid Use dict for result lists in all torrent providers No need to override get_ratio Fix more get_url calls to use the request hook Fix issue with blank download url when using transmission 2.90+ Fix dupe quality from numDict Sort quality lists Much more
-* Force mimetypes for commonly misconfigured types, ie: when a user has dreamweaver installed Fixes [#1078](https://github.com/SickChill/sickchill-issues/issues/1078)
-* Fix login issue with tvchaosUK, fixes need to double login Fixes [#1077](https://github.com/SickChill/sickchill-issues/issues/1077)
+* Force mimetypes for commonly misconfigured types, ie: when a user has dreamweaver installed Fixes [#1078](https://github.com/SickRage/sickrage-issues/issues/1078)
+* Fix login issue with tvchaosUK, fixes need to double login Fixes [#1077](https://github.com/SickRage/sickrage-issues/issues/1077)
 * Update dateutil to 2.5.0 with updated zoneinfo
-* Fix tvchaosuk, there is one persistent cookie for CF, then totals 4 cookies when authed Fix tntvillage login, has 3 cookies when logged in. RSS search still disabled in this provider Fixes [#1072](https://github.com/SickChill/sickchill-issues/issues/1072)
+* Fix tvchaosuk, there is one persistent cookie for CF, then totals 4 cookies when authed Fix tntvillage login, has 3 cookies when logged in. RSS search still disabled in this provider Fixes [#1072](https://github.com/SickRage/sickrage-issues/issues/1072)
 * Update T411 domain name
 * Change UA for statistical reasons
 * Every request in SR was re-initializing the cache, so no request was honoring cachecontrol (like, ever) This is probably why caching to disk was causing breakage, and also why we are spamming xem.
@@ -1704,9 +1720,9 @@
 * Disable show update on start until it can be improved
 * Gui had wrong replacement chars for scene numbers in renamer
 * fix: Danishbits provider now works again
-* Fixes [#1046](https://github.com/SickChill/sickchill-issues/issues/1046)
-* Use a decorator to prevent processing a dir more than once at a time, regardless of caller Fixes [#1028](https://github.com/SickChill/sickchill-issues/issues/1028)
-* Fixes [#1042](https://github.com/SickChill/sickchill-issues/issues/1042) Fixes touchFile to use ek and check file exists
+* Fixes [#1046](https://github.com/SickRage/sickrage-issues/issues/1046)
+* Use a decorator to prevent processing a dir more than once at a time, regardless of caller Fixes [#1028](https://github.com/SickRage/sickrage-issues/issues/1028)
+* Fixes [#1042](https://github.com/SickRage/sickrage-issues/issues/1042) Fixes touchFile to use ek and check file exists
 * Disable auto pp when postpone if no subs
 * Fixes url encoded censored items in logs not being censored.
 * Plex: Always return True when getting auth token if username/password aren't configured
@@ -1718,7 +1734,7 @@
 * Delete unwanted subtitles
 * Check if sub is enabled before postpone
 * update bower_concat
-* Revert "Fix SickChill/sickchill-issues/issues/813"
+* Revert "Fix SickRage/sickrage-issues/issues/813"
 * Show refresh/update should have high priority
 * Force "Subtitles Multi-Language" if more than one wanted subtitle language
 * Subtitle language exceptions as Dict
@@ -1750,16 +1766,16 @@
 * Fix searches with ABNormal Replace double quotes with single quotes as per our decided convention
 * Catch shutil errors and proper display as error/warning
 * Create gists as secret instead of public
-* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickChill/sickchill-issues/issues/235)#issuecomment-185068695
+* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickRage/sickrage-issues/issues/235)#issuecomment-185068695
 * Add "(musicbolt.com)" to removewordslist
-* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickChill/sickchill-issues/issues/235)#issuecomment-185068695
+* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickRage/sickrage-issues/issues/235)#issuecomment-185068695
 * Pass params through getRSSFeeds to get_url instead of urlencode Update string quotes, u prefix removal and unicode literals for bunsearch, nyaa, omg, rsstorrents, shazbat, womble Clean up and improve those providers
 * Add option to ini to allow PMS update without token or user/pass when you dont require authentication config.ini only option for now
 * Use provider's get_url for getting rss feeds instead of urllib/httplib2 Fixes bozo, and removes old code Normalizes logging
 * Update contributing.md
 * Dont run FINDSUBTITLES thread right on SR start
 * Allow passing arguments future= and past= for range of weeks from today to add to the webcal http://localhost:8081/calendar?past=2&future=3 both default to 52
-* Handle float log sizes Increase default log size to 10MB to reduce rolling over Fix SickChill/sickchill-issues/issues/892 Replaces [#1027](https://github.com/SickChill/SickChill/issues/1027)
+* Handle float log sizes Increase default log size to 10MB to reduce rolling over Fix SickRage/sickrage-issues/issues/892 Replaces [#1027](https://github.com/SickChill/SickChill/issues/1027)
 * Fix typo preventing confirm modal not showing before submitting errors
 * RARBG:
   - Show api error messages
@@ -1835,15 +1851,15 @@
 * Standardize string formatting
 * Standardize strings to use single-quotes
 * Import urlencode from requests.compat instead
-* Clean up airdate modify timestamp handling and make sure exceptions are caught. Fixes [#914](https://github.com/SickChill/sickchill-issues/issues/914)
-* Make sure etree always adds xml declaration for mede8er and specify encoding explicitly Trying to fix [#862](https://github.com/SickChill/sickchill-issues/issues/862)
+* Clean up airdate modify timestamp handling and make sure exceptions are caught. Fixes [#914](https://github.com/SickRage/sickrage-issues/issues/914)
+* Make sure etree always adds xml declaration for mede8er and specify encoding explicitly Trying to fix [#862](https://github.com/SickRage/sickrage-issues/issues/862)
 * Import urlencode from requests.compat instead of urllib
 * Allow file globs in "Sync File Extensions" setting to postpone postprocessing
 * Remove old_scene_quality Remove quality assertion Refactor sceneQuality => scene_quality Fix anime bluray detection
 * Fix getURL calls to use `returns` argument
 * Append show name to show search strings regardless of searched season
 * Append show name to show search strings regardless of searched season
-* Fix logging when result is None fixes SickChill/sickchill-issues/issues/902
+* Fix logging when result is None fixes SickRage/sickrage-issues/issues/902
 * Fix getURL log entry should be debug
 * Fix apikey shown in log when = is urlencoded as %3D
 * Add URL logging to GenericProvider.get_url
@@ -1851,25 +1867,25 @@
 * Don't limit allowed extensions to 3 chars
 * Reduce subtitle score to match only Series, Season, Episode and Year
 * fixed, Newznab cats that are disabled, shouldn't be shown in configure options tab.
-* Fail gracefully and continue PP when setting file timestamp to airdate chokes Fixes [#269](https://github.com/SickChill/sickchill-issues/issues/269)
+* Fail gracefully and continue PP when setting file timestamp to airdate chokes Fixes [#269](https://github.com/SickRage/sickrage-issues/issues/269)
 * Allow changing categories for defautl newznab providers. Caveat: They are on the "Custom Newznab Providers" tab where you change the categories, until the js can be fixed
 * Need to use generic exceptions for all seasons, not just season 1
 * Need to use generic exceptions for all seasons, not just season 1
 * Filter scene exceptions a bit different
 * Fromstring is already the tree root -.-
-* Explicitly encode in the exception raises for name parser Partial issue of [#12](https://github.com/SickChill/sickchill-issues/issues/12)
+* Explicitly encode in the exception raises for name parser Partial issue of [#12](https://github.com/SickRage/sickrage-issues/issues/12)
 * Must use etree.fromstring instead of etree.parse since its a string instead of a stream now in PMS
-* Must check if generic exceptions are in the exceptionList already before appending them. Fixes [#852](https://github.com/SickChill/sickchill-issues/issues/852)
+* Must check if generic exceptions are in the exceptionList already before appending them. Fixes [#852](https://github.com/SickRage/sickrage-issues/issues/852)
 * Add explanation about subliminal score math
 * Don't show CC button for 'snatched' episodes that used to be 'downloaded' but failed
-* Fix SickChill/sickchill-issues/issues/824
+* Fix SickRage/sickrage-issues/issues/824
 
 ### v2016.02.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.02.16-1...v2016.02.22-1)
 
-* Use a decorator to prevent processing a dir more than once at a time, regardless of caller Fixes [#1028](https://github.com/SickChill/sickchill-issues/issues/1028)
-* Fixes [#1042](https://github.com/SickChill/sickchill-issues/issues/1042) Fixes touchFile to use ek and check file exists
+* Use a decorator to prevent processing a dir more than once at a time, regardless of caller Fixes [#1028](https://github.com/SickRage/sickrage-issues/issues/1028)
+* Fixes [#1042](https://github.com/SickRage/sickrage-issues/issues/1042) Fixes touchFile to use ek and check file exists
 * Disable auto pp when postpone if no subs
 * Fixes url encoded censored items in logs not being censored.
 * Plex: Always return True when getting auth token if username/password aren't configured
@@ -1903,7 +1919,7 @@
 * Catch shutil errors and proper display as error/warning
 * Create gists as secret instead of public
 * Add "(musicbolt.com)" to removewordslist
-* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickChill/sickchill-issues/issues/235)#issuecomment-185068695
+* Fixes detection of "nothing found" when search result set is empty for torrentbytes. Fix [#235](https://github.com/SickRage/sickrage-issues/issues/235)#issuecomment-185068695
 * Pass params through getRSSFeeds to get_url instead of urlencode Update string quotes, u prefix removal and unicode literals for bunsearch, nyaa, omg, rsstorrents, shazbat, womble Clean up and improve those providers
 
 ### v2016.02.16-1
@@ -1915,7 +1931,7 @@
 * Update contributing.md
 * Dont run FINDSUBTITLES thread right on SR start
 * Allow passing arguments future= and past= for range of weeks from today to add to the webcal http://localhost:8081/calendar?past=2&future=3 both default to 52
-* Handle float log sizes Increase default log size to 10MB to reduce rolling over Fix SickChill/sickchill-issues/issues/892 Replaces [#1027](https://github.com/SickChill/SickChill/issues/1027)
+* Handle float log sizes Increase default log size to 10MB to reduce rolling over Fix SickRage/sickrage-issues/issues/892 Replaces [#1027](https://github.com/SickChill/SickChill/issues/1027)
 * Fix typo preventing confirm modal not showing before submitting errors
 * RARBG:
   - Show api error messages
@@ -1977,16 +1993,16 @@
 * Update search string and mode log line for all providers
 * Add lib/validators to be used with custom_urls and email and ip validation of user input and other places
 * Import urlencode from requests.compat instead
-* Clean up airdate modify timestamp handling and make sure exceptions are caught. Fixes [#914](https://github.com/SickChill/sickchill-issues/issues/914)
-* Make sure etree always adds xml declaration for mede8er and specify encoding explicitly Trying to fix [#862](https://github.com/SickChill/sickchill-issues/issues/862)
+* Clean up airdate modify timestamp handling and make sure exceptions are caught. Fixes [#914](https://github.com/SickRage/sickrage-issues/issues/914)
+* Make sure etree always adds xml declaration for mede8er and specify encoding explicitly Trying to fix [#862](https://github.com/SickRage/sickrage-issues/issues/862)
 * Allow file globs in "Sync File Extensions" setting to postpone postprocessing
 * Remove old_scene_quality Remove quality assertion Refactor sceneQuality => scene_quality Fix anime bluray detection
 * Append show name to show search strings regardless of searched season
-* Fix logging when result is None fixes SickChill/sickchill-issues/issues/902
+* Fix logging when result is None fixes SickRage/sickrage-issues/issues/902
 * Fix apikey shown in log when = is urlencoded as %3D
 * Don't limit allowed extensions to 3 chars in post processor
 * Reduce subtitle score to match only Series, Season, Episode and Year
-* Fail gracefully and continue PP when setting file timestamp to airdate chokes Fixes [#269](https://github.com/SickChill/sickchill-issues/issues/269)
+* Fail gracefully and continue PP when setting file timestamp to airdate chokes Fixes [#269](https://github.com/SickRage/sickrage-issues/issues/269)
 * Allow changing categories for default newznab providers. Caveat: They are on the "Custom Newznab Providers" tab where you change the categories, until the js can be fixed
 * Use generic exceptions for all seasons, not just season 1
 
@@ -1994,17 +2010,17 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2016.02.10-1...v2016.02.11-1)
 
-* Explicitly encode in the exception raises for name parser Partial issue of [#12](https://github.com/SickChill/sickchill-issues/issues/12)
-* Must check if generic exceptions are in the exceptionList already before appending them. Fixes [#852](https://github.com/SickChill/sickchill-issues/issues/852)
+* Explicitly encode in the exception raises for name parser Partial issue of [#12](https://github.com/SickRage/sickrage-issues/issues/12)
+* Must check if generic exceptions are in the exceptionList already before appending them. Fixes [#852](https://github.com/SickRage/sickrage-issues/issues/852)
 * Add explanation about subliminal score math
 * Don't show CC button for 'snatched' episodes that used to be 'downloaded' but failed
-* Fix SickChill/sickchill-issues/issues/824
+* Fix SickRage/sickrage-issues/issues/824
 * Added network logo's  for RMC decouverte and UP TV.
 * Use .eu for podnapisi
 * Fix cyclic dependancy in notifiers so we can use helpers, clean up some crazy
 * Updated subliminal develop (864ecf4) and legendastv provider, adjusted scores for subtitles
 * Rewrite a good bit of plex notifier to use requests and maintain headers
-* Fix download url generation in alpharatio, danishbits, gft, speed.cd Fixes [#818](https://github.com/SickChill/sickchill-issues/issues/818)
+* Fix download url generation in alpharatio, danishbits, gft, speed.cd Fixes [#818](https://github.com/SickRage/sickrage-issues/issues/818)
 * Fix anime bluray qualities
 
 ### v2016.02.10-1
@@ -2027,7 +2043,7 @@
 * Dont pass q on rss update, use sickbeard.USENET_RETENTION directly regardless of mode
 * Set search string for subsequent scene exceptions after tvdbid has been popped
 * Fix provider log message by decoding to utf-8 instead
-* Fix daily search in ABNormal.ws Fixes [#768](https://github.com/SickChill/sickchill-issues/issues/768)
+* Fix daily search in ABNormal.ws Fixes [#768](https://github.com/SickRage/sickrage-issues/issues/768)
 
 ### v2016.02.08-1
 
@@ -2039,7 +2055,7 @@
 * Add 5020 (foreign) to default newznab providers (and some missing nzbs.org cats)
 * Fix Unicode decoding errors in newznab logging and ex
 * Display exception text from NameParser in validateDir
-* Fix for nzb indexers who dont support tvdbid or happen to have missed a tvdbid mapping for some shows/episodes. Fixes [#667](https://github.com/SickChill/sickchill-issues/issues/667) Fixes [#782](https://github.com/SickChill/sickchill-issues/issues/782)
+* Fix for nzb indexers who dont support tvdbid or happen to have missed a tvdbid mapping for some shows/episodes. Fixes [#667](https://github.com/SickRage/sickrage-issues/issues/667) Fixes [#782](https://github.com/SickRage/sickrage-issues/issues/782)
 * Fix "No processable items found in folder" by building name cache on startup... /slap miigotu and his miibugs
 * Change config mako for nzb also
 * Swap settings order "Alternate search mode as fallback is fine" and "Season search mode"
@@ -2052,7 +2068,7 @@
 * Use div or span when using css to apply an image, not an img tag
 * Change width of infoTable to 100% in config.mako
 * Revert "Fetch only current branch. Not all branches"
-* Make sure - is at the end of character groups in regex to avoid future mistakes, even if they arent preceeded by another char Add , as a seperator between episode and extra_info for normal regex Fixes [#771](https://github.com/SickChill/sickchill-issues/issues/771)
+* Make sure - is at the end of character groups in regex to avoid future mistakes, even if they arent preceeded by another char Add , as a seperator between episode and extra_info for normal regex Fixes [#771](https://github.com/SickRage/sickrage-issues/issues/771)
 * Fix schedule so it doesnt bork when db upgrade
 * Remove the rest of the unnecessary len() in if's Rework the find_search_results a bit to use scene numbers depending if the show is scene or not to determine if the result matches or should be skipped, it was quite iffy, and still is.
 * Fix bug that caused plex server/client password to be set to all * when saving notifications if you did not type them in after loading the page
@@ -2072,7 +2088,7 @@
 * Updated guessit (28b6789)
 * Updated rebulk (68a4588)
 * Updated legendastv provider. Fixed a few things in subtitles.py
-* Improve bitcannon provider Fixes [#763](https://github.com/SickChill/sickchill-issues/issues/763)
+* Improve bitcannon provider Fixes [#763](https://github.com/SickRage/sickrage-issues/issues/763)
 * Re-enable cachecontrol, except use it in memory
 * Fix testing providers search types manually
 * Rework tvchaosuk and fix daily search
@@ -2086,7 +2102,7 @@
 * Removed duplicate/unused css code.
 * Fix bug in PP where rar'd files would say there were no processable items found in folder after extraction
 * Fix typeError breaking backlog/manual/failed searches
-* Fixes [#736](https://github.com/SickChill/sickchill-issues/issues/736)
+* Fixes [#736](https://github.com/SickRage/sickrage-issues/issues/736)
 * Add editorconfig
 * Dont show traceback if error sending torrent
 * Dont clear old snatch history in failed.db, see if that fixes some issues with fdh
@@ -2140,7 +2156,7 @@
 * Update main.mako ([#2924](https://github.com/SickChill/SickChill/issues/2924))
 * Small adjustment
 * Change cert/key len to 4096 to appease debian
-* Dont enable sickchill background by default
+* Dont enable sickrage background by default
 * fix filelist provider - unknown download link ([#2918](https://github.com/SickChill/SickChill/issues/2918))
 * Fix [#1269](https://github.com/SickChill/SickChill/issues/1269)
 * Fix [#2897](https://github.com/SickChill/SickChill/issues/2897) ([#2910](https://github.com/SickChill/SickChill/issues/2910))
@@ -2166,7 +2182,7 @@
 * Suppress abstract class warning for api classes Rename class names to match pep8 camelCase Call super init correctly
 * Pp adjustments ([#2870](https://github.com/SickChill/SickChill/issues/2870))
 * Fix some queue task initialization issues, add new param to the PP task to force return result of the task, currently disabled ([#2867](https://github.com/SickChill/SickChill/issues/2867))
-* Fix [#2659](https://github.com/SickChill/SickChill/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
+* Fix [#2659](https://github.com/SickRage/SickRage/issues/2659) ([#2862](https://github.com/SickChill/SickChill/issues/2862))
 * Use 3 digit episode numbers for anime ([#2855](https://github.com/SickChill/SickChill/issues/2855))
 * NZBtoMedia needs updated
 * Switch from getopt to argparse, replaces [#737](https://github.com/SickChill/SickChill/issues/737) ([#2853](https://github.com/SickChill/SickChill/issues/2853))
