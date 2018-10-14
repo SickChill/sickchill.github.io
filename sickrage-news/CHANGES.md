@@ -1,3 +1,18 @@
+### v2018.10.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-6...v2018.10.14-1)
+
+* Update app id for rarbg
+* Add Indonesian translation option
+* Revert "Have to use sickrage as crowdin project identifier until crowdin staff respond. I renamed the project there but cannot rename the identifier."
+* Have to use sickrage as crowdin project identifier until crowdin staff respond. I renamed the project there but cannot rename the identifier.
+
+### v2018.10.13-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-5...v2018.10.13-6)
+
+* Update translations (build 9747) [skip ci]
+
 ### v2018.10.13-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-4...v2018.10.13-5)
