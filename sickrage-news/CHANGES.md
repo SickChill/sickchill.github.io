@@ -1,3 +1,11 @@
+### v2018.10.13-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-3...v2018.10.13-4)
+
+* Fix broken image links in readme
+* Update pullaprove
+* Update translations (build 9697) [skip ci]
+
 ### v2018.10.13-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-2...v2018.10.13-3)
