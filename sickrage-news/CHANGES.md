@@ -1,3 +1,9 @@
+### v2018.10.13-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-2...v2018.10.13-3)
+
+* Update default usenet-crawler url Add pullaprove (may remove, not sure if we need this or if the built in one from github works better) Update docker-compose to use our official sickchill/sickchill from docker-hub registry
+
 ### v2018.10.13-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-1...v2018.10.13-2)
