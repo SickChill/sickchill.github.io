@@ -47,7 +47,7 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v4.2.1.07...v5.0)
 
-* Remove archive on first match feature. https://github.com/SickChill/sickchill-issues/wiki/Qualities-Changes
+* Remove archive on first match feature. https://github.com/SickChill/SickChill/wiki/Qualities-Changes
 * Add 'New Shows' and 'Season Premiers' trakt lists for adding new shows
 * Fix a bug with adding shows to trakt collections
 * Bypass subtitle thread search limits when it is forced to run, rewrite much of the subtitle handler
@@ -682,7 +682,7 @@
 * Fixed: Sub folder not created for new shows
 * Fixed: Subtitle recognition with sigle language
 * Fixed: SickChill not starting on Openelec and Audo with RPi2 and others.  [more info](http://openelec.tv/forum/80-sabnzbd-suite/78152-unable-to-bring-up-sickchill-page-after-autoupdate?start=45)
-* Fixed: Permission when creating shows/season folders [more info](https://github.com/SickChill/sickchill-issues/issues/2969)
+* Fixed: Permission when creating shows/season folders [more info](https://github.com/SickChill/SickChill/issues/2969)
 * Fixed: config_subtitles page
 * Fixed: Wrong subtitle language codes
 * Fixed: Quality Chooser not expanding custom qualities fields
@@ -713,7 +713,7 @@
 * Fixed: dailysearch not respecting timezone setting
 * Fixed: Tvchaos provider regex
 * Fixed: Xthor add quotes to search string
-* Fixed: Embedded subtitles not detected bug  [more info](https://github.com/SickChill/sickchill-issues/issues/2774)
+* Fixed: Embedded subtitles not detected bug  [more info](https://github.com/SickChill/SickChill/issues/2774)
 * Fixed: Shows synced with Trakt having wrong default ep status
 * Fixed: Snatched (Proper) 1080p WEB-DL not fitting on a single line
 * Fixed: Restore only being processed when console logging is enabled
@@ -736,7 +736,7 @@
 * Fixed: imdbPopular page
 * Fixed: Black/white list
 * Fixed: Previous episode airdate sorting
-* Fixed: Update issue [more info](https://github.com/SickChill/sickchill-issues/issues/2883)
+* Fixed: Update issue [more info](https://github.com/SickChill/SickChill/issues/2883)
 * Change: Show 'propers serarch disabled' in manage searches if disabled
 
 ### 4.0.65 (2015-09-21)
@@ -745,7 +745,7 @@
 
 * Added: Public var to providers, and class to color them in css (unused yet)
 * Added: Wiki link to config/info page
-* Added: Temporary 'raise' to debug issue  [more info](https://github.com/SickChill/sickchill-issues/issues/2880)
+* Added: Temporary 'raise' to debug issue  [more info](https://github.com/SickChill/SickChill/issues/2880)
 * Fixed: Class redefinition in mainDB.py
 * Fixed: Undefined FULLHDWEBDL
 * Fixed: "Jump to Season" selection dropdown on displayShow, and open the selected season
@@ -1043,7 +1043,7 @@
 * Change: Increased time-out for xem
 * Fixed: A bug involving backup/restore losing settings
 * Fixed: Not able to connect to Trakt
-* Fixed: Bug in API [more info](https://github.com/SickChill/sickchill-issues/issues/2373)
+* Fixed: Bug in API [more info](https://github.com/SickChill/SickChill/issues/2373)
 * Updated: guessit library
 
 ### 4.0.47 (2015-07-28)
@@ -1070,7 +1070,7 @@
 * Change: Behind the scenes cleaning of HDTorrents
 * Fixed: Bug preventing torrents with 0 leechers from being downloaded
 * Fixed: xthor crash (ratio) [more info](https://github.com/SickChill/SickChill/commit/c7baabb709e8fdc407369e93fe92b035f75c5b3d)
-* Fixed: Libertalia search error [more info](https://github.com/SickChill/sickchill-issues/issues/2169)
+* Fixed: Libertalia search error [more info](https://github.com/SickChill/SickChill/issues/2169)
 * Fixed: Xem refresh
 
 ### 4.0.45 (2015-07-26)
@@ -1129,7 +1129,7 @@
 * Added: IRC to SickChill
 * Added: Missing subtitle flag for Afrikaans
 * Added: API command to get the fan art of a show
-* Added: Auto fix for show lang = 0 [more info](https://github.com/SickChill/sickchill-issues/issues/2206)
+* Added: Auto fix for show lang = 0 [more info](https://github.com/SickChill/SickChill/issues/2206)
 * Added: Ability to run external script after a video downloads subtitles
 * Added: Several new network logos
 * Fixed: Max title length for issues
@@ -1165,7 +1165,7 @@
 * Added: A ton of new network logos
 * Fixed: Search indexers api
 * Fixed: File size requiring ZIP64 extensions
-* Fixed: Error on Cpasbien provider [more info](https://github.com/SickChill/sickchill-issues/issues/2203)
+* Fixed: Error on Cpasbien provider [more info](https://github.com/SickChill/SickChill/issues/2203)
 * Fixed: WANTED episodes that haven't aired
 * Change: Don't allow chained call with command show.getnetworklogo
 * Change: Behind the scenes clean-up of ```tv.py```
@@ -1186,7 +1186,7 @@
 
 * Fixed: Template issue when no lang was set for show info
 * Fixed: Download client import
-* Fixed: Error while opening a shows page [more info](https://github.com/SickChill/sickchill-issues/issues/2183)
+* Fixed: Error while opening a shows page [more info](https://github.com/SickChill/SickChill/issues/2183)
 * Change: Rename clients .py files to avoid conflicts with libs
 * Change: Made episodes with airdate as 'never' to UNAIRED
 * Changed some logs regarding air dates & torrent files
@@ -1251,7 +1251,7 @@
 
 * Fixed: Debug code being added to shows page
 * Fixed: Parser log
-* Fixed: Initial scale on mobile device [more info](https://github.com/SickChill/sickchill-issues/issues/2079)
+* Fixed: Initial scale on mobile device [more info](https://github.com/SickChill/SickChill/issues/2079)
 * Fixed: Magnets without title
 * Fixed: SR not auto exiting if another instance is running
 * Fixed: Missing guessit test files
@@ -1344,7 +1344,7 @@
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v4.0.27...v4.0.28)
 
-* Fixed: SickChill/sickchill-issues#1747
+* Fixed: SickChill/(?<!old-)sickchill#1747
 * Fixed: torrentday
 * Fixed: Release group sometimes not showing in compact history
 * Fixed: Results from cache not honoring ignored/required words
@@ -1377,7 +1377,7 @@
 * Fixed: Searches not running at all
 * Fixed: Properly import sickbeard.exceptions.ex
 * Fixed: Remove default ep status
-* Fixed: Fixed /SickChill/sickchill-issues#1814 & /SickChill/sickchill-issues#1743
+* Fixed: Fixed /SickChill/(?<!old-)sickchill#1814 & /SickChill/(?<!old-)sickchill#1743
 * Added: alt.binaries.teevee
 * Change: Try to get the best quality from the best/archived list on first snatch, but accept the highest from the any/allowed list otherwise
 * Change: Limit newznab searches to 400 results & clean up its logging
@@ -1434,7 +1434,7 @@
 [full changelog](https://github.com/SickChill/SickChill/compare/v4.0.21...v4.0.22)
 
 * Fixed: 'utf8' codec can't decode byte while reading the DB
-* Fixed SickChill/sickchill-issues#1691
+* Fixed SickChill/(?<!old-)sickchill#1691
 * Added failed option to PP API
 * Added Add size attribute in providers.generic for nzb providers
 * Feature: Trakt PIN Auth

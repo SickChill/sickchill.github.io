@@ -82,7 +82,7 @@ Also, we would like to thank [CrowdIn](https://crowdin.com/project/sickchill) fo
 
 Quick note for Synology users. Yesterday Synology released [DSM 6,](https://www.synology.com/en-global/dsm/6.0) we advice users to wait with the update.
 The problem is that the Sickbead-custom (and other Synocommunity) packages are not fully compatible yet.
-If the packages are installed on DSM 5.2 and you upgrade they will keep working, but on a fresh DSM6 install or if you need to re-install the package they wont work anymore. More info and workarounds can be found on our [issue tracker](https://github.com/SickChill/sickchill-issues/issues/587#issuecomment-201275502)
+If the packages are installed on DSM 5.2 and you upgrade they will keep working, but on a fresh DSM6 install or if you need to re-install the package they wont work anymore. More info and workarounds can be found on our [issue tracker](https://github.com/SickChill/SickChill/issues/587#issuecomment-201275502)
 
 <br/>
 
@@ -108,7 +108,7 @@ Hope you enjoy!
 
 The next release brings **many** fixes (~200 commits), and along with it will come some changes to how qualities are handled. Most specifically, **Archive on First Match** has been removed.
 
-Before it is released tomorrow, we wanted to inform you of the changes, and steps you may need to take to keep your setup operating as expected. Please read [this wiki page](https://github.com/SickChill/sickchill-issues/wiki/Qualities-Changes) and take any necessary action before updating. You may also disable automatic updates until you can take the time to do so.
+Before it is released tomorrow, we wanted to inform you of the changes, and steps you may need to take to keep your setup operating as expected. Please read [this wiki page](https://github.com/SickChill/SickChill/wiki/Qualities-Changes) and take any necessary action before updating. You may also disable automatic updates until you can take the time to do so.
 
 <br/>
 
@@ -117,7 +117,7 @@ Before it is released tomorrow, we wanted to inform you of the changes, and step
 Currently we are (still) in the process of a large cleaning-up and optimization of the SickChill code.  
 This was really overdue, and will pave the road to all the new and cool features we plan to implement for you.  
 However there is always a risk that it will expose minor bugs, that we weren't able to catch during testing.  
-In case you encounter one, please make sure to report it on the [issue-tracker](https://github.com/SickChill/sickchill-issues/issues) or [IRC channel](https://kiwiirc.com/client/irc.freenode.net/?theme=basic#sickchill-issues).  
+In case you encounter one, please make sure to report it on the [issue-tracker](https://github.com/SickChill/SickChill/issues) or [IRC channel](https://kiwiirc.com/client/irc.freenode.net/?theme=basic#(?<!old-)sickchill).  
 
 This week we also launched our new [SickChill website](http://sickchill.github.io/).  
 
@@ -130,24 +130,24 @@ We apologize for any inconvenience this may have caused.
 As you can see, the team is up and running again and providing updates and support as before. Please make sure you update your bookmarks and links to point to the new repository:  
 
 - New repository   :   https://github.com/SickChill/   
-- New Issue tracker:   https://github.com/SickChill/sickchill-issues  
-- New Wiki page    :   https://github.com/SickChill/sickchill-issues/wiki  
+- New Issue tracker:   https://github.com/SickChill/SickChill  
+- New Wiki page    :   https://github.com/SickChill/SickChill/wiki  
 
 Please get the word out so your friends, package builders and tutorial makers are aware.  
-For the Synology users, we made a tutorial so they can easily switch to the new [repository](https://github.com/SickChill/sickchill-issues/wiki/Switching-your-Synology's-SickChill-to-the-new-repository).  
+For the Synology users, we made a tutorial so they can easily switch to the new [repository](https://github.com/SickChill/SickChill/wiki/Switching-your-Synology's-SickChill-to-the-new-repository).  
 Again, apologies for any inconvenience this has caused.   
 
 <br/>  
 
 ####2015-10-22####
 
-There has been some confusion about yesterday's news about [nzbToMedia](https://github.com/SickChill/sickchill-issues/wiki/NZBtoMedia) and the removal of the outdated autoProcessTV files/folder.
+There has been some confusion about yesterday's news about [nzbToMedia](https://github.com/SickChill/SickChill/wiki/NZBtoMedia) and the removal of the outdated autoProcessTV files/folder.
 
 - The built-in post-processor is not being changed or effected in any way. If you use The built in post-processor, these changes do not affect you whatsoever and you do not need to make changes to your setup.
 
 - SickChill will still support the use of autoProcessTV and sabtosickbeard.py, but we are no longer including them in the SickChill folder. If you still prefer to use the (old) autoProcessTV script package then you will have to manually download and store it somewhere outside of SickChill. It is however, recommended that you start switching over to the newer/better nzbToMedia in this case.
 
-- [nzbToMedia](https://github.com/SickChill/sickchill-issues/wiki/NZBtoMedia) is a rewrite/improvement upon autoProcessTV that adds support for Torrents, among other things. nzbToMedia is now included in the SickChill source in the contrib folder and you can find information about nzbToMedia and setup on our [Wiki](https://github.com/SickChill/sickchill-issues/wiki/NZBtoMedia) and the [nzbToMedia Wiki](https://github.com/clinton-hall/nzbToMedia/wiki).
+- [nzbToMedia](https://github.com/SickChill/SickChill/wiki/NZBtoMedia) is a rewrite/improvement upon autoProcessTV that adds support for Torrents, among other things. nzbToMedia is now included in the SickChill source in the contrib folder and you can find information about nzbToMedia and setup on our [Wiki](https://github.com/SickChill/SickChill/wiki/NZBtoMedia) and the [nzbToMedia Wiki](https://github.com/clinton-hall/nzbToMedia/wiki).
 
 <br/>
 
@@ -179,7 +179,7 @@ You can read the full description and information on [Google Play](https://play.
 - As you might have noted the [TVRage](http://www.tvrage.com) website pulled the plug/shut down. And that is causing some issues we needed to address. We pushed a fix that automatically converts the TVRage ID to a TheTVDB ID. So that new data is pulled from theTVDB.com instead. That works for most users but sadly not all. So be aware that when you used TVRage shows, you might experience some issues. Be assured that we are working hard to get this all sorted out.
 Also as a consequence of the TVRage shutdown we where forced to push some changes for the theme/layout that where not completely tested. Therefore the Network logos are currently not working. Fix coming soon.
 
-- But not only bad news, we have a brand new [SickChill installer](https://github.com/SickChill/sickchill-issues/wiki/SickChill-Windows-Installer) for Windows!
+- But not only bad news, we have a brand new [SickChill installer](https://github.com/SickChill/SickChill/wiki/SickChill-Windows-Installer) for Windows!
 
 <br />
 
@@ -205,7 +205,7 @@ Also as a consequence of the TVRage shutdown we where forced to push some change
 ####2015-08-06####
 
  - We need some help writing the Wiki for Anime. If you want to help please contact neoatomic in IRC
- - All Wiki pages are now at this [URL](https://github.com/SickChill/sickchill-issues/wiki) so users can contribute
+ - All Wiki pages are now at this [URL](https://github.com/SickChill/SickChill/wiki) so users can contribute
 
 <br/>
 
