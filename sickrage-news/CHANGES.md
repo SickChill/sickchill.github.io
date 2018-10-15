@@ -1,3 +1,12 @@
+### v2018.10.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-3...v2018.10.15-1)
+
+* Fix 16,32 size icons
+* Made some rudimentary images to use for icons/logos for now
+* Use main imdb url like imdbpy, instead of akas
+* Update translations (build 9758) [skip ci]
+
 ### v2018.10.14-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-2...v2018.10.14-3)
