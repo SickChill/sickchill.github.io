@@ -1,3 +1,14 @@
+### v2018.10.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-2...v2018.10.15-3)
+
+* Revert "Update imdbpy -Fixes star ratings on displayShow"
+* Revert "Use main imdb url like imdbpy, instead of akas"
+* Revert "Patch imdbpy for etree error. Please test"
+* Patch imdbpy for etree error. Please test
+* Revert "Remove lxml since imdbpy loads it without error handling."
+* Remove lxml since imdbpy loads it without error handling.
+
 ### v2018.10.15-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-1...v2018.10.15-2)
