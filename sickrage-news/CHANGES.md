@@ -1,3 +1,10 @@
+### v2018.10.14-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-2...v2018.10.14-3)
+
+* Update imdbpy -Fixes star ratings on displayShow Fixes [#5061](https://github.com/SickChill/SickChill/issues/5061)
+* Update translations (build 9756) [skip ci]
+
 ### v2018.10.14-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-1...v2018.10.14-2)
