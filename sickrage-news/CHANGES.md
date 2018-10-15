@@ -1,3 +1,9 @@
+### v2018.10.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-1...v2018.10.15-2)
+
+* Add another empty string falback in processDir for xhtml_escape
+
 ### v2018.10.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-3...v2018.10.15-1)
