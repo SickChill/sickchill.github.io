@@ -1,3 +1,10 @@
+### v2018.10.14-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.14-1...v2018.10.14-2)
+
+* Log actual data when torrent can't be bedecoded (Usually credentials or ratio issue)
+* Update translations (build 9752) [skip ci]
+
 ### v2018.10.14-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.13-6...v2018.10.14-1)
