@@ -1,3 +1,9 @@
+### v2018.10.16-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.16-1...v2018.10.16-2)
+
+* Archetorrent error from [#4447](https://github.com/SickChill/SickChill/issues/4447) - Maybe there is a login issue?
+
 ### v2018.10.16-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-4...v2018.10.16-1)
