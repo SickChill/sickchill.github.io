@@ -1,3 +1,10 @@
+### v2018.10.16-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-4...v2018.10.16-1)
+
+* fix mask icon issue
+* Update translations (build 9783) [skip ci]
+
 ### v2018.10.15-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-3...v2018.10.15-4)
