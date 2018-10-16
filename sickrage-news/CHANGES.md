@@ -1,3 +1,12 @@
+### v2018.10.15-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-3...v2018.10.15-4)
+
+* Fix detection of *rage* in git_remote_url on config.ini
+* Refactor-rename sickrage_tests to sickchill_tests Remove street sharks mascot
+* Icons
+* Update translations (build 9773) [skip ci]
+
 ### v2018.10.15-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.15-2...v2018.10.15-3)
