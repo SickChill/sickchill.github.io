@@ -16,7 +16,8 @@ module.exports = function(grunt) {
       main: {
         files: [
           {expand: true, cwd: 'node_modules/cryptofont/css', src: ['**'], dest: 'css', filter: 'isFile'},
-          {expand: true, cwd: 'node_modules/cryptofont/fonts', src: ['**'], dest: 'fonts', filter: 'isFile'}
+          {expand: true, cwd: 'node_modules/cryptofont/fonts', src: ['**'], dest: 'fonts', filter: 'isFile'},
+          {expand: true, cwd: 'node_modules/clipboard/dist', src: ['**.min.js'], dest: 'js', filter: 'isFile'}
         ],
       },
     },
