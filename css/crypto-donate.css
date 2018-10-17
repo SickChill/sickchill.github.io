@@ -1,0 +1,12 @@
+/*.crypto-donate-popover {*/
+    /*margin: auto;*/
+    /*position: absolute;*/
+    /*top: auto; bottom: auto; left: 0; right: 0;*/
+/*}*/
+
+.popover-x {
+    position: absolute;
+    max-height: 800px;
+    max-width:  542px;
+    padding: 15px;
+}

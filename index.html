@@ -287,11 +287,19 @@
       <div class="col-md-6">
         <ul class="skills">
           <li>
-            <span class="bar" data-width="95%"></span>
+            <!--<span class="bar" data-width="95%"></span>-->
+            <div class="progress progress-bar bar" role="progressbar" aria-valuenow="95"
+                   aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                95%
+              </div>
             <h3>Python</h3>
           </li>
           <li>
-            <span class="bar" data-width="60%"></span>
+            <!--<span class="bar" data-width="60%"></span>-->
+              <div class="progress progress-bar bar" role="progressbar" aria-valuenow="60"
+                   aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                60%
+              </div>
             <h3>Html & Css</h3>
           </li>
           <li>
@@ -368,22 +376,6 @@
     bootstrap: true,
     placement: null});
     new ClipboardJS('[data-clipboard-text]');
-
-    var lastId,
-    topMenu = $("#top-navigation"),
-    topMenuHeight = topMenu.outerHeight(),
-        // All list items
-        menuItems = topMenu.find("a"),
-        // Anchors corresponding to menu items
-        scrollItems = menuItems.map(function () {
-            var href = $(this).attr("href");
-            if(href.indexOf("#") === 0){
-                var item = $($(this).attr("href"));
-                if (item.length) {
-                    return item;
-                }
-            }
-        });
 </script>
 </body>
 </html>
