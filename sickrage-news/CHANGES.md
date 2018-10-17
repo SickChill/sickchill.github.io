@@ -1,3 +1,10 @@
+### v2018.10.16-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.16-2...v2018.10.16-3)
+
+* Fix rawgit issue
+* Update translations (build 9793) [skip ci]
+
 ### v2018.10.16-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.16-1...v2018.10.16-2)
