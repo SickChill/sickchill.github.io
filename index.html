@@ -8,9 +8,8 @@
   <!-- Load Roboto font -->
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <!-- Load css styles -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
   <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" />
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
   <link rel="stylesheet" type="text/css" href="css/pluton.css" />
   <link rel="stylesheet" type="text/css" href="css/lightbox.css" />
   <!--[if IE 7]>
@@ -22,6 +21,9 @@
   <link rel="stylesheet" type="text/css" href="css/bootstrap-popover-x.min.css" />
   <link rel="stylesheet" type="text/css" href="css/crypto-donate.css" />
   <link rel="stylesheet" type="text/css" href="css/cryptofont.css" />
+
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+
 
 
   <link rel="shortcut icon" href="images/ico/favicon.ico">
@@ -42,32 +44,33 @@
 </head>
 
 <body>
-<div class="navbar">
-  <div class="navbar-inner">
-    <div class="container">
-      <a href="#" class="brand">
-        <img src="images/logo.png" width="140" height="60" alt="Logo" />
-        <!-- This is website logo -->
-      </a>
-      <!-- Navigation button, visible on small resolution -->
-      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <i class="icon-menu"></i>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="nav-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
       </button>
-      <!-- Main navigation -->
-      <div class="nav-collapse collapse pull-right">
-        <ul class="nav" id="top-navigation">
-          <li class="active"><a href="#home">Home</a></li>
-          <li><a href="#service">Features</a></li>
-          <li><a href="#portfolio">Demo</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#download">Download</a></li>
-          <li><a href="#donate">Donate</a></li>
-        </ul>
-      </div>
-      <!-- End main navigation -->
+      <a href="#" class="navbar-brand">
+        <img src="images/logo.png" width="140" height="60" alt="Logo" />
+      </a>
     </div>
+    <!-- Main navigation -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#home">Home</a></li>
+        <li><a href="#service">Features</a></li>
+        <li><a href="#portfolio">Demo</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#download">Download</a></li>
+        <li><a href="#donate">Donate</a></li>
+      </ul>
+    </div>
+    <!-- End main navigation -->
   </div>
-</div>
+</nav>
 <div id="home">
   <!-- Start cSlider -->
   <div id="da-slider" class="da-slider">
@@ -136,8 +139,8 @@
       <p>SickChill is an automatic Video Library Manager for TV Shows.<br />It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.</p>
       <!--Simple description for section goes here. -->
     </div>
-    <div class="row-fluid">
-      <div class="span4">
+    <div class="row">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/kodi.png" alt="service 1">
@@ -146,7 +149,7 @@
           <p>Can notify Kodi, XBMC, Growl, Trakt, Twitter, WDTV and more when new episodes are available.</p>
         </div>
       </div>
-      <div class="span4">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/anime.png" alt="service 2" />
@@ -155,7 +158,7 @@
           <p>Anime is also supported.<br />Don't miss your weekly episodes!</p>
         </div>
       </div>
-      <div class="span4">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/subtitles.png" alt="service 3">
@@ -165,8 +168,8 @@
         </div>
       </div>
     </div>
-    <div class="row-fluid">
-      <div class="span4">
+    <div class="row">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/thepiratebay.png" alt="service 1">
@@ -175,7 +178,7 @@
           <p>Lots of providers supported: TPB, KAT, RARBG, IPTorrents, T411 and <a href="https://github.com/SickChill/SickChill/wiki/SickChill-Search-Providers">many more</a>.</p>
         </div>
       </div>
-      <div class="span4">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/nzb.png" alt="service 2" />
@@ -184,7 +187,7 @@
           <p>In addition to torrent trackers, SickChill also supports usenet: NZBs, BinSearch, Usenet-Crawler and <a href="https://github.com/SickChill/SickChill/wiki/SickChill-Search-Providers">many more</a> are available.</p>
         </div>
       </div>
-      <div class="span4">
+      <div class="col-md-4">
         <div class="centered service">
           <div class="circle-border zoom-in">
             <img src="images/Slider01.png" alt="service 3">
@@ -223,42 +226,42 @@
     <!-- Start details for portfolio project 1 -->
     <div id="single-project">
       <ul id="portfolio-grid" class="thumbnails row">
-        <li class="span4 mix web">
+        <li class="col-md-4 mix web">
           <div class="thumbnail">
             <a href="images/screenshots/home.jpg" data-lightbox="tour" data-title="All your shows in a blink."><img src="images/screenshots/home.jpg" alt="project 1" /></a>
             <h3>Homepage</h3>
             <p>All your shows in a blink.</p>
           </div>
         </li>
-        <li class="span4 mix photo">
+        <li class="col-md-4 mix photo">
           <div class="thumbnail">
             <a href="images/screenshots/show.jpg" data-lightbox="tour" data-title="See the details of a show."><img src="images/screenshots/show.jpg" alt="project 1" /></a>
             <h3>See a show</h3>
             <p>See the details of a show</p>
           </div>
         </li>
-        <li class="span4 mix identity">
+        <li class="col-md-4 mix identity">
           <div class="thumbnail" id="calendar">
             <a href="images/screenshots/calendar.jpg" data-lightbox="tour" data-title="Check what's coming next."><img src="images/screenshots/calendar.jpg" alt="project 1" /></a>
             <h3>Calendar</h3>
             <p>Check what's coming next.</p>
           </div>
         </li>
-        <li class="span4 mix web">
+        <li class="col-md-4 mix web">
           <div class="thumbnail">
             <a href="images/screenshots/history.jpg" data-lightbox="tour" data-title="Keep track of your previous downloads."><img src="images/screenshots/history.jpg" alt="project 1" /></a>
             <h3>History</h3>
             <p>Keep track of your previous downloads.</p>
           </div>
         </li>
-        <li class="span4 mix photo">
+        <li class="col-md-4 mix photo">
           <div class="thumbnail">
             <a href="images/screenshots/add.jpg" data-lightbox="tour" data-title="Search for your show and select the quality you want."><img src="images/screenshots/add.jpg" alt="project 1" /></a>
             <h3>Add a new show</h3>
             <p>Search for your show and select the quality you want.</p>
           </div>
         </li>
-        <li class="span4 mix identity">
+        <li class="col-md-4 mix identity">
           <div class="thumbnail">
             <a href="images/screenshots/search.jpg" data-lightbox="tour" data-title="Select your search providers among a large list."><img src="images/screenshots/search.jpg" alt="project 1" /></a>
             <h3>Search providers</h3>
@@ -280,8 +283,8 @@
         We HIGHLY recommend starting out with no database files at all to make this a fresh start but the choice is at your own risk</p>
     </div>
     <h3>Technologies used</h3>
-    <div class="row-fluid">
-      <div class="span6">
+    <div class="row">
+      <div class="col-md-6">
         <ul class="skills">
           <li>
             <span class="bar" data-width="95%"></span>
@@ -297,7 +300,7 @@
           </li>
         </ul>
       </div>
-      <div class="span6">
+      <div class="col-md-6">
         <div class="highlighted-box center">
           <h1>Do you want to join the team?</h1>
           <p>We're always looking for more hands to code. Don't hesitate to contribute by reporting an issue or pulling out some code!</p>
@@ -320,7 +323,7 @@
   <div class="triangle"></div>
   <div class="container centered">
     <p class="large-text">If you can spare some crypto, it is appreciated</p>
-    <div id="crypto-donate" class="col-md-12 text-center"></div>
+    <div id="crypto-donate"></div>
   </div>
 </div>
 <!-- Footer section start -->
@@ -336,9 +339,9 @@
 </div>
 <!-- ScrollUp button end -->
 <!-- Include javascript -->
-<script src="js/jquery.js"></script>
+<script src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.mixitup.js"></script>
-<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.js"></script>
 <script type="text/javascript" src="js/jquery.bxslider.js"></script>
 <script type="text/javascript" src="js/jquery.cslider.js"></script>
@@ -356,5 +359,31 @@
 <script type="text/javascript" src="js/clipboard.min.js"></script>
 <script type="text/javascript" src="js/jquery.qrcode.min.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript">
+  cryptoDonate({wallets: [
+      {address: "LgrWYBi3shMLLiSPz2X7xSckFx6f4Zw9Nx", name: 'LiteCoin', icon: 'cf cf-ltc'},
+      {address: "1QL1UyYovpJQidr4xvtZGF6YAMrmTfKjJ1", name: 'BitCoin', icon: 'cf cf-btc'},
+      {address: "0x34ea5ac46dbf370fbea6f8dc8f87d09ae0542333", name: 'Etherium', icon: 'cf cf-eth'}
+    ],
+    bootstrap: true,
+    placement: null});
+    new ClipboardJS('[data-clipboard-text]');
+
+    var lastId,
+    topMenu = $("#top-navigation"),
+    topMenuHeight = topMenu.outerHeight(),
+        // All list items
+        menuItems = topMenu.find("a"),
+        // Anchors corresponding to menu items
+        scrollItems = menuItems.map(function () {
+            var href = $(this).attr("href");
+            if(href.indexOf("#") === 0){
+                var item = $($(this).attr("href"));
+                if (item.length) {
+                    return item;
+                }
+            }
+        });
+</script>
 </body>
 </html>

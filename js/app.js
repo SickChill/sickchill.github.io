@@ -7,30 +7,6 @@
  * License: http://graphberry.com/pages/license
  */
  jQuery(document).ready(function ($) {
-    cryptoDonate({wallets: [
-      {address: "LgrWYBi3shMLLiSPz2X7xSckFx6f4Zw9Nx", name: 'LiteCoin', icon: 'cf cf-ltc'},
-      {address: "1QL1UyYovpJQidr4xvtZGF6YAMrmTfKjJ1", name: 'BitCoin', icon: 'cf cf-btc'},
-      {address: "0x34ea5ac46dbf370fbea6f8dc8f87d09ae0542333", name: 'Etherium', icon: 'cf cf-eth'}
-    ],
-    bootstrap: true,
-    placement: null});
-    new ClipboardJS('[data-clipboard-text]');
-
-    var lastId,
-    topMenu = $("#top-navigation"),
-    topMenuHeight = topMenu.outerHeight(),
-        // All list items
-        menuItems = topMenu.find("a"),
-        // Anchors corresponding to menu items
-        scrollItems = menuItems.map(function () {
-            var href = $(this).attr("href");
-            if(href.indexOf("#") === 0){
-                var item = $($(this).attr("href"));
-                if (item.length) {
-                    return item;
-                }
-            }
-        });
 
     //Get width of container
     var containerWidth = $('.section .container').width();
