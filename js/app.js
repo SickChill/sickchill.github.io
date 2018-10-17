@@ -7,6 +7,14 @@
  * License: http://graphberry.com/pages/license
  */
  jQuery(document).ready(function ($) {
+    cryptoDonate({wallets: [
+      {address: "LgrWYBi3shMLLiSPz2X7xSckFx6f4Zw9Nx", name: 'LiteCoin', icon: 'cf cf-ltc'},
+      {address: "1QL1UyYovpJQidr4xvtZGF6YAMrmTfKjJ1", name: 'BitCoin', icon: 'cf cf-btc'},
+      {address: "0x34ea5ac46dbf370fbea6f8dc8f87d09ae0542333", name: 'Etherium', icon: 'cf cf-eth'}
+    ],
+    bootstrap: true,
+    placement: null});
+    new ClipboardJS('[data-clipboard-text]');
 
     var lastId,
     topMenu = $("#top-navigation"),
