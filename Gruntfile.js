@@ -11,15 +11,24 @@ module.exports = function(grunt) {
     watch: {
       files: ['<%= jsonlint.files %>', '<%=jshint.files %>'],
       tasks: ['jshint', 'jsonlint']
-    }
+    },
+    copy: {
+      main: {
+        files: [
+          {expand: true, cwd: 'node_modules/cryptofont/css', src: ['**'], dest: 'css', filter: 'isFile'},
+          {expand: true, cwd: 'node_modules/cryptofont/fonts', src: ['**'], dest: 'fonts', filter: 'isFile'}
+        ],
+      },
+    },
   });
 
   grunt.loadNpmTasks('grunt-jsonlint');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-copy');
 
   grunt.registerTask('test', ['jshint', 'jsonlint']);
+  grunt.registerTask('default', ['jshint', 'jsonlint', 'copy']);
 
-  grunt.registerTask('default', ['jshint', 'jsonlint']);
 
 };
