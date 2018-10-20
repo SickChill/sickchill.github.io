@@ -136,6 +136,7 @@ Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
 AccuWeather Channel (US):US/Eastern
+Acorn TV:Europe/London
 Action:Canada/Eastern
 Active Channel (UK):Europe/London
 Adult Channel:Europe/London
@@ -536,7 +537,6 @@ Country Music Television (US):US/Eastern
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
-Sony Crackle:US/Eastern
 CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
@@ -599,6 +599,7 @@ DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
+Discovery (US):US/Eastern
 Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
@@ -629,9 +630,7 @@ Discovery en Español (US):US/Eastern
 Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
-Discovery (US):US/Eastern
 Discovery:US/Eastern
-Discovery (US):US/Eastern
 Dish TV:US/Eastern
 Disney Channel (BR):America/Noronha
 Disney Channel (DE):Europe/Berlin
@@ -1110,6 +1109,7 @@ LATV (US):US/Eastern
 LCI:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
+LINE TV (TH):Asia/Bangkok
 LLBN Arabic (US):US/Eastern
 LLBN Chinese (US):US/Eastern
 LLBN English (US):US/Eastern
@@ -1154,7 +1154,6 @@ Lifetime (UK):Europe/London
 Lifetime (US):America/New_York
 Lifetime UK:Europe/London
 Lifetime:US/Eastern
-LINE TV (TH):Asia/Bangkok
 Liquidation Channel (US):US/Eastern
 Live Well NETWORK (US):US/Eastern
 Living Asia Channel (PH):Asia/Manila
@@ -1176,7 +1175,6 @@ MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
 MATV:Europe/London
 MAX (NL):Europe/Amsterdam
-Maxdome:Europe/Berlin
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
 MBC Every 1:Asia/Seoul
@@ -1255,6 +1253,7 @@ Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
 MavTV:US/Eastern
 Max (AU):Australia/Sydney
+Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
 Mega Channel:Europe/Athens
 Mexicanal (US):US/Eastern
@@ -1318,6 +1317,7 @@ NDTV 24x7:Asia/Kolkata
 NDTV India:Asia/Kolkata
 NECN (US):US/Eastern
 NECO:Asia/Tokyo
+NED3:Europe/Amsterdam
 NEN (AU):Australia/Sydney
 NET 5:Europe/Amsterdam
 NET.:Asia/Jakarta
@@ -1382,6 +1382,7 @@ National Geographic Adventure:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
+Nederland 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Netflix (UK):Europe/London
@@ -1848,6 +1849,7 @@ SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
+Sony Crackle:US/Eastern
 Sony Entertainment Television (BR):America/Sao_Paulo
 Sony Entertainment Television (CL):America/Santiago
 Sony Entertainment Television (IN):Asia/Kolkata
@@ -1888,8 +1890,8 @@ Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
 Starz TV (UK):Europe/London
-Starz:US/Eastern
 Starz!:US/Eastern
+Starz:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
 Studio 23:Asia/Manila
@@ -2127,6 +2129,7 @@ TYT Network:America/New_York
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
 Talpa, RTL4:Europe/Amsterdam
+Talpa:Europe/Amsterdam
 Tapesh TV (US):US/Eastern
 TeLe-Romántica (US):US/Eastern
 TeLeHiTs (US):US/Eastern
@@ -2393,8 +2396,8 @@ York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
 Yorkshire Television:Europe/London
 YouTube (UK):Europe/London
-YouTube:US/Eastern
 YouTube Red:US/Eastern
+YouTube:US/Eastern
 Youku:Asia/Shanghai
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
@@ -2671,7 +2674,6 @@ BBC Five:
 BIP:
 BRB International:
 BRT2:
-BRT:
 Bt-x:
 DIY:
 DR:
@@ -2729,14 +2731,12 @@ Men & Motor:
 Men & Motors:
 Mojo HD:
 MuchMusic:
-NED3:Europe/Amsterdam
 NET:
 NGC:
 NPS:
 National Geographic Channel:
 National Geographiс:
 Nature:
-Nederland 3:Europe/Amsterdam
 Network 10 Australia:
 Nick:
 Nicktoons Network:
@@ -2787,7 +2787,6 @@ TV2 Norge:
 TV2 Norway:
 TV400:
 TV9:
-Talpa:Europe/Amsterdam
 TechTV Canada:
 Televisa S.A. de C.V.:
 Televisa S.A. de C.V:
@@ -2823,4 +2822,3 @@ subtv:
 ΕΡΤ:
 ΕΤ1:
 ΝΕΤ:
-Acorn TV:Europe/London
