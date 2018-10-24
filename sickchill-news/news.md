@@ -1,27 +1,27 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickChill/SickChill/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).
+All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).  
 
 <br/>
 
 ####2018-10-24####
-Due to a phony trademark claim, we have renamed the organization and application to SickChill.
+Due to a phony trademark claim, we have renamed the organization and application to SickChill.  
 Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
-(even references to the old organization and application name have been renamed in this file)
+(even references to the old organization and application name have been renamed in this file)  
 
 </br>
 
 ####2017-08-05####
 
-Our main repository on Github [SickChill/SickChill](https://github.com/SickChill/SickChill) is now available.<br/>
-If you installed SickChill using a mirror of **our** repository, or switched your installation to get updates from a mirror, please make sure that you're back on the main repo URL in order to be able to receive future updates.<br/>
-The basic set of commands is described [here](https://github.com/SickChill/sickchill.github.io#before-you-open-an-issue):
+Our main repository on Github [SickChill/SickChill](https://github.com/SickChill/SickChill) is now available.  
+If you installed SickChill using a mirror of **our** repository, or switched your installation to get updates from a mirror, please make sure that you're back on the main repo URL in order to be able to receive future updates.  
+The basic set of commands is described [here](https://github.com/SickChill/sickchill.github.io#before-you-open-an-issue):  
 ```
-git remote set-url origin https://github.com/SickChill/SickChill.git
-git fetch origin
-git checkout master
-git branch -u origin/master
-git reset --hard origin/master
-git pull
+git remote set-url origin https://github.com/SickChill/SickChill.git  
+git fetch origin  
+git checkout master  
+git branch -u origin/master  
+git reset --hard origin/master  
+git pull  
 ```
 
 <br/>
