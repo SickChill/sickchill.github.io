@@ -3,6 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2018-10-24####
+Due to a phony trademark claim, we have renamed the organization and application to SickChill.
+Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
+(even references to the old organization and application name have been renamed in this file)
+
+</br>
+
 ####2017-08-05####
 
 Our main repository on Github [SickChill/SickChill](https://github.com/SickChill/SickChill) is now available.<br/>
