@@ -549,6 +549,7 @@ Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
+DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
 DFamilia (US):US/Eastern
@@ -719,6 +720,7 @@ Esquire Network:US/Eastern
 Estuary TV (UK):Europe/London
 Eternal Word Television Network (US):US/Eastern
 EuroWorld Sport (CA):Canada/Eastern
+European Broadcasting Union (EBU):Europe/Zurich
 Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
@@ -746,6 +748,7 @@ FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Central
 FOX COLLEGE SPORTS PACIFIC (US):US/Pacific
 FOX DEPORTES (US):US/Eastern
+Fox España:Europe/Madrid
 FOX FOOTY (AU):Australia/Sydney
 FOX NEWS channel (US):US/Eastern
 FOX News Channel (UK):Europe/London
@@ -2675,7 +2678,6 @@ BIP:
 BRB International:
 BRT2:
 Bt-x:
-DC Universe:
 DIY:
 DR:
 DSF:
