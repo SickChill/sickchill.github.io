@@ -2823,3 +2823,6 @@ subtv:
 ΕΡΤ:
 ΕΤ1:
 ΝΕΤ:
+DC Universe:US/Eastern
+European Broadcasting Union (EBU):Europe/Zurich
+Fox España:Europe/Madrid
