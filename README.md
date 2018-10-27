@@ -41,7 +41,7 @@ Note: Synology users can use WinSCP to gain access/browse to the root where the 
 
 ## FAQ
 
-https://github.com/SickChill/SickChill/wiki/Frequently-Asked-Questions
+https://github.com/SickChill/SickChill/wiki/FAQ's-and-Fixes
 
 ## Wiki
 
