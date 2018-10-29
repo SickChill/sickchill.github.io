@@ -1,3 +1,12 @@
+### v2018.10.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.27-2...v2018.10.28-1)
+
+* Fix [#5127](https://github.com/SickChill/SickChill/issues/5127)
+* add support for biglybt and vuze
+* Update README w/ more links, clearer language ([#5078](https://github.com/SickChill/SickChill/issues/5078))
+* Update translations (build 9844) [skip ci]
+
 ### v2018.10.27-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.27-1...v2018.10.27-2)
