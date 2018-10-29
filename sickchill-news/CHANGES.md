@@ -1,3 +1,10 @@
+### v2018.10.29-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.28-1...v2018.10.29-1)
+
+* Fix [#5126](https://github.com/SickChill/SickChill/issues/5126) - Temporary versions for loading images when adding a new show. Simply the temporary logo text with an "ice" background
+* Update translations (build 9854) [skip ci]
+
 ### v2018.10.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.27-2...v2018.10.28-1)
