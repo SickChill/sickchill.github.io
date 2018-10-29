@@ -668,7 +668,7 @@ E.tv (ZA):Africa/Johannesburg
 E4 (UK):Europe/London
 E4:Europe/Dublin
 EBS:Asia/Seoul
-EBU (EU):CET
+EBU (EU):Europe/Zurich
 ECC TV (RU):Europe/Kaliningrad
 EICB (US):US/Eastern
 EO:Europe/Amsterdam
