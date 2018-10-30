@@ -1,3 +1,10 @@
+### v2018.10.30-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-2...v2018.10.30-3)
+
+* Do not quote_plus params/payload/post data in dicts. Fixes [#5110](https://github.com/SickChill/SickChill/issues/5110)
+* Update translations (build 9893) [skip ci]
+
 ### v2018.10.30-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-1...v2018.10.30-2)
