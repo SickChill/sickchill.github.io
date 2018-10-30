@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2018-10-30####
+For any of you who have given up on Jackett+SickChill due to a bug with SC, the torznab issue with adding double season/episode to the search string has just been fixed and pushed to master.  
+I am working on some big refactors for you all, in order to give more flexibility with installation options. I will be taking a break today and maybe tomorrow trying to clear my head of SC (since it is my birthday today, yay! lol)  
+and try to avoid checking github for a full 24 hours. Don't worry, I will be back to adress any new issues!  
+
+<br/>
+
+
 ####2018-10-24####
 Due to a phony trademark claim, we have renamed the organization and application to SickChill.  
 Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
