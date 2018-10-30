@@ -1,3 +1,10 @@
+### v2018.10.30-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-4...v2018.10.30-5)
+
+* Fix build
+* Fix build
+
 ### v2018.10.30-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-3...v2018.10.30-4)
