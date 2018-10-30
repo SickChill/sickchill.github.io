@@ -1,3 +1,9 @@
+### v2018.10.30-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-3...v2018.10.30-4)
+
+* Bad search/replace
+
 ### v2018.10.30-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-2...v2018.10.30-3)
