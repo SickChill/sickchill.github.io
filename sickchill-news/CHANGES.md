@@ -1,3 +1,9 @@
+### v2018.10.30-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-1...v2018.10.30-2)
+
+* isort, fix build
+
 ### v2018.10.30-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.29-2...v2018.10.30-1)
