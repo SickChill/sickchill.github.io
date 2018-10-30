@@ -1,3 +1,11 @@
+### v2018.10.30-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-5...v2018.10.30-6)
+
+* Change requests requirements to exclude vulnerability.
+* Subs Notification for Slack ([#4150](https://github.com/SickChill/SickChill/issues/4150))
+* Update translations (build 9904) [skip ci]
+
 ### v2018.10.30-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-4...v2018.10.30-5)
