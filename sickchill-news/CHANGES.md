@@ -1,3 +1,11 @@
+### v2018.10.30-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.29-2...v2018.10.30-1)
+
+* Dont pass season/ep param when using torznab. (Torznab should ignore season/ep if they dont support tvdbid - either q OR tvdbid/season/ep should be used, it isnt a mix and match) ([#5138](https://github.com/SickChill/SickChill/issues/5138))
+* Porzino develop ([#5134](https://github.com/SickChill/SickChill/issues/5134))
+* Update translations (build 9869) [skip ci]
+
 ### v2018.10.29-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.29-1...v2018.10.29-2)
