@@ -1,3 +1,10 @@
+### v2018.10.31-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-6...v2018.10.31-1)
+
+* Add probot to automatically close stale issues Fixes [#5145](https://github.com/SickChill/SickChill/issues/5145)
+* Update translations (build 9911) [skip ci]
+
 ### v2018.10.30-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-5...v2018.10.30-6)
