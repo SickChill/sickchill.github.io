@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2018-11-2####
+I plan on enforcing a strict policy to use SSL and web authentication, and adding hardware authentication.  
+When you are using localhost or an IP only a self signed certificate will be used, and when you have a domain a letsencrypt certificate will be created.  
+Also, I am trying to get my hands on a Yubikey 5 NFC so that I can implement FIDO2, U2F, OTAP and other secure hardware key authentication.  
+Please go and vote thumbs up or down if you are interested in these features on [SickChill#5159](https://github.com/SickChill/SickChill/issues/5159)  
+
+<br/>
+
 ####2018-10-30####
 For any of you who have given up on Jackett+SickChill due to a bug with SC, the torznab issue with adding double season/episode to the search string has just been fixed and pushed to master.  
 I am working on some big refactors for you all, in order to give more flexibility with installation options. I will be taking a break today and maybe tomorrow trying to clear my head of SC (since it is my birthday today, yay! lol)  
