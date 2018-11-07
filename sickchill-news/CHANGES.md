@@ -1,3 +1,14 @@
+### v2018.11.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.31-1...v2018.11.07-1)
+
+* install nodejs in Docker ([#5171](https://github.com/SickChill/SickChill/issues/5171))
+* Force subliminal to save subtitle in UTF8 ([#3989](https://github.com/SickChill/SickChill/issues/3989))
+* Add magnetdl.com provider. May need some adjustment ([#5165](https://github.com/SickChill/SickChill/issues/5165))
+* Update yggtorrent.py ([#5150](https://github.com/SickChill/SickChill/issues/5150))
+* Update ignorewords and requirewords to be fully case insensitive ([#5153](https://github.com/SickChill/SickChill/issues/5153))
+* Update translations (build 9915) [skip ci]
+
 ### v2018.10.31-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.30-6...v2018.10.31-1)
