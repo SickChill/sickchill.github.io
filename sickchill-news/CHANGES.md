@@ -1,3 +1,11 @@
+### v2018.11.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.07-1...v2018.11.22-1)
+
+* Hoskar2ben patch 1 ([#5199](https://github.com/SickChill/SickChill/issues/5199))
+* Prevent error when trying to copy and source file is already an existing hard link to the destination, or when doing reverse symlinks. Also allow copying file mode when this is true. ([#5173](https://github.com/SickChill/SickChill/issues/5173))
+* Update translations (build 9945) [skip ci]
+
 ### v2018.11.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.10.31-1...v2018.11.07-1)
