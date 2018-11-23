@@ -4,7 +4,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 <br/>
 
 ####2018-12-22####
-Happy Thanksgiving SickChillers! I am thankful for all of the loyal users and supporters. Hope you all have a great day!
+Happy Thanksgiving SickChillers! I am thankful for all of the loyal users and supporters. Hope you all have a great day!  
 
 <br/>
 
