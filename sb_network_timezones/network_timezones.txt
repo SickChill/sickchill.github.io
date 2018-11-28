@@ -1272,6 +1272,7 @@ MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
 Motors TV (UK):Europe/London
+Motor Trend:US/Eastern
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
 Movie Extra (Australia):Australia/Lord_Howe
