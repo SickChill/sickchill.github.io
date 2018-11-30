@@ -1,3 +1,10 @@
+### v2018.11.30-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.22-1...v2018.11.30-1)
+
+* Use all subcategory on YggTorrent, to catch anime and documentaries better ([#5210](https://github.com/SickChill/SickChill/issues/5210))
+* Update translations (build 9972) [skip ci]
+
 ### v2018.11.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.07-1...v2018.11.22-1)
