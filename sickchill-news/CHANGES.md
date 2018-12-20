@@ -1,3 +1,16 @@
+### v2018.12.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.30-1...v2018.12.19-1)
+
+* Fix [#5244](https://github.com/SickChill/SickChill/issues/5244): add new Torrent9 indexer file prefix 'Torrent9.PH ---> ' ([#5249](https://github.com/SickChill/SickChill/issues/5249))
+* Torrent9 custom url ([#5246](https://github.com/SickChill/SickChill/issues/5246))
+* Updating cfscrape to 1.9.5 ([#5243](https://github.com/SickChill/SickChill/issues/5243))
+* update youtube.png and added youtube red/premium ([#5240](https://github.com/SickChill/SickChill/issues/5240))
+* Update SpeedCD HTML parser ([#5226](https://github.com/SickChill/SickChill/issues/5226))
+* Remove NotifyMyAndroid, service stopped ([#5231](https://github.com/SickChill/SickChill/issues/5231))
+* Update Usenet-Crawler URL to new API endpoint ([#5223](https://github.com/SickChill/SickChill/issues/5223))
+* Grunt, Update translations (build 9985) [skip ci]
+
 ### v2018.11.30-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.22-1...v2018.11.30-1)
