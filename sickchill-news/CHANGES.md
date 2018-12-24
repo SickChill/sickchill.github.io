@@ -1,3 +1,10 @@
+### v2018.12.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.19-1...v2018.12.24-1)
+
+* Update stale.yml ([#5257](https://github.com/SickChill/SickChill/issues/5257))
+* Grunt, Update translations (build 10022) [skip ci]
+
 ### v2018.12.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.30-1...v2018.12.19-1)
