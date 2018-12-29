@@ -1413,6 +1413,8 @@ Niconico:Asia/Tokyo
 Nine (Australia):Australia/Lord_Howe
 Nine Network:Australia/Sydney
 Nippon Television:Asia/Tokyo
+NITRO (DE):Europe/Berlin
+NITRO:Europe/Berlin
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
@@ -1603,8 +1605,6 @@ RTL 8:Europe/Amsterdam
 RTL Crime:Europe/Berlin
 RTL II:Europe/Berlin
 RTL Klub:Europe/Budapest
-RTL Nitro (DE):Europe/Berlin
-RTL Nitro:Europe/Berlin
 RTL Passion (DE):Europe/Berlin
 RTL Passion:Europe/Berlin
 RTL TVI:Europe/Brussels
