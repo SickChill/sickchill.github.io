@@ -1,3 +1,10 @@
+### v2019.01.06-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.24-1...v2019.01.06-1)
+
+* Fixes Gimmepeers timeout issue and syntax ([#5263](https://github.com/SickChill/SickChill/issues/5263))
+* Update translations (build 10027) [skip ci]
+
 ### v2018.12.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.19-1...v2018.12.24-1)
