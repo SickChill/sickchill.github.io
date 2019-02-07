@@ -1553,6 +1553,7 @@ Puls 4:Europe/Vienna
 Q (PH):Asia/Manila
 Q TV:Europe/London
 Q Television Network (US):US/Eastern
+Qatar TV:Asia/Qatar
 QQQ (AU):Australia/Sydney
 QTQ (AU):Australia/Sydney
 QTV:Asia/Karachi
