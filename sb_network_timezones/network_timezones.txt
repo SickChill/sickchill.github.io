@@ -2825,3 +2825,5 @@ subtv:
 ΕΡΤ:
 ΕΤ1:
 ΝΕΤ:
+Spectrum (US):US/Eastern
+Youtube Premium (US):US/Eastern
