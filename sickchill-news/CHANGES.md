@@ -1,3 +1,18 @@
+### v2019.04.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.01.06-1...v2019.04.07-1)
+
+* Upgrade cfscrape to version 1.9.7 ([#5405](https://github.com/SickChill/SickChill/issues/5405))
+* Update \_\_init\_\_.py 1.9.6 ([#5374](https://github.com/SickChill/SickChill/issues/5374))
+* corrected poster.png ([#5356](https://github.com/SickChill/SickChill/issues/5356))
+* Update ygg search url ([#5349](https://github.com/SickChill/SickChill/issues/5349))
+* Fix orig_root_dir comparison between str/unicode ([#5275](https://github.com/SickChill/SickChill/issues/5275))
+* Adding support for SSL into Docker container ([#5315](https://github.com/SickChill/SickChill/issues/5315))
+* Add Irib TV1 and Qatar TV networks icons ([#5319](https://github.com/SickChill/SickChill/issues/5319))
+* Update library's after removing shows ([#5282](https://github.com/SickChill/SickChill/issues/5282))
+* Add logo for Epix network ([#5272](https://github.com/SickChill/SickChill/issues/5272))
+* Update translations (build 10034) [skip ci]
+
 ### v2019.01.06-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.24-1...v2019.01.06-1)
