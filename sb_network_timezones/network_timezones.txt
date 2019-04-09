@@ -2825,3 +2825,5 @@ subtv:
 ΕΡΤ:
 ΕΤ1:
 ΝΕΤ:
+Facebook Watch:
+YouTube Premium:
