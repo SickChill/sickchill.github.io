@@ -1553,6 +1553,7 @@ Puls 4:Europe/Vienna
 Q (PH):Asia/Manila
 Q TV:Europe/London
 Q Television Network (US):US/Eastern
+Qatar TV:Asia/Qatar
 QQQ (AU):Australia/Sydney
 QTQ (AU):Australia/Sydney
 QTV:Asia/Karachi
@@ -2693,6 +2694,7 @@ ETB-2:
 FEARNet:
 FTV, Nova:
 Facebook Live:
+Facebook Watch:
 Fashion:
 Fiver:
 Flairbar.com:
@@ -2772,6 +2774,7 @@ Skjáreinn:
 Sky Three:
 Sky:
 Southern TV:
+Spectrum (US):US/Eastern
 Speed Network:
 Stacked:
 Studio Canal:
@@ -2809,6 +2812,7 @@ Womens Entertainment Network:
 Worldwide:
 Xover:
 Yorin:
+Youtube Premium (US):US/Eastern
 ZTV:
 family gekijou (japan):
 hr-fernsehen:

@@ -1,3 +1,31 @@
+### v2019.05.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.04.07-1...v2019.05.15-1)
+
+* Bump cfscrape version to 2.0.0 ([#5462](https://github.com/SickChill/SickChill/issues/5462))
+* Update ygg URL due to TLD migration ([#5468](https://github.com/SickChill/SickChill/issues/5468))
+* feat: Slack Icon options ([#5424](https://github.com/SickChill/SickChill/issues/5424))
+* Update usenet-crawler URL  ([#5433](https://github.com/SickChill/SickChill/issues/5433))
+* Add notification after postprocessin (SickChill[#4348](https://github.com/SickChill/SickChill/issues/4348)) ([#5444](https://github.com/SickChill/SickChill/issues/5444))
+* new url ([#5445](https://github.com/SickChill/SickChill/issues/5445))
+* Changed search order to 7 as 8 was the least seeders first. Probably browser and search order was unified at some point. ([#5434](https://github.com/SickChill/SickChill/issues/5434))
+* Fix broken unrar validation. ([#5396](https://github.com/SickChill/SickChill/issues/5396))
+
+### v2019.04.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.01.06-1...v2019.04.07-1)
+
+* Upgrade cfscrape to version 1.9.7 ([#5405](https://github.com/SickChill/SickChill/issues/5405))
+* Update \_\_init\_\_.py 1.9.6 ([#5374](https://github.com/SickChill/SickChill/issues/5374))
+* corrected poster.png ([#5356](https://github.com/SickChill/SickChill/issues/5356))
+* Update ygg search url ([#5349](https://github.com/SickChill/SickChill/issues/5349))
+* Fix orig_root_dir comparison between str/unicode ([#5275](https://github.com/SickChill/SickChill/issues/5275))
+* Adding support for SSL into Docker container ([#5315](https://github.com/SickChill/SickChill/issues/5315))
+* Add Irib TV1 and Qatar TV networks icons ([#5319](https://github.com/SickChill/SickChill/issues/5319))
+* Update library's after removing shows ([#5282](https://github.com/SickChill/SickChill/issues/5282))
+* Add logo for Epix network ([#5272](https://github.com/SickChill/SickChill/issues/5272))
+* Update translations (build 10034) [skip ci]
+
 ### v2019.01.06-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.24-1...v2019.01.06-1)
