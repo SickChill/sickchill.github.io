@@ -1,3 +1,9 @@
+### v2019.05.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-1...v2019.05.15-2)
+
+* Update yarn packages
+
 ### v2019.05.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.04.07-1...v2019.05.15-1)
