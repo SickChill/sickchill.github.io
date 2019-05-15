@@ -1,3 +1,16 @@
+### v2019.05.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.04.07-1...v2019.05.15-1)
+
+* Bump cfscrape version to 2.0.0 ([#5462](https://github.com/SickChill/SickChill/issues/5462))
+* Update ygg URL due to TLD migration ([#5468](https://github.com/SickChill/SickChill/issues/5468))
+* feat: Slack Icon options ([#5424](https://github.com/SickChill/SickChill/issues/5424))
+* Update usenet-crawler URL  ([#5433](https://github.com/SickChill/SickChill/issues/5433))
+* Add notification after postprocessin (SickChill[#4348](https://github.com/SickChill/SickChill/issues/4348)) ([#5444](https://github.com/SickChill/SickChill/issues/5444))
+* new url ([#5445](https://github.com/SickChill/SickChill/issues/5445))
+* Changed search order to 7 as 8 was the least seeders first. Probably browser and search order was unified at some point. ([#5434](https://github.com/SickChill/SickChill/issues/5434))
+* Fix broken unrar validation. ([#5396](https://github.com/SickChill/SickChill/issues/5396))
+
 ### v2019.04.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.01.06-1...v2019.04.07-1)
