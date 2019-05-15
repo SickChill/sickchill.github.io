@@ -1,3 +1,9 @@
+### v2019.05.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-2...v2019.05.15-3)
+
+* Update stale.yml
+
 ### v2019.05.15-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-1...v2019.05.15-2)
