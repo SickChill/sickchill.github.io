@@ -1414,6 +1414,8 @@ Niconico:Asia/Tokyo
 Nine (Australia):Australia/Lord_Howe
 Nine Network:Australia/Sydney
 Nippon Television:Asia/Tokyo
+NITRO (DE):Europe/Berlin
+NITRO:Europe/Berlin
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
