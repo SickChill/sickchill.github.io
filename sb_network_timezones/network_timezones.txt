@@ -1605,6 +1605,8 @@ RTL 8:Europe/Amsterdam
 RTL Crime:Europe/Berlin
 RTL II:Europe/Berlin
 RTL Klub:Europe/Budapest
+RTL Nitro (DE):Europe/Berlin
+RTL Nitro:Europe/Berlin
 RTL Passion (DE):Europe/Berlin
 RTL Passion:Europe/Berlin
 RTL TVI:Europe/Brussels
