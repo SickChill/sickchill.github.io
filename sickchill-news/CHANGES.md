@@ -1,3 +1,11 @@
+### v2019.05.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-3...v2019.05.20-1)
+
+* Remove NZBS.org, fixes [#5490](https://github.com/SickChill/SickChill/issues/5490) ([#5492](https://github.com/SickChill/SickChill/issues/5492))
+* Fix issue with session headers ([#5491](https://github.com/SickChill/SickChill/issues/5491))
+* Branch matrix notifications ([#5377](https://github.com/SickChill/SickChill/issues/5377))
+
 ### v2019.05.15-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-2...v2019.05.15-3)
