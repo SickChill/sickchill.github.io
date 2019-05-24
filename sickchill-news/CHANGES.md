@@ -1,3 +1,13 @@
+### v2019.05.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.20-1...v2019.05.24-1)
+
+* Update config_search.mako
+* merges divs into one, and labels renamed as requested
+* Deluged: add download and completed dirs to config
+* Update init.systemd
+* Update translations (build 10170) [skip ci]
+
 ### v2019.05.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-3...v2019.05.20-1)
