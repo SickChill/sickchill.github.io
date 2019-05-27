@@ -1,3 +1,11 @@
+### v2019.05.26-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.24-1...v2019.05.26-1)
+
+* Update translations (build 10187) [skip ci]
+* deluged: make labels the same across all files
+* Update translations (build 10183) [skip ci]
+
 ### v2019.05.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.20-1...v2019.05.24-1)
