@@ -2403,6 +2403,8 @@ York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
 Yorkshire Television:Europe/London
 YouTube (UK):Europe/London
+Youtube Premium:US/Eastern
+Youtube Premium (US):US/Eastern
 YouTube Red:US/Eastern
 YouTube:US/Eastern
 Youku:Asia/Shanghai
@@ -2815,7 +2817,6 @@ Womens Entertainment Network:
 Worldwide:
 Xover:
 Yorin:
-Youtube Premium (US):US/Eastern
 ZTV:
 family gekijou (japan):
 hr-fernsehen:
