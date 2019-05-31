@@ -1,3 +1,11 @@
+### v2019.05.31-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.26-1...v2019.05.31-1)
+
+* Patch urllib3 ciphers
+* Fix typo
+* change seeders and leechers label strings to reflect site changes
+
 ### v2019.05.26-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.24-1...v2019.05.26-1)
