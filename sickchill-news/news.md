@@ -3,12 +3,22 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2019-06-26####
+
+Greetings ill chill army! I am all packed up and moving across the country to the east coast. During this time I will be without much connectivity, so I will not be able to do much coding if any at all. I have been slacking for a bit, but I will try and merge contributions if anyone sends in any pull requests and I will be much more active once we settle in. Moving is expensive, tiresome, and scary driving a 30 foot 1996 RV a whole 2400 miles lol.  Once we get settled in our new state I will be adding the size limits for qualities, a new/better post processor, reworking providers and notifiers to use less memory, and more.
+
+Please keep me, my wife, and our 2 kids in your thoughts (and prayers if that is your sort of thing) for a safe trip!
+
+<br/>
+
 ####2018-11-22####
+
 Happy Thanksgiving SickChillers! I am thankful for all of the loyal users and supporters. Hope you all have a great day!  
 
 <br/>
 
-####2018-11-2####
+####2018-11-2###
+
 I plan on enforcing a strict policy to use SSL and web authentication, and adding hardware authentication.  
 When you are using localhost or an IP only a self signed certificate will be used, and when you have a domain a letsencrypt certificate will be created.  
 Also, I am trying to get my hands on a Yubikey 5 NFC so that I can implement FIDO2, U2F, OTAP and other secure hardware key authentication.  
@@ -17,6 +27,7 @@ Please go and vote thumbs up or down if you are interested in these features on 
 <br/>
 
 ####2018-10-30####
+
 For any of you who have given up on Jackett+SickChill due to a bug with SC, the torznab issue with adding double season/episode to the search string has just been fixed and pushed to master.  
 I am working on some big refactors for you all, in order to give more flexibility with installation options. I will be taking a break today and maybe tomorrow trying to clear my head of SC (since it is my birthday today, yay! lol)  
 and try to avoid checking github for a full 24 hours. Don't worry, I will be back to adress any new issues!  
@@ -25,6 +36,7 @@ and try to avoid checking github for a full 24 hours. Don't worry, I will be bac
 
 
 ####2018-10-24####
+
 Due to a phony trademark claim, we have renamed the organization and application to SickChill.  
 Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
 (even references to the old organization and application name have been renamed in this file)  
