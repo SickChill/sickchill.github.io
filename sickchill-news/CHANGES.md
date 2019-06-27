@@ -1,3 +1,10 @@
+### v2019.06.27-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-1...v2019.06.27-2)
+
+* Issue 5551 ([#5552](https://github.com/SickChill/SickChill/issues/5552))
+* Update translations (build 10292) [skip ci]
+
 ### v2019.06.27-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.31-1...v2019.06.27-1)
