@@ -17,7 +17,7 @@ Happy Thanksgiving SickChillers! I am thankful for all of the loyal users and su
 
 <br/>
 
-####2018-11-2###
+####2018-11-2####
 
 I plan on enforcing a strict policy to use SSL and web authentication, and adding hardware authentication.  
 When you are using localhost or an IP only a self signed certificate will be used, and when you have a domain a letsencrypt certificate will be created.  
