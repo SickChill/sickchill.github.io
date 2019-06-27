@@ -1,3 +1,12 @@
+### v2019.06.27-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.31-1...v2019.06.27-1)
+
+* Merge branch 'develop'
+* Update translations (build 10222) [skip ci]
+* Remove ncu, fixes WS-2018-0076
+* Update translations (build 10205) [skip ci]
+
 ### v2019.05.31-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.26-1...v2019.05.31-1)
