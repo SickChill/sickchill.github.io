@@ -1,3 +1,9 @@
+### v2019.06.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-2...v2019.06.28-1)
+
+* Update \_\_init\_\_.py ([#5556](https://github.com/SickChill/SickChill/issues/5556))
+
 ### v2019.06.27-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-1...v2019.06.27-2)
