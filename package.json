@@ -8,7 +8,7 @@
     "grunt-contrib-jshint": "^0.12.0",
     "grunt-contrib-watch": "^1.0.1",
     "grunt-jsonlint": "^1.0.7",
-    "snyk": "^1.103.4"
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
@@ -16,7 +16,8 @@
   "scripts": {
     "test": "grunt",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
