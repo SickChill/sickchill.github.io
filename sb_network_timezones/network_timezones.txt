@@ -650,6 +650,7 @@ Disney Junior:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD (Latin America):America/Argentina/Buenos_Aires
 Disney XD:US/Eastern
+Disney+:US/Eastern
 Divine TV (US):US/Eastern
 Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
