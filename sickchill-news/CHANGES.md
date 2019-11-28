@@ -1,3 +1,28 @@
+### v2019.11.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.09.02-1...v2019.11.28-1)
+
+* Update depends
+* Update xthor.py ([#5723](https://github.com/SickChill/SickChill/issues/5723))
+* Update tvdb_api.py ([#5731](https://github.com/SickChill/SickChill/issues/5731))
+* Merge pull request [#5701](https://github.com/SickChill/SickChill/issues/5701) from kmartin36/kmartin36-patch-5686-2
+* Merge pull request [#5687](https://github.com/SickChill/SickChill/issues/5687) from kmartin36/kmartin36-patch-5686
+* Merge pull request [#5667](https://github.com/SickChill/SickChill/issues/5667) from VixsTy/fix/xthor-fqdn-change
+* Schedule View - add banner to list ([#5653](https://github.com/SickChill/SickChill/issues/5653))
+* Bump lodash.merge from 4.6.1 to 4.6.2 ([#5639](https://github.com/SickChill/SickChill/issues/5639))
+* Bump mixin-deep from 1.3.1 to 1.3.2 ([#5640](https://github.com/SickChill/SickChill/issues/5640))
+* Update index.py ([#5625](https://github.com/SickChill/SickChill/issues/5625))
+* Merge pull request [#5618](https://github.com/SickChill/SickChill/issues/5618) from mvn23/patch-3
+* Update translations (build 10323) [skip ci]
+
+### v2019.09.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.28-1...v2019.09.02-1)
+
+* Merge pull request [#5617](https://github.com/SickChill/SickChill/issues/5617) from SickChill/develop
+
+* Release dev to master
+
 ### v2019.06.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-2...v2019.06.28-1)
