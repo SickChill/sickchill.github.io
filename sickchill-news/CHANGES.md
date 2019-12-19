@@ -1,3 +1,16 @@
+### v2019.12.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.11.28-1...v2019.12.19-1)
+
+* Fix: logging of sent matrix messages was not properly escaped causing the page to break ([#5645](https://github.com/SickChill/SickChill/issues/5645))
+* Implementation suggestion for "Prefer words" ([#5629](https://github.com/SickChill/SickChill/issues/5629)) ([#5699](https://github.com/SickChill/SickChill/issues/5699))
+* Fixing error when accessing html for torrent size ([#5770](https://github.com/SickChill/SickChill/issues/5770))
+* Update tvdb api to v3  (credits to @BenjV) ([#5738](https://github.com/SickChill/SickChill/issues/5738))
+* Fix for [#5436](https://github.com/SickChill/SickChill/issues/5436) ([#5762](https://github.com/SickChill/SickChill/issues/5762))
+* Add network logo for Apple TV Plus ([#5750](https://github.com/SickChill/SickChill/issues/5750))
+* Added Disney+ network icon [#5759](https://github.com/SickChill/SickChill/issues/5759) ([#5761](https://github.com/SickChill/SickChill/issues/5761))
+* Update translations (build 10367) [skip ci]
+
 ### v2019.11.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.09.02-1...v2019.11.28-1)
