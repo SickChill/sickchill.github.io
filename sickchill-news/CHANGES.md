@@ -1,3 +1,9 @@
+### v2019.12.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.19-1...v2019.12.20-1)
+
+* Create greetings.yml ([#5775](https://github.com/SickChill/SickChill/issues/5775))
+
 ### v2019.12.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.11.28-1...v2019.12.19-1)
