@@ -1,3 +1,13 @@
+### v2019.12.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.20-1...v2019.12.22-1)
+
+* Fix js for rtorrent9 client
+* Add DC Universe and Shutter network icons from [#5777](https://github.com/SickChill/SickChill/issues/5777)
+* Rtorrent9 - rTorrent 0.9.0 compatible torrent client, while keeping the older client intact. ([#5787](https://github.com/SickChill/SickChill/issues/5787))
+* Qbittorrent apiv2 ([#5785](https://github.com/SickChill/SickChill/issues/5785))
+* Update translations (build 10408) [skip ci]
+
 ### v2019.12.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.19-1...v2019.12.20-1)
