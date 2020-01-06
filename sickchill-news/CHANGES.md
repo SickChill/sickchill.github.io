@@ -1,3 +1,66 @@
+### v2020.01.03-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.22-1...v2020.01.03-1)
+
+* Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
+* Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
+* Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
+* Update translations (build 10420) [skip ci]
+
+### v2019.12.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.20-1...v2019.12.22-1)
+
+* Fix js for rtorrent9 client
+* Add DC Universe and Shutter network icons from [#5777](https://github.com/SickChill/SickChill/issues/5777)
+* Rtorrent9 - rTorrent 0.9.0 compatible torrent client, while keeping the older client intact. ([#5787](https://github.com/SickChill/SickChill/issues/5787))
+* Qbittorrent apiv2 ([#5785](https://github.com/SickChill/SickChill/issues/5785))
+* Update translations (build 10408) [skip ci]
+
+### v2019.12.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.19-1...v2019.12.20-1)
+
+* Create greetings.yml ([#5775](https://github.com/SickChill/SickChill/issues/5775))
+
+### v2019.12.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.11.28-1...v2019.12.19-1)
+
+* Fix: logging of sent matrix messages was not properly escaped causing the page to break ([#5645](https://github.com/SickChill/SickChill/issues/5645))
+* Implementation suggestion for "Prefer words" ([#5629](https://github.com/SickChill/SickChill/issues/5629)) ([#5699](https://github.com/SickChill/SickChill/issues/5699))
+* Fixing error when accessing html for torrent size ([#5770](https://github.com/SickChill/SickChill/issues/5770))
+* Update tvdb api to v3  (credits to @BenjV) ([#5738](https://github.com/SickChill/SickChill/issues/5738))
+* Fix for [#5436](https://github.com/SickChill/SickChill/issues/5436) ([#5762](https://github.com/SickChill/SickChill/issues/5762))
+* Add network logo for Apple TV Plus ([#5750](https://github.com/SickChill/SickChill/issues/5750))
+* Added Disney+ network icon [#5759](https://github.com/SickChill/SickChill/issues/5759) ([#5761](https://github.com/SickChill/SickChill/issues/5761))
+* Update translations (build 10367) [skip ci]
+
+### v2019.11.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.09.02-1...v2019.11.28-1)
+
+* Update depends
+* Update xthor.py ([#5723](https://github.com/SickChill/SickChill/issues/5723))
+* Update tvdb_api.py ([#5731](https://github.com/SickChill/SickChill/issues/5731))
+* Merge pull request [#5701](https://github.com/SickChill/SickChill/issues/5701) from kmartin36/kmartin36-patch-5686-2
+* Merge pull request [#5687](https://github.com/SickChill/SickChill/issues/5687) from kmartin36/kmartin36-patch-5686
+* Merge pull request [#5667](https://github.com/SickChill/SickChill/issues/5667) from VixsTy/fix/xthor-fqdn-change
+* Schedule View - add banner to list ([#5653](https://github.com/SickChill/SickChill/issues/5653))
+* Bump lodash.merge from 4.6.1 to 4.6.2 ([#5639](https://github.com/SickChill/SickChill/issues/5639))
+* Bump mixin-deep from 1.3.1 to 1.3.2 ([#5640](https://github.com/SickChill/SickChill/issues/5640))
+* Update index.py ([#5625](https://github.com/SickChill/SickChill/issues/5625))
+* Merge pull request [#5618](https://github.com/SickChill/SickChill/issues/5618) from mvn23/patch-3
+* Update translations (build 10323) [skip ci]
+
+### v2019.09.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.28-1...v2019.09.02-1)
+
+* Merge pull request [#5617](https://github.com/SickChill/SickChill/issues/5617) from SickChill/develop
+
+* Release dev to master
+
 ### v2019.06.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-2...v2019.06.28-1)
