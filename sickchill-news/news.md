@@ -3,6 +3,19 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2020-01-08####
+
+Huge changes in develop will in the next day or 2 come to master, including the total switch over to the new TVDB api, using cloudscraper to fix cloudflare issues, and possibly updating subliminal. These changes are VERY pervasive,
+and effect adding shows, updating shows, all images, metadata, notifications, trakt, and more. around 60k lines changed. Two notes of caution:
+
+Before updating, make sure you have at least Python 2.7.9, because it will not run with anything lower, and it will not run on Python 3+.
+If you are worried, wait a few days once the release to master is made before you update.
+
+I hope this goes smoothly, it has been brutal the last few weeks with long hours trying to get it right.
+Happy Snatchin and Happy New Year.
+
+<br/>
+
 ####2019-06-26####
 
 Greetings ill chill army! I am all packed up and moving across the country to the east coast. During this time I will be without much connectivity, so I will not be able to do much coding if any at all. I have been slacking for a bit, but I will try and merge contributions if anyone sends in any pull requests and I will be much more active once we settle in. Moving is expensive, tiresome, and scary driving a 30 foot 1996 RV a whole 2400 miles lol.  Once we get settled in our new state I will be adding the size limits for qualities, a new/better post processor, reworking providers and notifiers to use less memory, and more.
