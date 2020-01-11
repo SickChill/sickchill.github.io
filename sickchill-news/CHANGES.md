@@ -1,3 +1,26 @@
+### v2020.01.11-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.03-1...v2020.01.11-1)
+
+* Update bower and eslint in yarn.lock and package.json
+* Call _location instead of location for show where necessary Fix [#5836](https://github.com/SickChill/SickChill/issues/5836) when info in nfo has & included Go supersaiyan on finding correct show from nfo, indexer and id, or show name should be enough, it is working fairly well
+* Create FUNDING.yml ([#5835](https://github.com/SickChill/SickChill/issues/5835))
+* Fix a potentially undefined result variable
+* Use cloudscraper when running 2.7.9, cfscrape when running 2.7-2.7.8
+* cloudscraper requires Python 2.7.9+ but less than 3! [#5829](https://github.com/SickChill/SickChill/issues/5829)
+* Use cloudscraper for now. cfscrape is borked ([#5828](https://github.com/SickChill/SickChill/issues/5828))
+* Apply [Anorov/cloudflare-scrape#315](https://github.com/Anorov/cloudflare-scrape/issues/315) ([#5827](https://github.com/SickChill/SickChill/issues/5827))
+* Fix error on kodi12+ metadata relating to imdb country codes. Improve search results when show is not found the first time Remove writers and directors from kodi12+ metadata (info is not on tvdb for shows, only episodes)
+* Fix error  updating trakt watchlist
+* Adding Parsing for WebUHD like ([#5824](https://github.com/SickChill/SickChill/issues/5824))
+* Fix error on genre split in webapi Fixes [#5825](https://github.com/SickChill/SickChill/issues/5825)
+* Fix error with coverage==5 breaking codecov. Fixes build
+* Fix show forced update and refresh (all episodes having same or no data on displayshow)
+* Fix airdates, fix mistake on mediabrowser metadata, fix the rest of metdata
+* Fix failure on most metadata providers. FIXME: tvdbapi returning no airdate for some episodes, such as schooled
+* Tvdb3 ([#5789](https://github.com/SickChill/SickChill/issues/5789))
+* Update translations (build 10488) [skip ci]
+
 ### v2020.01.03-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.22-1...v2020.01.03-1)
