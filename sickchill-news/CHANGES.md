@@ -1,3 +1,9 @@
+### v2020.01.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.11-1...v2020.01.12-1)
+
+* Fixes [#5858](https://github.com/SickChill/SickChill/issues/5858) Fixes [#5859](https://github.com/SickChill/SickChill/issues/5859) Change rarbg url to rarbg.to
+
 ### v2020.01.11-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.03-1...v2020.01.11-1)
