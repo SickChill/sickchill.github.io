@@ -1,3 +1,9 @@
+### v2020.01.12-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-1...v2020.01.12-2)
+
+* Jacket url is returning a magnet when expecting a torrent file. Why not eliminate that 302 redirect and just put the magnet in the xml response instead.... Fixes [#5600](https://github.com/SickChill/SickChill/issues/5600) Fixes [#5862](https://github.com/SickChill/SickChill/issues/5862)
+
 ### v2020.01.12-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.11-1...v2020.01.12-1)
