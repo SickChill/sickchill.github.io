@@ -1,3 +1,9 @@
+### v2020.01.12-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-3...v2020.01.12-4)
+
+* Try again to fix build.
+
 ### v2020.01.12-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-2...v2020.01.12-3)
