@@ -1,3 +1,10 @@
+### v2020.01.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-2...v2020.01.12-3)
+
+* Fix build hopefully. py3 is urgent
+* Update FUNDING.yml
+
 ### v2020.01.12-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-1...v2020.01.12-2)
