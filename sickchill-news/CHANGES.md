@@ -1,3 +1,10 @@
+### v2020.01.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-1...v2020.01.13-2)
+
+* Fixes [#5766](https://github.com/SickChill/SickChill/issues/5766) - Might need improved. Hides usernames/passwords if it is a full word. Also, hide jackett_apikey from logs
+* Fixes [#5749](https://github.com/SickChill/SickChill/issues/5749) feature to avoid updating shows with status Ended for a set amount of days. Defaults to 7 days, configurable on config->general->interface
+
 ### v2020.01.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-4...v2020.01.13-1)
