@@ -1,3 +1,9 @@
+### v2020.01.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-3...v2020.01.14-1)
+
+* Handle adding a show when tvdb does not have it's start date. Fixes [#5867](https://github.com/SickChill/SickChill/issues/5867)
+
 ### v2020.01.13-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-2...v2020.01.13-3)
