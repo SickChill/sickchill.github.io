@@ -1,3 +1,9 @@
+### v2020.01.13-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-2...v2020.01.13-3)
+
+* Apply user supplied fix for bjshare from [#5591](https://github.com/SickChill/SickChill/issues/5591)#issuecomment-537029104 Fixes [#5591](https://github.com/SickChill/SickChill/issues/5591)
+
 ### v2020.01.13-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-1...v2020.01.13-2)
