@@ -1,3 +1,9 @@
+### v2020.01.14-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-1...v2020.01.14-2)
+
+* Handle regex substitution error when item to search for contains a repeat repeat such as ++ or ** Fixes [#5869](https://github.com/SickChill/SickChill/issues/5869)
+
 ### v2020.01.14-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-3...v2020.01.14-1)
