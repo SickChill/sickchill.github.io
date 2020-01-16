@@ -1,3 +1,9 @@
+### v2020.01.16-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-1...v2020.01.16-2)
+
+* Remove unnecessary api call to tvdb
+
 ### v2020.01.16-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-2...v2020.01.16-1)
