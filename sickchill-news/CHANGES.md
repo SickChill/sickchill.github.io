@@ -1,3 +1,10 @@
+### v2020.01.16-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-2...v2020.01.16-1)
+
+* Use the correct method when loading episodes from indexer, so error handling is used. Fixes [#5879](https://github.com/SickChill/SickChill/issues/5879)
+* check parent dir names in addition to current ([#5864](https://github.com/SickChill/SickChill/issues/5864))
+
 ### v2020.01.14-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-1...v2020.01.14-2)
