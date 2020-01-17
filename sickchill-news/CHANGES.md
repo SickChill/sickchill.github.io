@@ -1,3 +1,10 @@
+### v2020.01.17-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-2...v2020.01.17-1)
+
+* Also catch TypeError in episode_image_url when episode is not found. Fixes [#5874](https://github.com/SickChill/SickChill/issues/5874)
+* Better way to check that a torrent was added in the old qbittorent client. Fixes [#5881](https://github.com/SickChill/SickChill/issues/5881) Fixes [#5016](https://github.com/SickChill/SickChill/issues/5016) Fixes [#4385](https://github.com/SickChill/SickChill/issues/4385) Thanks sumarimike
+
 ### v2020.01.16-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-1...v2020.01.16-2)
