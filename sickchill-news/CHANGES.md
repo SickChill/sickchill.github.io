@@ -1,3 +1,9 @@
+### v2020.01.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.17-1...v2020.01.19-1)
+
+* Allow lesser versions of python 2.7 (uses cfscrape, probably fails on many sites) Fixes [#5894](https://github.com/SickChill/SickChill/issues/5894)
+
 ### v2020.01.17-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-2...v2020.01.17-1)
