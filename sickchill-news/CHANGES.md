@@ -1,3 +1,9 @@
+### v2020.01.19-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-1...v2020.01.19-2)
+
+* Only show info log while creating kodi meta files when cannot find a show on tvdb, usually when the api is failing. Fixes [#5898](https://github.com/SickChill/SickChill/issues/5898)
+
 ### v2020.01.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.17-1...v2020.01.19-1)
