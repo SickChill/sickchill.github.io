@@ -1,3 +1,10 @@
+### v2020.01.19-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-3...v2020.01.19-4)
+
+* Typo, [#5900](https://github.com/SickChill/SickChill/issues/5900)
+* Add a trakt icon link to the show page ([#5896](https://github.com/SickChill/SickChill/issues/5896))
+
 ### v2020.01.19-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-2...v2020.01.19-3)
