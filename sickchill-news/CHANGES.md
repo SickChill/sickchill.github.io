@@ -1,3 +1,9 @@
+### v2020.01.19-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-6...v2020.01.19-7)
+
+* Don't error if show doesn't have any episodes
+
 ### v2020.01.19-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-5...v2020.01.19-6)
