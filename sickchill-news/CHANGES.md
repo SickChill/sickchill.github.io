@@ -1,3 +1,9 @@
+### v2020.01.19-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-4...v2020.01.19-5)
+
+* Fixes [#5899](https://github.com/SickChill/SickChill/issues/5899)
+
 ### v2020.01.19-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-3...v2020.01.19-4)
