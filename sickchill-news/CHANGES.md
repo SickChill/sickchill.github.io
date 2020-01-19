@@ -1,3 +1,9 @@
+### v2020.01.19-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-5...v2020.01.19-6)
+
+* Allow adding shows from the future with no episodes yet Fixes [#5588](https://github.com/SickChill/SickChill/issues/5588)
+
 ### v2020.01.19-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-4...v2020.01.19-5)
