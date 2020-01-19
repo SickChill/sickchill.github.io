@@ -1,3 +1,9 @@
+### v2020.01.19-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-2...v2020.01.19-3)
+
+* Only use nfo/xml when adding existing shows. Adding using the dir name to automatically search providers is unreliable. Instead, when metadata is missing, prompt to search and select the show manually
+
 ### v2020.01.19-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-1...v2020.01.19-2)
