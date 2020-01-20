@@ -1,3 +1,9 @@
+### v2020.01.20-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-3...v2020.01.20-4)
+
+* Fix not being able to add scene season exceptions for most recent season of a show Fixes [#5905](https://github.com/SickChill/SickChill/issues/5905)
+
 ### v2020.01.20-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-2...v2020.01.20-3)
