@@ -1,3 +1,11 @@
+### v2020.01.20-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-2...v2020.01.20-3)
+
+* Disable vcr for skytorrents, cloudflare breaking tests
+* Fix parsing skytorrents
+* Update requirements.txt (this file is NOT USED) Fixes [#5316](https://github.com/SickChill/SickChill/issues/5316)
+
 ### v2020.01.20-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-1...v2020.01.20-2)
