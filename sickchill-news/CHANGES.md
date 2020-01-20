@@ -1,3 +1,10 @@
+### v2020.01.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-7...v2020.01.20-1)
+
+* Clean up some logs with proper thread names and make all missing networks go to the same issue
+* Update isotope and dependancies. Try to fix empty space problem. Fixes [#5724](https://github.com/SickChill/SickChill/issues/5724)
+
 ### v2020.01.19-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-6...v2020.01.19-7)
