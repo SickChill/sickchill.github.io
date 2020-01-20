@@ -1,3 +1,9 @@
+### v2020.01.20-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-1...v2020.01.20-2)
+
+* Fix skytorrents Fixes [#5579](https://github.com/SickChill/SickChill/issues/5579)
+
 ### v2020.01.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-7...v2020.01.20-1)
