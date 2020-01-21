@@ -1,3 +1,12 @@
+### v2020.01.21-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-5...v2020.01.21-1)
+
+* Force add 5090 to default nzb provider categories when HEVC is enabled. Fix being able to edit builtin nzb providers settings (on the Configure Custom Newznab Providers page)
+* Don't warn when filling cache with show images and the show dir doesnt exist
+* Fix footer rowspan on schedule and add trakt link to schedule poster and list layouts
+* Use personal access tokens only for submitting issues (new github policy) ([#5909](https://github.com/SickChill/SickChill/issues/5909))
+
 ### v2020.01.20-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-4...v2020.01.20-5)
