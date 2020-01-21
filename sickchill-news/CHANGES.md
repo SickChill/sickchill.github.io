@@ -1,3 +1,9 @@
+### v2020.01.20-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-4...v2020.01.20-5)
+
+* Always include the show's all-season scene exception in search string, even if it has a season specific scene exception Fixes [#4974](https://github.com/SickChill/SickChill/issues/4974)
+
 ### v2020.01.20-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-3...v2020.01.20-4)
