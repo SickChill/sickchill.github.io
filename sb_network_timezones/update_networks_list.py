@@ -16,11 +16,30 @@ PURGE = False  # set to True purge old/invalid networks, or run with -p
 def main():
     # Load data from TVDB network select box
     new_list = {}
-    url = 'http://thetvdb.com/?tab=series&id=80379&lid=7'  # the big bang theory
-    data = requests.get(url).content
-    networks = BeautifulSoup(data, 'html.parser').select('select[name="changenetwork"] > option')
-    for current in networks[1:]:  # skip first empty option
-        new_list[current['value']] = current.text
+    _url = "https://thetvdb.com/networks/"
+
+    page_count = {'pages': 0}
+
+    def scrape(url):
+        data = requests.get(url).content
+        soup = BeautifulSoup(data, 'html5lib')
+        networks = soup.find('tbody').find_all('tr')
+        headers = [h.get_text(strip=True) for h in networks[0].find_all('th')]
+        for _current in networks[1:]:  # skip first empty option
+            cells = _current.find_all('td')
+            new_list[cells[headers.index('Network')].get_text(strip=True)] = cells[headers.index('Country')].get_text(strip=True)
+
+        page_count['pages'] += 1
+        next_page = soup.find('a', attrs={'rel': 'next'})
+        if next_page and next_page.get('href'):
+            return scrape(next_page['href'])
+
+    scrape(_url)
+
+    # print(json.dumps(new_list))
+    # print(len(new_list))
+    # print(page_count['pages'])
+    # return
 
     # Load data from latest TVDB database dump
     # https://forums.thetvdb.com/viewtopic.php?f=3&t=7550
@@ -100,26 +119,24 @@ def main():
         print('')
 
     country_code = CountryCode()
-    match_country = re.compile(r'\(([a-z\s]+)\)$', re.I)
     data_to_append = []
     if not QUIET:
         print(u'\x1b[1m--- Adding new networks ---\x1b[0m'.center(127))
         print(u'\x1b[1m\x1b[4;30;47m' + u'Action'.center(17) + u'Network Name'.center(35) +
               u' - ' + u'Country'.center(35) + u' - ' + u'Guessed Time Zone'.center(35) + u'\x1b[0m')
+
     for key, value in new_list.items():
         # try to determine time zone by country name in display name
         tz_guess = ''
-        country = re.findall(match_country, value)
-        if country:
-            code = country_code[country[0]]
-            if len(code) <= 2:
-                tz_guess = country_timezones(code)[0]
+        code = country_code[value]
+        if len(code) <= 2:
+            tz_guess = country_timezones(code)[0]
 
         if tz_guess:
             auto_new_count += 1
             if not QUIET:
                 print(u'\x1b[1m\x1b[0;30;46m{0: ^16}\x1b[0m {1: ^35} - {2: ^35} - {3: ^35}'.format(
-                    'New network:', key, country[0], tz_guess))
+                    'New network:', key, value, tz_guess))
             new_data.append(u'{name}:{time_zone}\n'.format(name=key, time_zone=tz_guess))
         else:
             new_count += 1
@@ -128,6 +145,7 @@ def main():
                     'New network:', key, re.sub(re.escape(key) + r'(?:.*\((.*)\))?$', r'\1', value), 'Unknown'))
             data_to_append.append(u'{name}:{time_zone}\n'.format(name=key, time_zone=tz_guess))
 
+    match_country = re.compile(r'\(([a-z\s]+)\)$', re.I)
     for key, value_ in dump_list.items():
         # try to determine time zone by country name in display name
         tz_guess = ''
