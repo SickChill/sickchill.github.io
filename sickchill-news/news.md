@@ -3,6 +3,21 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2020-01-21####
+
+On the next release I will be merging code that forces you to use an access token for github to use the issue submitter. Username/Password login is deprecrated 
+with github's new policy, and won't work much longer. If you want to keep submitting issues, go to settings->general->advanced and click the `Generate Token` 
+button, or add one that you have already created. This is good because you can now control what permissions that token has with your account, and it is easy 
+to revoke individual tokens if it happens to be compromised without changing your GitHub password. It is also required for 2FA if you decide to use that.
+
+I have just fixed a glaring bug where tons of networks were not being added to the network_timezones since the scraper we built just for that was broken due 
+to the new tvdb site. Episodes should start coming on time again.
+
+TVDB api should be working on our end as long as their side is working. It does go down from time to time while they are 
+working on it. If you see an APIkey error, its on theTVDB side and we cannot fix it so just be patient. 
+
+<br/>
+
 ####2020-01-08####
 
 Huge changes in develop will in the next day or 2 come to master, including the total switch over to the new TVDB api, using cloudscraper to fix cloudflare issues, and possibly updating subliminal. These changes are VERY pervasive,
@@ -46,7 +61,6 @@ I am working on some big refactors for you all, in order to give more flexibilit
 and try to avoid checking github for a full 24 hours. Don't worry, I will be back to adress any new issues!  
 
 <br/>
-
 
 ####2018-10-24####
 
