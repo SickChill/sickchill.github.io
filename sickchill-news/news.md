@@ -3,12 +3,50 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
-####2018-12-22####
+####2020-01-21####
+
+On the next release I will be merging code that forces you to use an access token for github to use the issue submitter. Username/Password login is deprecrated 
+with github's new policy, and won't work much longer. If you want to keep submitting issues, go to settings->general->advanced and click the `Generate Token` 
+button, or add one that you have already created. This is good because you can now control what permissions that token has with your account, and it is easy 
+to revoke individual tokens if it happens to be compromised without changing your GitHub password. It is also required for 2FA if you decide to use that.
+
+I have just fixed a glaring bug where tons of networks were not being added to the network_timezones since the scraper we built just for that was broken due 
+to the new tvdb site. Episodes should start coming on time again.
+
+TVDB api should be working on our end as long as their side is working. It does go down from time to time while they are 
+working on it. If you see an APIkey error, its on theTVDB side and we cannot fix it so just be patient. 
+
+<br/>
+
+####2020-01-08####
+
+Huge changes in develop will in the next day or 2 come to master, including the total switch over to the new TVDB api, using cloudscraper to fix cloudflare issues, and possibly updating subliminal. These changes are VERY pervasive,
+and effect adding shows, updating shows, all images, metadata, notifications, trakt, and more. around 60k lines changed. Two notes of caution:
+
+Before updating, make sure you have at least Python 2.7.9, because it will not run with anything lower, and it will not run on Python 3+.
+If you are worried, wait a few days once the release to master is made before you update.
+
+I hope this goes smoothly, it has been brutal the last few weeks with long hours trying to get it right.
+Happy Snatchin and Happy New Year.
+
+<br/>
+
+####2019-06-26####
+
+Greetings ill chill army! I am all packed up and moving across the country to the east coast. During this time I will be without much connectivity, so I will not be able to do much coding if any at all. I have been slacking for a bit, but I will try and merge contributions if anyone sends in any pull requests and I will be much more active once we settle in. Moving is expensive, tiresome, and scary driving a 30 foot 1996 RV a whole 2400 miles lol.  Once we get settled in our new state I will be adding the size limits for qualities, a new/better post processor, reworking providers and notifiers to use less memory, and more.
+
+Please keep me, my wife, and our 2 kids in your thoughts (and prayers if that is your sort of thing) for a safe trip!
+
+<br/>
+
+####2018-11-22####
+
 Happy Thanksgiving SickChillers! I am thankful for all of the loyal users and supporters. Hope you all have a great day!  
 
 <br/>
 
 ####2018-11-2####
+
 I plan on enforcing a strict policy to use SSL and web authentication, and adding hardware authentication.  
 When you are using localhost or an IP only a self signed certificate will be used, and when you have a domain a letsencrypt certificate will be created.  
 Also, I am trying to get my hands on a Yubikey 5 NFC so that I can implement FIDO2, U2F, OTAP and other secure hardware key authentication.  
@@ -17,14 +55,15 @@ Please go and vote thumbs up or down if you are interested in these features on 
 <br/>
 
 ####2018-10-30####
+
 For any of you who have given up on Jackett+SickChill due to a bug with SC, the torznab issue with adding double season/episode to the search string has just been fixed and pushed to master.  
 I am working on some big refactors for you all, in order to give more flexibility with installation options. I will be taking a break today and maybe tomorrow trying to clear my head of SC (since it is my birthday today, yay! lol)  
 and try to avoid checking github for a full 24 hours. Don't worry, I will be back to adress any new issues!  
 
 <br/>
 
-
 ####2018-10-24####
+
 Due to a phony trademark claim, we have renamed the organization and application to SickChill.  
 Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
 (even references to the old organization and application name have been renamed in this file)  

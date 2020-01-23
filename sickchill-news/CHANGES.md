@@ -1,3 +1,380 @@
+### v2020.01.21-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-5...v2020.01.21-1)
+
+* Force add 5090 to default nzb provider categories when HEVC is enabled. Fix being able to edit builtin nzb providers settings (on the Configure Custom Newznab Providers page)
+* Don't warn when filling cache with show images and the show dir doesnt exist
+* Fix footer rowspan on schedule and add trakt link to schedule poster and list layouts
+* Use personal access tokens only for submitting issues (new github policy) ([#5909](https://github.com/SickChill/SickChill/issues/5909))
+
+### v2020.01.20-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-4...v2020.01.20-5)
+
+* Always include the show's all-season scene exception in search string, even if it has a season specific scene exception Fixes [#4974](https://github.com/SickChill/SickChill/issues/4974)
+
+### v2020.01.20-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-3...v2020.01.20-4)
+
+* Fix not being able to add scene season exceptions for most recent season of a show Fixes [#5905](https://github.com/SickChill/SickChill/issues/5905)
+
+### v2020.01.20-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-2...v2020.01.20-3)
+
+* Disable vcr for skytorrents, cloudflare breaking tests
+* Fix parsing skytorrents
+* Update requirements.txt (this file is NOT USED) Fixes [#5316](https://github.com/SickChill/SickChill/issues/5316)
+
+### v2020.01.20-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-1...v2020.01.20-2)
+
+* Fix skytorrents Fixes [#5579](https://github.com/SickChill/SickChill/issues/5579)
+
+### v2020.01.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-7...v2020.01.20-1)
+
+* Clean up some logs with proper thread names and make all missing networks go to the same issue
+* Update isotope and dependancies. Try to fix empty space problem. Fixes [#5724](https://github.com/SickChill/SickChill/issues/5724)
+
+### v2020.01.19-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-6...v2020.01.19-7)
+
+* Don't error if show doesn't have any episodes
+
+### v2020.01.19-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-5...v2020.01.19-6)
+
+* Allow adding shows from the future with no episodes yet Fixes [#5588](https://github.com/SickChill/SickChill/issues/5588)
+
+### v2020.01.19-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-4...v2020.01.19-5)
+
+* Fixes [#5899](https://github.com/SickChill/SickChill/issues/5899)
+
+### v2020.01.19-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-3...v2020.01.19-4)
+
+* Typo, [#5900](https://github.com/SickChill/SickChill/issues/5900)
+* Add a trakt icon link to the show page ([#5896](https://github.com/SickChill/SickChill/issues/5896))
+
+### v2020.01.19-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-2...v2020.01.19-3)
+
+* Only use nfo/xml when adding existing shows. Adding using the dir name to automatically search providers is unreliable. Instead, when metadata is missing, prompt to search and select the show manually
+
+### v2020.01.19-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.19-1...v2020.01.19-2)
+
+* Only show info log while creating kodi meta files when cannot find a show on tvdb, usually when the api is failing. Fixes [#5898](https://github.com/SickChill/SickChill/issues/5898)
+
+### v2020.01.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.17-1...v2020.01.19-1)
+
+* Allow lesser versions of python 2.7 (uses cfscrape, probably fails on many sites) Fixes [#5894](https://github.com/SickChill/SickChill/issues/5894)
+
+### v2020.01.17-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-2...v2020.01.17-1)
+
+* Also catch TypeError in episode_image_url when episode is not found. Fixes [#5874](https://github.com/SickChill/SickChill/issues/5874)
+* Better way to check that a torrent was added in the old qbittorent client. Fixes [#5881](https://github.com/SickChill/SickChill/issues/5881) Fixes [#5016](https://github.com/SickChill/SickChill/issues/5016) Fixes [#4385](https://github.com/SickChill/SickChill/issues/4385) Thanks sumarimike
+
+### v2020.01.16-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.16-1...v2020.01.16-2)
+
+* Remove unnecessary api call to tvdb
+
+### v2020.01.16-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-2...v2020.01.16-1)
+
+* Use the correct method when loading episodes from indexer, so error handling is used. Fixes [#5879](https://github.com/SickChill/SickChill/issues/5879)
+* check parent dir names in addition to current ([#5864](https://github.com/SickChill/SickChill/issues/5864))
+
+### v2020.01.14-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.14-1...v2020.01.14-2)
+
+* Handle regex substitution error when item to search for contains a repeat repeat such as ++ or ** Fixes [#5869](https://github.com/SickChill/SickChill/issues/5869)
+
+### v2020.01.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-3...v2020.01.14-1)
+
+* Handle adding a show when tvdb does not have it's start date. Fixes [#5867](https://github.com/SickChill/SickChill/issues/5867)
+
+### v2020.01.13-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-2...v2020.01.13-3)
+
+* Apply user supplied fix for bjshare from [#5591](https://github.com/SickChill/SickChill/issues/5591)#issuecomment-537029104 Fixes [#5591](https://github.com/SickChill/SickChill/issues/5591)
+
+### v2020.01.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.13-1...v2020.01.13-2)
+
+* Fixes [#5766](https://github.com/SickChill/SickChill/issues/5766) - Might need improved. Hides usernames/passwords if it is a full word. Also, hide jackett_apikey from logs
+* Fixes [#5749](https://github.com/SickChill/SickChill/issues/5749) feature to avoid updating shows with status Ended for a set amount of days. Defaults to 7 days, configurable on config->general->interface
+
+### v2020.01.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-4...v2020.01.13-1)
+
+* Fix [#5863](https://github.com/SickChill/SickChill/issues/5863)
+
+### v2020.01.12-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-3...v2020.01.12-4)
+
+* Try again to fix build.
+
+### v2020.01.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-2...v2020.01.12-3)
+
+* Fix build hopefully. py3 is urgent
+* Update FUNDING.yml
+
+### v2020.01.12-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.12-1...v2020.01.12-2)
+
+* Jacket url is returning a magnet when expecting a torrent file. Why not eliminate that 302 redirect and just put the magnet in the xml response instead.... Fixes [#5600](https://github.com/SickChill/SickChill/issues/5600) Fixes [#5862](https://github.com/SickChill/SickChill/issues/5862)
+
+### v2020.01.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.11-1...v2020.01.12-1)
+
+* Fixes [#5858](https://github.com/SickChill/SickChill/issues/5858) Fixes [#5859](https://github.com/SickChill/SickChill/issues/5859) Change rarbg url to rarbg.to
+
+### v2020.01.11-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.03-1...v2020.01.11-1)
+
+* Update bower and eslint in yarn.lock and package.json
+* Call _location instead of location for show where necessary Fix [#5836](https://github.com/SickChill/SickChill/issues/5836) when info in nfo has & included Go supersaiyan on finding correct show from nfo, indexer and id, or show name should be enough, it is working fairly well
+* Create FUNDING.yml ([#5835](https://github.com/SickChill/SickChill/issues/5835))
+* Fix a potentially undefined result variable
+* Use cloudscraper when running 2.7.9, cfscrape when running 2.7-2.7.8
+* cloudscraper requires Python 2.7.9+ but less than 3! [#5829](https://github.com/SickChill/SickChill/issues/5829)
+* Use cloudscraper for now. cfscrape is borked ([#5828](https://github.com/SickChill/SickChill/issues/5828))
+* Apply [Anorov/cloudflare-scrape#315](https://github.com/Anorov/cloudflare-scrape/issues/315) ([#5827](https://github.com/SickChill/SickChill/issues/5827))
+* Fix error on kodi12+ metadata relating to imdb country codes. Improve search results when show is not found the first time Remove writers and directors from kodi12+ metadata (info is not on tvdb for shows, only episodes)
+* Fix error  updating trakt watchlist
+* Adding Parsing for WebUHD like ([#5824](https://github.com/SickChill/SickChill/issues/5824))
+* Fix error on genre split in webapi Fixes [#5825](https://github.com/SickChill/SickChill/issues/5825)
+* Fix error with coverage==5 breaking codecov. Fixes build
+* Fix show forced update and refresh (all episodes having same or no data on displayshow)
+* Fix airdates, fix mistake on mediabrowser metadata, fix the rest of metdata
+* Fix failure on most metadata providers. FIXME: tvdbapi returning no airdate for some episodes, such as schooled
+* Tvdb3 ([#5789](https://github.com/SickChill/SickChill/issues/5789))
+* Update translations (build 10488) [skip ci]
+
+### v2020.01.03-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.22-1...v2020.01.03-1)
+
+* Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
+* Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
+* Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
+* Update translations (build 10420) [skip ci]
+
+### v2019.12.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.20-1...v2019.12.22-1)
+
+* Fix js for rtorrent9 client
+* Add DC Universe and Shutter network icons from [#5777](https://github.com/SickChill/SickChill/issues/5777)
+* Rtorrent9 - rTorrent 0.9.0 compatible torrent client, while keeping the older client intact. ([#5787](https://github.com/SickChill/SickChill/issues/5787))
+* Qbittorrent apiv2 ([#5785](https://github.com/SickChill/SickChill/issues/5785))
+* Update translations (build 10408) [skip ci]
+
+### v2019.12.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.12.19-1...v2019.12.20-1)
+
+* Create greetings.yml ([#5775](https://github.com/SickChill/SickChill/issues/5775))
+
+### v2019.12.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.11.28-1...v2019.12.19-1)
+
+* Fix: logging of sent matrix messages was not properly escaped causing the page to break ([#5645](https://github.com/SickChill/SickChill/issues/5645))
+* Implementation suggestion for "Prefer words" ([#5629](https://github.com/SickChill/SickChill/issues/5629)) ([#5699](https://github.com/SickChill/SickChill/issues/5699))
+* Fixing error when accessing html for torrent size ([#5770](https://github.com/SickChill/SickChill/issues/5770))
+* Update tvdb api to v3  (credits to @BenjV) ([#5738](https://github.com/SickChill/SickChill/issues/5738))
+* Fix for [#5436](https://github.com/SickChill/SickChill/issues/5436) ([#5762](https://github.com/SickChill/SickChill/issues/5762))
+* Add network logo for Apple TV Plus ([#5750](https://github.com/SickChill/SickChill/issues/5750))
+* Added Disney+ network icon [#5759](https://github.com/SickChill/SickChill/issues/5759) ([#5761](https://github.com/SickChill/SickChill/issues/5761))
+* Update translations (build 10367) [skip ci]
+
+### v2019.11.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.09.02-1...v2019.11.28-1)
+
+* Update depends
+* Update xthor.py ([#5723](https://github.com/SickChill/SickChill/issues/5723))
+* Update tvdb_api.py ([#5731](https://github.com/SickChill/SickChill/issues/5731))
+* Merge pull request [#5701](https://github.com/SickChill/SickChill/issues/5701) from kmartin36/kmartin36-patch-5686-2
+* Merge pull request [#5687](https://github.com/SickChill/SickChill/issues/5687) from kmartin36/kmartin36-patch-5686
+* Merge pull request [#5667](https://github.com/SickChill/SickChill/issues/5667) from VixsTy/fix/xthor-fqdn-change
+* Schedule View - add banner to list ([#5653](https://github.com/SickChill/SickChill/issues/5653))
+* Bump lodash.merge from 4.6.1 to 4.6.2 ([#5639](https://github.com/SickChill/SickChill/issues/5639))
+* Bump mixin-deep from 1.3.1 to 1.3.2 ([#5640](https://github.com/SickChill/SickChill/issues/5640))
+* Update index.py ([#5625](https://github.com/SickChill/SickChill/issues/5625))
+* Merge pull request [#5618](https://github.com/SickChill/SickChill/issues/5618) from mvn23/patch-3
+* Update translations (build 10323) [skip ci]
+
+### v2019.09.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.28-1...v2019.09.02-1)
+
+* Merge pull request [#5617](https://github.com/SickChill/SickChill/issues/5617) from SickChill/develop
+
+* Release dev to master
+
+### v2019.06.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-2...v2019.06.28-1)
+
+* Update \_\_init\_\_.py ([#5556](https://github.com/SickChill/SickChill/issues/5556))
+
+### v2019.06.27-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.06.27-1...v2019.06.27-2)
+
+* Issue 5551 ([#5552](https://github.com/SickChill/SickChill/issues/5552))
+* Update translations (build 10292) [skip ci]
+
+### v2019.06.27-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.31-1...v2019.06.27-1)
+
+* Merge branch 'develop'
+* Update translations (build 10222) [skip ci]
+* Remove ncu, fixes WS-2018-0076
+* Update translations (build 10205) [skip ci]
+
+### v2019.05.31-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.26-1...v2019.05.31-1)
+
+* Patch urllib3 ciphers
+* Fix typo
+* change seeders and leechers label strings to reflect site changes
+
+### v2019.05.26-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.24-1...v2019.05.26-1)
+
+* Update translations (build 10187) [skip ci]
+* deluged: make labels the same across all files
+* Update translations (build 10183) [skip ci]
+
+### v2019.05.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.20-1...v2019.05.24-1)
+
+* Update config_search.mako
+* merges divs into one, and labels renamed as requested
+* Deluged: add download and completed dirs to config
+* Update init.systemd
+* Update translations (build 10170) [skip ci]
+
+### v2019.05.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-3...v2019.05.20-1)
+
+* Remove NZBS.org, fixes [#5490](https://github.com/SickChill/SickChill/issues/5490) ([#5492](https://github.com/SickChill/SickChill/issues/5492))
+* Fix issue with session headers ([#5491](https://github.com/SickChill/SickChill/issues/5491))
+* Branch matrix notifications ([#5377](https://github.com/SickChill/SickChill/issues/5377))
+
+### v2019.05.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-2...v2019.05.15-3)
+
+* Update stale.yml
+
+### v2019.05.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.05.15-1...v2019.05.15-2)
+
+* Update yarn packages
+
+### v2019.05.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.04.07-1...v2019.05.15-1)
+
+* Bump cfscrape version to 2.0.0 ([#5462](https://github.com/SickChill/SickChill/issues/5462))
+* Update ygg URL due to TLD migration ([#5468](https://github.com/SickChill/SickChill/issues/5468))
+* feat: Slack Icon options ([#5424](https://github.com/SickChill/SickChill/issues/5424))
+* Update usenet-crawler URL  ([#5433](https://github.com/SickChill/SickChill/issues/5433))
+* Add notification after postprocessin (SickChill[#4348](https://github.com/SickChill/SickChill/issues/4348)) ([#5444](https://github.com/SickChill/SickChill/issues/5444))
+* new url ([#5445](https://github.com/SickChill/SickChill/issues/5445))
+* Changed search order to 7 as 8 was the least seeders first. Probably browser and search order was unified at some point. ([#5434](https://github.com/SickChill/SickChill/issues/5434))
+* Fix broken unrar validation. ([#5396](https://github.com/SickChill/SickChill/issues/5396))
+
+### v2019.04.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2019.01.06-1...v2019.04.07-1)
+
+* Upgrade cfscrape to version 1.9.7 ([#5405](https://github.com/SickChill/SickChill/issues/5405))
+* Update \_\_init\_\_.py 1.9.6 ([#5374](https://github.com/SickChill/SickChill/issues/5374))
+* corrected poster.png ([#5356](https://github.com/SickChill/SickChill/issues/5356))
+* Update ygg search url ([#5349](https://github.com/SickChill/SickChill/issues/5349))
+* Fix orig_root_dir comparison between str/unicode ([#5275](https://github.com/SickChill/SickChill/issues/5275))
+* Adding support for SSL into Docker container ([#5315](https://github.com/SickChill/SickChill/issues/5315))
+* Add Irib TV1 and Qatar TV networks icons ([#5319](https://github.com/SickChill/SickChill/issues/5319))
+* Update library's after removing shows ([#5282](https://github.com/SickChill/SickChill/issues/5282))
+* Add logo for Epix network ([#5272](https://github.com/SickChill/SickChill/issues/5272))
+* Update translations (build 10034) [skip ci]
+
+### v2019.01.06-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.24-1...v2019.01.06-1)
+
+* Fixes Gimmepeers timeout issue and syntax ([#5263](https://github.com/SickChill/SickChill/issues/5263))
+* Update translations (build 10027) [skip ci]
+
+### v2018.12.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.12.19-1...v2018.12.24-1)
+
+* Update stale.yml ([#5257](https://github.com/SickChill/SickChill/issues/5257))
+* Grunt, Update translations (build 10022) [skip ci]
+
+### v2018.12.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.30-1...v2018.12.19-1)
+
+* Fix [#5244](https://github.com/SickChill/SickChill/issues/5244): add new Torrent9 indexer file prefix 'Torrent9.PH ---> ' ([#5249](https://github.com/SickChill/SickChill/issues/5249))
+* Torrent9 custom url ([#5246](https://github.com/SickChill/SickChill/issues/5246))
+* Updating cfscrape to 1.9.5 ([#5243](https://github.com/SickChill/SickChill/issues/5243))
+* update youtube.png and added youtube red/premium ([#5240](https://github.com/SickChill/SickChill/issues/5240))
+* Update SpeedCD HTML parser ([#5226](https://github.com/SickChill/SickChill/issues/5226))
+* Remove NotifyMyAndroid, service stopped ([#5231](https://github.com/SickChill/SickChill/issues/5231))
+* Update Usenet-Crawler URL to new API endpoint ([#5223](https://github.com/SickChill/SickChill/issues/5223))
+* Grunt, Update translations (build 9985) [skip ci]
+
+### v2018.11.30-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.22-1...v2018.11.30-1)
+
+* Use all subcategory on YggTorrent, to catch anime and documentaries better ([#5210](https://github.com/SickChill/SickChill/issues/5210))
+* Update translations (build 9972) [skip ci]
+
 ### v2018.11.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2018.11.07-1...v2018.11.22-1)
