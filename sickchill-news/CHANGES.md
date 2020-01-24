@@ -1,3 +1,10 @@
+### v2020.01.23-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.23-1...v2020.01.23-2)
+
+* Fix build
+* Ability to sort the search results when adding a show. Click the table headers Fixes [#5917](https://github.com/SickChill/SickChill/issues/5917)
+
 ### v2020.01.23-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.21-1...v2020.01.23-1)
