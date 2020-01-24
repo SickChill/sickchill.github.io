@@ -1,3 +1,10 @@
+### v2020.01.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.21-1...v2020.01.23-1)
+
+* Allow searching with imdbid (tt6546758 or 6546758 will bring up schooled) Do not delete episode if tvdb fails. Keep the data we have. [#5915](https://github.com/SickChill/SickChill/issues/5915) [#5912](https://github.com/SickChill/SickChill/issues/5912)
+* Ability to append year to end of show dirs when adding shows. ([#5912](https://github.com/SickChill/SickChill/issues/5912))
+
 ### v2020.01.21-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.20-5...v2020.01.21-1)
