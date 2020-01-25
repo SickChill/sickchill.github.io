@@ -1,3 +1,9 @@
+### v2020.01.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.23-2...v2020.01.24-1)
+
+* Fix apibuilder syntax error Fixes [#5922](https://github.com/SickChill/SickChill/issues/5922)
+
 ### v2020.01.23-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.23-1...v2020.01.23-2)
