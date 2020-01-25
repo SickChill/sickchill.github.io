@@ -1,3 +1,10 @@
+### v2020.01.25-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.24-1...v2020.01.25-1)
+
+* Fixes [#5923](https://github.com/SickChill/SickChill/issues/5923)
+* Update translations (build 10647) [skip ci]
+
 ### v2020.01.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.23-2...v2020.01.24-1)
