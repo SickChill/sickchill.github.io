@@ -1,3 +1,13 @@
+### v2020.01.29-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.25-1...v2020.01.29-1)
+
+* Fix ebuild
+* Fix error when a show is added by the trakt checker
+* Fixes [#5944](https://github.com/SickChill/SickChill/issues/5944) - Sorting posters by next episode
+* Fixes [#5944](https://github.com/SickChill/SickChill/issues/5944) - Sorting posters by next episode
+* Update translations (build 10650) [skip ci]
+
 ### v2020.01.25-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.24-1...v2020.01.25-1)
