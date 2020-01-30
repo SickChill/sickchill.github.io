@@ -1,3 +1,10 @@
+### v2020.01.29-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-2...v2020.01.29-3)
+
+* Fix error when adding show by tvdbid
+* Update translations (build 10669) [skip ci]
+
 ### v2020.01.29-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-1...v2020.01.29-2)
