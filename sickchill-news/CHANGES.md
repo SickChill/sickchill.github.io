@@ -1,3 +1,11 @@
+### v2020.01.29-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-1...v2020.01.29-2)
+
+* Add status as a sorting option on poster view. Sort better when loading page on poster view for next episode
+* Do not cache posters, thumbs, banners, network logos until cachebreaking can be worked in or cache and gui can be combined for staticfiles.
+* Update translations (build 10666) [skip ci]
+
 ### v2020.01.29-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.25-1...v2020.01.29-1)
