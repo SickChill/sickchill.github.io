@@ -1,3 +1,10 @@
+### v2020.01.29-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-3...v2020.01.29-4)
+
+* Update cloudscraper and urllib3
+* Update translations (build 10672) [skip ci]
+
 ### v2020.01.29-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-2...v2020.01.29-3)
