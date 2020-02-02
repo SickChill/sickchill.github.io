@@ -1,3 +1,10 @@
+### v2020.02.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-4...v2020.02.02-1)
+
+* Let's catch tvdbapi exceptions better
+* Update translations (build 10675) [skip ci]
+
 ### v2020.01.29-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.01.29-3...v2020.01.29-4)
