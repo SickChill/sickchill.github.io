@@ -1,3 +1,9 @@
+### v2020.02.05-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.05-1...v2020.02.05-2)
+
+* Fix build
+
 ### v2020.02.05-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.02-2...v2020.02.05-1)
