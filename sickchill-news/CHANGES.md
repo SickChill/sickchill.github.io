@@ -1,3 +1,10 @@
+### v2020.02.05-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.02-2...v2020.02.05-1)
+
+* Force show updater to run on startup. Fix error where last_update was always set so older shows never updated. Get all show updates if not updated before rather than just 6 months in the past (older shows) Fix episodeguide in kodi nfo's and a logging bug
+* Update translations (build 10681) [skip ci]
+
 ### v2020.02.02-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.02-1...v2020.02.02-2)
