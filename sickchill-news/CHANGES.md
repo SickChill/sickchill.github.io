@@ -1,3 +1,10 @@
+### v2020.02.09-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-1...v2020.02.09-2)
+
+* Temp fix for image_url so it doesnt error everyone
+* Update translations (build 10705) [skip ci]
+
 ### v2020.02.09-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.05-2...v2020.02.09-1)
