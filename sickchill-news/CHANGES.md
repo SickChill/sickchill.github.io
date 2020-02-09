@@ -1,3 +1,13 @@
+### v2020.02.09-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.05-2...v2020.02.09-1)
+
+* Fixes [#5963](https://github.com/SickChill/SickChill/issues/5963)
+* Fix reverse parsing scene names, and possibly match scene releases better as well as when re-adding already-renamed show folders.
+* Add ability to play file on kodi over api in the notifier, remove old kodi notifier code ([#5938](https://github.com/SickChill/SickChill/issues/5938))
+* Fix image cache, only works if cache dir is inside gui dir ([#5961](https://github.com/SickChill/SickChill/issues/5961))
+* Update translations (build 10687) [skip ci]
+
 ### v2020.02.05-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.05-1...v2020.02.05-2)
