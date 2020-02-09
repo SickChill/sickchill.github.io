@@ -1,3 +1,11 @@
+### v2020.02.09-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-2...v2020.02.09-3)
+
+* Fixes [#5964](https://github.com/SickChill/SickChill/issues/5964) - Mistake
+* Fixes [#5964](https://github.com/SickChill/SickChill/issues/5964)
+* Update translations (build 10707) [skip ci]
+
 ### v2020.02.09-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-1...v2020.02.09-2)
