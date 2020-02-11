@@ -1,3 +1,10 @@
+### v2020.02.11-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-3...v2020.02.11-1)
+
+* Hide debug logging about items/images not found on tvdb
+* Update translations (build 10711) [skip ci]
+
 ### v2020.02.09-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-2...v2020.02.09-3)
