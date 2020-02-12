@@ -1,3 +1,11 @@
+### v2020.02.11-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-1...v2020.02.11-2)
+
+* Use rarbg for search test, as it is one of our most reliable providers
+* Fixes [#5972](https://github.com/SickChill/SickChill/issues/5972) - mede8er xml not being created Fixes [#5962](https://github.com/SickChill/SickChill/issues/5962) - Rating tag set to mpp rating rather than site rating
+* Update translations (build 10715) [skip ci]
+
 ### v2020.02.11-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.09-3...v2020.02.11-1)
