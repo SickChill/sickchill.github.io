@@ -1,3 +1,9 @@
+### v2020.02.11-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-2...v2020.02.11-3)
+
+* Only run rarbg test manually
+
 ### v2020.02.11-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-1...v2020.02.11-2)
