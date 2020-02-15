@@ -1,3 +1,11 @@
+### v2020.02.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-3...v2020.02.15-1)
+
+* iSort and fix build. Disable demonoid rss search until I can finish it.
+* Force cache dir to be in gui/slick/cache and remove setting. Force Log dir to be in data_dir/Logs and remove setting Add demonoid and kat providers
+* Update translations (build 10721) [skip ci]
+
 ### v2020.02.11-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-2...v2020.02.11-3)
