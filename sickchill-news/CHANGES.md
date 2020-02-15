@@ -1,3 +1,10 @@
+### v2020.02.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-1...v2020.02.15-2)
+
+* Fix [#5981](https://github.com/SickChill/SickChill/issues/5981) - Kodi notifications if you put the port on the settings line. via kyuuk (thanks) [untested]
+* Update translations (build 10726) [skip ci]
+
 ### v2020.02.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.11-3...v2020.02.15-1)
