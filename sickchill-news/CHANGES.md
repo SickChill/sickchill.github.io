@@ -1,3 +1,11 @@
+### v2020.02.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-2...v2020.02.15-3)
+
+* Fall back to english for series images if the show has a non-english language and the language-specific image is not found. Fixes [#5979](https://github.com/SickChill/SickChill/issues/5979)
+* Option to restrict backlog searches to 'missing' episodes only ([#5977](https://github.com/SickChill/SickChill/issues/5977))
+* Update translations (build 10730) [skip ci]
+
 ### v2020.02.15-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-1...v2020.02.15-2)
