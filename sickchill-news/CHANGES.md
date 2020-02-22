@@ -1,3 +1,12 @@
+### v2020.02.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-3...v2020.02.22-1)
+
+* Hide kodi play button when kodi is not enabled and prevent the modal from causing an exception Fixes [#5990](https://github.com/SickChill/SickChill/issues/5990)
+* Network Logos - Duplicate Chiba TV for "CTC (JA)" network ([#6001](https://github.com/SickChill/SickChill/issues/6001))
+* Network logo - Add CraveTV ([#5997](https://github.com/SickChill/SickChill/issues/5997))
+* Update translations (build 10736) [skip ci]
+
 ### v2020.02.15-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-2...v2020.02.15-3)
