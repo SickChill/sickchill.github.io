@@ -1,3 +1,11 @@
+### v2020.02.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.22-1...v2020.02.23-1)
+
+* Upgrade requests, idna
+* Update tvdb series/poster/banner/fanart/season images ordering to get the most popular images when adding
+* Update translations (build 10743) [skip ci]
+
 ### v2020.02.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.15-3...v2020.02.22-1)
