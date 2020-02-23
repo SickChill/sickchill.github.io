@@ -1,3 +1,10 @@
+### v2020.02.23-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.23-1...v2020.02.23-2)
+
+* New limetorrents url
+* Update translations (build 10745) [skip ci]
+
 ### v2020.02.23-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.22-1...v2020.02.23-1)
