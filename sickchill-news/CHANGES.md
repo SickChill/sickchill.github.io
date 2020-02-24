@@ -1,3 +1,10 @@
+### v2020.02.24-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.24-1...v2020.02.24-2)
+
+* Force users to set a username and password if accessible from the internet, or block the con
+* Update translations (build 10765) [skip ci]
+
 ### v2020.02.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.23-2...v2020.02.24-1)
