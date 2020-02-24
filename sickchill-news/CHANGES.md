@@ -1,3 +1,11 @@
+### v2020.02.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.23-2...v2020.02.24-1)
+
+* Try to fix itorrents error with skytorrents and limetorrents Fixes [#6012](https://github.com/SickChill/SickChill/issues/6012) Fixes [#5942](https://github.com/SickChill/SickChill/issues/5942)
+* Fixes [#5108](https://github.com/SickChill/SickChill/issues/5108)
+* Update translations (build 10749) [skip ci]
+
 ### v2020.02.23-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.23-1...v2020.02.23-2)
