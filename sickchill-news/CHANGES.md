@@ -1,3 +1,10 @@
+### v2020.02.25-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-4...v2020.02.25-5)
+
+* Oops, this allowed Bearer : as authorization if the user had no user/pass set. Also return false if incorrect header is present.
+* Update translations (build 10791) [skip ci]
+
 ### v2020.02.25-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-3...v2020.02.25-4)
