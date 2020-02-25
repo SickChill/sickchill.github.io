@@ -1,3 +1,10 @@
+### v2020.02.25-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-3...v2020.02.25-4)
+
+* Change value of port to an int when port is passed in KODI_HOST.
+* Update translations (build 10788) [skip ci]
+
 ### v2020.02.25-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-2...v2020.02.25-3)
