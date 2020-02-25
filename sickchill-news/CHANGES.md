@@ -1,3 +1,10 @@
+### v2020.02.25-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.24-3...v2020.02.25-1)
+
+* Improve login code from remote, log the access attempt if the error page was shown.
+* Update translations (build 10774) [skip ci]
+
 ### v2020.02.24-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.24-2...v2020.02.24-3)
