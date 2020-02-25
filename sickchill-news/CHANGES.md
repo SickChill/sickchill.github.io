@@ -1,3 +1,9 @@
+### v2020.02.25-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-1...v2020.02.25-2)
+
+* Link cache data ([#6014](https://github.com/SickChill/SickChill/issues/6014))
+
 ### v2020.02.25-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.24-3...v2020.02.25-1)
