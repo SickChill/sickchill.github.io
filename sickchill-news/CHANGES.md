@@ -1,3 +1,10 @@
+### v2020.02.25-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-2...v2020.02.25-3)
+
+* Allow basic auth to bypass login (for reverse proxies, unsecure if used outside of a local network!) Fixes [#6018](https://github.com/SickChill/SickChill/issues/6018)
+* Update translations (build 10784) [skip ci]
+
 ### v2020.02.25-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-1...v2020.02.25-2)
