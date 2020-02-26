@@ -1,3 +1,11 @@
+### v2020.02.26-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-8...v2020.02.26-1)
+
+* Implement SC login FROM Cloudflare Access using jwt token auth ([#6021](https://github.com/SickChill/SickChill/issues/6021))
+* Add IPv6 loopback support to is_ip_private() ([#6024](https://github.com/SickChill/SickChill/issues/6024))
+* Update translations (build 10803) [skip ci]
+
 ### v2020.02.25-8
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-7...v2020.02.25-8)
