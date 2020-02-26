@@ -1,3 +1,10 @@
+### v2020.02.25-8
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-7...v2020.02.25-8)
+
+* Update cloudscraper and cfscrape. Good Luck
+* Update translations (build 10801) [skip ci]
+
 ### v2020.02.25-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-6...v2020.02.25-7)
