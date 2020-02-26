@@ -1,3 +1,10 @@
+### v2020.02.25-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-5...v2020.02.25-6)
+
+* Do not refresh shows on startup Update all shows every night until TVDB fixes their updates api
+* Update translations (build 10794) [skip ci]
+
 ### v2020.02.25-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-4...v2020.02.25-5)
