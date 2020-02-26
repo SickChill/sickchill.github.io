@@ -1,3 +1,10 @@
+### v2020.02.25-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-6...v2020.02.25-7)
+
+* Fix problem when using black hole and a bittorrent cache site must be used (Hundreds of No schema supplied. Perhaps you meant lines in the logs)
+* Update translations (build 10798) [skip ci]
+
 ### v2020.02.25-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-5...v2020.02.25-6)
