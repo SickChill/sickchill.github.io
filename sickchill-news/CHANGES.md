@@ -1,3 +1,10 @@
+### v2020.02.27-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-3...v2020.02.27-1)
+
+* is_ip_private() should handle IPv6 addresses ([#6030](https://github.com/SickChill/SickChill/issues/6030))
+* Update translations (build 10824) [skip ci]
+
 ### v2020.02.26-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-2...v2020.02.26-3)
