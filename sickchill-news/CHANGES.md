@@ -1,3 +1,9 @@
+### v2020.02.26-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-1...v2020.02.26-2)
+
+* Make sure SC still starts if user does not have cryptography, which is needed for the jwt auth.
+
 ### v2020.02.26-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.25-8...v2020.02.26-1)
