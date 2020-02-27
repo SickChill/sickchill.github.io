@@ -1,3 +1,10 @@
+### v2020.02.26-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-2...v2020.02.26-3)
+
+* Make sure a failing kodi connection doesnt prevent a user from accessing displayShow
+* Update translations (build 10822) [skip ci]
+
 ### v2020.02.26-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-1...v2020.02.26-2)
