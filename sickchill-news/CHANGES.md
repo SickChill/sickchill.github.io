@@ -1,3 +1,9 @@
+### v2020.02.27-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.27-1...v2020.02.27-2)
+
+* Add ipaddress package Fixes [#6032](https://github.com/SickChill/SickChill/issues/6032)
+
 ### v2020.02.27-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.26-3...v2020.02.27-1)
