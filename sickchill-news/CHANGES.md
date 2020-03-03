@@ -1,3 +1,10 @@
+### v2020.03.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.27-2...v2020.03.02-1)
+
+* Check if queueing is enabled in qbittorrent before trying to set priority. Fixes [#5980](https://github.com/SickChill/SickChill/issues/5980)
+* Update translations (build 10832) [skip ci]
+
 ### v2020.02.27-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.27-1...v2020.02.27-2)
