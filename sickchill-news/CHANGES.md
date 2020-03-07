@@ -1,3 +1,10 @@
+### v2020.03.07-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-2...v2020.03.07-3)
+
+* Lets see if TVDB fixed their updates api. Starts at today and gets the last 7 days first rather than last update time in case limits are hit, and always updates the last 7 days.
+* Update translations (build 10841) [skip ci]
+
 ### v2020.03.07-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-1...v2020.03.07-2)
