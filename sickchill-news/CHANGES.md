@@ -1,3 +1,10 @@
+### v2020.03.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.02-1...v2020.03.07-1)
+
+* fix login when rev proxy has auth basic ([#6070](https://github.com/SickChill/SickChill/issues/6070))
+* Update translations (build 10834) [skip ci]
+
 ### v2020.03.02-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.02.27-2...v2020.03.02-1)
