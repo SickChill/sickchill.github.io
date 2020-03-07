@@ -1,3 +1,10 @@
+### v2020.03.07-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-3...v2020.03.07-4)
+
+* Fixes [#6069](https://github.com/SickChill/SickChill/issues/6069)
+* Update translations (build 10844) [skip ci]
+
 ### v2020.03.07-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-2...v2020.03.07-3)
