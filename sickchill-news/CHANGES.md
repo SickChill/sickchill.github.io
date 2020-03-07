@@ -1,3 +1,10 @@
+### v2020.03.07-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-1...v2020.03.07-2)
+
+* Fix branch list in config
+* Update translations (build 10839) [skip ci]
+
 ### v2020.03.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.02-1...v2020.03.07-1)
