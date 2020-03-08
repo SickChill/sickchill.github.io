@@ -1,3 +1,10 @@
+### v2020.03.08-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-4...v2020.03.08-1)
+
+* Add yaml for issue bot
+* Update translations (build 10847) [skip ci]
+
 ### v2020.03.07-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-3...v2020.03.07-4)
