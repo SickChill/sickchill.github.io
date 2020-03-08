@@ -1,3 +1,9 @@
+### v2020.03.08-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-3...v2020.03.08-4)
+
+* Typo
+
 ### v2020.03.08-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-2...v2020.03.08-3)
