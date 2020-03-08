@@ -1,3 +1,10 @@
+### v2020.03.08-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-1...v2020.03.08-2)
+
+* Temporary solution for bower warning. TODO: Get rid of bower entirely.
+* Update translations (build 10850) [skip ci]
+
 ### v2020.03.08-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.07-4...v2020.03.08-1)
