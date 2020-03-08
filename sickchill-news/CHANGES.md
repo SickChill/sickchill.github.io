@@ -1,3 +1,10 @@
+### v2020.03.08-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-2...v2020.03.08-3)
+
+* Create pythonpackage.yml ([#6077](https://github.com/SickChill/SickChill/issues/6077))
+* Update translations (build 10853) [skip ci]
+
 ### v2020.03.08-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-1...v2020.03.08-2)
