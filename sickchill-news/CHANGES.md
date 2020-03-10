@@ -1,3 +1,10 @@
+### v2020.03.10-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.10-1...v2020.03.10-2)
+
+* Add amazon (japan) logo Fixes [#6035](https://github.com/SickChill/SickChill/issues/6035)
+* Update translations (build 10879) [skip ci]
+
 ### v2020.03.10-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-4...v2020.03.10-1)
