@@ -1,3 +1,10 @@
+### v2020.03.10-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-4...v2020.03.10-1)
+
+* Add '-xpost' to removeWords Fixes [#6079](https://github.com/SickChill/SickChill/issues/6079)
+* Update translations (build 10863) [skip ci]
+
 ### v2020.03.08-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.08-3...v2020.03.08-4)
