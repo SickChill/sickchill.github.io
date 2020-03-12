@@ -1,3 +1,10 @@
+### v2020.03.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.10-2...v2020.03.12-1)
+
+* Change API key for TVDB. https://thetvdb.com
+* Update translations (build 10881) [skip ci]
+
 ### v2020.03.10-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.10-1...v2020.03.10-2)
