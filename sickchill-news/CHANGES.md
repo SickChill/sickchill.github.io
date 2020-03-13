@@ -1,3 +1,10 @@
+### v2020.03.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-1...v2020.03.13-2)
+
+* Update greetings so it doesnt build unless an issue or pr was opened
+* Update translations (build 10936) [skip ci]
+
 ### v2020.03.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.12-1...v2020.03.13-1)
