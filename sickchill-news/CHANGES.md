@@ -1,3 +1,10 @@
+### v2020.03.13-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-5...v2020.03.13-6)
+
+* Merge branch 'develop'
+* Update translations (build 10948) [skip ci]
+
 ### v2020.03.13-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-4...v2020.03.13-5)
