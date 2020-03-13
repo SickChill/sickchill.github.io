@@ -1,3 +1,10 @@
+### v2020.03.13-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-4...v2020.03.13-5)
+
+* Update build
+* Update translations (build 10946) [skip ci]
+
 ### v2020.03.13-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-3...v2020.03.13-4)
