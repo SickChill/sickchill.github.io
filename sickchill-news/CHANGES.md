@@ -1,3 +1,10 @@
+### v2020.03.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.12-1...v2020.03.13-1)
+
+* Test SC and build multiarch (linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64,linux/386,linux/ppc64le,linux/s390x) docker images with buildx through github workflow
+* Update translations (build 10933) [skip ci]
+
 ### v2020.03.12-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.10-2...v2020.03.12-1)
