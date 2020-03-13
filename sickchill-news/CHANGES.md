@@ -1,3 +1,9 @@
+### v2020.03.13-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-2...v2020.03.13-3)
+
+* Typo space
+
 ### v2020.03.13-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-1...v2020.03.13-2)
