@@ -1,3 +1,16 @@
+### v2020.03.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-6...v2020.03.15-1)
+
+* Sleep 3 seconds in between requests to xthor (2 + 1 for good measure) Fixes [#6107](https://github.com/SickChill/SickChill/issues/6107)
+* Update some libs and update the docker packaging script ([#6106](https://github.com/SickChill/SickChill/issues/6106))
+* Bump tornado from 4.5.1 to 5.1.1 ([#6102](https://github.com/SickChill/SickChill/issues/6102))
+* Bump cachecontrol from 0.11.5 to 0.12.6 ([#6101](https://github.com/SickChill/SickChill/issues/6101))
+* Bump rebulk from 1.0.0 to 2.0.0 ([#6103](https://github.com/SickChill/SickChill/issues/6103))
+* Bump twilio from 5.7.0 to 6.36.0 ([#6104](https://github.com/SickChill/SickChill/issues/6104))
+* Bump python-twitter from 3.3 to 3.5 ([#6105](https://github.com/SickChill/SickChill/issues/6105))
+* Update translations (build 10956) [skip ci]
+
 ### v2020.03.13-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-5...v2020.03.13-6)
