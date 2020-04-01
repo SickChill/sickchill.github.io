@@ -1349,6 +1349,7 @@ MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
 Motor Trend:US/Eastern
+MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
