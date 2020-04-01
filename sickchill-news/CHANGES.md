@@ -1,3 +1,10 @@
+### v2020.04.01-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.01-1...v2020.04.01-2)
+
+* Fixes [#6138](https://github.com/SickChill/SickChill/issues/6138) - API::sb.searchtvdb error
+* Update translations (build 11107) [skip ci]
+
 ### v2020.04.01-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.15-1...v2020.04.01-1)
