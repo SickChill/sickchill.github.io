@@ -1,3 +1,45 @@
+### v2020.04.01-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.15-1...v2020.04.01-1)
+
+* Fix issue where user cannot add a scene exception for the latest season of a show. Fix issue of Season torrents that are tried to be splitted when snatched through torznab
+* Bump beautifulsoup4 from 4.5.3 to 4.8.2 ([#6145](https://github.com/SickChill/SickChill/issues/6145))
+* Bump httplib2 from 0.9.2 to 0.17.0 ([#6146](https://github.com/SickChill/SickChill/issues/6146))
+* Bump pytz from 2019.1 to 2019.3 ([#6147](https://github.com/SickChill/SickChill/issues/6147))
+* Bump pymediainfo from 2.0 to 4.1 ([#6148](https://github.com/SickChill/SickChill/issues/6148))
+* Bump tzlocal from 1.4 to 2.0.0 ([#6149](https://github.com/SickChill/SickChill/issues/6149))
+* Bump ndg-httpsclient from 0.3.3 to 0.5.1 ([#6150](https://github.com/SickChill/SickChill/issues/6150))
+* Bump xmltodict from 0.11.0 to 0.12.0 ([#6151](https://github.com/SickChill/SickChill/issues/6151))
+* Bump pysrt from 1.1.1 to 1.1.2 ([#6152](https://github.com/SickChill/SickChill/issues/6152))
+* Bump fake-useragent from 0.1.2 to 0.1.11 ([#6153](https://github.com/SickChill/SickChill/issues/6153))
+* Bump mako from 1.0.12 to 1.1.2 ([#6154](https://github.com/SickChill/SickChill/issues/6154))
+* Bump profilehooks from 1.5 to 1.11.2 ([#6139](https://github.com/SickChill/SickChill/issues/6139))
+* Bump validators from 0.10 to 0.14.2 ([#6140](https://github.com/SickChill/SickChill/issues/6140))
+* Bump idna from 2.5 to 2.9 ([#6141](https://github.com/SickChill/SickChill/issues/6141))
+* Bump futures from 3.1.1 to 3.3.0 ([#6142](https://github.com/SickChill/SickChill/issues/6142))
+* Bump markdown2 from 2.3.6 to 2.3.8 ([#6143](https://github.com/SickChill/SickChill/issues/6143))
+* Bump pyjwt from 1.5.0 to 1.7.1 ([#6127](https://github.com/SickChill/SickChill/issues/6127))
+* Bump unidecode from 0.04.21 to 1.1.1 ([#6128](https://github.com/SickChill/SickChill/issues/6128))
+* Bump twilio from 6.36.0 to 6.37.0 ([#6129](https://github.com/SickChill/SickChill/issues/6129))
+* Bump enum34 from 1.0.4 to 1.1.10 ([#6131](https://github.com/SickChill/SickChill/issues/6131))
+* Bump backports-ssl-match-hostname from 3.5.0.1 to 3.7.0.1 ([#6130](https://github.com/SickChill/SickChill/issues/6130))
+* Bump certifi from 2017.4.17 to 2019.11.28 ([#6116](https://github.com/SickChill/SickChill/issues/6116))
+* Bump decorator from 4.0.10 to 4.4.2 ([#6117](https://github.com/SickChill/SickChill/issues/6117))
+* Bump pygithub from 1.34 to 1.45 ([#6118](https://github.com/SickChill/SickChill/issues/6118))
+* Bump putio-py from 6.1.0 to 8.6.0 ([#6119](https://github.com/SickChill/SickChill/issues/6119))
+* Bump python-dateutil from 2.8.0 to 2.8.1 ([#6120](https://github.com/SickChill/SickChill/issues/6120))
+* Bump six from 1.12.0 to 1.14.0 ([#6122](https://github.com/SickChill/SickChill/issues/6122))
+* Bump pysocks from 1.6.7 to 1.7.1 ([#6123](https://github.com/SickChill/SickChill/issues/6123))
+* Bump oauthlib from 2.0.2 to 3.1.0 ([#6124](https://github.com/SickChill/SickChill/issues/6124))
+* Bump guessit from 3.0.4 to 3.1.0 ([#6125](https://github.com/SickChill/SickChill/issues/6125))
+* Bump configobj from 4.6.0 to 5.0.6 ([#6126](https://github.com/SickChill/SickChill/issues/6126))
+[Security] Bump markdown2 from 2.3.4 to 2.3.6 ([#6110](https://github.com/SickChill/SickChill/issues/6110))
+* Bump html5lib from 1.0b10 to 1.0.1 ([#6111](https://github.com/SickChill/SickChill/issues/6111))
+* Bump stevedore from 1.10.0 to 1.32.0 ([#6112](https://github.com/SickChill/SickChill/issues/6112))
+* Bump tmdbsimple from 0.3.0 to 2.2.0 ([#6113](https://github.com/SickChill/SickChill/issues/6113))
+* Bump requests-oauthlib from 0.8.0 to 1.3.0 ([#6114](https://github.com/SickChill/SickChill/issues/6114))
+* Update translations (build 10991) [skip ci]
+
 ### v2020.03.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.03.13-6...v2020.03.15-1)
