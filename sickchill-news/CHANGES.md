@@ -1,3 +1,11 @@
+### v2020.04.18-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-2...v2020.04.18-3)
+
+* Remove lxml - pip install lxml manually if you have issues related to elementree/etree/lxml
+* Update thepiratebay to use API. Fixes [#6195](https://github.com/SickChill/SickChill/issues/6195)
+* Update translations (build 11156) [skip ci]
+
 ### v2020.04.18-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-1...v2020.04.18-2)
