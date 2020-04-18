@@ -1,3 +1,25 @@
+### v2020.04.18-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.01-2...v2020.04.18-1)
+
+* Bump httplib2 from 0.17.1 to 0.17.2 ([#6197](https://github.com/SickChill/SickChill/issues/6197))
+* Bump twilio from 6.38.0 to 6.38.1 ([#6202](https://github.com/SickChill/SickChill/issues/6202))
+* Workaround for SickChill[#6199](https://github.com/SickChill/SickChill/issues/6199) to support RFC 4007 IPv6 Scoped Literal Addresses in remote_ip ([#6201](https://github.com/SickChill/SickChill/issues/6201))
+* Update yarn packages, add missed requirements commit
+* Update subliminal, sqlalchemy, dogpile.cache
+* Tornado to 4.5.3 (5.0 breaks SC for unknown reason)
+* Update libs based on requirements. Pin Tornado to 4.5
+* Bump putio-py from 8.6.0 to 8.6.2 ([#6173](https://github.com/SickChill/SickChill/issues/6173))
+* Bump beautifulsoup4 from 4.8.2 to 4.9.0 ([#6174](https://github.com/SickChill/SickChill/issues/6174))
+* Bump certifi from 2019.11.28 to 2020.4.5.1 ([#6175](https://github.com/SickChill/SickChill/issues/6175))
+* Add BSPlayer subtitle provider ([#6177](https://github.com/SickChill/SickChill/issues/6177))
+* Bump httplib2 from 0.17.0 to 0.17.1 ([#6170](https://github.com/SickChill/SickChill/issues/6170))
+* Bump tus-py from 1.2.0 to 1.3.4 ([#6165](https://github.com/SickChill/SickChill/issues/6165))
+* Update Dockerfile
+* Bump twilio from 6.37.0 to 6.38.0 ([#6166](https://github.com/SickChill/SickChill/issues/6166))
+* Docker permissions ([#6081](https://github.com/SickChill/SickChill/issues/6081))
+* Update translations (build 11109) [skip ci]
+
 ### v2020.04.01-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.01-1...v2020.04.01-2)
