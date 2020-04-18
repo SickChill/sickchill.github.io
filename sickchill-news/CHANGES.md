@@ -1,3 +1,10 @@
+### v2020.04.18-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-1...v2020.04.18-2)
+
+* Update libs, need to figure out issue with binaries
+* Update translations (build 11152) [skip ci]
+
 ### v2020.04.18-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.01-2...v2020.04.18-1)
