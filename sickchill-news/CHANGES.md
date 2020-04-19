@@ -1,3 +1,9 @@
+### v2020.04.19-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-1...v2020.04.19-2)
+
+* Do not download propers for paused shows. Fixes [#6210](https://github.com/SickChill/SickChill/issues/6210)
+
 ### v2020.04.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-3...v2020.04.19-1)
