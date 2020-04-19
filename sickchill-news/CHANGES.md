@@ -1,3 +1,9 @@
+### v2020.04.19-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-2...v2020.04.19-3)
+
+* Add more libs back
+
 ### v2020.04.19-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-1...v2020.04.19-2)
