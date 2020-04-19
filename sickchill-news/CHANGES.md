@@ -1,3 +1,9 @@
+### v2020.04.19-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-3...v2020.04.19-4)
+
+* Add synchronousdeluge dirty
+
 ### v2020.04.19-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-2...v2020.04.19-3)
