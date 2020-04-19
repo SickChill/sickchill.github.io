@@ -1,3 +1,9 @@
+### v2020.04.19-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-6...v2020.04.19-7)
+
+* Fix KeyError with imdb_info on show page Fixes [#6227](https://github.com/SickChill/SickChill/issues/6227)
+
 ### v2020.04.19-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-5...v2020.04.19-6)
