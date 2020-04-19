@@ -1,3 +1,9 @@
+### v2020.04.19-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-5...v2020.04.19-6)
+
+* Fix imports for rtorrent
+
 ### v2020.04.19-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-4...v2020.04.19-5)
