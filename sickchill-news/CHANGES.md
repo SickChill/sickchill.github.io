@@ -1,3 +1,10 @@
+### v2020.04.19-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-4...v2020.04.19-5)
+
+* Remove extensions
+* Add more libs back
+
 ### v2020.04.19-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-3...v2020.04.19-4)
