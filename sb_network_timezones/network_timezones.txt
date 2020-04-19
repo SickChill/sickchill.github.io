@@ -1,4 +1,5 @@
 #0:Europe/Madrid
+&TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
@@ -31,6 +32,7 @@
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
 6ter:Europe/Paris
+7 RM Spain:Europe/Madrid
 7NBC (US):US/Eastern
 7TWO (AU):Australia/Sydney
 7mate (AU):Australia/Sydney
@@ -113,6 +115,7 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
+ATRES (Spain):Europe/Madrid
 ATV (AT):Europe/Vienna
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
@@ -156,6 +159,7 @@ Al Alam:Asia/Tehran
 Al Arabiyya:Asia/Dubai
 Al Badeel:Africa/Tripoli
 Al Hidaya Al Libiya:Africa/Tripoli
+Al Jadeed:Asia/Beirut
 Al Jamahiriya TV English:Africa/Tripoli
 Al Jazeera America:US/Eastern
 Al Jazeera Children's Channel (UK):Europe/London
@@ -167,6 +171,7 @@ Al Mounawaa:Africa/Tripoli
 Al Shababiyah:Africa/Tripoli
 Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
+Alibi:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
 Almavision (US):US/Eastern
@@ -294,6 +299,7 @@ BabyFirstTV:US/Eastern
 BabyTV (UK):Europe/London
 BabyTV:Europe/London
 Babytv (US):US/Eastern
+Band:America/Noronha
 Bandai Channel (JP):Asia/Tokyo
 Bandai Channel:Asia/Tokyo
 Bangla TV (UK):Europe/London
@@ -320,6 +326,7 @@ Bloomberg Television (UK):Europe/London
 Bloomberg Television:America/New_York
 BluTV:Europe/Istanbul
 Blue Ridge Communications (US):US/Eastern
+Blue Sky (Greece):Europe/Athens
 Book TELEVISION (CA):Canada/Eastern
 Boomerang (AU):Australia/Sydney
 Boomerang (DE):Europe/Berlin
@@ -560,6 +567,7 @@ Coptic TV (US):US/Eastern
 Cornerstone Television (US):US/Eastern
 Cosmopolitan TV:America/Argentina/Buenos_Aires
 Cottage Life (CA):Canada/Eastern
+Cottage Life:America/St_Johns
 Coture:Asia/Taipei
 Country Music Television (US):US/Eastern
 Court TV:US/Eastern
@@ -768,9 +776,11 @@ Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Extreme Sports Channel (UK):Europe/London
+F1TV:America/New_York
 FEARNet:America/New_York
 FEARnet:US/Eastern
 FEM:Europe/London
+FETVOD:Asia/Taipei
 FIGHT NETWORK (CA):Canada/Eastern
 FIGHT NOW tv (US):US/Eastern
 FILM 4 (UK):Europe/London
@@ -958,6 +968,7 @@ Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
 Game One:Europe/Paris
 Game Show Network (US):US/Eastern
+GameTV (Canada):America/St_Johns
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
 Gazeta:America/Noronha
@@ -968,7 +979,9 @@ Gems TV Extra (UK):Europe/London
 Geo TV:Asia/Karachi
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
+Globo:America/Noronha
 GloboNews:America/Noronha
+Globoplay:America/Noronha
 Gloob:America/Noronha
 Glory TV (UK):Europe/London
 Go90:US/Eastern
@@ -1022,6 +1035,7 @@ Heart TV (UK):Europe/London
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
+Hikari TV:Asia/Tokyo
 Histoire:Europe/Paris
 Historia (CA):Canada/Eastern
 Historia (ES):Europe/Madrid
@@ -1109,6 +1123,7 @@ Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
 Joiz (CH):Europe/Zurich
 Joiz (DE):Europe/Berlin
+Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :America/New_York
 Jupiter Broadcasting:US/Eastern
@@ -1174,8 +1189,10 @@ Kyushu Asahi Broadcasting (KBC):Asia/Tokyo
 Kyushu Asahi Broadcasting:Asia/Tokyo
 L Équipe 21:Europe/Paris
 L!VETV (UK):Europe/London
+L'Équipe 21:Europe/Paris
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
+LBCI:Asia/Beirut
 LCI:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
@@ -1207,6 +1224,7 @@ La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
 LeSEA broadcasting network (US):US/Eastern
+LewSpears (Australia):Australia/Lord_Howe
 Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Libya Al Ahrar TV:Africa/Tripoli
@@ -1251,6 +1269,10 @@ MATV:Europe/London
 MAX (NL):Europe/Amsterdam
 MAX:Europe/Oslo
 MBC 1:Asia/Seoul
+MBC 2 (UAE):Asia/Dubai
+MBC 3 (UAE):Asia/Dubai
+MBC 4 (UAE):Asia/Dubai
+MBC Drama (UAE):Asia/Dubai
 MBC Drama:Asia/Seoul
 MBC Every 1:Asia/Seoul
 MBC Every1:Asia/Seoul
@@ -1288,6 +1310,7 @@ MTV (AU):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (FR):Europe/Paris
+MTV (Lebanon):Asia/Beirut
 MTV (PL):Europe/Warsaw
 MTV (UK):Europe/London
 MTV (US):US/Eastern
@@ -1319,6 +1342,7 @@ MTV3:Europe/Helsinki
 MTV:US/Eastern
 MUNDOFOX (US):US/Eastern
 MUTV:Europe/London
+MX:Asia/Kolkata
 MYXTV (US):US/Eastern
 Madani Channel (UK):Europe/London
 Made in Bristol (UK):Europe/London
@@ -1335,6 +1359,7 @@ MavTV:US/Eastern
 Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
+MeVue (USA):America/New_York
 Mega Channel:Europe/Athens
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
@@ -1349,6 +1374,7 @@ MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
 Motor Trend:US/Eastern
+MotorTrend:America/New_York
 MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
@@ -1453,6 +1479,7 @@ NTV (UK):Europe/London
 NTV:Asia/Tokyo
 NUVOtv (US):US/Eastern
 NVTV (UK):Europe/London
+NVTV:Europe/Dublin
 NWCN (US):US/Eastern
 NWS (AU):Australia/Sydney
 NY1 (US):US/Eastern
@@ -1483,6 +1510,7 @@ NewsChannel 8 (US):US/Eastern
 NewsOn6NOW (US):US/Eastern
 NewsWatch 15 (US):US/Eastern
 Nick (DE):Europe/Berlin
+Nick App (USA):America/New_York
 Nick GAS:US/Eastern
 Nick Jr.:US/Eastern
 Nick at Nite:US/Eastern
@@ -1561,6 +1589,7 @@ PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
 PPTV:Asia/Bangkok
+PREMIER (RUS):Europe/Kaliningrad
 PREMIERE MOVIES (AU):Australia/Sydney
 PRIMA TV:Europe/Bucharest
 PRO TV:Europe/Bucharest
@@ -1568,6 +1597,7 @@ PRiME7 (AU):Australia/Sydney
 PTC Global (UK):Europe/London
 PTC Prime (UK):Europe/London
 PTC Punjabi (UK):Europe/London
+PTS (Taiwan):Asia/Taipei
 PTS HD:Asia/Taipei
 PTS:Asia/Taipei
 PTV (AU):Australia/Sydney
@@ -1576,6 +1606,7 @@ PTV Global:US/Eastern
 PTV Home:Asia/Karachi
 PTV News:Asia/Karachi
 PUNCH TV NETWORK (US):US/Eastern
+PVC (UK):Europe/London
 Pac-12 Arizona (US):US/Eastern
 Pac-12 Bay Area (US):US/Eastern
 Pac-12 Los Angeles (US):US/Eastern
@@ -1635,6 +1666,7 @@ Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
+Prime Box Brazil:America/Noronha
 Primetime (UK):Europe/London
 ProSieben Fun:Europe/Berlin
 ProSieben MAXX:Europe/Berlin
@@ -1644,6 +1676,7 @@ Prva Srpska Televizija:Europe/Belgrade
 Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
 Puls 4:Europe/Vienna
+Pureflix:America/New_York
 Pursuit Channel:America/New_York
 Q (PH):Asia/Manila
 Q TV:Europe/London
@@ -1733,8 +1766,10 @@ RTV Oost (NL):Europe/Amsterdam
 RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
+RTVC Spain:Europe/Madrid
 RTVE/TV Asahi:Asia/Tokyo
 RTVS:Europe/Bratislava
+RTVSLO:Europe/Ljubljana
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Two:Europe/Dublin
@@ -1902,12 +1937,14 @@ Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
+Shahid:Asia/Dubai
 Shalom TV (US):US/Eastern
 Shandong Television:Asia/Shanghai
 Sheffield Live! (UK):Europe/London
 Shenzhen TV:Asia/Shanghai
 Shepherd's Chapel Network (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
+Shout! Factory (USA):America/New_York
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
 Showcase (AU):Australia/Sydney
@@ -1936,6 +1973,7 @@ Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
+Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
@@ -1962,6 +2000,7 @@ Smithsonian Channel:US/Eastern
 Smooth (AU):Australia/Sydney
 Snapchat Originals:America/New_York
 SoHo:Australia/Sydney
+Sohu TV:Asia/Shanghai
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
@@ -2001,6 +2040,7 @@ Sprout (US):US/Eastern
 Stan:Australia/Sydney
 Star Bharat:Asia/Kolkata
 Star Channel (GR):Europe/Athens
+Star Channel (Greece):Europe/Athens
 Star Gold (UK):Europe/London
 Star Jalsha:Asia/Kolkata
 Star Life Ok (UK):Europe/London
@@ -2011,6 +2051,7 @@ Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
+Start (RUS):Europe/Kaliningrad
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Starz:US/Eastern
@@ -2077,6 +2118,7 @@ TED.com:US/Eastern
 TEENick:America/New_York
 TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
+TEN Spain:Europe/Madrid
 TEN Sports:Asia/Kolkata
 TENNIS CHANNEL (US):US/Eastern
 TET:Europe/Kiev
@@ -2101,9 +2143,11 @@ TNN:America/New_York
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
 TNT Brasil:America/Noronha
+TNT Comedy (Germany):Europe/Berlin
 TNT Glitz:Europe/Berlin
 TNT Latin America:America/Sao_Paulo
 TNT Serie:Europe/Berlin
+TNT Spain:Europe/Madrid
 TNT:US/Eastern
 TNU:America/Montevideo
 TPC (US):US/Eastern
@@ -2132,6 +2176,7 @@ TTV:Asia/Taipei
 TUFF TV (US):US/Eastern
 TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
+TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Nyhetskanalen:Europe/Oslo
@@ -2211,6 +2256,7 @@ TV7 (SE):Europe/Stockholm
 TV7:Europe/Stockholm
 TV8 (IT):Europe/Rome
 TV8 (SE):Europe/Stockholm
+TV8 (TR):Europe/Istanbul
 TV8:Europe/Stockholm
 TVA (JP):Asia/Tokyo
 TVA:Canada/Eastern
@@ -2236,6 +2282,7 @@ TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
+TVNOW (Germany):Europe/Berlin
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
@@ -2259,6 +2306,7 @@ TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
 TXCN (US):US/Eastern
+TXN (Japan):Asia/Tokyo
 TYT Network:America/New_York
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
@@ -2433,6 +2481,7 @@ V télé:America/St_Johns
 V:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
+VET Tv:America/New_York
 VH1 (UK):Europe/London
 VH1 Brasil:America/Noronha
 VH1 Classics:US/Eastern
@@ -2471,6 +2520,7 @@ Viceland (UK):Europe/London
 Viceland (US):US/Eastern
 Viceland:US/Eastern
 Victory Television Network (US):US/Eastern
+VidAngel (USA):America/New_York
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Vidol:Asia/Taipei
@@ -2528,6 +2578,7 @@ WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
+Weverse (KR):Asia/Seoul
 Word Network (UK):Europe/London
 Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
@@ -2649,6 +2700,7 @@ france.2:Europe/Paris
 france.3:Europe/Paris
 france.4:Europe/Paris
 france.5:Europe/Paris
+france.tv:Europe/Paris
 france.Ô:Europe/Paris
 funnyordie.com (US):US/Eastern
 fuse:America/New_York
@@ -2687,6 +2739,7 @@ itv YORKSHIRE (UK):Europe/London
 itv play (UK):Europe/London
 itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
+ivi (RUS):Europe/Kaliningrad
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
 jts.tv (US):US/Eastern
@@ -2705,6 +2758,7 @@ mtvU (US):US/Eastern
 mun2 (US):US/Eastern
 my38 (US):US/Eastern
 my9 (US):US/Eastern
+myVideoTWM:Asia/Taipei
 mynetworkTV (US):US/Eastern
 myspace.com (US):US/Eastern
 mystery TV (CA):Canada/Eastern
@@ -2817,6 +2871,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Радио-телевизија Србије (PTC):Europe/Belgrade
 Россия 1:Europe/Kaliningrad
 Россия К:Europe/Kaliningrad
+СТБ:Europe/Simferopol
 СТС:Europe/Kaliningrad
 ТВ Центр:Europe/Kaliningrad
 ТВ3:Europe/Kaliningrad
@@ -2837,7 +2892,10 @@ youtoo SOCIAL TV (US):US/Eastern
 日本テレビ:Asia/Tokyo
 1UP.com:
 20th Century Fox:
+4+:
 4SD:
+5+:
+6+:
 BBC Choice:
 BBC Five:
 BIP:
@@ -2870,7 +2928,6 @@ Fuji Television:
 Fuse TV:
 G4TechTV Canada:
 Gamestar Cover CD:
-Globo:
 HBO - BBC:
 HUMAN:
 Hessischer Rundfunk:
@@ -2902,6 +2959,7 @@ Mojo HD:
 MuchMusic:
 NET:
 NGC:
+NPO 1:
 NPS:
 National Geographic Channel:
 National Geographiс:
@@ -2933,6 +2991,7 @@ Rai Uno:
 RaiUno:
 Revision 3:
 Rooster Teeth Productions:
+S1TV:
 Sat 1:
 Sci-Fi:
 Skjáreinn:
@@ -2956,6 +3015,8 @@ TV Vest:
 TV2 Danmark:
 TV2 Norge:
 TV2 Norway:
+TV24 (CH):
+TV25 (CH):
 TV400:
 TV9:
 TechTV Canada:
