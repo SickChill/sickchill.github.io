@@ -1,3 +1,12 @@
+### v2020.04.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-3...v2020.04.19-1)
+
+* Update imdbpy to IMDbPY-6.9.dev20200419 (fixes etree issue, hopefully), Add certgen from pyopenssl example to create certs
+* Rework libs and enable fanart.tv for images Updates python-fanart Fixes lib dir to be 100% vanilla, moved adba and trakt to root for now Replaced growl lib with gntp Replaced python-fanart with python3-fanart
+* Fix adding from imdbpopular
+* Update translations (build 11159) [skip ci]
+
 ### v2020.04.18-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.18-2...v2020.04.18-3)
