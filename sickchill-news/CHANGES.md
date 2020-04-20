@@ -1,3 +1,11 @@
+### v2020.04.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-9...v2020.04.20-1)
+
+* Fix issue re-testing email notifications after save and page reload due to passwords being masked in the loaded page. Fixes [#4943](https://github.com/SickChill/SickChill/issues/4943)
+* Fix build
+* Seems to fix issues with post processor sometimes not processing files. Unknown why yet. Fixes [#6215](https://github.com/SickChill/SickChill/issues/6215)
+
 ### v2020.04.19-9
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-8...v2020.04.19-9)
