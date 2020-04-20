@@ -1,3 +1,9 @@
+### v2020.04.20-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-6...v2020.04.20-7)
+
+* Set airdates to Never for wanted/unaired/unknown episodes that no longer have an airdate on TVDB, without deleting them Minor datetime cleanup
+
 ### v2020.04.20-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-5...v2020.04.20-6)
