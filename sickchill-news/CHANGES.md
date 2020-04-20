@@ -1,3 +1,9 @@
+### v2020.04.20-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-1...v2020.04.20-2)
+
+* Fix sorting by number of downloads on home page Fixes [#4978](https://github.com/SickChill/SickChill/issues/4978)
+
 ### v2020.04.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-9...v2020.04.20-1)
