@@ -45,9 +45,15 @@
 
 ### v2020.04.19-2
 
-[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-1...v2020.04.19-2)
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-10...v2020.04.19-2)
 
 * Do not download propers for paused shows. Fixes [#6210](https://github.com/SickChill/SickChill/issues/6210)
+
+### v2020.04.19-10
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-1...v2020.04.19-10)
+
+* Seems to fix issues with post processor sometimes not processing files. Unknown why yet. Fixes [#6215](https://github.com/SickChill/SickChill/issues/6215)
 
 ### v2020.04.19-1
 
