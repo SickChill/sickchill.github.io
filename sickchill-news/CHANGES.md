@@ -1,3 +1,9 @@
+### v2020.04.19-9
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-8...v2020.04.19-9)
+
+* Fixes renamer not moving associated files when MOVE_ASSOCIATED_FILES is disabled in the post processor settings. Fixes [#6191](https://github.com/SickChill/SickChill/issues/6191)
+
 ### v2020.04.19-8
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-7...v2020.04.19-8)
