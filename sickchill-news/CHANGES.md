@@ -1,3 +1,9 @@
+### v2020.04.20-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-5...v2020.04.20-6)
+
+* Update/remove broken links and images from the readme
+
 ### v2020.04.20-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-4...v2020.04.20-5)
