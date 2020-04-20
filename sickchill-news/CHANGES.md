@@ -1,3 +1,11 @@
+### v2020.04.19-8
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-7...v2020.04.19-8)
+
+* Js2Py does not work on Python less than 2.7.9 - Disable grabbing tpb provided trackers and only use custom_trackers if this is the case This will disable the provider if you do not have python 2.7.9 OR set custom trackers in config/search on the torrent tab. Fixes [#6236](https://github.com/SickChill/SickChill/issues/6236)
+* Remove pyc and empty folders from libs when SC updates. Hopefully this prevents [#6230](https://github.com/SickChill/SickChill/issues/6230) in the future
+* Fix missed coding change in tvdb handler Fixes [#6190](https://github.com/SickChill/SickChill/issues/6190)
+
 ### v2020.04.19-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.19-6...v2020.04.19-7)
