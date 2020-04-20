@@ -1,3 +1,9 @@
+### v2020.04.20-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-2...v2020.04.20-3)
+
+* Fix mistake in lib cleaner code.
+
 ### v2020.04.20-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-1...v2020.04.20-2)
