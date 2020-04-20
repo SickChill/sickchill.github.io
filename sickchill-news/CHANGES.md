@@ -1,3 +1,9 @@
+### v2020.04.20-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-3...v2020.04.20-4)
+
+* Prevent show episodes from being deleted when tvdb does not answer Fixes [#6176](https://github.com/SickChill/SickChill/issues/6176) Fixes [#6091](https://github.com/SickChill/SickChill/issues/6091)
+
 ### v2020.04.20-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-2...v2020.04.20-3)
