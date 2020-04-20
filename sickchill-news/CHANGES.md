@@ -1,3 +1,9 @@
+### v2020.04.20-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-4...v2020.04.20-5)
+
+* Always collapse if  show has more than one season, show at most the most recent 3 seasons expanded by default Fixes slow load for large shows Fixes [#6179](https://github.com/SickChill/SickChill/issues/6179)
+
 ### v2020.04.20-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-3...v2020.04.20-4)
