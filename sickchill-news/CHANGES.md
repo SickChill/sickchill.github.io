@@ -1,3 +1,9 @@
+### v2020.04.21-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-8...v2020.04.21-1)
+
+* Make rescan on show page into a force refresh, so people can refresh ended/paused shows manually.
+
 ### v2020.04.20-8
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-7...v2020.04.20-8)
