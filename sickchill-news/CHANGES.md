@@ -1,3 +1,9 @@
+### v2020.04.20-8
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-7...v2020.04.20-8)
+
+* Fix adba for anidb errors. Fixes [#6244](https://github.com/SickChill/SickChill/issues/6244)
+
 ### v2020.04.20-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-6...v2020.04.20-7)
