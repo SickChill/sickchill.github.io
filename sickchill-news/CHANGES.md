@@ -1,3 +1,9 @@
+### v2020.04.21-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-3...v2020.04.21-4)
+
+* Try to improve Preview Rename speed and memory usage. Might not help much Fixes [#5984](https://github.com/SickChill/SickChill/issues/5984)
+
 ### v2020.04.21-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-2...v2020.04.21-3)
