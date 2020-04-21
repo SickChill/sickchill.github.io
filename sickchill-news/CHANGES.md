@@ -1,3 +1,9 @@
+### v2020.04.21-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-1...v2020.04.21-2)
+
+* Try a new slick way to change root dirs when a user moves their library from  windows to linux or vice versa and does a massEdit to change the root. Fixes [#6249](https://github.com/SickChill/SickChill/issues/6249) (I hope)
+
 ### v2020.04.21-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.20-8...v2020.04.21-1)
