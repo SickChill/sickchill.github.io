@@ -1,3 +1,10 @@
+### v2020.04.21-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-2...v2020.04.21-3)
+
+* Fix Greetings
+* Fix build
+
 ### v2020.04.21-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-1...v2020.04.21-2)
