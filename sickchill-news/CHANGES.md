@@ -1,3 +1,9 @@
+### v2020.04.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-4...v2020.04.22-1)
+
+* Avoid error when apibay is failing to return results. Fixes [#2614](https://github.com/SickChill/SickChill/issues/2614) Fixes [#6256](https://github.com/SickChill/SickChill/issues/6256)
+
 ### v2020.04.21-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-3...v2020.04.21-4)
