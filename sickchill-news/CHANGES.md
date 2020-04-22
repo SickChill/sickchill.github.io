@@ -1,3 +1,10 @@
+### v2020.04.22-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-1...v2020.04.22-2)
+
+* Merge branch 'develop'
+* Update Crowdin configuration file
+
 ### v2020.04.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.21-4...v2020.04.22-1)
