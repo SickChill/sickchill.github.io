@@ -1,3 +1,11 @@
+### v2020.04.22-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-2...v2020.04.22-3)
+
+* New Crowdin translations ([#6263](https://github.com/SickChill/SickChill/issues/6263))
+* Revert to using name parser over guessit for the release groups Fixes [#6268](https://github.com/SickChill/SickChill/issues/6268)
+* Fix growl.py for GNTP 1.0.3 update ([#6267](https://github.com/SickChill/SickChill/issues/6267))
+
 ### v2020.04.22-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-1...v2020.04.22-2)
