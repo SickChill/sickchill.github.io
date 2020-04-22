@@ -1,3 +1,9 @@
+### v2020.04.22-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-3...v2020.04.22-4)
+
+* Fix mistake
+
 ### v2020.04.22-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-2...v2020.04.22-3)
