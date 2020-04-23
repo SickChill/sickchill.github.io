@@ -1,3 +1,9 @@
+### v2020.04.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-4...v2020.04.23-1)
+
+* Fix error getting episode. Fixes [#6297](https://github.com/SickChill/SickChill/issues/6297)
+
 ### v2020.04.22-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-3...v2020.04.22-4)
