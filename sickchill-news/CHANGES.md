@@ -1,3 +1,9 @@
+### v2020.04.23-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-5...v2020.04.23-6)
+
+* Fix another one of the errors in imdbpy
+
 ### v2020.04.23-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-4...v2020.04.23-5)
