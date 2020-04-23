@@ -1,3 +1,10 @@
+### v2020.04.23-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-2...v2020.04.23-3)
+
+* Fix hiding season headers when filtering episodes on the show page. Fixes [#6259](https://github.com/SickChill/SickChill/issues/6259)
+* New translations messages.pot (French) ([#6292](https://github.com/SickChill/SickChill/issues/6292))
+
 ### v2020.04.23-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-1...v2020.04.23-2)
