@@ -1,3 +1,11 @@
+### v2020.04.23-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-3...v2020.04.23-4)
+
+* Update cloudscraper and httplib2
+* Bump cloudscraper from 1.2.33 to 1.2.34 ([#6303](https://github.com/SickChill/SickChill/issues/6303))
+* Bump httplib2 from 0.17.2 to 0.17.3 ([#6302](https://github.com/SickChill/SickChill/issues/6302))
+
 ### v2020.04.23-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-2...v2020.04.23-3)
