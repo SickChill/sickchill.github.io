@@ -1,3 +1,9 @@
+### v2020.04.23-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-1...v2020.04.23-2)
+
+* Fix error with js updating text on adding existing shows. Fixes [#6265](https://github.com/SickChill/SickChill/issues/6265)
+
 ### v2020.04.23-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.22-4...v2020.04.23-1)
