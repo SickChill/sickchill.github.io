@@ -1,3 +1,9 @@
+### v2020.04.23-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-6...v2020.04.23-7)
+
+* Fix displaying more than one entry for related episodes on Preview Rename Fixes [#6307](https://github.com/SickChill/SickChill/issues/6307)
+
 ### v2020.04.23-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-5...v2020.04.23-6)
