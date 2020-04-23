@@ -1,3 +1,9 @@
+### v2020.04.23-8
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-7...v2020.04.23-8)
+
+* Fix issue with kodi notifier always doing full library update when show name has a space in it, and not honoring settings Fixes [#6306](https://github.com/SickChill/SickChill/issues/6306)
+
 ### v2020.04.23-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-6...v2020.04.23-7)
