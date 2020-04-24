@@ -1,3 +1,10 @@
+### v2020.04.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-8...v2020.04.24-1)
+
+* Fix fake useragent pool creation when a user starts SC before network is up. Fixes [#6314](https://github.com/SickChill/SickChill/issues/6314)
+* New Crowdin translations ([#6311](https://github.com/SickChill/SickChill/issues/6311))
+
 ### v2020.04.23-8
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-7...v2020.04.23-8)
