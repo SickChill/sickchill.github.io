@@ -1,3 +1,9 @@
+### v2020.04.24-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.24-1...v2020.04.24-2)
+
+* Fix error when a show is not completely populated in the database, causing a rendering error Fixes [#6304](https://github.com/SickChill/SickChill/issues/6304)
+
 ### v2020.04.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.23-8...v2020.04.24-1)
