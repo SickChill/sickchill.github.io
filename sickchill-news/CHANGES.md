@@ -1,3 +1,9 @@
+### v2020.04.25-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-3...v2020.04.25-4)
+
+* Fix build by sorting imports
+
 ### v2020.04.25-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-2...v2020.04.25-3)
