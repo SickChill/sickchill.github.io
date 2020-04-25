@@ -1,3 +1,9 @@
+### v2020.04.25-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-2...v2020.04.25-3)
+
+* Fix exception in tpb tracker if a user has a broken js2py
+
 ### v2020.04.25-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-1...v2020.04.25-2)
