@@ -1,3 +1,11 @@
+### v2020.04.25-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.24-3...v2020.04.25-1)
+
+* Missed reference to imdbpy exceptions
+* Fix missed import removal
+* Use imdbpie instead of imdbpy, because it does not rely on c-extensions/lxml/sqlalchemy Fixes [#6264](https://github.com/SickChill/SickChill/issues/6264) [#6254](https://github.com/SickChill/SickChill/issues/6254) [#6239](https://github.com/SickChill/SickChill/issues/6239) [#6322](https://github.com/SickChill/SickChill/issues/6322)
+
 ### v2020.04.24-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.24-2...v2020.04.24-3)
