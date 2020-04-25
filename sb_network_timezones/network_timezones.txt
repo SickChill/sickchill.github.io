@@ -962,6 +962,7 @@ GTV (AU):Australia/Sydney
 GTV:Asia/Taipei
 GWN7 (AU):Australia/Sydney
 GYAO! (JP):Asia/Tokyo
+Gaia:America/New_York
 Gaiam TV :America/New_York
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
@@ -2229,6 +2230,7 @@ TV2 Zulu:Europe/Copenhagen
 TV2:Pacific/Auckland
 TV3 (ES):Europe/Madrid
 TV3 (IE):Europe/Dublin
+TV3 (MY):Asia/Kuala_Lumpur
 TV3 (NO):Europe/Oslo
 TV3 (NZ):Pacific/Auckland
 TV3 (SE):Europe/Stockholm
