@@ -1,3 +1,9 @@
+### v2020.04.25-8
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-7...v2020.04.25-8)
+
+* Fix error getting imdb info  when a show has a "World Wide" title Fixes [#6329](https://github.com/SickChill/SickChill/issues/6329) Fixes [#6327](https://github.com/SickChill/SickChill/issues/6327)
+
 ### v2020.04.25-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-6...v2020.04.25-7)
