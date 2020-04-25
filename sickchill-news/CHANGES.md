@@ -1,3 +1,9 @@
+### v2020.04.25-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-6...v2020.04.25-7)
+
+* Missed record
+
 ### v2020.04.25-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-5...v2020.04.25-6)
