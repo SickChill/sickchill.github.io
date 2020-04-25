@@ -1,3 +1,9 @@
+### v2020.04.25-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-5...v2020.04.25-6)
+
+* Fix error getting imdb info that was causing problems adding some shows Fixes [#6329](https://github.com/SickChill/SickChill/issues/6329) Fixes [#6327](https://github.com/SickChill/SickChill/issues/6327)
+
 ### v2020.04.25-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-4...v2020.04.25-5)
