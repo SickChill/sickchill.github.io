@@ -1,3 +1,9 @@
+### v2020.04.25-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-1...v2020.04.25-2)
+
+* Fix KeyError: region in imdb code
+
 ### v2020.04.25-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.24-3...v2020.04.25-1)
