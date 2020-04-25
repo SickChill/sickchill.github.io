@@ -1,3 +1,9 @@
+### v2020.04.25-9
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-8...v2020.04.25-9)
+
+* Improve sorting by completeion percentage. Fixes [#6330](https://github.com/SickChill/SickChill/issues/6330)
+
 ### v2020.04.25-8
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-7...v2020.04.25-8)
