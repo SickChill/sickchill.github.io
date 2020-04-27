@@ -1,3 +1,9 @@
+### v2020.04.27-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-9...v2020.04.27-1)
+
+* Undo default hidden seasons for now. Fixes [#6333](https://github.com/SickChill/SickChill/issues/6333)
+
 ### v2020.04.25-9
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-8...v2020.04.25-9)
