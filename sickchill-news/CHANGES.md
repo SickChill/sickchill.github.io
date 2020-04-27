@@ -1,3 +1,9 @@
+### v2020.04.27-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.27-1...v2020.04.27-2)
+
+* Add BBC iPlayer network image Fixes [#6337](https://github.com/SickChill/SickChill/issues/6337)
+
 ### v2020.04.27-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.25-9...v2020.04.27-1)
