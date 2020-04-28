@@ -1,3 +1,9 @@
+### v2020.04.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.27-2...v2020.04.28-1)
+
+* Basic feature implementation to add shows from tvdb favorites list. Adds with default set show options User key is on https://thetvdb.com/dashboard/account/editinfo Fixes [#6334](https://github.com/SickChill/SickChill/issues/6334)
+
 ### v2020.04.27-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.27-1...v2020.04.27-2)
