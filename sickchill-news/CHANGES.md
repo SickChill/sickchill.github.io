@@ -1,3 +1,9 @@
+### v2020.04.28-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-2...v2020.04.28-3)
+
+* isort to fix build
+
 ### v2020.04.28-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-1...v2020.04.28-2)
