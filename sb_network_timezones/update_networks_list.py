@@ -28,6 +28,7 @@ def main():
         for _current in networks[1:]:  # skip first empty option
             cells = _current.find_all('td')
             new_list[cells[headers.index('Network')].get_text(strip=True)] = cells[headers.index('Country')].get_text(strip=True)
+            new_list[cells[headers.index('Full Name')].get_text(strip=True)] = cells[headers.index('Country')].get_text(strip=True)
 
         page_count['pages'] += 1
         next_page = soup.find('a', attrs={'rel': 'next'})
