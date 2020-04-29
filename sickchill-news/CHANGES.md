@@ -1,3 +1,9 @@
+### v2020.04.28-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-1...v2020.04.28-2)
+
+* Fix some issues with getting tvdb favorites
+
 ### v2020.04.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.27-2...v2020.04.28-1)
