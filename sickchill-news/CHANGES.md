@@ -1,3 +1,10 @@
+### v2020.05.03-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-3...v2020.05.03-1)
+
+* Fix bug when TVDB returns 0 or -1 for airdate -.- Disable log line that people confuse for an error.
+* New translations messages.pot (French) ([#6349](https://github.com/SickChill/SickChill/issues/6349))
+
 ### v2020.04.28-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-2...v2020.04.28-3)
