@@ -1,3 +1,9 @@
+### v2020.05.07-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-1...v2020.05.07-2)
+
+* Revert "Update Dockerfile"
+
 ### v2020.05.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.03-1...v2020.05.07-1)
