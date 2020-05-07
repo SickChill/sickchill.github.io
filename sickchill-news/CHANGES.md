@@ -1,3 +1,13 @@
+### v2020.05.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.03-1...v2020.05.07-1)
+
+* New Crowdin translations ([#6365](https://github.com/SickChill/SickChill/issues/6365))
+* Bump subliminal from 2.0.5 to 2.1.0 ([#6373](https://github.com/SickChill/SickChill/issues/6373))
+* Bump cloudscraper from 1.2.34 to 1.2.36 ([#6374](https://github.com/SickChill/SickChill/issues/6374))
+* Revert "Docker permissions ([#6081](https://github.com/SickChill/SickChill/issues/6081))" ([#6406](https://github.com/SickChill/SickChill/issues/6406))
+* Merge pull request [#6378](https://github.com/SickChill/SickChill/issues/6378) from nopoz/deluge
+
 ### v2020.05.03-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.04.28-3...v2020.05.03-1)
