@@ -1,3 +1,11 @@
+### v2020.05.07-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-2...v2020.05.07-3)
+
+* Allow specifying http/https in the empy host, while maintaining previous functionality. Also, In the future a special host with path can be specified with a starting !, such as !https://localhost:5555/path/to/api Fixes [#6351](https://github.com/SickChill/SickChill/issues/6351)
+* Fix error testing kodi notifications when specifying port. Fixes [#6358](https://github.com/SickChill/SickChill/issues/6358)
+* Fixes [#6375](https://github.com/SickChill/SickChill/issues/6375) - Update filelist provider url
+
 ### v2020.05.07-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-1...v2020.05.07-2)
