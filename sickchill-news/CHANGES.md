@@ -1,3 +1,13 @@
+### v2020.05.08-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-3...v2020.05.08-1)
+
+* Fix build
+* Remove accidentally added shared objects from libs
+* Use the SC Cache dir for imdbpie, hopefully fixing the issue of adding shows for some people. Fail gracefully if we cannot get IMDB info Fixes [#6350](https://github.com/SickChill/SickChill/issues/6350) Fixes [#6370](https://github.com/SickChill/SickChill/issues/6370)
+* Remove hachoir completely, use imagesize_py to guess image aspect ratio, use rtorrent9.lib.torrentparser.NewTorrentParser to verify torrent file downloads
+* Update libs per new requirements.txt and fix imports for new subliminal
+
 ### v2020.05.07-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-2...v2020.05.07-3)
