@@ -1,3 +1,9 @@
+### v2020.05.08-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-1...v2020.05.08-2)
+
+* Add some network images Fixes [#6346](https://github.com/SickChill/SickChill/issues/6346)
+
 ### v2020.05.08-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.07-3...v2020.05.08-1)
