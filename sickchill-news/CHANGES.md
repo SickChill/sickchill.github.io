@@ -1,3 +1,9 @@
+### v2020.05.08-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-3...v2020.05.08-4)
+
+* Dont skip refresh on ended shows Fixes [#6355](https://github.com/SickChill/SickChill/issues/6355)
+
 ### v2020.05.08-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-2...v2020.05.08-3)
