@@ -1,3 +1,9 @@
+### v2020.05.08-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-2...v2020.05.08-3)
+
+* Add back missing send2trash library Fixes [#6356](https://github.com/SickChill/SickChill/issues/6356)
+
 ### v2020.05.08-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-1...v2020.05.08-2)
