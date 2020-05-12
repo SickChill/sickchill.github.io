@@ -1079,6 +1079,8 @@ ICTV:Europe/Kiev
 IFC (CA):Canada/Eastern
 IFC:US/Eastern
 IKON:Europe/Amsterdam
+IMDb TV:America/New_York
+IMDb:America/New_York
 INSP:America/New_York
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
@@ -2411,6 +2413,7 @@ Tokyo Broadcasting System:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Total Variety Network (tvN):Asia/Seoul
 Total Variety Network:Asia/Seoul
 Tou.tv:Canada/Eastern
 Toute l'histoire:Europe/Paris
