@@ -1,3 +1,11 @@
+### v2020.05.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-4...v2020.05.12-1)
+
+* Fix mistake in emby code. Fixes [#6418](https://github.com/SickChill/SickChill/issues/6418)
+* Fix exception when downloading subtitles Fixes [#6421](https://github.com/SickChill/SickChill/issues/6421) Fix error when removing shows and show dir does not exist
+* Merge pull request [#6410](https://github.com/SickChill/SickChill/issues/6410) from SickChill/dependabot/pip/develop/validators-0.15.0
+
 ### v2020.05.08-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-3...v2020.05.08-4)
