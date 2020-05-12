@@ -1,3 +1,9 @@
+### v2020.05.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.12-2...v2020.05.12-3)
+
+* See if this helps cfshit
+
 ### v2020.05.12-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.12-1...v2020.05.12-2)
