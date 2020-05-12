@@ -1,3 +1,9 @@
+### v2020.05.12-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.12-1...v2020.05.12-2)
+
+* Allow shows to be refreshed en-mass from mass update even if they are paused. Fixes [#6419](https://github.com/SickChill/SickChill/issues/6419)
+
 ### v2020.05.12-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.08-4...v2020.05.12-1)
