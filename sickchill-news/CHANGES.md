@@ -1,3 +1,10 @@
+### v2020.05.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.12-3...v2020.05.13-1)
+
+* Merge branch 'develop'
+* fix: requirements.txt to reduce vulnerabilities ([#6424](https://github.com/SickChill/SickChill/issues/6424))
+
 ### v2020.05.12-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.12-2...v2020.05.12-3)
