@@ -1,3 +1,9 @@
+### v2020.05.16-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.16-1...v2020.05.16-2)
+
+* Merge branch 'develop'
+
 ### v2020.05.16-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.15-6...v2020.05.16-1)
