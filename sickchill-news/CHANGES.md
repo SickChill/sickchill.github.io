@@ -1,3 +1,17 @@
+### v2020.05.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.19-1...v2020.05.23-1)
+
+* Merge branch 'master' into develop
+* Not sure why this is indented in pypi but not github, mistake somewhere in the release maybe. Fixes [#6467](https://github.com/SickChill/SickChill/issues/6467)
+* Update libs
+* Py35 fixes
+* Merge pull request [#6462](https://github.com/SickChill/SickChill/issues/6462) from SickChill/dependabot/pip/develop/httplib2-0.18.1
+* Merge pull request [#6460](https://github.com/SickChill/SickChill/issues/6460) from SickChill/dependabot/pip/develop/httplib2-0.18.0
+* Merge pull request [#6456](https://github.com/SickChill/SickChill/issues/6456) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.2
+* Merge pull request [#6455](https://github.com/SickChill/SickChill/issues/6455) from SickChill/dependabot/pip/develop/httplib2-0.17.4
+* Merge pull request [#6452](https://github.com/SickChill/SickChill/issues/6452) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.1
+
 ### v2020.05.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.17-1...v2020.05.19-1)
