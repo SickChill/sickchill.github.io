@@ -1,3 +1,9 @@
+### v2020.05.23-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-1...v2020.05.23-2)
+
+* Put a try block around set attributes in refine_video, so we can see what fails. Fixes [#6465](https://github.com/SickChill/SickChill/issues/6465)
+
 ### v2020.05.23-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.19-1...v2020.05.23-1)
