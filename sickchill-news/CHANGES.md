@@ -1,3 +1,9 @@
+### v2020.05.23-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-2...v2020.05.23-3)
+
+* Update episode nfo's when update, force refresh, post process, etc. Fixes [#6468](https://github.com/SickChill/SickChill/issues/6468)
+
 ### v2020.05.23-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-1...v2020.05.23-2)
