@@ -1,3 +1,9 @@
+### v2020.05.23-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-4...v2020.05.23-5)
+
+* Fix show refresh after a show update happens. It was being blocked because the update was still being performed Fixes [#6417](https://github.com/SickChill/SickChill/issues/6417)
+
 ### v2020.05.23-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-3...v2020.05.23-4)
