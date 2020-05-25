@@ -1,3 +1,9 @@
+### v2020.05.25-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-5...v2020.05.25-1)
+
+* Fix library update on emby Fixes [#6469](https://github.com/SickChill/SickChill/issues/6469)
+
 ### v2020.05.23-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-4...v2020.05.23-5)
