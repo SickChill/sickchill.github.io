@@ -1,3 +1,10 @@
+### v2020.05.26-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.25-1...v2020.05.26-1)
+
+* Fixes iptorrents, and automagically parse the login form from the login page. Fixes [#6472](https://github.com/SickChill/SickChill/issues/6472)
+* Merge pull request [#6471](https://github.com/SickChill/SickChill/issues/6471) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.5
+
 ### v2020.05.25-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.23-5...v2020.05.25-1)
