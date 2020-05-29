@@ -1,3 +1,12 @@
+### v2020.05.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.26-2...v2020.05.28-1)
+
+* Deluge: Also set completed path and move_completed paramter to override client defaults. Fixes [#6474](https://github.com/SickChill/SickChill/issues/6474)
+* Update included tmdbsimple
+* Bump tmdbsimple from 2.2.5 to 2.2.6 ([#6473](https://github.com/SickChill/SickChill/issues/6473))
+* Catch error preventing show from loading from the database if imdb cannot be reached. Fixes [#6481](https://github.com/SickChill/SickChill/issues/6481)
+
 ### v2020.05.26-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.26-1...v2020.05.26-2)
