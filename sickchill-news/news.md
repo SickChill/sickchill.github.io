@@ -3,6 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2020-05-30####
+
+My laptop randomly stopped working, might be a few weeks until I can get it fixed or save for a new one.
+I will try and help with issues from my phone I til then, but updates will be limited until then. Hope nobody has any major issues.
+
+<br/>
+
 ####2020-01-21####
 
 On the next release I will be merging code that forces you to use an access token for github to use the issue submitter. Username/Password login is deprecrated 
