@@ -5,8 +5,8 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 ####2020-05-30####
 
-My laptop randomly stopped working, might be a few weeks until I can get it fixed or save for a new one.
-I will try and help with issues from my phone I til then, but updates will be limited until then. Hope nobody has any major issues.
+My laptop randomly stopped working so it might be a few weeks until I can get it fixed or save for a new one.
+I will try and help with issues from my phone until then, but updates will be limited until then. Hope nobody has any major issues.
 
 <br/>
 
