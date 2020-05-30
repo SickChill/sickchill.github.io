@@ -1,3 +1,9 @@
+### v2020.05.30-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.28-1...v2020.05.30-1)
+
+* Add ParseError exception catching for update_episode_metadata - Best I can do for now (needs refactored) Fixes [#6484](https://github.com/SickChill/SickChill/issues/6484)
+
 ### v2020.05.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.26-2...v2020.05.28-1)
