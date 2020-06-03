@@ -1,3 +1,9 @@
+### v2020.06.03-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-2...v2020.06.03-3)
+
+* Use new github action for buildx
+
 ### v2020.06.03-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-1...v2020.06.03-2)
