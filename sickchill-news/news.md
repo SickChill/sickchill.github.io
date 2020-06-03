@@ -1,6 +1,13 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickChill/SickChill/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).  
 
+
+<br/>
+
+####2020-06-03####
+
+Thanks to some generous users, I have been able to get an older laptop to use until I can get a new one, so I am now able to help and release more fixes again.
+Thank you to those who donated, we moved 2900 miles last year and have tons of expenses around the house and a laptop was out of the question for our current budget. <3
 <br/>
 
 ####2020-05-30####
