@@ -1,3 +1,9 @@
+### v2020.06.03-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-3...v2020.06.03-4)
+
+* Adjust deluge clients to not set paths when they arent set in SC, so that defaults work in deluge.
+
 ### v2020.06.03-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-2...v2020.06.03-3)
