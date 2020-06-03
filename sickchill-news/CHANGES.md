@@ -1,3 +1,9 @@
+### v2020.06.03-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-1...v2020.06.03-2)
+
+* Allow cross origin for api if the correct api key is given. Fixes [#6475](https://github.com/SickChill/SickChill/issues/6475)
+
 ### v2020.06.03-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.30-1...v2020.06.03-1)
