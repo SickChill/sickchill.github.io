@@ -1,3 +1,12 @@
+### v2020.06.03-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.30-1...v2020.06.03-1)
+
+* Update libs
+* Adding missing network logos ([#6490](https://github.com/SickChill/SickChill/issues/6490))
+* Merge pull request [#6493](https://github.com/SickChill/SickChill/issues/6493) from SickChill/dependabot/pip/develop/mako-1.1.3
+* Merge pull request [#6494](https://github.com/SickChill/SickChill/issues/6494) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.10
+
 ### v2020.05.30-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.05.28-1...v2020.05.30-1)
