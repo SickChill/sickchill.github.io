@@ -1,3 +1,9 @@
+### v2020.06.07-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-3...v2020.06.07-4)
+
+* Fix issue with setting correct port. Fixes [#6512](https://github.com/SickChill/SickChill/issues/6512)
+
 ### v2020.06.07-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-2...v2020.06.07-3)
