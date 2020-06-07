@@ -1,3 +1,9 @@
+### v2020.06.07-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-2...v2020.06.07-3)
+
+* Better logging when nfo file has bunk info
+
 ### v2020.06.07-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-1...v2020.06.07-2)
