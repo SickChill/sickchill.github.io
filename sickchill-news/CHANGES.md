@@ -1,3 +1,9 @@
+### v2020.06.07-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-1...v2020.06.07-2)
+
+* Add ability to pass release_name (nzbName/TorrentName) when calling post process from the api Fixes [#6509](https://github.com/SickChill/SickChill/issues/6509)
+
 ### v2020.06.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-4...v2020.06.07-1)
