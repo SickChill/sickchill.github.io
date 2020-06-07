@@ -1,3 +1,12 @@
+### v2020.06.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-4...v2020.06.07-1)
+
+* Allow certs external to SC to be set without having to link or copy them to the SC source root Add logging around creating ssl certs (There is an x509 error currently when creating certs)
+* Bump websocket-extensions from 0.1.3 to 0.1.4 ([#6508](https://github.com/SickChill/SickChill/issues/6508))
+* Update tmdbsimple
+* Bump tmdbsimple from 2.2.10 to 2.2.11 ([#6505](https://github.com/SickChill/SickChill/issues/6505))
+
 ### v2020.06.03-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.03-3...v2020.06.03-4)
