@@ -1,3 +1,9 @@
+### v2020.06.07-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-5...v2020.06.07-6)
+
+* Prevent tvshow-trailer.mp4 from being mistaken as a media file Fixes [#6513](https://github.com/SickChill/SickChill/issues/6513)
+
 ### v2020.06.07-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-4...v2020.06.07-5)
