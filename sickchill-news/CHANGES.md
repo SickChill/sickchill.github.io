@@ -1,3 +1,9 @@
+### v2020.06.07-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-4...v2020.06.07-5)
+
+* Try to get all data removed from all places of the db when removing a show. Fixes [#6511](https://github.com/SickChill/SickChill/issues/6511) Hopefully
+
 ### v2020.06.07-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-3...v2020.06.07-4)
