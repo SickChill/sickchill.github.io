@@ -1,3 +1,10 @@
+### v2020.06.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-2...v2020.06.12-3)
+
+* grunt
+* Make an attempt to fix dbCompare when it errors, by trying https instead of http, and just checking master. Fixes [#6510](https://github.com/SickChill/SickChill/issues/6510)
+
 ### v2020.06.12-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-1...v2020.06.12-2)
