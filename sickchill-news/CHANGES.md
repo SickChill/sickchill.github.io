@@ -1,3 +1,9 @@
+### v2020.06.12-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-1...v2020.06.12-2)
+
+* Prevent sbfdate and sbfdatetime from causing an error. Fixes [#6155](https://github.com/SickChill/SickChill/issues/6155)
+
 ### v2020.06.12-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-6...v2020.06.12-1)
