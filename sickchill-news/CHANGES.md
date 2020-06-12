@@ -1,3 +1,14 @@
+### v2020.06.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-6...v2020.06.12-1)
+
+* Update the docker-compose with suggested gui/cache and timezone mounts Set the source to 777 so git updater works with docker (makes the image larger) and provide a docker run example in the Dockerfile Add more logging for [#6522](https://github.com/SickChill/SickChill/issues/6522)
+* Bump tmdbsimple from 2.2.15 to 2.2.17 ([#6527](https://github.com/SickChill/SickChill/issues/6527))
+* Bump tmdbsimple from 2.2.11 to 2.2.15 ([#6515](https://github.com/SickChill/SickChill/issues/6515))
+* New Crowdin translations ([#6516](https://github.com/SickChill/SickChill/issues/6516))
+* Add missing Discovery Canada logo ([#6524](https://github.com/SickChill/SickChill/issues/6524))
+* Adding Rocket.Chat Notifications ([#6526](https://github.com/SickChill/SickChill/issues/6526))
+
 ### v2020.06.07-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.07-5...v2020.06.07-6)
