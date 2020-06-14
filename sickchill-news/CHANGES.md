@@ -1,3 +1,11 @@
+### v2020.06.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-3...v2020.06.14-1)
+
+* Update requirements.txt
+* Fix code errors, optimize method, and replace is_ip_private with is_ip_local
+* Don't require passwords local networks
+
 ### v2020.06.12-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-2...v2020.06.12-3)
