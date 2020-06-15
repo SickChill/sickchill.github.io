@@ -1,3 +1,9 @@
+### v2020.06.14-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-1...v2020.06.14-2)
+
+* Allow all private IP ranges without a password, in addition to  local IPs, until we can parse ip routes for docker and other container installs. Fixes [#6531](https://github.com/SickChill/SickChill/issues/6531)
+
 ### v2020.06.14-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.12-3...v2020.06.14-1)
