@@ -1,3 +1,10 @@
+### v2020.06.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-2...v2020.06.15-3)
+
+* Add post processor queue tasks to the status page. Refactor and clean up html/mako for status page
+* Allow forcing an auto post process on the manage searches page. Add post processor task scheduler to status page Sort schedulers on status page Refactor Auto post processor Clean up log lines for clarity in code for post processor
+
 ### v2020.06.15-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-1...v2020.06.15-2)
