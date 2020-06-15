@@ -1,3 +1,9 @@
+### v2020.06.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-4...v2020.06.15-1)
+
+* Show release_name in response to webapi post process call if it was provided, otherwise show the path. Fixes [#6509](https://github.com/SickChill/SickChill/issues/6509)
+
 ### v2020.06.14-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-3...v2020.06.14-4)
