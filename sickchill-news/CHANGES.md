@@ -1,3 +1,9 @@
+### v2020.06.14-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-2...v2020.06.14-3)
+
+* Add specific keys to edit in config.ini when the forced credentials message appears.
+
 ### v2020.06.14-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-1...v2020.06.14-2)
