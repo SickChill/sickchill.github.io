@@ -1,3 +1,13 @@
+### v2020.06.15-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-3...v2020.06.15-4)
+
+* Use full size images for thumbs since tvdb would rather waste bandwidth than allow us to use the cached thumbnails. Fixes [#6537](https://github.com/SickChill/SickChill/issues/6537)
+* New Crowdin updates ([#6538](https://github.com/SickChill/SickChill/issues/6538))
+* Fix issues with updating inside linuxserver.io docker container, by checking out master instead of the tag. You will need to update with watchtowerrr or another method once to get this fix once the container is built, or run: docker exec -it sickchill /bin/bash -c 'cd /app/sickchill && git checkout master' && docker restart sickchill
+* Rename inc_home_showList.mako -> inc_home_show_list.mako
+* Bump tmdbsimple from 2.2.17 to 2.2.20 ([#6535](https://github.com/SickChill/SickChill/issues/6535))
+
 ### v2020.06.15-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-2...v2020.06.15-3)
