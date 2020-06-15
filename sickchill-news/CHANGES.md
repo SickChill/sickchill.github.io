@@ -1,3 +1,9 @@
+### v2020.06.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-1...v2020.06.15-2)
+
+* Show release_name in logging when post processing a specific release. Fixes [#6509](https://github.com/SickChill/SickChill/issues/6509)
+
 ### v2020.06.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.14-4...v2020.06.15-1)
