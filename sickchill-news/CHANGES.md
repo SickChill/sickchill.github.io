@@ -1,3 +1,11 @@
+### v2020.06.17-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-4...v2020.06.17-1)
+
+* Some gui updates, use https for github/thetvdb/sickchill.github.io
+* Merge pull request [#6542](https://github.com/SickChill/SickChill/issues/6542) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.22
+* Merge pull request [#6540](https://github.com/SickChill/SickChill/issues/6540) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.21
+
 ### v2020.06.15-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-3...v2020.06.15-4)
