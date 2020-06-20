@@ -1,3 +1,10 @@
+### v2020.06.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.17-1...v2020.06.20-1)
+
+* Fix is-alive callback for restarting SC. Fixes [#6543](https://github.com/SickChill/SickChill/issues/6543)
+* Merge pull request [#6546](https://github.com/SickChill/SickChill/issues/6546) from SickChill/dependabot/pip/develop/tmdbsimple-2.2.23
+
 ### v2020.06.17-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.15-4...v2020.06.17-1)
