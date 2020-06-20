@@ -1,3 +1,9 @@
+### v2020.06.20-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.20-1...v2020.06.20-2)
+
+* Use local build caching for docker buildx and also push to github packages
+
 ### v2020.06.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.17-1...v2020.06.20-1)
