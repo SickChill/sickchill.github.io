@@ -1,3 +1,20 @@
+### v2020.07.06-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.20-2...v2020.07.06-1)
+
+* push default arch only to github packages only if master
+* push default arch only to github packages
+* Undo changes to deploy
+* Bump tmdbsimple from 2.2.25 to 2.4.0 ([#6561](https://github.com/SickChill/SickChill/issues/6561))
+* switch from unrar-free to unrar ([#6555](https://github.com/SickChill/SickChill/issues/6555))
+* useful discord notifications ([#6558](https://github.com/SickChill/SickChill/issues/6558))
+* Update libs
+* Bump tmdbsimple from 2.2.23 to 2.2.25 ([#6550](https://github.com/SickChill/SickChill/issues/6550))
+* Bump html5lib from 1.0.1 to 1.1 ([#6551](https://github.com/SickChill/SickChill/issues/6551))
+* Test deploy to pkg.github
+* Cache docker layers for the whole branch rather than just a commit
+* lowercase docker image name
+
 ### v2020.06.20-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.20-1...v2020.06.20-2)
