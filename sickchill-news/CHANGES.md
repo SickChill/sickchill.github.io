@@ -1,3 +1,10 @@
+### v2020.07.08-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.06-1...v2020.07.08-1)
+
+* testRename
+* Update libs
+
 ### v2020.07.06-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.06.20-2...v2020.07.06-1)
