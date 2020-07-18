@@ -1,3 +1,11 @@
+### v2020.07.18-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.09-1...v2020.07.18-1)
+
+* Merge branch 'develop'
+* Bump lodash from 4.17.15 to 4.17.19 ([#6577](https://github.com/SickChill/SickChill/issues/6577))
+* Update pythonpackage.yml ([#6569](https://github.com/SickChill/SickChill/issues/6569))
+
 ### v2020.07.09-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.08-1...v2020.07.09-1)
