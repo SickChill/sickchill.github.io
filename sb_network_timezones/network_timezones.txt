@@ -37,6 +37,7 @@
 5Star:Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
+6play:Europe/Paris
 6ter:Europe/Paris
 7 RM Spain:Europe/Madrid
 7NBC (US):US/Eastern
@@ -141,6 +142,9 @@ AXN (HK):Asia/Hong_Kong
 AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
+AXN (SP):Europe/Madrid
+AXN España:Europe/Madrid
+AXN Polska:Europe/Warsaw
 AXN:US/Eastern
 AXS TV:US/Eastern
 AXStv (US):US/Eastern
@@ -252,6 +256,7 @@ BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
 BBC FOUR:Europe/London
+BBC First:Australia/Lord_Howe
 BBC Four:Europe/London
 BBC HD:Europe/London
 BBC Kids:Canada/Eastern
@@ -294,6 +299,7 @@ BET HIP HOP (US):US/Eastern
 BET+:America/New_York
 BET:US/Eastern
 BHSN (US):US/Eastern
+BIO:America/New_York
 BIOGRAPHY CHANNEL (CA):Canada/Eastern
 BKN (AU):Australia/Sydney
 BLISS (UK):Europe/London
@@ -343,6 +349,7 @@ Bid Plus (UK):Europe/London
 Big Ten Network (BTN):America/New_York
 Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
+Bio:America/New_York
 Biography Channel:US/Eastern
 Blackpills:America/New_York
 Blaze:Europe/London
@@ -416,9 +423,13 @@ CCTV News (UK):Europe/London
 CCTV-4 (US):US/Eastern
 CCTV:Asia/Shanghai
 CDA:America/Argentina/Buenos_Aires
+CFPL-TV:America/St_Johns
+CFPL:America/St_Johns
 CGN TV (US):US/Eastern
 CGV:Asia/Seoul
 CHCH (CA):Canada/Eastern
+CHCH-TV:America/St_Johns
+CHCH:America/St_Johns
 CHELSEA TV (UK):Europe/London
 CHOCO TV:Asia/Taipei
 CI:Australia/Sydney
@@ -464,7 +475,12 @@ CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
+CTV Comedy:America/St_Johns
+CTV Drama (Bravo):America/St_Johns
+CTV Drama:America/St_Johns
 CTV News Channel (CA):Canada/Eastern
+CTV Sci-Fi (Space):America/St_Johns
+CTV Sci-Fi:America/St_Johns
 CTV two (CA):Canada/Eastern
 CTV:Canada/Eastern
 CTi TV:Asia/Taipei
@@ -510,6 +526,7 @@ Cartoon Hangover:America/New_York
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network (UK):Europe/London
 Cartoon Network Australia:Australia/Sydney
+Cartoon Network Brasil:America/Noronha
 Cartoon Network:US/Eastern
 Cartoonito:Europe/London
 Casa:Canada/Eastern
@@ -776,6 +793,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
+ESPN+:America/New_York
 ESPN2 (AU):Australia/Sydney
 ESPN2:US/Eastern
 ESPN:US/Eastern
@@ -790,6 +808,9 @@ ETV:Europe/Tallinn
 EUROCHANNEL (US):US/Eastern
 EUROSPORT (AU):Australia/Sydney
 EWTN TV (UK):Europe/London
+Earwolf Podcast Network:America/New_York
+Earwolf:America/New_York
+EbonyLife TV:Africa/Lagos
 Echorouk TV:Africa/Algiers
 Eden:Europe/London
 EinsExtra (DE):Europe/Berlin
@@ -803,6 +824,7 @@ El Trece:America/Buenos_Aires
 Eleven (AU):Australia/Sydney
 Eleven:Australia/Sydney
 Elisa Viihde:Europe/Helsinki
+Elle Girl:Europe/Paris
 Emmanuel TV (US):US/Eastern
 Encore Westerns East (US):US/Eastern
 Encore:US/Eastern
@@ -811,6 +833,7 @@ Epsilon TV:Europe/Athens
 Eros Now:Asia/Kolkata
 Esperanza TV (US):US/Eastern
 Esquire Network:US/Eastern
+Estação Cultura da TVE:America/Noronha
 Estuary TV (UK):Europe/London
 Eternal Word Television Network (US):US/Eastern
 EuroWorld Sport (CA):Canada/Eastern
@@ -818,6 +841,7 @@ European Broadcasting Union (EBU):Europe/Zurich
 Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
+Express Entertainment:Asia/Karachi
 Extreme Sports Channel (UK):Europe/London
 F1TV:America/New_York
 FEARNet:America/New_York
@@ -958,6 +982,7 @@ Fox Life (Latin America):America/Argentina/Buenos_Aires
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
 Fox Movies:America/Argentina/Buenos_Aires
+Fox Nation:America/New_York
 Fox News:America/New_York
 Fox Reality:US/Eastern
 Fox Showcase:Australia/Lord_Howe
@@ -978,6 +1003,7 @@ France Inter:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 Freeform:US/Eastern
+Frissons TV:America/St_Johns
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
@@ -997,6 +1023,7 @@ GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
 GMM One:Asia/Bangkok
+GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
 GO! (AU):Australia/Sydney
@@ -1318,6 +1345,7 @@ Lifetime:US/Eastern
 Line TV:Asia/Taipei
 Liquidation Channel (US):US/Eastern
 Live Well NETWORK (US):US/Eastern
+Live Well Network:America/New_York
 Living Asia Channel (PH):Asia/Manila
 Living Faith TV (US):US/Eastern
 Living:Europe/London
@@ -1424,6 +1452,7 @@ Made in Cardiff (UK):Europe/London
 Made in Leeds (UK):Europe/London
 Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
+MagentaTV:Europe/Berlin
 Magic:Europe/London
 Magyar Televízió:Europe/Budapest
 Mango TV:Asia/Shanghai
@@ -1472,6 +1501,7 @@ My Channel (UK):Europe/London
 My family tv (US):US/Eastern
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
+MyTF1:Europe/Paris
 Mya:Europe/Rome
 Māori Television:Pacific/Auckland
 NASA TELEVISION (US):US/Eastern
@@ -1572,6 +1602,7 @@ National Geographic Adventure:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
+National Media Authority:Africa/Cairo
 Nederland 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
@@ -1659,6 +1690,8 @@ Open Heaven TV (UK):Europe/London
 Open TV:Europe/Athens
 Oprah Winfrey Network:US/Eastern
 Ora TV:US/Eastern
+Orange TV (ES):Europe/Madrid
+Orange TV España:Europe/Madrid
 Orbit Network (PK):Asia/Karachi
 Orbit Showtime Network:Asia/Dubai
 Ouatch:Europe/Paris
@@ -1776,6 +1809,7 @@ Pursuit Channel:America/New_York
 Q (PH):Asia/Manila
 Q TV:Europe/London
 Q Television Network (US):US/Eastern
+QPTV:America/New_York
 QQQ (AU):Australia/Sydney
 QTQ (AU):Australia/Sydney
 QTV:Asia/Karachi
@@ -1786,6 +1820,7 @@ QVC Extra (UK):Europe/London
 QVC Style (UK):Europe/London
 QVC:US/Eastern
 Qatar TV:Asia/Qatar
+Queens Public Television:America/New_York
 Quest:Europe/London
 Quibi:America/New_York
 R&R:America/New_York
@@ -2023,6 +2058,7 @@ Sabres Hockey Network (US):US/Eastern
 SafeTV (US):US/Eastern
 Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
+Sama Dubai TV:Asia/Dubai
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
 Sat. 1 Comedy (DE):Europe/Berlin
@@ -2084,6 +2120,7 @@ Sky Movies:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
 Sky One (DE):Europe/Berlin
+Sky Sports F1:Europe/London
 Sky Sports:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
@@ -2131,6 +2168,7 @@ Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
 Spike TV:US/Eastern
+Spike:America/New_York
 Spirit (US):US/Eastern
 Spirit Word (US):US/Eastern
 SporTV:America/Noronha
@@ -2156,6 +2194,7 @@ Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
+Stargate Command:America/New_York
 Start (RUS):Europe/Kaliningrad
 Start Russia:Europe/Kaliningrad
 Starz TV (UK):Europe/London
@@ -2243,6 +2282,7 @@ TITV:Asia/Taipei
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
 TLC:US/Eastern
+TLN:America/St_Johns
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
@@ -2309,6 +2349,7 @@ TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
+TV Joj:Europe/Bratislava
 TV Kanagawa (JP):Asia/Tokyo
 TV Kanagawa:Asia/Tokyo
 TV Land:US/Eastern
@@ -2387,6 +2428,7 @@ TVBS Entertainment Channel:Asia/Taipei
 TVBS:Asia/Shanghai
 TVBV (US):US/Eastern
 TVBe (US):US/Eastern
+TVE-RS:America/Noronha
 TVE2 (ES):Europe/Madrid
 TVE:Europe/Madrid
 TVFPlay:Asia/Kolkata
@@ -2446,6 +2488,7 @@ Telecinco:Europe/Madrid
 Teledoce:America/Montevideo
 Telefe:America/Buenos_Aires
 Telefuturo:America/Asuncion
+Telelatino:America/St_Johns
 Telemundo (MX):America/Mexico_City
 Telemundo:US/Eastern
 Teletama:Europe/Madrid
@@ -2485,10 +2528,12 @@ The Den:Europe/Dublin
 The Discovery Channel Canada:Canada/Eastern
 The Family Channel:US/Eastern
 The Food Network:US/Eastern
+The Great Courses:America/New_York
 The History Channel:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
 The N:Australia/Sydney
+The National Network:America/New_York
 The Sportsman Channel:US/Eastern
 The Travel Channel:US/Eastern
 The Verge:US/Eastern

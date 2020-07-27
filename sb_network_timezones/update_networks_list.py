@@ -22,8 +22,8 @@ def main():
 
     def scrape(url):
         data = requests.get(url).content
-        soup = BeautifulSoup(data, 'html5lib')
-        networks = soup.find('tbody').find_all('tr')
+        soup = BeautifulSoup(data, 'html.parser')
+        networks = soup.find('table').find_all('tr')
         headers = [h.get_text(strip=True) for h in networks[0].find_all('th')]
         for _current in networks[1:]:  # skip first empty option
             cells = _current.find_all('td')
