@@ -1,6 +1,7 @@
 #0:Europe/Madrid
 &TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
+- None:America/New_York
 1+1:Europe/Kiev
 10 Bold:Australia/Lord_Howe
 10 Peach:Australia/Lord_Howe
@@ -186,9 +187,11 @@ Al Karma TV (US):US/Eastern
 Al Libiya:Africa/Tripoli
 Al Mayadeen:Asia/Beirut
 Al Mounawaa:Africa/Tripoli
+Al Nahar:Africa/Cairo
 Al Shababiyah:Africa/Tripoli
 Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
+Al-Nahar:Africa/Cairo
 Alibi:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
@@ -286,6 +289,7 @@ BBC TWO:Europe/London
 BBC Three:Europe/London
 BBC Two:Europe/London
 BBC UKTV (AU):Australia/Sydney
+BBC Wales:Europe/London
 BBC World News:Europe/London
 BBC iPlayer:Europe/London
 BBC one London:Europe/London
@@ -697,6 +701,7 @@ DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
+Direct-to-video:America/New_York
 Discovery (US):US/Eastern
 Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Asia):Asia/Singapore
@@ -1110,6 +1115,8 @@ Hakka TV:Asia/Taipei
 Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:America/New_York
+Hallmark Movies Now:America/New_York
+Hallmark:America/New_York
 Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
@@ -1426,6 +1433,7 @@ MTV Dance:Europe/London
 MTV España:Europe/Madrid
 MTV HITS (UK):Europe/London
 MTV Hits:US/Eastern
+MTV India:Asia/Kolkata
 MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
 MTV LIVE (UK):Europe/London
@@ -1454,6 +1462,8 @@ Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
 MagentaTV:Europe/Berlin
 Magic:Europe/London
+Magnolia Network:America/New_York
+Magnolia:America/New_York
 Magyar Televízió:Europe/Budapest
 Mango TV:Asia/Shanghai
 Maori Television:Pacific/Auckland
@@ -1593,6 +1603,7 @@ NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Nagoya Broadcasting Network (JP):Asia/Tokyo
 Nagoya Broadcasting Network:Asia/Tokyo
+Nat Geo Kids (BR):America/Noronha
 Nat Geo Wild:US/Eastern
 National Geographic (AU):Australia/Lord_Howe
 National Geographic (AU/NZ):Australia/Lord_Howe
@@ -1760,6 +1771,8 @@ Pets.tv (US):US/Eastern
 Phoenix TV:Asia/Shanghai
 Phoenix XNE (UK):Europe/London
 Phoenix:Europe/Berlin
+Piccoma TV - ピッコマTV:Asia/Tokyo
+Piccoma TV:Asia/Tokyo
 Pick TV:Europe/London
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London

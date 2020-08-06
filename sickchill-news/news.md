@@ -1,6 +1,23 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickChill/SickChill/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).  
 
+<br/>
+
+####2020-08-06####
+
+Python3 support is coming to SickChill. Fixes are currently not being applied to the existing python2.7 master branch.
+Someday I might fix a few small issues there for people who have no other choice to be on py2, but this will not be my focus.
+
+Once the py3-again branch is ready, python 2.7 will no longer be supported and you will have to disable your updater to stay using python2.
+I understand this might be undesireable for some of you, but this is allowing me to remove SO MANY hacks and workarounds and bad code by only supporting Py3.
+
+Make sure you have python3.5+ installed on your system. There are tons of changes already, all for the better.
+
+SickChill is now also installable using pip on python3, `pip install sickchill` [PyPi](https://pypi.org/project/sickchill/)
+
+As a side note, I might be a little slow on the updates over the next few weeks, because we had our 3rd baby on August 2, 2020 <3
+
+Cheers
 
 <br/>
 
