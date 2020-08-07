@@ -1,3 +1,9 @@
+### v2020.08.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.18-1...v2020.08.07-1)
+
+* Merge branch 'develop'
+
 ### v2020.07.18-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.09-1...v2020.07.18-1)
