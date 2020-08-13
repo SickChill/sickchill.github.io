@@ -317,6 +317,7 @@ BOUNCE TV (US):US/Eastern
 BR-alpha:Europe/Berlin
 BR:Europe/Berlin
 BRT:Europe/Brussels
+BRTN TV2:Europe/Brussels
 BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS Fuji:Asia/Tokyo
@@ -461,6 +462,7 @@ COMCAST Sports Net Chicago (US):US/Eastern
 COMCAST Sports Net New England (US):US/Eastern
 COMEDY CENTRAL (UK):Europe/London
 COMEDY CENTRAL EXTRA (UK):Europe/London
+CONtv:America/New_York
 COOLTV (US):US/Eastern
 CORK COMMUNITY TV (IE):Europe/Dublin
 COSMOPOLITANTV (CA):Canada/Eastern
@@ -1569,6 +1571,7 @@ NHK World (UK):Europe/London
 NHK:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
+NHL Network:America/New_York
 NHNZ:Pacific/Auckland
 NITRO (DE):Europe/Berlin
 NITRO:Europe/Berlin
@@ -1660,6 +1663,8 @@ Nou Televisió:Europe/Madrid
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 Now TV:Asia/Hong_Kong
+Nuevo Siglo TV:America/Montevideo
+Nuevo Siglo:America/Montevideo
 Numéro 23:Europe/Paris
 OBS Gyeongin TV:Asia/Seoul
 OBS:Asia/Seoul
@@ -2130,6 +2135,7 @@ Sky Deutschland:Europe/Berlin
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
 Sky Movies:Europe/London
+Sky Nature:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
 Sky One (DE):Europe/Berlin
@@ -2766,6 +2772,7 @@ Warner Channel (AR):America/Buenos_Aires
 Warner Channel:US/Eastern
 Warner TV:Europe/Paris
 Watch:Europe/London
+Wavve:Asia/Seoul
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
@@ -3081,6 +3088,7 @@ youtoo SOCIAL TV (US):US/Eastern
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
 כאן (Kan):Asia/Jerusalem
+כאן 11:Asia/Jerusalem
 כאן:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים:Asia/Jerusalem
