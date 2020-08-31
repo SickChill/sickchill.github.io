@@ -3,6 +3,29 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickChi
 
 <br/>
 
+####2020-08-31###
+
+Just a quick update. Movies support is currently being worked on, so I really need to get the python3 code into users hands and out of develop.  
+I have a new DB added for movies and code is already in to add movies into your SC. 
+The code for searching and downloading them is still being worked out and the GUI is still being improved, so the code is not visible to end users yet.  
+I do not anticipate movies support taking a ton of time to finish up, although all providers will need updated one by one to support searching and downloading movies.  
+SC uses a whole new DB system for movies support, and eventually will hopefully have an option to import your couchpotato databases.  
+
+Python3 support is ready for prime time (as far as we know, many have been using it for awhile now).  
+I am going to do my best to wait a week from today before I merge develop to master.  
+When this happens, if you are using docker, pip, etc everything will be seemless.  
+
+For everyone else, make a backup first, as you may need to restore the backup after manually updating and you do not want to lose any data.  
+
+If you are using git install, your updater is going to fail/error and you will need to make sure you have python3.6+  
+installed and manually update your service file to use python3, and then do a git pull.  
+Source installs will need to have python3.6+ installed and update your service file, and copy in the new source manually.  
+A windows installer update will be released, that uses pip as the base install. Windows will need to uninstall and reinstall with the new installer.  
+
+There will be support during this time on discord, slack, telegram, and IRC.  
+
+<br/>
+
 ####2020-08-06####
 
 Python3 support is coming to SickChill. Fixes are currently not being applied to the existing python2.7 master branch.
