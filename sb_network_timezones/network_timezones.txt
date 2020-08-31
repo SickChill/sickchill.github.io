@@ -220,6 +220,7 @@ Animal Planet:US/Eastern
 Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
 Animax:Asia/Tokyo
+Anime Hodai:Asia/Tokyo
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
 Antena 1:Europe/Bucharest
@@ -704,6 +705,7 @@ DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
 Direct-to-video:America/New_York
+Discover GO:America/New_York
 Discovery (US):US/Eastern
 Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Asia):Asia/Singapore
@@ -716,6 +718,7 @@ Discovery Channel (SE):Europe/Stockholm
 Discovery Channel (UK):Europe/London
 Discovery Family (US):US/Eastern
 Discovery Family:US/Eastern
+Discovery GO:America/New_York
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
 Discovery History:Europe/London
@@ -824,6 +827,7 @@ EinsExtra (DE):Europe/Berlin
 EinsPlus:Europe/Berlin
 Einsfestival:Europe/Berlin
 El Djazairia One:Africa/Algiers
+El Garage TV:America/Argentina/Buenos_Aires
 El Khabar Broadcasting Company (KBC):Africa/Algiers
 El Rey Network:US/Eastern
 El Rey:US/Eastern
@@ -954,6 +958,7 @@ Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
 Food Network:US/Eastern
 Formula 1 TV (USA):America/New_York
+Formula 1 TV:America/New_York
 Fox (BZ):America/Belize
 Fox (CR):America/Costa_Rica
 Fox (GT):America/Guatemala
@@ -1108,6 +1113,7 @@ HLN:US/Eastern
 HOT:Asia/Jerusalem
 HR (DE):Europe/Berlin
 HRT2 (HR):Europe/Zagreb
+HRT:Europe/Zagreb
 HRTV (US):US/Eastern
 HSN (US):US/Eastern
 HSV (AU):Australia/Sydney
@@ -1123,6 +1129,7 @@ Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
+Heartland:America/New_York
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
@@ -1229,6 +1236,7 @@ Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :America/New_York
 Jupiter Broadcasting:US/Eastern
+K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS Joy:Asia/Seoul
@@ -1257,6 +1265,8 @@ KVOS:America/New_York
 KYW-TV (US):US/Eastern
 Kabel eins:Europe/Berlin
 Kabel1 (DE):Europe/Berlin
+Kakao:Asia/Seoul
+KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 Kanaal 2:Europe/Brussels
 KanaalTwee:Europe/Brussels
@@ -1476,6 +1486,7 @@ Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
 MeVue (USA):America/New_York
+Mediaset:Europe/Rome
 Mega Channel:Europe/Athens
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
@@ -2632,6 +2643,7 @@ UNIVERSAL SPORTS NETWORK (US):US/Eastern
 UNTAMED SPORTS tv (US):US/Eastern
 UNTV (US):US/Eastern
 UNTV 37:Asia/Manila
+UNTV:America/New_York
 UP (US):US/Eastern
 UP TV:US/Eastern
 UPN:US/Eastern
@@ -2640,6 +2652,7 @@ UTV (UK):Europe/London
 UTV:Europe/Dublin
 Ummah Channel (UK):Europe/London
 Unis TV:America/St_Johns
+United Nations Television:America/New_York
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
 Universal Kids:America/New_York
@@ -2665,6 +2678,7 @@ Unknown (UK):Europe/London
 Unknown (US):US/Eastern
 Urban America Television:America/New_York
 Urban Movie Channel:America/New_York
+Urbanflix:America/New_York
 Urdu 1:Asia/Karachi
 Ustream:US/Eastern
 V Channel (UK):Europe/London
@@ -2673,6 +2687,7 @@ V télé:America/St_Johns
 V:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
+VENN:America/New_York
 VET Tv:America/New_York
 VH1 (UK):Europe/London
 VH1 Brasil:America/Noronha
@@ -2700,6 +2715,7 @@ Varsity TV:US/Eastern
 Vault (UK):Europe/London
 Velocity:US/Eastern
 Venevision:America/Caracas
+Venn TV:America/New_York
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
 Versus:America/New_York
