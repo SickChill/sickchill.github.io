@@ -1,3 +1,9 @@
+### v2020.09.05-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-2...v2020.09.05-3)
+
+* Ignore sickbeard.db
+
 ### v2020.09.05-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-1...v2020.09.05-2)
