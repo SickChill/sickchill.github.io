@@ -1,3 +1,155 @@
+### v2020.09.05-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.08.07-1...v2020.09.05-1)
+
+* Yarn upgrade
+* Add cookie auth to speedcd (cookies required due to cloudflare), fix search and page parsing. Fixes [#6562](https://github.com/SickChill/SickChill/issues/6562)
+* Add s to update message when number of commits is not 1
+* Bump pypy version to 0.0.55
+* Fix loggers displaying access messages after enabling/disabling debug and show imdb images for movies index and details
+* Fix error when uid/gid is passed to docker and the user does not exist in the container. Try to fix logging levels for tornado.access
+* gitignore movies.db
+* Instantiate movie list for tests, fix build
+* Make rss work better for movies with rarbg
+* Make rss work for movies with rarbg
+* More
+* Add movie backlog queue item
+* RARBG provider supports movies
+* Work on methods to search for movies
+* Cleaner merged imdb/tmdb data on adding movies
+* Add adult option checkbox for movies, and get both imdb and tmdb data regardless of which was used to add the movie
+* Clean up movie-search page, imdb/tmdb popular movies
+* Fix xo errors
+* Add genres, fix title on movie-details
+* Grunt
+* Make adding movies work, add some info to movie-details
+* Isort
+* More fleshing out of movies GUI
+* More work on getting movies added to the DB
+* Bump pypi to 0.0.54
+* Make some more concise error/debug logging in name parser tests and disable testing anime_bare without specifying anime. anime_bare is only when adding existing shows or the folder name has the group/release name.
+* Clear name parser cache between tests
+* Run anime tests...
+* Add some tests
+* Fix string.format to fstrings, some cleanup, and undo the filtering for series_name
+* Apply fixes and suggestions by @miigotu
+* Extra checks
+* Improve anime series detection [SickChill/SickChill#6646](https://github.com/SickChill/SickChill/issues/6646)
+* Bump pypi to 0.0.53
+* Fix SORT_ARTICLE
+* Remove hardcoded ref in checkout for deploy runner
+* Fix core.js import when DEVELOPER mode is enabled
+* Remove hardcoded ref in checkout for test runner
+* Bump pypi to 0.0.52
+* Enum34 should not be installed in lib3
+* Bump pypi to 0.0.51
+* Update bundled libs
+* Some more
+* More work on views, hidden unless developer=True
+* Add some skeleton-views and methods for movies
+=P
+* Fixing xo alerts
+* Fix scrollable content on ui-dialog (file dialog and image selector dialog)
+* Shh, anyone wanna help?
+* Bump pypi to 0.0.50
+* Fix thread statuses when --daemon is set, fork before starting threads =P, Fixes [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-678732143 Fixes [#6637](https://github.com/SickChill/SickChill/issues/6637)
+* Make update method call the correct updater
+* isort
+* Bump pypi to 0.0.49
+* Fixes [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-678068706
+* Bump pypi to 0.0.48
+* Fix update url
+* Bump pypi version to 0.0.47
+* Bring back support for python 3.6
+* Bump pypi to 0.0.46
+* Fix rtorrent connection
+* Bump pypi to 0.0.45
+* Fixes [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-677995622
+* Fix clearing warnings button
+* Clean up unused imports
+* Bump pypi to 0.0.44
+* Some cleanup of unused variables
+* Fix error parsing rss cache items (horriblsubs) [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-675506303
+* Fix error in proper finder [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-675506303
+* Bump pypi to 0.0.43
+* Try to fix delete rar contents (Almost never need to save those) Drop support for python 3.6 due to text parameter of subprocess.Popen
+* Fix build
+* Merge pull request [#6663](https://github.com/SickChill/SickChill/issues/6663) from RB14060/RB14060-bet+
+* Remove old db upgrades. We will only support db 44+ now. Improves speedup and code.
+* Some fstrings and translatable strings
+* fix() Duplicated line
+* feat() ui-dialog: Pin browser input & imageSelector drowdown to top
+* Fix xo error
+* fix() Hotfix to remove "Close" text on dialogs
+* isort
+* Make show image selector work with adblockers by self-proxying
+* Bump pypy to 0.0.42
+* Merge pull request [#6655](https://github.com/SickChill/SickChill/issues/6655) from SickChill/custom_show
+* feat() Add network logo for Audience, La Uno (TVE1), Jiangsu TV, YTV (JP)
+* Bump pypi to 0.0.41
+* Make status prettier with timeago
+* Make status page prettier with more thread status colors. Try to fix is_alive error.
+* Clean up api builder and use main navbar, and add a link to it in the config menu
+* Fix season/episode selection on apiBuilder
+* Fix some deprecated and incompatible tags in html/mako
+* Add itv encore network image
+* Add font-awesome into bower instead of included in source manually. Add fork-awesome css map
+* Add slack and telegram links to help&info and menu
+* Add discord invite link and add fork-awesome fonts/css.
+* Bump pypi to 0.0.40
+* Remove random_user_agent altogether (slows startup and triggers CF). Re-enable yggtorrent and torrentz
+* yarn upgrade
+* Bump pypi to 0.0.39
+* Fix error with tornado returning bytes for requests arguments causing nzbToMedia to fail. Fixes [#1765](https://github.com/clinton-hall/nzbToMedia/issues/1765)#issuecomment-673974074
+* Use real user agent for xem and non-providers, spoof only on a case-by-case basis if necessary
+* Refactor tv from oldbeard to sickchill
+* Fix startup on python3.8 when libs arent install in the environment. Rename deprecated mathods
+* Python3 - Fix issue with new tv dirty setter not always being marked dirty ([#6636](https://github.com/SickChill/SickChill/issues/6636))
+* Python3 ([#6635](https://github.com/SickChill/SickChill/issues/6635))
+* Python3 - Fix magentDL ([#6634](https://github.com/SickChill/SickChill/issues/6634))
+* Add method mass_upsert, and use it for cache entries. Add test making sure it works. ([#6633](https://github.com/SickChill/SickChill/issues/6633))
+* Cleanup a bit and make tests work through setuptools ([#6631](https://github.com/SickChill/SickChill/issues/6631))
+* Fix url for main db version check ([#6630](https://github.com/SickChill/SickChill/issues/6630))
+* Fix error on traktTrending: [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-672630826 ([#6629](https://github.com/SickChill/SickChill/issues/6629))
+* Python3 fixes ([#6628](https://github.com/SickChill/SickChill/issues/6628))
+* isort
+* Bump version for pypi
+* Fix editShow
+* Fix telegram and some other type mismatches
+* Isort
+* Bump pypi version to 0.0.28
+* First preview of manual snatch. There will probably be a few hiccups but it seems to work
+* Minor cleaning
+* Bump pypi version 0.0.27
+* Fix restore of sickbeard.db to sickchill.db
+* Fix mako error on login page
+* Remove unused imports, bump versionb
+* Fix error in web api
+* Bump version
+* Fix missed comma
+* Fix undefined on errorlogs page
+* Fix quirk with urllib3 proxies not working without a default scheme set. Fixes [#6621](https://github.com/SickChill/SickChill/issues/6621)
+* Fix dynamic import for clients, Fixes [#6622](https://github.com/SickChill/SickChill/issues/6622)
+* Add view and template for manual snatch selection. Unfinished Fix cache duping, add indexes and use SQLITE CONFLICT syntax
+* Bump version
+* Add seeders, leechers, size, added to provider cache and keep results
+* Bump pypi to 0.0.22
+* Eliminate tox.ini
+* bump pypi version to 0.0.21
+* Fix mistake in backup resotre Fixes [#6619](https://github.com/SickChill/SickChill/issues/6619)
+* Bump pypi to 0.0.20
+* Rename sickchill.sickbeard to sickchill.oldbeard and clean up some md
+* Move logger from sickchill.sickbeard to sickchill
+* Refactor updater, rename and move it, add preliminary pip updater/notifier
+* Bump pypi version
+* Fix backlog overview error. Fixes [#6618](https://github.com/SickChill/SickChill/issues/6618)
+* Update version for pypi
+* Rename sickbeard.db to sickchill.db Fix some errors with PROG_DIR and DATA_DIR Fix problem with the git updater Check if installed by pip, use /home/dusted/sickchill for DATA if so and disable updater for now. Use /home/dusted/sickchill for default DATA_DIR if old location does not have existing db/ini
+* Add setuptools-scm
+* Try to get codecov working again
+* Cleanup ical/googlecal events and image
+* Merge pull request [#6572](https://github.com/SickChill/SickChill/issues/6572) from SickChill/py3-again
+
 ### v2020.08.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.07.18-1...v2020.08.07-1)
