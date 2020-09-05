@@ -1,3 +1,10 @@
+### v2020.09.05-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-1...v2020.09.05-2)
+
+* Yarn upgrade
+* Release 0.0.56 to PyPi
+
 ### v2020.09.05-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.08.07-1...v2020.09.05-1)
