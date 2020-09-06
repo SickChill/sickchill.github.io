@@ -1,3 +1,9 @@
+### v2020.09.06-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-5...v2020.09.06-6)
+
+* Fix updater checking if installed via pip
+
 ### v2020.09.06-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-4...v2020.09.06-5)
