@@ -1,3 +1,9 @@
+### v2020.09.05-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-3...v2020.09.05-4)
+
+* Fix error on status page when show queue has items. Fixes [#6682](https://github.com/SickChill/SickChill/issues/6682)
+
 ### v2020.09.05-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-2...v2020.09.05-3)
