@@ -1,3 +1,11 @@
+### v2020.09.06-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-5...v2020.09.06-1)
+
+* Fix error on displayshow if you have a download url set in settings. Fixes [#6688](https://github.com/SickChill/SickChill/issues/6688)
+* Resize ctv drama
+* Added CTV Drama icon
+
 ### v2020.09.05-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-4...v2020.09.05-5)
