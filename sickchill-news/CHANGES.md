@@ -1,3 +1,10 @@
+### v2020.09.06-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-4...v2020.09.06-5)
+
+* Fix build
+* Isort
+
 ### v2020.09.06-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-3...v2020.09.06-4)
