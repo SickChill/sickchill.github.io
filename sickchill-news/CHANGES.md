@@ -1,3 +1,9 @@
+### v2020.09.06-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-3...v2020.09.06-4)
+
+* Fix error when creating hash for torrent files (bencode error) Fixes [#6686](https://github.com/SickChill/SickChill/issues/6686)
+
 ### v2020.09.06-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-2...v2020.09.06-3)
