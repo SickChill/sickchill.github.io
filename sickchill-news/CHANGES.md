@@ -1,3 +1,9 @@
+### v2020.09.06-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-2...v2020.09.06-3)
+
+* Disable urllib3 warnings so that log is not spammed when settings.SSL_VERIFY is False. Fixes [#6687](https://github.com/SickChill/SickChill/issues/6687)
+
 ### v2020.09.06-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-1...v2020.09.06-2)
