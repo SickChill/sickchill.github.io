@@ -1,3 +1,9 @@
+### v2020.09.06-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-1...v2020.09.06-2)
+
+* Set external loggers back to critical level. Stops logging of missing static files Fixes [#6683](https://github.com/SickChill/SickChill/issues/6683)
+
 ### v2020.09.06-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-5...v2020.09.06-1)
