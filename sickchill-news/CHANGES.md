@@ -1,3 +1,10 @@
+### v2020.09.06-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-6...v2020.09.06-7)
+
+* Use pills for episode statuses in displayShow Clean up updater code a bit, set url for pip updater to take the user to pypi Do not show branch warning on pip installs Better classes for true/false on status page
+* PiPy 2020.9.6.post6
+
 ### v2020.09.06-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-5...v2020.09.06-6)
