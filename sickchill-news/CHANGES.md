@@ -1,3 +1,9 @@
+### v2020.09.05-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-4...v2020.09.05-5)
+
+* Fix missed string decode on massEDit Fixes [#6545](https://github.com/SickChill/SickChill/issues/6545)#issuecomment-687687584
+
 ### v2020.09.05-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.05-3...v2020.09.05-4)
