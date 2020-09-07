@@ -1,3 +1,14 @@
+### v2020.09.07-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-3...v2020.09.07-4)
+
+* Fix sending torrent-file results to transmission, deluge, and deluged Fixes [#6690](https://github.com/SickChill/SickChill/issues/6690)
+* Make sure tvdb image url does not have _cache in it
+* Fix url for update comparison
+* Merge branch 'develop'
+* Revert "Pypi release 2020.9.7.post3"
+* Pypi release 2020.9.7.post3
+
 ### v2020.09.07-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-2...v2020.09.07-3)
