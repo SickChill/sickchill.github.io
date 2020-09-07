@@ -1,3 +1,10 @@
+### v2020.09.07-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-4...v2020.09.07-5)
+
+* Fix toggling log level (debug on/off) which was stopping all logging (It was set to critical level) Fixes [#6691](https://github.com/SickChill/SickChill/issues/6691)
+* Release pypi 2020.9.7.post4
+
 ### v2020.09.07-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-3...v2020.09.07-4)
