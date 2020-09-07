@@ -1,3 +1,9 @@
+### v2020.09.07-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-2...v2020.09.07-3)
+
+* Fix failure to start due to translations by byassing if it fails (hacky) Try to fix an empty environment variable for language Fixes [#6702](https://github.com/SickChill/SickChill/issues/6702)
+
 ### v2020.09.07-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-1...v2020.09.07-2)
