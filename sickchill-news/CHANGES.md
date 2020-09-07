@@ -1,3 +1,9 @@
+### v2020.09.07-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-1...v2020.09.07-2)
+
+* PyPi release 2020.9.7.post1
+
 ### v2020.09.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-7...v2020.09.07-1)
