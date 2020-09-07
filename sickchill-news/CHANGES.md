@@ -1,3 +1,10 @@
+### v2020.09.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-7...v2020.09.07-1)
+
+* Fix rtorrent (bug in new-rtorrent-python) Add debug around rtorrent error and update lib3
+* Release 2020.9.6.post7
+
 ### v2020.09.06-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.06-6...v2020.09.06-7)
