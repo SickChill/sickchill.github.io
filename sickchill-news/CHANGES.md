@@ -1,3 +1,9 @@
+### v2020.09.08-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-5...v2020.09.08-1)
+
+* Fix adding labels in deluged Fixes [#6693](https://github.com/SickChill/SickChill/issues/6693)
+
 ### v2020.09.07-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-4...v2020.09.07-5)
