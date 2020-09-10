@@ -1,3 +1,10 @@
+### v2020.09.10-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-2...v2020.09.10-3)
+
+* Fix error on add from imdb popular and make the code use imdbpie (for now) Fixes [#6719](https://github.com/SickChill/SickChill/issues/6719)
+* Release 2020.9.10.post2
+
 ### v2020.09.10-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-1...v2020.09.10-2)
