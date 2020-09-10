@@ -1,3 +1,9 @@
+### v2020.09.10-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-1...v2020.09.10-2)
+
+* Fix error on testRename Fixes [#6711](https://github.com/SickChill/SickChill/issues/6711)
+
 ### v2020.09.10-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.09-2...v2020.09.10-1)
