@@ -1,3 +1,10 @@
+### v2020.09.09-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.08-1...v2020.09.09-1)
+
+* Fix sending with qbittorrent Fix error with manual snatching on qbit (all will use regualr sickchill label on manual snatch for now) Fixes [#6706](https://github.com/SickChill/SickChill/issues/6706)
+* Release 2020.9.8.post1
+
 ### v2020.09.08-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.07-5...v2020.09.08-1)
