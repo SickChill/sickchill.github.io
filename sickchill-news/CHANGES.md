@@ -1,3 +1,12 @@
+### v2020.09.10-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.09-2...v2020.09.10-1)
+
+* Use the date string as q when doing nzb tvdbid search for shows that are air by date, and leave season and ep out Fixes [#6718](https://github.com/SickChill/SickChill/issues/6718)
+* Fix error in rarbg Fixes [#6715](https://github.com/SickChill/SickChill/issues/6715)
+* isort
+* Release 2020.9.9.post2
+
 ### v2020.09.09-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.09-1...v2020.09.09-2)
