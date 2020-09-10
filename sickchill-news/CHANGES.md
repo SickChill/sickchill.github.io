@@ -1,3 +1,10 @@
+### v2020.09.09-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.09-1...v2020.09.09-2)
+
+* Fix emby notifications Fixes [#6701](https://github.com/SickChill/SickChill/issues/6701)
+* Relase 2020.9.9.post1
+
 ### v2020.09.09-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.08-1...v2020.09.09-1)
