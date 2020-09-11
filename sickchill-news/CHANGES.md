@@ -1,3 +1,11 @@
+### v2020.09.11-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-3...v2020.09.11-1)
+
+* Fix image selector for shows Fixes [#6721](https://github.com/SickChill/SickChill/issues/6721)
+* isort
+* Release 2020.9.10.post3
+
 ### v2020.09.10-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-2...v2020.09.10-3)
