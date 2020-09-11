@@ -1,3 +1,9 @@
+### v2020.09.11-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-1...v2020.09.11-2)
+
+* Fix getting show from scene exception Thanks Nyaran
+
 ### v2020.09.11-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.10-3...v2020.09.11-1)
