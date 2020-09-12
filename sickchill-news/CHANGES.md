@@ -1,3 +1,11 @@
+### v2020.09.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-3...v2020.09.12-1)
+
+* Fix extra blank line
+* Fix encoding error in sb.searchtvdb webapi, by not casting =P Fixes [#6733](https://github.com/SickChill/SickChill/issues/6733)
+* Release 2020.9.11.post3
+
 ### v2020.09.11-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-2...v2020.09.11-3)
