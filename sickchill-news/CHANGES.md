@@ -1,3 +1,11 @@
+### v2020.09.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-2...v2020.09.12-3)
+
+* Episode thumbs only have one option. Fixes multiple error Fixes [#6735](https://github.com/SickChill/SickChill/issues/6735)
+* Update init.freebsd
+* Release 2020.9.12.post2
+
 ### v2020.09.12-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-1...v2020.09.12-2)
