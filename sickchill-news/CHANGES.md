@@ -1,3 +1,10 @@
+### v2020.09.11-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-2...v2020.09.11-3)
+
+* Fix labelling when snatching manual (provide the show in the result) Fixes [#6693](https://github.com/SickChill/SickChill/issues/6693)#issuecomment-691201067
+* Release 2020.9.11.post2
+
 ### v2020.09.11-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-1...v2020.09.11-2)
