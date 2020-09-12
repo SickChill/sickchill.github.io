@@ -246,6 +246,7 @@ Astro Prima:Asia/Kuala_Lumpur
 Astro Ria:Asia/Kuala_Lumpur
 Astro Warna:Asia/Kuala_Lumpur
 At the Races (UK):Europe/London
+AtomFilms:America/New_York
 Audience Network:US/Eastern
 Audience:America/New_York
 Australian Broadcasting Corporation:Australia/Sydney
@@ -996,6 +997,8 @@ Fox Life:Europe/Rome
 Fox Movies:America/Argentina/Buenos_Aires
 Fox Nation:America/New_York
 Fox News:America/New_York
+Fox Premium 1 (Brazil):America/Noronha
+Fox Premium 2 (Brazil):America/Noronha
 Fox Reality:US/Eastern
 Fox Showcase:Australia/Lord_Howe
 Fox Soccer Channel (CA):Canada/Eastern
@@ -1551,6 +1554,7 @@ NCRV:Europe/Amsterdam
 NDR:Europe/Berlin
 NDTV 24x7 (UK):Europe/London
 NDTV 24x7:Asia/Kolkata
+NDTV Good Times:Asia/Kolkata
 NDTV India:Asia/Kolkata
 NECN (US):US/Eastern
 NECO:Asia/Tokyo
@@ -1658,6 +1662,7 @@ Nickelodeon:US/Eastern
 Niconico:Asia/Tokyo
 Nine (Australia):Australia/Lord_Howe
 Nine Network:Australia/Sydney
+Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Nitro:Europe/Berlin
 NoA:Europe/Paris
@@ -2100,6 +2105,7 @@ Scuzz:Europe/London
 Seeso:US/Eastern
 Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
+SescTV:America/Noronha
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Señal Colombia:America/Bogota
@@ -2311,6 +2317,7 @@ TIMvision:Europe/Rome
 TITV:Asia/Taipei
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
+TLC India:Asia/Kolkata
 TLC:US/Eastern
 TLN:America/St_Johns
 TMC:Europe/Monaco
@@ -2361,8 +2368,10 @@ TV 2 Fri:Europe/Copenhagen
 TV 2 Nyhetskanalen:Europe/Oslo
 TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
+TV 2 Sumo:Europe/Oslo
 TV 2 Zebra:Europe/Oslo
 TV 2 Zulu:Europe/Copenhagen
+TV 2/Nord:Europe/Copenhagen
 TV 2:Europe/Copenhagen
 TV 3:Europe/Copenhagen
 TV 4:Europe/Warsaw
@@ -2488,6 +2497,7 @@ TVRI:Asia/Jakarta
 TVS China:Asia/Shanghai
 TVS Sydney:Australia/Sydney
 TVS:Australia/Sydney
+TVSA:Europe/Sarajevo
 TVSN (AU):Australia/Sydney
 TVT (AU):Australia/Sydney
 TVU music television (US):US/Eastern
@@ -2580,6 +2590,7 @@ Time Warner Cable News Central New York (US):US/Eastern
 Time Warner Cable News North Carolina (US):US/Eastern
 Time Warner Cable News Rochester (US):US/Eastern
 Tiny Pop (UK):Europe/London
+Tipik:Europe/Brussels
 Toei Channel:Asia/Tokyo
 Toggle:Asia/Singapore
 Tokai TV (JP):Asia/Tokyo

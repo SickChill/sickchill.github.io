@@ -1,3 +1,10 @@
+### v2020.09.12-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-1...v2020.09.12-2)
+
+* Do not log an error if a show has no network on thetvdb
+* Release 2020.9.12.post1
+
 ### v2020.09.12-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.11-3...v2020.09.12-1)
