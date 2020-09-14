@@ -1,3 +1,10 @@
+### v2020.09.14-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.14-1...v2020.09.14-2)
+
+* Locale for imdbpy is broken
+* Fix bundled libs, Remove imdbpie re-add imdbpy ([#6740](https://github.com/SickChill/SickChill/issues/6740))
+
 ### v2020.09.14-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.13-2...v2020.09.14-1)
