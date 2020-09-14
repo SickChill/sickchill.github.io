@@ -1,3 +1,10 @@
+### v2020.09.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.13-1...v2020.09.13-2)
+
+* Fixes [SickChill/SickChill#6732](https://github.com/SickChill/SickChill/issues/6732) ([#6736](https://github.com/SickChill/SickChill/issues/6736))
+* Release 2020.9.13.post1
+
 ### v2020.09.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-3...v2020.09.13-1)
