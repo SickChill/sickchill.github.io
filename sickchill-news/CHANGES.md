@@ -1,3 +1,10 @@
+### v2020.09.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-3...v2020.09.13-1)
+
+* Use certifi for cert verification Replaces [#6737](https://github.com/SickChill/SickChill/issues/6737)
+* Update bundled libs in lib3
+
 ### v2020.09.12-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.12-2...v2020.09.12-3)
