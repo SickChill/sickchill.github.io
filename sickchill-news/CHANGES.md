@@ -1,3 +1,14 @@
+### v2020.09.16-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.14-2...v2020.09.16-1)
+
+* Fix changed bencodepy exception names and method names Fixes [#6745](https://github.com/SickChill/SickChill/issues/6745)
+* Remove exceptionsSeasonCache and get_scene_seasons Refactor scene_exceptions and name_cache Fixes [#6743](https://github.com/SickChill/SickChill/issues/6743)
+* Fix rebuild_exception_cache ([#6752](https://github.com/SickChill/SickChill/issues/6752))
+* Change function to arrow function
+* Fixes [SickChill/SickChill#6746](https://github.com/SickChill/SickChill/issues/6746)
+* Better imdb_id verification for tv
+
 ### v2020.09.14-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.14-1...v2020.09.14-2)
