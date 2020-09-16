@@ -1,3 +1,9 @@
+### v2020.09.16-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-1...v2020.09.16-2)
+
+* Fix error with replace_map and fstrings. Fixes [#6751](https://github.com/SickChill/SickChill/issues/6751)
+
 ### v2020.09.16-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.14-2...v2020.09.16-1)
