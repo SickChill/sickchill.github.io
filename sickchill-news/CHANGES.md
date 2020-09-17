@@ -1,3 +1,11 @@
+### v2020.09.16-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-2...v2020.09.16-3)
+
+* Fix problem with name cache/get_show, probably fixes the post processing problem
+* Add imdbpy as a dependancy link
+* Release sickchill-2020.9.16.post2
+
 ### v2020.09.16-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-1...v2020.09.16-2)
