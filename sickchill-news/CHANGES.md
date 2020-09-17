@@ -1,3 +1,10 @@
+### v2020.09.17-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-3...v2020.09.17-1)
+
+* Try adding show_name and custom_name to all_seasons exceptions
+* Release sickchill-2020.9.16.post3
+
 ### v2020.09.16-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-2...v2020.09.16-3)
