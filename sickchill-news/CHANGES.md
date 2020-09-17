@@ -1,3 +1,9 @@
+### v2020.09.17-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-2...v2020.09.17-3)
+
+* Fix similar variable name confusion
+
 ### v2020.09.17-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-1...v2020.09.17-2)
