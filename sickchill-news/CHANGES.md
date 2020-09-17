@@ -1,3 +1,9 @@
+### v2020.09.17-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-1...v2020.09.17-2)
+
+* Do not error with outdated imdbpy
+
 ### v2020.09.17-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.16-3...v2020.09.17-1)
