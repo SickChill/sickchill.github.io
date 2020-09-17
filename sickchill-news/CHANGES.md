@@ -1,3 +1,9 @@
+### v2020.09.17-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-4...v2020.09.17-5)
+
+* Quiet error for tvsubtitulo and subtitulamos Fixes [#6724](https://github.com/SickChill/SickChill/issues/6724)
+
 ### v2020.09.17-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-3...v2020.09.17-4)
