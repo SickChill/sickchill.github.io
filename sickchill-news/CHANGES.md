@@ -1,3 +1,9 @@
+### v2020.09.17-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-5...v2020.09.17-6)
+
+* Do not depend on sysconfig to check if sickchill was installed with pip, use importlib instead
+
 ### v2020.09.17-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-4...v2020.09.17-5)
