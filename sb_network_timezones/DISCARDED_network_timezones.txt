@@ -1,0 +1,1368 @@
+111 Greats (AU):Australia/Sydney
+13TH STREET (AU):Australia/Sydney
+13th Street (NL):Europe/Amsterdam
+2 (NZ):Pacific/Auckland
+24/7 (US):US/Eastern
+31 DIGITAL (AU):Australia/Sydney
+3ABN (US):US/Eastern
+3ABN Latino (US):US/Eastern
+3ABN Proclaim! (US):US/Eastern
+3ABN Russia (US):US/Eastern
+3e (IE):Europe/Dublin
+3net (US):US/Eastern
+44 Adelaide (AU):Australia/Sydney
+47 (UK):Europe/London
+4Music (UK):Europe/London
+4SD (US):US/Eastern
+5 abc (US):US/Eastern
+5* (UK):Europe/London
+5USA (UK):Europe/London
+7NBC (US):US/Eastern
+7TWO (AU):Australia/Sydney
+7mate (AU):Australia/Sydney
+8TV (MY):Asia/Kuala_Lumpur
+9Live (DE):Europe/Berlin
+9XM (UK):Europe/London
+A&E (AU):Australia/Sydney
+AAG (UK):Europe/London
+AANtv (US):US/Eastern
+ABC (Australia):Australia/Sydney
+ABC (Canberra) (AU):Australia/Sydney
+ABC (UK):Europe/London
+ABC7 Chicago (US):US/Eastern
+ABC:US/Eastern
+ABD (AU):Australia/Sydney
+ABN (AU):Australia/Sydney
+ABN (US):US/Eastern
+ABP New (UK):Europe/London
+ABQ (AU):Australia/Sydney
+ABS (AU):Australia/Sydney
+ABT (AU):Australia/Sydney
+ABV (AU):Australia/Sydney
+ABW (AU):Australia/Sydney
+ACBN (US):US/Eastern
+ACN (US):US/Eastern
+ACTION MOVIES (AU):Australia/Sydney
+ADS (AU):Australia/Sydney
+AIT International (UK):Europe/London
+AMAZING FACTS (US):US/Eastern
+AMERICAN HEROES CHANNEL (US):US/Eastern
+AMGTV (US):US/Eastern
+AMV (AU):Australia/Sydney
+ANIMAL PLANET (CA):Canada/Eastern
+ANIMAL PLANET (UK):Europe/London
+ANTENNA TV (US):US/Eastern
+AOL (US):US/Eastern
+ARD:Europe/Berlin
+ARISE News (UK):Europe/London
+ARTN (US):US/Eastern
+ARY Digital (UK):Europe/London
+ARY One Digital (UK):Europe/London
+ARY Qtv (UK):Europe/London
+ASEN (US):US/Eastern
+ASEN2 (US):US/Eastern
+ASPiRE (US):US/Eastern
+ATN (AU):Australia/Sydney
+ATN Bangla (UK):Europe/London
+ATN CRICKET PLUS (CA):Canada/Eastern
+ATN SPORTS (CA):Canada/Eastern
+ATN Service 1 (US):US/Eastern
+ATN Service 2 (US):US/Eastern
+ATV (AU):Australia/Sydney
+ATV (DE):Europe/Berlin
+AWE (US):US/Eastern
+AXN (HK):Asia/Hong_Kong
+AXN (JP):Asia/Tokyo
+AXN (SG):Asia/Singapore
+AXStv (US):US/Eastern
+AZN Television (US):US/Eastern
+Aaj Tak (UK):Europe/London
+Aastha TV (UK):Europe/London
+Abu Dhabi TV (UK):Europe/London
+Acasă (RO):Europe/Bucharest
+AccuWeather Channel (US):US/Eastern
+Active Channel (UK):Europe/London
+Adventist TV (US):US/Eastern
+Africa Channel (US):US/Eastern
+Afrotainment (US):US/Eastern
+Afrotainment Music (US):US/Eastern
+Ahlebait TV (UK):Europe/London
+Ahlulbayt TV (UK):Europe/London
+Al Jazeera Children's Channel (UK):Europe/London
+Al Jazeera English (UK):Europe/London
+Al Karma TV (US):US/Eastern
+All Nations TV (US):US/Eastern
+Almavision (US):US/Eastern
+Altitude sports (US):US/Eastern
+Amazon Instant Video:US/Eastern
+Amazon Prime Instant Video (UK):Europe/London
+Amazon Prime Instant Video:US/Eastern
+American Liberty (US):US/Eastern
+Angel One (US):US/Eastern
+Angel Two (US):US/Eastern
+Animal Planet (AU):Australia/Sydney
+Animax (DE):Europe/Berlin
+Animax (SG):Asia/Singapore
+Apostolic Oneness Network (US):US/Eastern
+Arabic Channel (US):US/Eastern
+Argos TV (UK):Europe/London
+Arizona Capitol Television (US):US/Eastern
+Arizona NewsChannel (US):US/Eastern
+Associated Broadcasting Company (PH):Asia/Manila
+At the Races (UK):Europe/London
+Australian Broadcasting Corporation:Australia/Sydney
+BANDAMAX (US):US/Eastern
+BAY NEWS 9 (US):US/Eastern
+BBC FOUR:Europe/London
+BBC Knowledge (AU):Australia/Sydney
+BBC One East Midlands:Europe/London
+BBC One East:Europe/London
+BBC One North East & Cumbria:Europe/London
+BBC One North West:Europe/London
+BBC One Oxfordshire:Europe/London
+BBC One South East:Europe/London
+BBC One South West:Europe/London
+BBC One West Midlands:Europe/London
+BBC One West:Europe/London
+BBC One Yorkshire & Lincolnshire:Europe/London
+BBC RED BUTTON:Europe/London
+BBC THREE:Europe/London
+BBC TWO Northern Ireland:Europe/London
+BBC TWO Scotland:Europe/London
+BBC TWO Wales:Europe/London
+BBC TWO:Europe/London
+BBC UKTV (AU):Australia/Sydney
+BBC one London:Europe/London
+BBC one Northern Ireland:Europe/London
+BBC one Wales:Europe/London
+BCV (AU):Australia/Sydney
+BET (UK):Europe/London
+BET Gospel (US):US/Eastern
+BET HIP HOP (US):US/Eastern
+BHSN (US):US/Eastern
+BIOGRAPHY CHANNEL (CA):Canada/Eastern
+BKN (AU):Australia/Sydney
+BLISS (UK):Europe/London
+BOS (NL):Europe/Amsterdam
+BOSTEL (US):US/Eastern
+BOUNCE TV (US):US/Eastern
+BS Fuji (JP):Asia/Tokyo
+BS-i (JP):Asia/Tokyo
+BT Sport 1 (UK):Europe/London
+BT Sport 2 (UK):Europe/London
+BTQ (AU):Australia/Sydney
+BabyTV (UK):Europe/London
+Babytv (US):US/Eastern
+Bandai Channel (JP):Asia/Tokyo
+Bangla TV (UK):Europe/London
+Barcelona TV (ES):Europe/Madrid
+Bay TV Clywd (UK):Europe/London
+Bay TV Liverpool (UK):Europe/London
+Bay TV Swansea (UK):Europe/London
+Bebo.com (US):US/Eastern
+Believe TV (UK):Europe/London
+Best Direct (UK):Europe/London
+BiZ TELEVISION (US):US/Eastern
+Bid (UK):Europe/London
+Bid Plus (UK):Europe/London
+Big Ten Network (US):US/Eastern
+Bloomberg TELEVISION (US):US/Eastern
+Bloomberg Television (UK):Europe/London
+Blue Ridge Communications (US):US/Eastern
+Book TELEVISION (CA):Canada/Eastern
+Boomerang (AU):Australia/Sydney
+Boomerang (DE):Europe/Berlin
+Boomerang (UK):Europe/London
+BoxNation (UK):Europe/London
+Brit Asia TV (UK):Europe/London
+British Eurosport 2:Europe/London
+Business News Network (CA):Canada/Eastern
+BuzMuzik (UK):Europe/London
+C-SPAN2 (US):US/Eastern
+C-SPAN3 (US):US/Eastern
+CAN TV19 (US):US/Eastern
+CARS.TV (US):US/Eastern
+CARTOON NETWORK (AU):Australia/Sydney
+CARTOON NETWORK (UK):Europe/London
+CARTOON NETWORK TOO (UK):Europe/London
+CATHOLICTV (US):US/Eastern
+CBC Newsworld:America/St_Johns
+CBC:Canada/Eastern
+CBCnews network (CA):Canada/Eastern
+CBN (AU):Australia/Sydney
+CBS 2 HD (US):US/Eastern
+CBS 2 LOS ANGELES (US):US/Eastern
+CBS 2 NEW YORK (US):US/Eastern
+CBS 4 (US):US/Eastern
+CBS Korean (US):US/Eastern
+CBS SPORTS NETWORK (US):US/Eastern
+CBS action (UK):Europe/London
+CBS drama (UK):Europe/London
+CBS reality (UK):Europe/London
+CBS.com (US):US/Eastern
+CBeebies (US):US/Eastern
+CC:STUDIOS (US):US/Eastern
+CCN (US):US/Eastern
+CCTV News (UK):Europe/London
+CCTV-4 (US):US/Eastern
+CGN TV (US):US/Eastern
+CHCH (CA):Canada/Eastern
+CHELSEA TV (UK):Europe/London
+CLTV (US):US/Eastern
+CMC (AU):Australia/Sydney
+CMT (CA):Canada/Eastern
+CN100 (US):US/Eastern
+CNBC (AU):Australia/Sydney
+CNBC UK:Europe/London
+CNBC-e (TR):Europe/Istanbul
+CNC World (UK):Europe/London
+CNL Russian (US):US/Eastern
+CNN (UK):Europe/London
+CNN en Español (US):US/Eastern
+COMCAST Sports Net Chicago (US):US/Eastern
+COMCAST Sports Net New England (US):US/Eastern
+COMEDY CENTRAL (UK):Europe/London
+COMEDY CENTRAL EXTRA (UK):Europe/London
+COOLTV (US):US/Eastern
+CORK COMMUNITY TV (IE):Europe/Dublin
+COSMOPOLITANTV (CA):Canada/Eastern
+CSS (US):US/Eastern
+CST (US):US/Eastern
+CTC (AU):Australia/Sydney
+CTC:Asia/Tokyo
+CTS (TW):Asia/Taipei
+CTV Drama:America/St_Johns
+CTV News Channel (CA):Canada/Eastern
+CTV Sci-Fi:America/St_Johns
+CTV two (CA):Canada/Eastern
+CWSEED.com (US):US/Eastern
+Cable Public Affairs Channel (CA):Canada/Eastern
+CablePulse24 (CA):Canada/Eastern
+Cambridge Presents (UK):Europe/London
+Canal 13 (AR):America/Buenos_Aires
+Canal de las Estrellas Latinoamerica (US):US/Eastern
+Cancao News (US):US/Eastern
+Capital TV (UK):Europe/London
+Cartoon Network (CA):Canada/Eastern
+Celebrity Shop (UK):Europe/London
+Centric (US):US/Eastern
+Ceskoslovenská televize:Europe/Prague
+Channel 10 (IL):Asia/Jerusalem
+Channel 5 +24 (UK):Europe/London
+Channel 7 (US):US/Eastern
+Channel 9 (UK):Europe/London
+Channel AKA (UK):Europe/London
+Channel S (UK):Europe/London
+Channel i (UK):Europe/London
+Chart Show Dance (UK):Europe/London
+Chat Box (UK):Europe/London
+Chiba TV (JP):Asia/Tokyo
+Chiller (US):US/Eastern
+Christian (UK):Europe/London
+Christian Television Network (US):US/Eastern
+Chukyo TV (JP):Asia/Tokyo
+Church Channel (US):US/Eastern
+Cinelatino (US):US/Eastern
+Citv (UK):Europe/London
+Clubland (UK):Europe/London
+Colorado's Own Channel 2 (US):US/Eastern
+Colors (UK):Europe/London
+Comcast Entertainment Television (US):US/Eastern
+Comcast Television (US):US/Eastern
+Comcast hometown network (US):US/Eastern
+Comcast/Charter Sports Southeast (US):US/Eastern
+Comedy Central (NL):Europe/Amsterdam
+Comedy Central UK:Europe/London
+Comedy MOVIES (AU):Australia/Sydney
+Comedy.tv (US):US/Eastern
+Controversial TV (UK):Europe/London
+Coptic TV (US):US/Eastern
+Cornerstone Television (US):US/Eastern
+Cottage Life (CA):Canada/Eastern
+Country Music Television (US):US/Eastern
+Cozi TV (US):US/Eastern
+Create and Craft (UK):Europe/London
+Credo TV (US):US/Eastern
+CÚLA4 (IE):Europe/Dublin
+DAYSTAR (US):US/Eastern
+DFamilia (US):US/Eastern
+DISCOVERY SCIENCE (CA):Canada/Eastern
+DISCOVERY home&health (UK):Europe/London
+DM Digital (UK):Europe/London
+DMAX (UK):Europe/London
+DRAMA (UK):Europe/London
+DTD (AU):Australia/Sydney
+DTOUR (CA):Canada/Eastern
+DUSK (CA):Canada/Eastern
+Dangerjane.tv (US):US/Eastern
+Dare to Dream Network (US):US/Eastern
+Dating Channel (UK):Europe/London
+Daystar (UK):Europe/London
+Deal Channel (UK):Europe/London
+Denver's 7 (US):US/Eastern
+Dept Store (UK):Europe/London
+Detroit Lions Television Network (US):US/Eastern
+Deutsche Telekom (DE):Europe/Berlin
+Deutsche Welle (US):US/Eastern
+DiSNEY CHANNEL (AU):Australia/Sydney
+DiSNEY CHANNEL (UK):Europe/London
+DiSNEY Junior (AU):Australia/Sydney
+DiSNEY Junior (UK):Europe/London
+DiSNEY Junior (US):US/Eastern
+DiSNEY XD (UK):Europe/London
+DiSNEY.com (US):US/Eastern
+Discovery (US):US/Eastern
+Discovery Family (US):US/Eastern
+Discovery HISTORY (UK):Europe/London
+Discovery Real Time:Europe/London
+Discovery Science (AU):Australia/Sydney
+Discovery Science (UK):Europe/London
+Discovery Shed. (UK):Europe/London
+Discovery World (CA):Canada/Eastern
+Discovery en Español (US):US/Eastern
+Discovery fit&health (US):US/Eastern
+Discovery home & health (AU):Australia/Sydney
+Discovery turbo MAX (AU):Australia/Sydney
+Disney Channel (Germany):Europe/Berlin
+Disney Junior (CA):Canada/Eastern
+Disney XD (CA):Canada/Eastern
+Divine TV (US):US/Eastern
+E! (AU):Australia/Sydney
+E! (UK):Europe/London
+E.tv (ZA):Africa/Johannesburg
+E4 (UK):Europe/London
+EBU (EU):Europe/Zurich
+ECC TV (RU):Europe/Kaliningrad
+EICB (US):US/Eastern
+ES.TV (US):US/Eastern
+ESPN (AU):Australia/Sydney
+ESPN (UK):Europe/London
+ESPN 2 (US):US/Eastern
+ESPN Classic (US):US/Eastern
+ESPN DEPORTES (US):US/Eastern
+ESPN Full Court (US):US/Eastern
+ESPN Game Plan (US):US/Eastern
+ESPN2 (AU):Australia/Sydney
+ESPNEWS (US):US/Eastern
+ESPNU (US):US/Eastern
+EUROCHANNEL (US):US/Eastern
+EUROSPORT (AU):Australia/Sydney
+EWTN TV (UK):Europe/London
+EinsExtra (DE):Europe/Berlin
+El Rey:US/Eastern
+Eleven (AU):Australia/Sydney
+Emmanuel TV (US):US/Eastern
+Encore Westerns East (US):US/Eastern
+Esperanza TV (US):US/Eastern
+Estuary TV (UK):Europe/London
+Eternal Word Television Network (US):US/Eastern
+EuroWorld Sport (CA):Canada/Eastern
+Exitos TV (US):US/Eastern
+Extreme Sports Channel (UK):Europe/London
+FEARnet:US/Eastern
+FIGHT NETWORK (CA):Canada/Eastern
+FIGHT NOW tv (US):US/Eastern
+FILM 4 (UK):Europe/London
+FLAVA (UK):Europe/London
+FLIX (US):US/Eastern
+FMC (AU):Australia/Sydney
+FORO tv (US):US/Eastern
+FOUR (NZ):Pacific/Auckland
+FOX (FI):Europe/Helsinki
+FOX (PT):Europe/Lisbon
+FOX (UK):Europe/London
+FOX 11 (US):US/Eastern
+FOX 31 DENVER (US):US/Eastern
+FOX 32 (US):US/Eastern
+FOX 5 (US):US/Eastern
+FOX CLASSICS (AU):Australia/Sydney
+FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
+FOX COLLEGE SPORTS CENTRAL (US):US/Central
+FOX COLLEGE SPORTS PACIFIC (US):US/Pacific
+FOX DEPORTES (US):US/Eastern
+FOX FOOTY (AU):Australia/Sydney
+FOX NEWS channel (US):US/Eastern
+FOX News Channel (UK):Europe/London
+FOX ROCHESTER (US):US/Eastern
+FOX SOCCER plus (US):US/Eastern
+FOX SPORTS 2 (AU):Australia/Sydney
+FOX SPORTS 3 (AU):Australia/Sydney
+FOX SPORTS ARIZONA (US):US/Eastern
+FOX SPORTS CAROLINAS (US):US/Eastern
+FOX SPORTS DETROIT (US):US/Eastern
+FOX SPORTS FLORIDA (US):US/Eastern
+FOX SPORTS INDIANA (US):US/Eastern
+FOX SPORTS KANSAS CITY (US):US/Eastern
+FOX SPORTS MIDWEST (US):US/Eastern
+FOX SPORTS NEW ORLEANS (US):US/Eastern
+FOX SPORTS NEWS (AU):Australia/Sydney
+FOX SPORTS NORTH (US):US/Eastern
+FOX SPORTS OHIO (US):US/Eastern
+FOX SPORTS OKLAHOMA (US):US/Eastern
+FOX SPORTS PRIME TICKET (US):US/Eastern
+FOX SPORTS SAN DIEGO (US):US/Eastern
+FOX SPORTS SOUTH (US):US/Eastern
+FOX SPORTS SOUTHWEST (US):US/Eastern
+FOX SPORTS SPORTSOUTH (US):US/Eastern
+FOX SPORTS SUN SPORTS (US):US/Eastern
+FOX SPORTS TENNESSEE (US):US/Eastern
+FOX SPORTS WEST (US):US/Eastern
+FOX SPORTS WISCONSIN (US):US/Eastern
+FOX SPORTS:Australia/Sydney
+FOX Sports 2:US/Eastern
+FRANCE24 (US):US/Eastern
+FSTV (US):US/Eastern
+FUEL TV (AU):Australia/Sydney
+FX (AU):Australia/Sydney
+FX CANADA:Canada/Eastern
+FX MOVIE CHANNEL (US):US/Eastern
+Faith World TV (UK):Europe/London
+Family Friendly Entertainment (US):US/Eastern
+Family Gekijou (JP):Asia/Tokyo
+Fire Hit TV (UK):Europe/London
+Fitness Channel (UK):Europe/London
+Flow TV (US):US/Eastern
+Food Network (UK):Europe/London
+Formula 1 TV (USA):America/New_York
+Fox (BZ):America/Belize
+Fox (CR):America/Costa_Rica
+Fox (GT):America/Guatemala
+Fox (HN):America/Tegucigalpa
+Fox (IT):Europe/Rome
+Fox (NI):America/Managua
+Fox (SV):America/El_Salvador
+Fox 8 (NL):Europe/Amsterdam
+Fox Action (Brazil):America/Noronha
+Fox Channel:Europe/Berlin
+Fox Life (NL):Europe/Amsterdam
+Fox Life:Europe/Rome
+Fox Soccer Channel (CA):Canada/Eastern
+Fox Sports 1:America/New_York
+France 24 (UK):Europe/London
+Frost Great Outdoors (US):US/Eastern
+Fusion (US):US/Eastern
+GBN (US):US/Eastern
+GEB AMERICA (US):US/Eastern
+GEO News (UK):Europe/London
+GEO UK (UK):Europe/London
+GLOBO TV International (US):US/Eastern
+GLV (AU):Australia/Sydney
+GO (ZA):Africa/Johannesburg
+GO! (AU):Australia/Sydney
+GOLD (AU):Australia/Sydney
+GOLD (UK):Europe/London
+GOLD2 (AU):Australia/Sydney
+GOLF CHANNEL (US):US/Eastern
+GOLTV (US):US/Eastern
+GTS (AU):Australia/Sydney
+GTV (AU):Australia/Sydney
+GWN7 (AU):Australia/Sydney
+Gaiam TV :America/New_York
+Galavisión (US):US/Eastern
+Gamavision (MX):America/Mexico_City
+Game Show Network (US):US/Eastern
+Gay Network (UK):Europe/London
+GayXChange (UK):Europe/London
+Gem (AU):Australia/Sydney
+Gem Shopping Network (US):US/Eastern
+Gems TV (UK):Europe/London
+Gems TV Extra (UK):Europe/London
+Globo International (AU):Australia/Sydney
+Glory TV (UK):Europe/London
+God Channel (UK):Europe/London
+God's Learning Channel (US):US/Eastern
+Good Food (UK):Europe/London
+Gospel Channel (UK):Europe/London
+Greatest Hits (UK):Europe/London
+H2 (CA):Canada/Eastern
+H2 (UK):Europe/London
+HBO CANADA:Canada/Eastern
+HBO Family (US):US/Eastern
+HBO Signature (US):US/Eastern
+HBO2 (US):US/Eastern
+HISTORY (AU):Australia/Sydney
+HISTORY (UK):Europe/London
+HITN (US):US/Eastern
+HR (DE):Europe/Berlin
+HRT2 (HR):Europe/Zagreb
+HRTV (US):US/Eastern
+HSN (US):US/Eastern
+HSV (AU):Australia/Sydney
+HUMAN (NL):Europe/Amsterdam
+Hallmark MOVIES & MYSTERIES (US):US/Eastern
+Harmony Channel (US):US/Eastern
+Headline News (US):US/Eastern
+Healthy Living Network (US):US/Eastern
+Heart TV (UK):Europe/London
+Het Gesprek (NL):Europe/Amsterdam
+Hidayat TV (UK):Europe/London
+High Street TV (UK):Europe/London
+History en Español (US):US/Eastern
+Holiday & Cruise (UK):Europe/London
+Home Team Networks (US):US/Eastern
+Hope CHANNEL (US):US/Eastern
+Hope Church Channel (US):US/Eastern
+Horror Channel (UK):Europe/London
+Horse & Country TV (UK):Europe/London
+Howard TV (US):US/Eastern
+IBC (PH):Asia/Manila
+ICTV (AU):Australia/Sydney
+IFC (CA):Canada/Eastern
+INVESTIGATION DISCOVERY (UK):Europe/London
+IQRA TV (UK):Europe/London
+ITV &  TVE:Europe/London
+ITV Gold (US):US/Eastern
+Ideal Extra (UK):Europe/London
+Ideal World (UK):Europe/London
+Impact TV (US):US/Eastern
+Imparja (AU):Australia/Sydney
+Information TV (UK):Europe/London
+Inmigrante TV (US):US/Eastern
+Inspiration (UK):Europe/London
+Inspiration Network International (US):US/Eastern
+Investigation Discovery (CA):Canada/Eastern
+Islam Channel (UK):Europe/London
+JLTV (US):US/Eastern
+JML Direct (UK):Europe/London
+JML Living (UK):Europe/London
+JUCE TV (US):US/Eastern
+JUS ONE (US):US/Eastern
+JUS PUNJABI (US):US/Eastern
+JUSTICE CENTRAL (US):US/Eastern
+Jak-TV (ID):Asia/Jakarta
+Jetix (NL):Europe/Amsterdam
+Jewellery Channel (UK):Europe/London
+Jewellery Maker (UK):Europe/London
+Jupiter Broadcasting :America/New_York
+KABC-TV Los Angeles (US):US/Eastern
+KARE 11 (US):US/Eastern
+KICC TV (UK):Europe/London
+KING-TV (US):US/Eastern
+KMTV (UK):Europe/London
+KNLJ (US):US/Eastern
+KNXT (US):US/Eastern
+KO-AM TV (US):US/Eastern
+KTLA 5 (US):US/Eastern
+KTV (JP):Asia/Tokyo
+KYW-TV (US):US/Eastern
+Kabel1 (DE):Europe/Berlin
+Kanal 1 (SE):Europe/Stockholm
+Kanal A (Turkey):Europe/Istanbul
+Kanal5 (SE):Europe/Stockholm
+Kenya Television Network (KE):Africa/Nairobi
+Ketnet (BE):Europe/Brussels
+Kix (UK):Europe/London
+Klear TV (UK):Europe/London
+Koldcast.tv (US):US/Eastern
+Korean Channel (US):US/Eastern
+L!VETV (UK):Europe/London
+L1 (NL):Europe/Amsterdam
+LATV (US):US/Eastern
+LFC TV (UK):Europe/London
+LFN (US):US/Eastern
+LLBN Arabic (US):US/Eastern
+LLBN Chinese (US):US/Eastern
+LLBN English (US):US/Eastern
+LLBN Latino (US):US/Eastern
+LLBN Southern Asia (US):US/Eastern
+LLink (NL):Europe/Amsterdam
+LONDON LIVE (UK):Europe/London
+LONGHORN NETWORK (US):US/Eastern
+LOOKBOOK.nu (US):US/Eastern
+LRS (AU):Australia/Sydney
+La Familia Cosmovision (US):US/Eastern
+Latest TV (UK):Europe/London
+LeSEA broadcasting network (US):US/Eastern
+Life Network (CA):Canada/Eastern
+LifeStyle You. (AU):Australia/Sydney
+LifeTalk Network (US):US/Eastern
+Lifetime (CA):Canada/Eastern
+Lifetime (US):America/New_York
+Liquidation Channel (US):US/Eastern
+Live Well NETWORK (US):US/Eastern
+Living Asia Channel (PH):Asia/Manila
+Living Faith TV (US):US/Eastern
+Local 4 (US):US/Eastern
+Loveworld TV (UK):Europe/London
+Luxury TV (UK):Europe/London
+M1 (RU):Europe/Kaliningrad
+M10 TV (AU):Australia/Sydney
+M3 (CA):Canada/Eastern
+MAD World (AU):Australia/Sydney
+MAIN EVENT (AU):Australia/Sydney
+MASTERPIECE MOVIES (AU):Australia/Sydney
+MAX (NL):Europe/Amsterdam
+MBC 2 (UAE):Asia/Dubai
+MBC 3 (UAE):Asia/Dubai
+MDV (AU):Australia/Sydney
+MGM (UK):Europe/London
+MGM HD (US):US/Eastern
+MGS (AU):Australia/Sydney
+MHz Worldview (US):US/Eastern
+MILITARY HISTORY (US):US/Eastern
+MKTV (US):US/Eastern
+MLB EXTRA INNINGS (US):US/Eastern
+MLB NETWORK (US):US/Eastern
+MLS DIRECT KICK (US):US/Eastern
+MOJO (US):US/Eastern
+MOVIE CHANNEL (US):US/Eastern
+MOVIES! (US):US/Eastern
+MSG (US):US/Eastern
+MSG+ (US):US/Eastern
+MTA Muslim TV (UK):Europe/London
+MTN (AU):Australia/Sydney
+MTV (AU):Australia/Sydney
+MTV (FI):Europe/Helsinki
+MTV CLASSIC (AU):Australia/Sydney
+MTV CLASSIC (UK):Europe/London
+MTV Central (DE):Europe/Berlin
+MTV DANCE (AU):Australia/Sydney
+MTV HITS (UK):Europe/London
+MTV Jams (US):US/Eastern
+MTV LIVE (UK):Europe/London
+MTV MUSIC (AU):Australia/Sydney
+MTV MUSIC (UK):Europe/London
+MTV Nederland:Europe/Amsterdam
+MTV Poland:Europe/Warsaw
+MTV ROCKS (UK):Europe/London
+MTV2 (CA):Canada/Eastern
+MUNDOFOX (US):US/Eastern
+MYXTV (US):US/Eastern
+Madani Channel (UK):Europe/London
+Made in Bristol (UK):Europe/London
+Made in Cardiff (UK):Europe/London
+Made in Leeds (UK):Europe/London
+Made in Teesside (UK):Europe/London
+Made in Tyne & Wear (UK):Europe/London
+Maori Television:Pacific/Auckland
+Marketplace (UK):Europe/London
+Max (AU):Australia/Sydney
+MeTV (US):US/Eastern
+Mexicanal (US):US/Eastern
+MiND: Media Independence (US):US/Eastern
+Minnesota Channel (US):US/Eastern
+Mnet AMERICA (US):US/Eastern
+More Than Movies (UK):Europe/London
+Motor Trend:US/Eastern
+Motors TV (UK):Europe/London
+Movie Extra (AU):Australia/Sydney
+Movies 24 (UK):Europe/London
+Movies4Men (UK):Europe/London
+MuchMusic (CA):Canada/Eastern
+Multimedios Television (US):US/Eastern
+Mundo Nick (MX):America/Mexico_City
+Mundo Nick (PR):America/Puerto_Rico
+MundoVision (US):US/Eastern
+Mustard TV (UK):Europe/London
+My Channel (UK):Europe/London
+My family tv (US):US/Eastern
+MyDestination.tv (US):US/Eastern
+NASA TELEVISION (US):US/Eastern
+NAT GEO PEOPLE (AU):Australia/Sydney
+NAT GEO WILD (AU):Australia/Sydney
+NAT GEO WILD (UK):Europe/London
+NATIONAL GEOGRAPHIC (AU):Australia/Sydney
+NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
+NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
+NBA League Pass (US):US/Eastern
+NBA TV (US):US/Eastern
+NBC 4 NEW YORK (US):US/Eastern
+NBC 4 Southern California (US):US/Eastern
+NBC 4 WASHINGTON D.C. (US):US/Eastern
+NBC 5 Chicago (US):US/Eastern
+NBCSN (US):US/Eastern
+NBN (AU):Australia/Sydney
+NDTV 24x7 (UK):Europe/London
+NECN (US):US/Eastern
+NEN (AU):Australia/Sydney
+NEW (AU):Australia/Sydney
+NEWS 12 BROOKLYN (US):US/Eastern
+NEWS 12 CONNECTICUT (US):US/Eastern
+NEWS 12 HUDSON VALLEY (US):US/Eastern
+NEWS 12 LONG ISLAND (US):US/Eastern
+NEWS 12 NEW JERSEY (US):US/Eastern
+NEWS 12 THE BRONX (US):US/Eastern
+NEWS 12 TRAFFIC AND WEATHER (US):US/Eastern
+NEWS 12 WESTCHESTER (US):US/Eastern
+NEWS 13 (US):US/Eastern
+NEWS CHANNEL 9 (US):US/Eastern
+NFL NETWORK (US):US/Eastern
+NFL Redzone (US):US/Eastern
+NFL Sunday Ticket (US):US/Eastern
+NFL Sunday Ticket Redzone (US):US/Eastern
+NHK TV:Asia/Tokyo
+NHK World (UK):Europe/London
+NHL Center Ice (US):US/Eastern
+NHL NETWORK (US):US/Eastern
+NITRO (DE):Europe/Berlin
+NITRO:Europe/Berlin
+NITV (AU):Australia/Sydney
+NPS (NL):Europe/Amsterdam
+NRB (US):US/Eastern
+NRN (AU):Australia/Sydney
+NTD (AU):Australia/Sydney
+NTV (UK):Europe/London
+NUVOtv (US):US/Eastern
+NVTV (UK):Europe/London
+NWCN (US):US/Eastern
+NWS (AU):Australia/Sydney
+NY1 (US):US/Eastern
+NYCTV life (US):US/Eastern
+Nagoya Broadcasting Network (JP):Asia/Tokyo
+National Geographic Nederland-België:Europe/Amsterdam
+National Jewish Television (US):US/Eastern
+Nejat TV (US):US/Eastern
+Netflix (UK):Europe/London
+New England Sports Network (US):US/Eastern
+New Greek TV (US):US/Eastern
+News9NOW (US):US/Eastern
+NewsChannel 8 (US):US/Eastern
+NewsOn6NOW (US):US/Eastern
+NewsWatch 15 (US):US/Eastern
+Nick (DE):Europe/Berlin
+NickToons Network:US/Eastern
+Nickelodeon (DE):Europe/Berlin
+Nickelodeon (NL):Europe/Amsterdam
+Nollywood Movies (UK):Europe/London
+Noor TV (UK):Europe/London
+Northern Television (CA):Canada/Eastern
+Notts TV (UK):Europe/London
+Nova TV (HR):Europe/Zagreb
+OMNI TELEVISION (CA):Canada/Eastern
+ONE (NZ):Pacific/Auckland
+ORF eins:Europe/Vienna
+ORF1 (DE):Europe/Berlin
+OUTtv (CA):Canada/Eastern
+OWN (CA):Canada/Eastern
+Oireachtas TV (IE):Europe/Dublin
+Olive TV (UK):Europe/London
+Omrop Fryslân (NL):Europe/Amsterdam
+One America NEWS NETWORK (US):US/Eastern
+One World Sport (US):US/Eastern
+Open Heaven TV (UK):Europe/London
+Orbit Network (PK):Asia/Karachi
+Outside TELEVISION (US):US/Eastern
+Overcomer Ministries (US):US/Eastern
+P5tv (IE):Europe/Dublin
+PBJ (US):US/Eastern
+PBS AMERICA (UK):Europe/London
+PCNC (US):US/Eastern
+PIX 11 (US):US/Eastern
+POP (UK):Europe/London
+PREMIERE MOVIES (AU):Australia/Sydney
+PRiME7 (AU):Australia/Sydney
+PTC Global (UK):Europe/London
+PTC Prime (UK):Europe/London
+PTC Punjabi (UK):Europe/London
+PTV (AU):Australia/Sydney
+PUNCH TV NETWORK (US):US/Eastern
+Pac-12 Arizona (US):US/Eastern
+Pac-12 Bay Area (US):US/Eastern
+Pac-12 Los Angeles (US):US/Eastern
+Pac-12 Mountain (US):US/Eastern
+Pac-12 Network (US):US/Eastern
+Pac-12 Oregon (US):US/Eastern
+Pac-12 Washington (US):US/Eastern
+Pakistan Television Corporation (PK):Asia/Karachi
+Paris Première (FR):Europe/Paris
+Pastor Scott (US):US/Eastern
+PaverShoes.tv (UK):Europe/London
+Pay-Per-View (US):US/Eastern
+Peace TV (UK):Europe/London
+Peace TV Urdu (UK):Europe/London
+Peace tv (US):US/Eastern
+Peachtree TV (US):US/Eastern
+Pets.tv (US):US/Eastern
+Phoenix XNE (UK):Europe/London
+Pitch TV (UK):Europe/London
+Pitch World (UK):Europe/London
+Planet POP (UK):Europe/London
+Pop Girl (UK):Europe/London
+Praise TV (UK):Europe/London
+Premier Sports (UK):Europe/London
+Premiere (DE):Europe/Berlin
+Price Drop (UK):Europe/London
+Prima Family (CZ):Europe/Prague
+Primetime (UK):Europe/London
+ProSieben Fun:Europe/Berlin
+ProSieben MAXX:Europe/Berlin
+Psychic Today (UK):Europe/London
+Q (PH):Asia/Manila
+Q Television Network (US):US/Eastern
+QQQ (AU):Australia/Sydney
+QTQ (AU):Australia/Sydney
+QTV:Asia/Karachi
+QUEST (UK):Europe/London
+QVC (UK):Europe/London
+QVC Beauty (UK):Europe/London
+QVC Extra (UK):Europe/London
+QVC Style (UK):Europe/London
+REALLY (UK):Europe/London
+RECIPE.TV (US):US/Eastern
+REVOLT (US):US/Eastern
+RFD-TV (US):US/Eastern
+RHC (AU):Australia/Sydney
+RIPE TV (US):US/Eastern
+RKK (NL):Europe/Amsterdam
+ROCKS TV (US):US/Eastern
+ROGERS TV (CA):Canada/Eastern
+ROOT SPORTS NORTHWEST (US):US/Eastern
+ROOT SPORTS PITTSBURGH (US):US/Eastern
+ROOT SPORTS ROCKY MOUNTAIN (US):US/Eastern
+ROOT SPORTS UTAH (US):US/Eastern
+RPC Canal 4 (PA):America/Panama
+RPN (PH):Asia/Manila
+RSC (US):US/Eastern
+RT (UK):Europe/London
+RT America (US):US/Eastern
+RTE:Europe/Dublin
+RTL 2 (DE):Europe/Berlin
+RTL Crime:Europe/Berlin
+RTL Nitro (DE):Europe/Berlin
+RTL Nitro:Europe/Berlin
+RTL Passion (DE):Europe/Berlin
+RTL Passion:Europe/Berlin
+RTM2 (MY):Asia/Kuala_Lumpur
+RTP Internacional:Europe/Lisbon
+RTP N:Europe/Lisbon
+RTP África:Europe/Lisbon
+RTP2 (PT):Europe/Lisbon
+RTQ (AU):Australia/Sydney
+RTS (AU):Australia/Sydney
+RTV Noord (NL):Europe/Amsterdam
+RTV Noord-Holland (NL):Europe/Amsterdam
+RTV Oost (NL):Europe/Amsterdam
+RTV Rijnmond (NL):Europe/Amsterdam
+RTV Utrecht (NL):Europe/Amsterdam
+RTV West (NL):Europe/Amsterdam
+RTÉ NEWS NOW (IE):Europe/Dublin
+RURAL TV (US):US/Eastern
+Racing UK:Europe/London
+Real Hip-Hop Network (US):US/Eastern
+Record TV (UK):Europe/London
+RedeTV! (BR):America/Sao_Paulo
+Reformation Channel (US):US/Eastern
+Renault TV (UK):Europe/London
+Retail TV (UK):Europe/London
+Ricavision channel 7 (ES):Europe/Madrid
+Rishtey (UK):Europe/London
+Rocks & Co. (UK):Europe/London
+Romance MOVIES (AU):Australia/Sydney
+Ríkisútvarpið (IS):Atlantic/Reykjavik
+SAB tv (UK):Europe/London
+SABC 1 (ZA):Africa/Johannesburg
+SAMAA TV (UK):Europe/London
+SAS (AU):Australia/Sydney
+SBS2 (AU):Australia/Sydney
+SBTN (US):US/Eastern
+SEC ESPN NETWORK (US):US/Eastern
+SES (AU):Australia/Sydney
+SET Max (UK):Europe/London
+SETANTA SPORTS (AU):Australia/Sydney
+SETANTA SPORTS 1 (IE):Europe/Dublin
+SHAW TV (CA):Canada/Eastern
+SHO NEXT (US):US/Eastern
+SHOWCASE (US):US/Eastern
+SHOWTIME BEYOND (US):US/Eastern
+SHOWTIME eXtreme (US):US/Eastern
+SHOWTIME2 (US):US/Eastern
+SHQP (US):US/Eastern
+SIC Sempre Gold:Europe/Lisbon
+SKY 1:Europe/Berlin
+SKY Business TV (AU):Australia/Sydney
+SKY International (AU):Australia/Sydney
+SKY Racing (AU):Australia/Sydney
+SKY Ringside (AU):Australia/Sydney
+SNN LOCAL NEWS (US):US/Eastern
+SONY ENTERTAINMENT TELEVISION (UK):Europe/London
+SONY MOVIE CHANNEL (US):US/Eastern
+SONY Movie Channel (UK):Europe/London
+SPACE:Canada/Eastern
+SPEED (AU):Australia/Sydney
+SPIKE (UK):Europe/London
+SPORTS TIME OHIO (US):US/Eastern
+SPORTSNET WORLD (CA):Canada/Eastern
+SRF zwei:Europe/Berlin
+STQ (AU):Australia/Sydney
+STUDIO (AU):Australia/Sydney
+STV (AU):Australia/Sydney
+STV Edinburgh (UK):Europe/London
+STV Glasgow (UK):Europe/London
+STW (AU):Australia/Sydney
+SUN NEWS NETWORK (CA):Canada/Eastern
+SUN-TV (JP):Asia/Tokyo
+SUPER ÉCRAN (CA):Canada/Eastern
+Sabres Hockey Network (US):US/Eastern
+SafeTV (US):US/Eastern
+Sahara One (UK):Europe/London
+Sangat TV (UK):Europe/London
+Sat. 1 Comedy (DE):Europe/Berlin
+Sat.1 Emotions:Europe/Berlin
+Sci-Fi (NL):Europe/Amsterdam
+Shalom TV (US):US/Eastern
+Sheffield Live! (UK):Europe/London
+Shepherd's Chapel Network (US):US/Eastern
+Shopping Channel (CA):Canada/Eastern
+Showcase (UK):Europe/London
+Showcase 2 (UK):Europe/London
+Showcase:Canada/Eastern
+Sikh Channel (UK):Europe/London
+Sino TV (US):US/Eastern
+Sjónvarpið (IS):Atlantic/Reykjavik
+Skjár einn (IS):Atlantic/Reykjavik
+Skuff TV (AU):Australia/Sydney
+Sky Atlantic HD (DE):Europe/Berlin
+Sky Atlantic:Europe/London
+Sky Link TV (US):US/Eastern
+SkyPerfecTV (JP):Asia/Tokyo
+Sleuth (TV):US/Eastern
+Smart Live Casino (UK):Europe/London
+Smile of a Child TV (US):US/Eastern
+Smooth (AU):Australia/Sydney
+SonBeam Channel (US):US/Eastern
+SonLife Broadcasting Channel (UK):Europe/London
+SonLife Broadcasting Network (US):US/Eastern
+Sony Entertainment Television (BR):America/Sao_Paulo
+Sony Entertainment Television (CL):America/Santiago
+Sony Entertainment Television (IN):Asia/Kolkata
+Sony Entertainment Television (PE):America/Lima
+Sony Entertainment Television Asia (UK):Europe/London
+Soul of the South Television Network (US):US/Eastern
+Soundtrack Channel (US):US/Eastern
+Southern Cross TELEVISION (AU):Australia/Sydney
+Southern Cross Ten (AU):Australia/Sydney
+Spectrum (US):US/Eastern
+Spiegel Geschichte (DE):Europe/Berlin
+Spirit (US):US/Eastern
+Spirit Word (US):US/Eastern
+Sports Network (CA):Canada/Eastern
+Sports Network 2 (CA):Canada/Eastern
+Sports Tonight Live (UK):Europe/London
+SportsNet New York (US):US/Eastern
+Sportsnet 360 (CA):Canada/Eastern
+Sportsnet Ontario (CA):Canada/Eastern
+Sprout (US):US/Eastern
+Star Channel (GR):Europe/Athens
+Star Gold (UK):Europe/London
+Star Life Ok (UK):Europe/London
+Star Plus (UK):Europe/London
+Star World (IN):Asia/Kolkata
+Star World (MV):Indian/Maldives
+Star World (SG):Asia/Singapore
+Starz TV (UK):Europe/London
+Store (UK):Europe/London
+Style (AU):Australia/Sydney
+Stöð 2 (IS):Atlantic/Reykjavik
+Sunrise TV (UK):Europe/London
+Super Casino (UK):Europe/London
+Super Channel 2 (CA):Canada/Eastern
+Super Channel 3 (CA):Canada/Eastern
+Super Channel 4 (CA):Canada/Eastern
+Super RTL (DE):Europe/Berlin
+Super RTL:Europe/Berlin
+SyFy Universal (DE):Europe/Berlin
+SyFy.com (US):US/Eastern
+SyFy:US/Eastern
+Syfy (AU):Australia/Sydney
+Syfy (UK):Europe/London
+Syndicated (AU):Australia/Sydney
+Syndicated (JP):Asia/Tokyo
+Syndicated (UK):Europe/London
+Syndication (CA):Canada/Eastern
+TBN Enlace (US):US/Eastern
+TBN Europe (UK):Europe/London
+TBN Russia (US):US/Eastern
+TBS (DE):Europe/Berlin
+TBS (JP):Asia/Tokyo
+TBS (US of A):US/Eastern
+TBS (US of fucking A):US/Eastern
+TCN (AU):Australia/Sydney
+TCT (US):US/Eastern
+TCT Family (US):US/Eastern
+TDT (AU):Australia/Sydney
+TELECARE (US):US/Eastern
+TELEMUNDO PUERTO RICO (US):US/Eastern
+TENNIS CHANNEL (US):US/Eastern
+TF6 (FR):Europe/Paris
+THRILLER MOVIES (AU):Australia/Sydney
+TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
+TLC (AU):Australia/Sydney
+TLC (UK):Europe/London
+TND (AU):Australia/Sydney
+TNQ (AU):Australia/Sydney
+TNT Glitz:Europe/Berlin
+TPC (US):US/Eastern
+TPS Star (FR):Europe/Paris
+TRWAM (US):US/Eastern
+TSI1 (CH):Europe/Zurich
+TSR2 (CH):Europe/Zurich
+TUFF TV (US):US/Eastern
+TURNER CLASSIC MOVIES (AU):Australia/Sydney
+TURNER CLASSIC MOVIES (US):US/Eastern
+TV 2 Filmkanalen:Europe/Oslo
+TV 2 Nyhetskanalen:Europe/Oslo
+TV 2 Science Fiction:Europe/Oslo
+TV Asia (US):US/Eastern
+TV Cabo:Europe/Lisbon
+TV HiTS (AU):Australia/Sydney
+TV Hokkaido (JP):Asia/Tokyo
+TV JAPAN (US):US/Eastern
+TV Kanagawa (JP):Asia/Tokyo
+TV Markíza (SK):Europe/Bratislava
+TV ONE:Pacific/Auckland
+TV Saitama (JP):Asia/Tokyo
+TV Setouchi (JP):Asia/Tokyo
+TV Shop (UK):Europe/London
+TV Tokjo (DE):Europe/Berlin
+TV Venezuela (US):US/Eastern
+TV2 (NO):Europe/Oslo
+TV4ME (AU):Australia/Sydney
+TV5MONDE Europe (UK):Europe/London
+TVB Jade (HK):Asia/Hong_Kong
+TVB Pearl (HK):Asia/Hong_Kong
+TVB Xing He (HK):Asia/Hong_Kong
+TVB1 (US):US/Eastern
+TVB2 (US):US/Eastern
+TVBS (US):US/Eastern
+TVBV (US):US/Eastern
+TVBe (US):US/Eastern
+TVE2 (ES):Europe/Madrid
+TVN (AU):Australia/Sydney
+TVNOW (Germany):Europe/Berlin
+TVQ (AU):Australia/Sydney
+TVS:Australia/Sydney
+TVSN (AU):Australia/Sydney
+TVT (AU):Australia/Sydney
+TVU music television (US):US/Eastern
+TVW (AU):Australia/Sydney
+TWC Deportes (US):US/Eastern
+TWC SportsNet (US):US/Eastern
+TXCN (US):US/Eastern
+Tai Seng Sat TV (US):US/Eastern
+Takbeer TV (UK):Europe/London
+Tapesh TV (US):US/Eastern
+TeLe-Romántica (US):US/Eastern
+TeLeHiTs (US):US/Eastern
+Tele Curacao (AN):America/Lower_Princes
+Teleac (NL):Europe/Amsterdam
+Telecinco 5 (ES):Europe/Madrid
+Telemundo (MX):America/Mexico_City
+Televisió de Catalunya (ES):Europe/Madrid
+Tempo Network (US):US/Eastern
+Thane Direct (UK):Europe/London
+That's Hampshire (UK):Europe/London
+That's Oxford (UK):Europe/London
+That's Reading (UK):Europe/London
+That's Salisbury (UK):Europe/London
+That's Solent (UK):Europe/London
+That's Surrey (UK):Europe/London
+Tien (NL):Europe/Amsterdam
+Time Warner Cable News Austin (US):US/Eastern
+Time Warner Cable News Buffalo (US):US/Eastern
+Time Warner Cable News Capital Region (US):US/Eastern
+Time Warner Cable News Central New York (US):US/Eastern
+Time Warner Cable News North Carolina (US):US/Eastern
+Time Warner Cable News Rochester (US):US/Eastern
+Tiny Pop (UK):Europe/London
+Tokai TV (JP):Asia/Tokyo
+Total Living Network (US):US/Eastern
+Total Variety Network (tvN):Asia/Seoul
+Total Variety Network:Asia/Seoul
+Trace Sports (UK):Europe/London
+Travel + Escape (CA):Canada/Eastern
+Trinity Broadcasting Network (US):US/Eastern
+True Drama (UK):Europe/London
+True Entertainment (UK):Europe/London
+True Movies 1 (UK):Europe/London
+True Movies 2 (UK):Europe/London
+Télé (CA):Canada/Eastern
+Télé Monte Carlo (FR):Europe/Paris
+UBC Channel 10 (TH):Asia/Bangkok
+UBC TV NETWORK (US):US/Eastern
+UCB TV (UK):Europe/London
+UFC FIGHT PASS (US):US/Eastern
+UMP Movies (UK):Europe/London
+UMP Stars (UK):Europe/London
+UND SPORTS NETWORK (US):US/Eastern
+UNIVERSAL CHANNEL (AU):Australia/Sydney
+UNIVERSAL CHANNEL (UK):Europe/London
+UNIVERSAL HD (US):US/Eastern
+UNIVERSAL SPORTS NETWORK (US):US/Eastern
+UNTAMED SPORTS tv (US):US/Eastern
+UNTV (US):US/Eastern
+UP (US):US/Eastern
+UTV (UK):Europe/London
+Ummah Channel (UK):Europe/London
+Universal Christian (US):US/Eastern
+University of California Television (US):US/Eastern
+University of Washington Television (US):US/Eastern
+Unknown (AU):Australia/Sydney
+Unknown (CA):Canada/Eastern
+Unknown (DE):Europe/Berlin
+Unknown (FR):Europe/Paris
+Unknown (IE):Europe/Dublin
+Unknown (IS):Atlantic/Reykjavik
+Unknown (IT):Europe/Rome
+Unknown (JP):Asia/Tokyo
+Unknown (MK):Europe/Skopje
+Unknown (MX):America/Mexico_City
+Unknown (NL):Europe/Amsterdam
+Unknown (NZ):Pacific/Auckland
+Unknown (PT):Europe/Lisbon
+Unknown (RU):Europe/Kaliningrad
+Unknown (SE):Europe/Stockholm
+Unknown (UK):Europe/London
+Unknown (US):US/Eastern
+V Channel (UK):Europe/London
+V LIVE:Asia/Seoul
+VENEVISION INTERNATIONAL (US):US/Eastern
+VH1 (UK):Europe/London
+VH1 Soul (US):US/Eastern
+VISION ZOOMER TELEVISION (CA):Canada/Eastern
+VIVA (DE):Europe/Berlin
+VIVA (PL):Europe/Warsaw
+VIVA (UK):Europe/London
+VK3RTV (AU):Australia/Sydney
+VODO (US):US/Eastern
+VTV (AU):Australia/Sydney
+Vault (UK):Europe/London
+Venus TV (UK):Europe/London
+Victory Television Network (US):US/Eastern
+Vintage TV (UK):Europe/London
+Vision (UK):Europe/London
+Vision 2 (UK):Europe/London
+Vision Heaven (US):US/Eastern
+Viên Thao TV (US):US/Eastern
+Vme (US):US/Eastern
+VoxAfrica (UK):Europe/London
+W Movies (CA):Canada/Eastern
+WAPA-TV (US):US/Eastern
+WB (CA):Canada/Eastern
+WBZ-TV (US):US/Eastern
+WCCO Channel 4 (US):US/Eastern
+WCVB Channel 5 (US):US/Eastern
+WFRZ-LD (US):US/Eastern
+WGN (US):US/Eastern
+WIN (AU):Australia/Sydney
+WIN Television (AU):Australia/Sydney
+WORD Network (US):US/Eastern
+WORLD (US):US/Eastern
+WORLD MOVIES (AU):Australia/Sydney
+WOW (AU):Australia/Sydney
+WTV (AU):Australia/Sydney
+WWE Network (US):US/Eastern
+WWJ-TV Detroit (US):US/Eastern
+Wah Lai Toi (MY):Asia/Kuala_Lumpur
+Wakker Nederland (NL):Europe/Amsterdam
+Warner Channel (AR):America/Buenos_Aires
+Weather Network (CA):Canada/Eastern
+WeatherNation (US):US/Eastern
+West Digital Television (AU):Australia/Sydney
+Word Network (UK):Europe/London
+Worship (US):US/Eastern
+YES (US):US/Eastern
+YESTERDAY (UK):Europe/London
+YLE Fem (FI):Europe/Helsinki
+Yomiuri TV (JP):Asia/Tokyo
+Yorin (NL):Europe/Amsterdam
+York Channel (UK):Europe/London
+Yorkshire Coast TV (UK):Europe/London
+YouTube (UK):Europe/London
+YouTube Red:US/Eastern
+YourTV Blackpool & Preston (UK):Europe/London
+YourTV Manchester (UK):Europe/London
+Youtube Premium (US):US/Eastern
+Youtube Premium:US/Eastern
+Z LIVING (US):US/Eastern
+ZDTV (CA):Canada/Eastern
+ZEE TV (UK):Europe/London
+ZTV (SE):Europe/Stockholm
+ZUUS Country (US):US/Eastern
+ZUUS Latino (US):US/Eastern
+Zee Café (UK):Europe/London
+Zee Cinema (UK):Europe/London
+Zee Punjabi (UK):Europe/London
+Zing (UK):Europe/London
+[v] (AU):Australia/Sydney
+[v] HITS (AU):Australia/Sydney
+a-pac (AU):Australia/Sydney
+abc spark (CA):Canada/Eastern
+abc7 (US):US/Eastern
+abo (US):US/Eastern
+alibi (UK):Europe/London
+amc (CA):Canada/Eastern
+aptn (CA):Canada/Eastern
+arte (DE):Europe/Berlin
+aspire TV (AU):Australia/Sydney
+aurora (AU):Australia/Sydney
+aux (CA):Canada/Eastern
+azteca america (US):US/Eastern
+bafta.org (UK):Europe/London
+beIN SPORT (US):US/Eastern
+beats per minute television (CA):Canada/Eastern
+biTe (CA):Canada/Eastern
+bio. (AU):Australia/Sydney
+blip (US):US/Eastern
+bravotv.com (US):US/Eastern
+cartoonito (UK):Europe/London
+casa club tv (US):US/Eastern
+channel one (UK):Europe/London
+cloo (US):US/Eastern
+clásico TV (US):US/Eastern
+comcast NETWORK Philadelphia (US):US/Eastern
+comcast NETWORK Washington (US):US/Eastern
+comcast SPORTSNET BAY AREA (US):US/Eastern
+comcast SPORTSNET CALIFORNIA (US):US/Eastern
+comcast SPORTSNET HOUSTON (US):US/Eastern
+comcast SPORTSNET MID ATLANTIC (US):US/Eastern
+comcast SPORTSNET NORTHWEST (US):US/Eastern
+comcast SPORTSNET PHILADELPHIA (US):US/Eastern
+comedy channel (AU):Australia/Sydney
+create (US):US/Eastern
+crime & investigation network (UK):Europe/London
+daybreak2012.com (US):US/Eastern
+de película (US):US/Eastern
+de película clásico (US):US/Eastern
+diva tv (UK):Europe/London
+diy network (CA):Canada/Eastern
+documentary (CA):Canada/Eastern
+eNCA Africa (UK):Europe/London
+eXPO CHANNEL (AU):Australia/Sydney
+encore. action (US):US/Eastern
+encore. family (US):US/Eastern
+epix (US):US/Eastern
+estrellaTV (US):US/Eastern
+euronews (UK):Europe/London
+extra (AU):Australia/Sydney
+family MOVIES (AU):Australia/Sydney
+france.2:Europe/Paris
+france.3:Europe/Paris
+france.4:Europe/Paris
+france.5:Europe/Paris
+france.Ô:Europe/Paris
+funnyordie.com (US):US/Eastern
+fuse:America/New_York
+fyi (CA):Canada/Eastern
+game tv (CA):Canada/Eastern
+get TV (US):US/Eastern
+go90:America/New_York
+gothamgirls.com (US):US/Eastern
+gusto tv (CA):Canada/Eastern
+hTV (US):US/Eastern
+halowaypoint.com (US):US/Eastern
+heartland (US):US/Eastern
+heat (UK):Europe/London
+home (UK):Europe/London
+iCHANNEL (CA):Canada/Eastern
+iTunes (US):US/Eastern
+ingaylewetrust.com (US):US/Eastern
+insp (US):US/Eastern
+ion LIFE (US):US/Eastern
+ishop tv (AU):Australia/Sydney
+itv ANGLIA (UK):Europe/London
+itv BORDER (UK):Europe/London
+itv CENTRAL (UK):Europe/London
+itv CHANNEL TV (UK):Europe/London
+itv ENCORE (UK):Europe/London
+itv LONDON (UK):Europe/London
+itv MERIDIAN (UK):Europe/London
+itv TYNE TEES (UK):Europe/London
+itv WEST COUNTRY (UK):Europe/London
+itv YORKSHIRE (UK):Europe/London
+itv play (UK):Europe/London
+itvBe (UK):Europe/London
+ivfilms.net (US):US/Eastern
+jewelrytelevision (US):US/Eastern
+jts.tv (US):US/Eastern
+lifetime real women (US):US/Eastern
+link TV (US):US/Eastern
+machinima.com (US):US/Eastern
+maniaTV.com (US):US/Eastern
+meGa tv (US):US/Eastern
+mid-atlantic sports network (US):US/Eastern
+movieplex (US):US/Eastern
+mp (CA):Canada/Eastern
+mstv entertainment (UK):Europe/London
+mtvU (US):US/Eastern
+mun2 (US):US/Eastern
+my38 (US):US/Eastern
+my9 (US):US/Eastern
+mynetworkTV (US):US/Eastern
+myspace.com (US):US/Eastern
+mystery TV (CA):Canada/Eastern
+neonalley.com (US):US/Eastern
+nick jr. (AU):Australia/Sydney
+nick jr. (UK):Europe/London
+nick jr. 2. (UK):Europe/London
+nick@nite (US):US/Eastern
+nickToons (UK):Europe/London
+nickelodeon (AU):Australia/Sydney
+nickelodeon (CA):Canada/Eastern
+nickelodeon (UK):Europe/London
+nova (CZ):Europe/Prague
+one (AU):Australia/Sydney
+ovationchannel.com.au:Australia/Sydney
+palladia (US):US/Eastern
+propellor (UK):Europe/London
+pursuit CHANNEL (US):US/Eastern
+qubo (US):US/Eastern
+retro tv (US):US/Eastern
+rocketjump.com (US):US/Eastern
+roosterteeth.com (US):US/Eastern
+rox.com (US):US/Eastern
+rté jr (IE):Europe/Dublin
+sho.com (US):US/Eastern
+sky 3D (UK):Europe/London
+sky ARTS 2 (UK):Europe/London
+sky LIVING LOVES (UK):Europe/London
+sky LIVINGit (UK):Europe/London
+sky MOVIES ACTION & ADVENTURE (UK):Europe/London
+sky MOVIES COMEDY (UK):Europe/London
+sky MOVIES CRIME & THRILLER (UK):Europe/London
+sky MOVIES DRAMA & ROMANCE (UK):Europe/London
+sky MOVIES DiSNEY (UK):Europe/London
+sky MOVIES FAMILY (UK):Europe/London
+sky MOVIES PREMIERE (UK):Europe/London
+sky MOVIES SCI FI & HORROR (UK):Europe/London
+sky MOVIES SELECT (UK):Europe/London
+sky MOVIES SHOWCASE (UK):Europe/London
+sky MOVIES SUPERHEROES (UK):Europe/London
+sky NEWS (AU):Australia/Sydney
+sky NEWS ARABIA (UK):Europe/London
+sky NEWS BUSINESS (AU):Australia/Sydney
+sky NEWS WEATHER (AU):Australia/Sydney
+sky Real Lives (UK):Europe/London
+sky SPORTS 2 (UK):Europe/London
+sky SPORTS 3 (UK):Europe/London
+sky SPORTS 4 (UK):Europe/London
+sky SPORTS 5 (UK):Europe/London
+sky SPORTS F1 (UK):Europe/London
+sky SPORTS NEWS HQ (UK):Europe/London
+spookyland.com (US):US/Eastern
+spt tv (US):US/Eastern
+startreknewvoyages.com (US):US/Eastern
+starz INBLACK (US):US/Eastern
+starz KIDS & FAMILY (US):US/Eastern
+style. NETWORK (UK):Europe/London
+tagesschau24 (DE):Europe/Berlin
+thebaytheseries.com (US):US/Eastern
+this TV network (US):US/Eastern
+tr3s (US):US/Eastern
+travel CHANNEL (UK):Europe/London
+truTV (UK):Europe/London
+tvK (US):US/Eastern
+tvb8 (US):US/Eastern
+unIMÁS East (US):US/Eastern
+univision DEPORTES NETWORK (US):US/Eastern
+watchmenmotioncomic.com (US):US/Eastern
+weatherscan (US):US/Eastern
+wedding tv (UK):Europe/London
+westlink (AU):Australia/Sydney
+yesSTARS (IL):Asia/Jerusalem
+youtoo SOCIAL TV (US):US/Eastern
+¡Sorpresa! (US):US/Eastern
+ČST (CZ):Europe/Prague
+ČT1 (CZ):Europe/Prague
+ČT2 (CZ):Europe/Prague
+ТВ6 (RU):Europe/Kaliningrad
+כאן (Kan):Asia/Jerusalem
