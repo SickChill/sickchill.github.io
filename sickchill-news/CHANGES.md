@@ -1,3 +1,9 @@
+### v2020.09.19-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-6...v2020.09.19-1)
+
+* Fix naming anime pattern.  ([#6774](https://github.com/SickChill/SickChill/issues/6774))
+
 ### v2020.09.17-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-5...v2020.09.17-6)
