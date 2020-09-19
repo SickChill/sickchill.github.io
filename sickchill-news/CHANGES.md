@@ -1,3 +1,9 @@
+### v2020.09.19-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.19-1...v2020.09.19-2)
+
+* Yarn upgrade
+
 ### v2020.09.19-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.17-6...v2020.09.19-1)
