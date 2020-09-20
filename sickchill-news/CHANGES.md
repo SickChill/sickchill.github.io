@@ -1,3 +1,9 @@
+### v2020.09.20-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.19-2...v2020.09.20-1)
+
+* Set ssl_verify properly on the default urllib.reuest opener and respect sickchill settings
+
 ### v2020.09.19-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.19-1...v2020.09.19-2)
