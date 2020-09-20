@@ -1,3 +1,9 @@
+### v2020.09.20-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-2...v2020.09.20-3)
+
+* Add hbo max image Attempt to fix [#6773](https://github.com/SickChill/SickChill/issues/6773)
+
 ### v2020.09.20-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-1...v2020.09.20-2)
