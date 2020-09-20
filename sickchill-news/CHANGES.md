@@ -1,3 +1,10 @@
+### v2020.09.20-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-1...v2020.09.20-2)
+
+* Fix requirement version for imdbpy
+* Fix dependency link for imdbpy
+
 ### v2020.09.20-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.19-2...v2020.09.20-1)
