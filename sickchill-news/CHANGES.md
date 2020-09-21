@@ -1,3 +1,9 @@
+### v2020.09.20-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-5...v2020.09.20-6)
+
+* Disable check_hostname in urllib.request if not verifying certs
+
 ### v2020.09.20-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-4...v2020.09.20-5)
