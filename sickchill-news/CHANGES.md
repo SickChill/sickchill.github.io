@@ -1,3 +1,10 @@
+### v2020.09.20-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-3...v2020.09.20-4)
+
+* Fix checking remote db version for pip installs in the updater
+* Fix imdbpy requirement. Replaces [#6782](https://github.com/SickChill/SickChill/issues/6782) Fixes [#6781](https://github.com/SickChill/SickChill/issues/6781)
+
 ### v2020.09.20-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-2...v2020.09.20-3)
