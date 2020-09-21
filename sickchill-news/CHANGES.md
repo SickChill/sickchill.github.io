@@ -1,3 +1,10 @@
+### v2020.09.21-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-7...v2020.09.21-1)
+
+* Remove backports_abc, use tarball for imdbpy for users who do not have git (maybe it fixes the issue?)
+* Release 2020.9.20.post7
+
 ### v2020.09.20-7
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-6...v2020.09.20-7)
