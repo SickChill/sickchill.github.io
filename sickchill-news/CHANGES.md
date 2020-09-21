@@ -1,3 +1,10 @@
+### v2020.09.20-7
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-6...v2020.09.20-7)
+
+* Set context for nzbget and bsplayer for ssl_verify
+* Release 2020.9.20.post6
+
 ### v2020.09.20-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-5...v2020.09.20-6)
