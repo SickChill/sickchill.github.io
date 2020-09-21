@@ -1,3 +1,9 @@
+### v2020.09.20-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-4...v2020.09.20-5)
+
+* Remove -rrequirements.txt from tox so that it wirks with dependency_links
+
 ### v2020.09.20-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-3...v2020.09.20-4)
