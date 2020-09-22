@@ -1,3 +1,10 @@
+### v2020.09.22-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-3...v2020.09.22-4)
+
+* Better mako error handling, still show a pretty page when we run out of disk space
+* Release 2020.9.22.post3
+
 ### v2020.09.22-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-2...v2020.09.22-3)
