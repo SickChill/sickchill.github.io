@@ -1,3 +1,11 @@
+### v2020.09.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.21-2...v2020.09.22-1)
+
+* Fix help&info for pip installs Fixes [#6788](https://github.com/SickChill/SickChill/issues/6788)
+* Fix restarting when using a pip install Fix cache dir permissions issues (symlink no longer needed)
+* Release 2020.9.21.post2
+
 ### v2020.09.21-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.21-1...v2020.09.21-2)
