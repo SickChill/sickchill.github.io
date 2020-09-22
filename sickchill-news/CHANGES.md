@@ -1,3 +1,10 @@
+### v2020.09.21-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.21-1...v2020.09.21-2)
+
+* Fix version numbers for pip installs for checking changes when an update is available Fixes [#6787](https://github.com/SickChill/SickChill/issues/6787) Signed-off-by: miigotu <miigotu@gmail.com>
+* Release 2020.9.21.post1
+
 ### v2020.09.21-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.20-7...v2020.09.21-1)
