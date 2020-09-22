@@ -1,3 +1,10 @@
+### v2020.09.22-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-2...v2020.09.22-3)
+
+* Fix problem with imdbpy when version > 2020.09.20
+* Release 2020.9.22.post2
+
 ### v2020.09.22-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-1...v2020.09.22-2)
