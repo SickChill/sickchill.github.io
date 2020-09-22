@@ -1,3 +1,11 @@
+### v2020.09.22-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-1...v2020.09.22-2)
+
+* Fix pip version strings for updater again
+* isort
+* Release 2020.9.22.post1
+
 ### v2020.09.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.21-2...v2020.09.22-1)
