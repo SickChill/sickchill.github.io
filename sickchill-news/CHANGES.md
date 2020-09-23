@@ -1,3 +1,10 @@
+### v2020.09.23-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.23-1...v2020.09.23-2)
+
+* Rework pushover notifier to use requests, and be able to verify the server https certificate
+* Release 2020.9.23.post1
+
 ### v2020.09.23-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-5...v2020.09.23-1)
