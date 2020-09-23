@@ -1,3 +1,12 @@
+### v2020.09.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-5...v2020.09.23-1)
+
+* Fix mistake when searching tvdb over api Fixes [#6791](https://github.com/SickChill/SickChill/issues/6791)
+* Make sure to catch all requests exceptions. Fixes [#6786](https://github.com/SickChill/SickChill/issues/6786)
+* Fix build
+* Release 2020.9.22.post5
+
 ### v2020.09.22-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-4...v2020.09.22-5)
