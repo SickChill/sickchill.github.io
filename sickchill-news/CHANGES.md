@@ -1,3 +1,12 @@
+### v2020.09.22-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-4...v2020.09.22-5)
+
+* Make sure good search results are also added to the cache to use for manual search
+* Fix domain for torrentz
+* Add ability to snatch season packs manually. Fixes [#6790](https://github.com/SickChill/SickChill/issues/6790)
+* Release 2020.9.22.post4
+
 ### v2020.09.22-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.22-3...v2020.09.22-4)
