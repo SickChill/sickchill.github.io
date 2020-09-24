@@ -1,3 +1,10 @@
+### v2020.09.24-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-2...v2020.09.24-3)
+
+* Update webapi.py
+* Fix mako error on add-movies page
+
 ### v2020.09.24-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-1...v2020.09.24-2)
