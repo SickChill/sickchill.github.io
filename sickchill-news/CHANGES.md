@@ -1,3 +1,10 @@
+### v2020.09.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.23-2...v2020.09.24-1)
+
+* Make the restart page wait longer to check for SC to restart Fixes [#6798](https://github.com/SickChill/SickChill/issues/6798)
+* Release 2020.9.23.post2
+
 ### v2020.09.23-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.23-1...v2020.09.23-2)
