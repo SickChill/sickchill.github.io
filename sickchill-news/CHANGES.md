@@ -1,3 +1,9 @@
+### v2020.09.24-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-1...v2020.09.24-2)
+
+* Set the host/username/password labels when selecting synology on nzb client page.
+
 ### v2020.09.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.23-2...v2020.09.24-1)
