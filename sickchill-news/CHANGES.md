@@ -1,3 +1,11 @@
+### v2020.09.26-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-3...v2020.09.26-1)
+
+* Sanitize names when doing a get_show to better match existing shows
+* Fixes [SickChill/SickChill#6803](https://github.com/SickChill/SickChill/issues/6803)
+* Release 2020.9.24.post3
+
 ### v2020.09.24-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-2...v2020.09.24-3)
