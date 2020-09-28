@@ -1,3 +1,10 @@
+### v2020.09.28-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.28-1...v2020.09.28-2)
+
+* Allow selection of whether to verify cert for qbittorrent Do not force port to 8080 if user did not supply a port for qbittorrent (breaks running with privileged ports) Fixes [#6808](https://github.com/SickChill/SickChill/issues/6808)
+* Release 2020.9.28.post1
+
 ### v2020.09.28-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.26-1...v2020.09.28-1)
