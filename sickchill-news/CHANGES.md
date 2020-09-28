@@ -1,3 +1,15 @@
+### v2020.09.28-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.26-1...v2020.09.28-1)
+
+* Typo
+* Use custom background on displayshow if fanart is not found
+* Remove include_date, fix static_url include_version
+* Fix fetch custom images when using authentication
+* Fixes [SickChill/SickChill#6809](https://github.com/SickChill/SickChill/issues/6809)
+[network] add some new covers
+* Release 2020.9.26.post1
+
 ### v2020.09.26-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.24-3...v2020.09.26-1)
