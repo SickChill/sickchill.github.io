@@ -1,3 +1,9 @@
+### v2020.10.22-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.10.22-1...v2020.10.22-2)
+
+* Yarn upgrade
+
 ### v2020.10.22-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.28-2...v2020.10.22-1)
