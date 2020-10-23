@@ -1,3 +1,16 @@
+### v2020.10.22-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.28-2...v2020.10.22-1)
+
+* Fix None comparison with ==
+* Fix [#5298](https://github.com/SickChill/SickChill/issues/5298)
+* adba band-aid
+* Update Emby API Library updates
+* New networks logos
+* Update debian-ubuntu-install.sh
+* Fix backstretch. Doesn't need scRoot with meta tag
+* Release 2020.9.28.post2
+
 ### v2020.09.28-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.09.28-1...v2020.09.28-2)
