@@ -1,3 +1,15 @@
+### v2020.11.16-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.10.22-2...v2020.11.16-1)
+
+* Fix some errors with sending telegram messages
+* fixup: Fix [#6822](https://github.com/SickChill/SickChill/issues/6822) - Review comments
+* Fix [#6822](https://github.com/SickChill/SickChill/issues/6822)
+* iptorrents new style
+* xo fixes
+* Improve manual search table. [SickChill/SickChill#6879](https://github.com/SickChill/SickChill/issues/6879)  - Add filtering option  - Stylize quality column  - Improve sort order for quality column  - Improve sort order for file size column
+* Release 2020.10.22.post2
+
 ### v2020.10.22-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.10.22-1...v2020.10.22-2)
