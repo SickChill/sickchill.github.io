@@ -1,3 +1,12 @@
+### v2020.11.24-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.11.16-1...v2020.11.24-1)
+
+* Corrected URL
+* Fixes exception caused by UTF8 decoding attempt before decompression of long packets (>1400 bytes)
+* Fixes [#6892](https://github.com/SickChill/SickChill/issues/6892)
+* Release sickchill-2020.11.16.post1
+
 ### v2020.11.16-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.10.22-2...v2020.11.16-1)
