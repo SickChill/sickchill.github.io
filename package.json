@@ -8,7 +8,7 @@
     "grunt-contrib-jshint": "^0.12.0",
     "grunt-contrib-watch": "^1.0.1",
     "grunt-jsonlint": "^1.0.7",
-    "snyk": "^1.316.1"
+    "snyk": "^1.425.4"
   },
   "devDependencies": {
     "grunt": "^1.3.0"
