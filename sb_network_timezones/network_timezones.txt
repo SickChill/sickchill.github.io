@@ -49,6 +49,7 @@ AMC:US/Eastern
 ANT1:Europe/Athens
 AOL:US/Eastern
 APTN:Canada/Eastern
+ARD:Europe/Berlin
 ART TV:Europe/Athens
 ARTV:Canada/Eastern
 ARY Digital:Asia/Karachi
