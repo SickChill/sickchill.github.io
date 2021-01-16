@@ -46,6 +46,7 @@ ABS-CBN Broadcasting Company:Asia/Manila
 AHC:US/Eastern
 ALT Balaji:Asia/Kolkata
 AMC:US/Eastern
+AMC+:US/Eastern
 ANT1:Europe/Athens
 AOL:US/Eastern
 APTN:Canada/Eastern
