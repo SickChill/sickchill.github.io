@@ -1,3 +1,28 @@
+### v2021.02.02-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.02-1...v2021.02.02-2)
+
+* Merge branch 'develop'
+
+### v2021.02.02-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2020.11.24-1...v2021.02.02-1)
+
+* Merge branch 'develop'
+* Develop ([#6986](https://github.com/SickChill/SickChill/issues/6986))
+* Develop ([#6967](https://github.com/SickChill/SickChill/issues/6967))
+* Fix [#6957](https://github.com/SickChill/SickChill/issues/6957)
+* change yggtorrent url
+* Fix [#6945](https://github.com/SickChill/SickChill/issues/6945)
+* Fix [#6944](https://github.com/SickChill/SickChill/issues/6944)
+* Fix [#6944](https://github.com/SickChill/SickChill/issues/6944)
+* Fix [SickChill/SickChill#6942](https://github.com/SickChill/SickChill/issues/6942)
+* Demonoid provider cleanup
+* Enable demonoid tests
+* Fix demonoid provider
+* Bump ini from 1.3.5 to 1.3.7
+* Ignore abc.xyz.mkv
+
 ### v2020.11.24-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2020.11.16-1...v2020.11.24-1)
