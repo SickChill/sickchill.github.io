@@ -130,7 +130,7 @@ def main():
         # try to determine time zone by country name in display name
         tz_guess = ''
         code = country_code[value]
-        if len(code) <= 2:
+        if code and len(code) <= 2:
             tz_guess = country_timezones(code)[0]
 
         if tz_guess:
@@ -153,7 +153,7 @@ def main():
         country = re.findall(match_country, key)
         if country:
             code = country_code[country[0]]
-            if len(code) <= 2:
+            if code and len(code) <= 2:
                 tz_guess = country_timezones(code)[0]
 
         if tz_guess:
