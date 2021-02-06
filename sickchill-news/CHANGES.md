@@ -1,3 +1,10 @@
+### v2021.02.05-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.02-3...v2021.02.05-1)
+
+* Revert "Ignore abc.xyz.mkv"
+* Release 2021.2.2.post3
+
 ### v2021.02.02-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.02-2...v2021.02.02-3)
