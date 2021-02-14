@@ -1,3 +1,11 @@
+### v2021.02.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.05-1...v2021.02.13-1)
+
+* Try to clean up post processing when setting parent set-id bit fails.
+* Update helpers.py
+* Release 2021.2.5.post1
+
 ### v2021.02.05-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.02-3...v2021.02.05-1)
