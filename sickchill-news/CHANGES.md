@@ -1,3 +1,11 @@
+### v2021.02.15-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.14-1...v2021.02.15-1)
+
+* 2021.2.14.post2.dev2+g480aa2717
+* Fix manual snatch for nzb users Fixes [#6926](https://github.com/SickChill/SickChill/issues/6926) Fixes [#6959](https://github.com/SickChill/SickChill/issues/6959) Fixes [#6973](https://github.com/SickChill/SickChill/issues/6973)
+* Release 2021.2.14.post1
+
 ### v2021.02.14-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.13-1...v2021.02.14-1)
