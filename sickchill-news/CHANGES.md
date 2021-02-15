@@ -1,3 +1,13 @@
+### v2021.02.15-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-1...v2021.02.15-2)
+
+* Undo nyaran fix for [#6945](https://github.com/SickChill/SickChill/issues/6945), try to use other fixes
+* Try to fix build, again. Temporary fix for cryptography rust requirement. Image size reduced again.
+* Fix build. Switch from python3.7-alpine to python3.8-slim base image for docker images. This increases the size of the docker images, but is a more complete installation and I could not get the build working for cryptography anymore on alpine because the rust compiler was finicky.
+* Fix build by adding rust cargo to dockerfile
+* Release sickchill-2021.2.15.post1
+
 ### v2021.02.15-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.14-1...v2021.02.15-1)
