@@ -1,3 +1,11 @@
+### v2021.02.15-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-2...v2021.02.15-3)
+
+* isort
+* Further attempt at fixes [#6929](https://github.com/SickChill/SickChill/issues/6929)
+* Release 2021.2.15.post2
+
 ### v2021.02.15-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-1...v2021.02.15-2)
