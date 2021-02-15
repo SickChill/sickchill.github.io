@@ -1,3 +1,13 @@
+### v2021.02.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.13-1...v2021.02.14-1)
+
+* Fix getting api key using getkey endpoint Fixes [#7006](https://github.com/SickChill/SickChill/issues/7006)
+* Alias tv4-se logo Fixes [#7005](https://github.com/SickChill/SickChill/issues/7005)
+* Allow setting a custom url for nyaa. Fixes [#7009](https://github.com/SickChill/SickChill/issues/7009)
+* Try to fix api status matching. Fixes [#6929](https://github.com/SickChill/SickChill/issues/6929)
+* Release 2021.2.13.post1
+
 ### v2021.02.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.05-1...v2021.02.13-1)
