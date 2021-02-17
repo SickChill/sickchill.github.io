@@ -1,3 +1,11 @@
+### v2021.02.17-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-3...v2021.02.17-1)
+
+* Add deprecated parameters back to post processing api, to fix proper release processing from nzbtomedia
+* Add torrent-paradise provider for backlog searching.
+* Release 2021.2.15.post3
+
 ### v2021.02.15-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-2...v2021.02.15-3)
