@@ -480,3 +480,4 @@
 252861: 'Talking Dead',
 361585: 'Blood and Treasure'
 362392: 'WandaVision', 'Marvels WandaVision'
+76320: 'Justice League Unlimited', 'Justice League (Unlimited)',
