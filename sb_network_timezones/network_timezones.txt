@@ -107,6 +107,7 @@ Al-Jamahiriya TV:Africa/Tripoli
 Al-Madina TV:Africa/Tripoli
 Al-Nahar:Africa/Cairo
 Alibi:Europe/London
+All 4:Europe/London
 AlloCiné:Europe/Paris
 Alnabaa:Africa/Tripoli
 Alpha TV GUJARATI:Asia/Kolkata
@@ -163,6 +164,7 @@ BBC One:Europe/London
 BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC Scotland:Europe/London
+BBC Studios:Europe/London
 BBC Three:Europe/London
 BBC Two:Europe/London
 BBC UKTV (AU):Australia/Lord_Howe
@@ -1483,6 +1485,7 @@ TVFPlay:Asia/Kolkata
 TVG Network:US/Eastern
 TVGN:US/Eastern
 TVI Player:Europe/Lisbon
+TVI24:Europe/Lisbon
 TVI:Europe/Lisbon
 TVK:Asia/Tokyo
 TVM:Europe/Malta
@@ -1555,6 +1558,7 @@ The History Channel:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
 The N:Australia/Sydney
+The Nashville Network:America/New_York
 The National Network:America/New_York
 The Sportsman Channel:US/Eastern
 The Travel Channel:US/Eastern
@@ -1564,6 +1568,7 @@ The Weather Channel:US/Eastern
 The Zeus Network:America/New_York
 TheBlaze:US/Eastern
 This TV:US/Eastern
+Tik Tok:America/New_York
 Tipik:Europe/Brussels
 Toei Channel:Asia/Tokyo
 Toggle:Asia/Singapore
@@ -1722,6 +1727,7 @@ Zhejiang TV:Asia/Shanghai
 Ztélé:Canada/Eastern
 addikTV:Canada/Eastern
 bTV:Europe/Sofia
+beIN Connect:Europe/Istanbul
 comedy:Canada/Eastern
 dTV:Asia/Tokyo
 dk4:Europe/Copenhagen
@@ -1810,6 +1816,7 @@ yes:Asia/Jerusalem
 6+:
 ACE Theatres:
 AMedia:
+ARTE Concert:
 Amazon Prime Video:
 American Broadcasting Company (ABC):
 Ammo Content:
@@ -1823,6 +1830,7 @@ BBC Earth:
 BBC Five:
 BBC Music:
 BBC Northern Ireland:
+BBC One Northern Ireland:
 BIP:
 BNNVARA:
 BRB International:
@@ -1870,6 +1878,7 @@ FR3:
 FTV, Nova:
 Facebook Live:
 Fashion:
+Filmin:
 Fiver:
 Flairbar.com:
 FoodTV:
@@ -1879,8 +1888,11 @@ Foxsports:
 France Télévisions:
 Fuji Television:
 Funk:
+Funny or Die:
+Funnyordie.com:
 Fuse TV:
 G4TechTV Canada:
+GagaOOLala:
 Game Show Network (GSN):
 GameTap Entertainment:
 Gamestar Cover CD:
@@ -1889,6 +1901,7 @@ Granada Television:
 HBO - BBC:
 HBO Romania:
 HUMAN:
+Hearst Entertainment Productions:
 Hessischer Rundfunk:
 History Channel:
 History International:
@@ -1919,6 +1932,7 @@ London Weekend Television:
 Los 40 Principales:
 MEGA TV:
 MNC Pictures:
+Mark Goodson-Bill Todman Productions:
 Markíza:
 Media Castle:
 Mega:
@@ -1926,6 +1940,7 @@ Men & Motor:
 Men & Motors:
 Mojo HD:
 MuchMusic:
+NDR Naturfilm:
 NET:
 NGC:
 NHK World:
@@ -1935,6 +1950,7 @@ NPO 1:
 NPS:
 NTT Docomo:
 National Geographic Channel:
+National Geographic Films:
 National Geographiс:
 National Iranian Radio and Television (NIRT):
 Nature:
@@ -1947,6 +1963,7 @@ Nickelodeon Productions:
 Nicktoons Network:
 Nico Nico Douga:
 Nihon Television Network:
+Nintendo:
 Nippon Housou Kyoukai:
 Nippon Television Network (NTV):
 Nippon Television Network Corporation (NTV):
@@ -2008,6 +2025,7 @@ Super Deluxe:
 Super RTL:
 SuperRTL:
 Syrian Drama TV:
+Südwestdeutscher Rundfunk (SWR):
 TF1 Vidéo:
 TTC:
 TV Asashi:
@@ -2021,6 +2039,7 @@ TV24 (CH):
 TV25 (CH):
 TV3 Danmark:
 TV400:
+Talent Associates:
 TechTV Canada:
 TeleMadrid:
 Televisa S.A. de C.V.:
@@ -2057,6 +2076,7 @@ Womens Entertainment Network:
 World of Wonder:
 Worldwide:
 Xover:
+Yoram Gross Films:
 Yorin:
 ZDF Enterprises:
 family gekijou (japan):
