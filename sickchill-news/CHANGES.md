@@ -1,3 +1,83 @@
+### v2021.03.07-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.17-1...v2021.03.07-1)
+
+* Suppress error when users cant get their locale and timezone right. Fixes [#6869](https://github.com/SickChill/SickChill/issues/6869)
+* New Crowdin updates ([#7035](https://github.com/SickChill/SickChill/issues/7035))
+* New Crowdin updates ([#7024](https://github.com/SickChill/SickChill/issues/7024))
+* New Crowdin updates ([#7023](https://github.com/SickChill/SickChill/issues/7023))
+* Some more cleanup in post_processor Add torrent-paradise icon Remove unused imports More translated post_processing strings
+* isort
+* Look up release name from the cache if a urlk is passed for failed download from nzbtomedia Translate some logs in post processor and failed processor Refactor some screwy variable names that made confusion
+* Fix only allowed branches or branches-ignore (terrible docs)
+* Fix syntax error
+* Ignore build for commits and pull requests from crowdin
+* Add cancel-workflow-action
+* New translations messages.pot (English, United Kingdom)
+* New translations messages.pot (Spanish)
+* New translations messages.pot (Afrikaans)
+* New translations messages.pot (Arabic)
+* New translations messages.pot (Bulgarian)
+* New translations messages.pot (Catalan)
+* New translations messages.pot (Czech)
+* New translations messages.pot (Danish)
+* New translations messages.pot (German)
+* New translations messages.pot (Greek)
+* New translations messages.pot (Finnish)
+* New translations messages.pot (Hebrew)
+* New translations messages.pot (Hungarian)
+* New translations messages.pot (Italian)
+* New translations messages.pot (French)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Polish)
+* New translations messages.pot (Portuguese)
+* New translations messages.pot (Russian)
+* New translations messages.pot (Slovak)
+* New translations messages.pot (Slovenian)
+* New translations messages.pot (Swedish)
+* New translations messages.pot (Turkish)
+* New translations messages.pot (Chinese Simplified)
+* New translations messages.pot (Chinese Traditional)
+* New translations messages.pot (English)
+* New translations messages.pot (Portuguese, Brazilian)
+* New translations messages.pot (Estonian)
+* New translations messages.pot (Norwegian)
+* New translations messages.pot (Romanian)
+* New translations messages.pot (English, United Kingdom)
+* New translations messages.pot (Spanish)
+* New translations messages.pot (Afrikaans)
+* New translations messages.pot (Arabic)
+* New translations messages.pot (Bulgarian)
+* New translations messages.pot (Catalan)
+* New translations messages.pot (Czech)
+* New translations messages.pot (Danish)
+* New translations messages.pot (German)
+* New translations messages.pot (Greek)
+* New translations messages.pot (Finnish)
+* New translations messages.pot (Hebrew)
+* New translations messages.pot (Hungarian)
+* New translations messages.pot (Italian)
+* New translations messages.pot (French)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Polish)
+* New translations messages.pot (Portuguese)
+* New translations messages.pot (Russian)
+* New translations messages.pot (Slovak)
+* New translations messages.pot (Slovenian)
+* New translations messages.pot (Swedish)
+* New translations messages.pot (Turkish)
+* New translations messages.pot (Chinese Simplified)
+* New translations messages.pot (Chinese Traditional)
+* New translations messages.pot (English)
+* New translations messages.pot (Portuguese, Brazilian)
+* New translations messages.pot (Estonian)
+* New translations messages.pot (Norwegian)
+* New translations messages.pot (Romanian)
+* Update messages.pot
+* Show warning on login page when incorrect username or pass is used.
+* Fixes [#7015](https://github.com/SickChill/SickChill/issues/7015)
+* Release 2021.2.17.post1
+
 ### v2021.02.17-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.15-3...v2021.02.17-1)
