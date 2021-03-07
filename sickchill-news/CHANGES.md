@@ -1,3 +1,13 @@
+### v2021.03.07-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.07-1...v2021.03.07-2)
+
+* Fix jslint errors again
+* Fix jslint errors
+* No longer need to save discord settings before testing webhook. Fixes [#6941](https://github.com/SickChill/SickChill/issues/6941)
+* Fix string for detection of nebulance login failure Possibly fixes [#7033](https://github.com/SickChill/SickChill/issues/7033)
+* Release 2021.3.7.post1
+
 ### v2021.03.07-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.02.17-1...v2021.03.07-1)
