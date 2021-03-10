@@ -1,3 +1,12 @@
+### v2021.03.10-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.07-2...v2021.03.10-1)
+
+* Bump elliptic from 6.5.3 to 6.5.4 ([#7040](https://github.com/SickChill/SickChill/issues/7040))
+* Fixes [#7039](https://github.com/SickChill/SickChill/issues/7039)
+* Add gitignores for readynas, so the updater does not delete the service or config.xml
+* Release sickchill-2021.3.7.post2
+
 ### v2021.03.07-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.07-1...v2021.03.07-2)
