@@ -1,3 +1,16 @@
+### v2021.03.18-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.10-1...v2021.03.18-1)
+
+* Remove log spam when saving providers, remove js errors when loading provider options
+* Discord name, avatar, and tts were not saved to config. Fixes [#7047](https://github.com/SickChill/SickChill/issues/7047)
+* Manually set cloudscraper delay, avoid one more potential parse error
+* Update cloudscraper
+* New Crowdin updates ([#7048](https://github.com/SickChill/SickChill/issues/7048))
+* Network logo - Add Fox Kids ([#7042](https://github.com/SickChill/SickChill/issues/7042))
+* isort
+* Release 2021.3.10.post1
+
 ### v2021.03.10-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.07-2...v2021.03.10-1)
