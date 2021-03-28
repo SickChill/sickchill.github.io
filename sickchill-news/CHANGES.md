@@ -1,3 +1,10 @@
+### v2021.03.27-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.18-1...v2021.03.27-1)
+
+* Merge branch 'develop'
+* Actions ([#7053](https://github.com/SickChill/SickChill/issues/7053))
+
 ### v2021.03.18-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.10-1...v2021.03.18-1)
