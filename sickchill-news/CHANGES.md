@@ -1,3 +1,28 @@
+### v2021.04.05-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.28-3...v2021.04.05-1)
+
+* Bump js2py from 0.70 to 0.71
+* poetry update
+* Bump flake8-pytest-style from 1.4.0 to 1.4.1
+* Bump sqlalchemy from 1.4.3 to 1.4.5
+* Fix sending torrent files to synology downloadstation 3.8.16-3566+
+* more silly wonkiness for dsm api
+* Silly quotes included in json
+* Fix coverage
+* isort and move isort config to pyproject.toml
+* Fix some errors and api issue for downloadstation. I hope it does not break for older DSM.
+* yarn upgrade and try to fix a few xo errors
+* isort
+* Fix errors
+* Add poetry.lock
+* Add pyproject.toml
+* Move to pytest, run black, do some flake8
+* Bump y18n from 3.2.1 to 3.2.2
+* Add Wow Presents Plus logo
+ kodi.py: Add missing unquote_plus
+* Release 2021.3.28.post3
+
 ### v2021.03.28-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.28-2...v2021.03.28-3)
