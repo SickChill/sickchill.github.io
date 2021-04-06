@@ -1,3 +1,9 @@
+### v2021.04.06-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-1...v2021.04.06-2)
+
+* Remove errant line
+
 ### v2021.04.06-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.05-1...v2021.04.06-1)
