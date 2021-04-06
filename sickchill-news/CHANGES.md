@@ -1,3 +1,12 @@
+### v2021.04.06-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.05-1...v2021.04.06-1)
+
+* Allow building with setup.py for now, until [#40](https://github.com/python-poetry/poetry-core/pull/40) is merged
+* Remove unused lines from poetry
+* Release 2021.4.6
+* Publish 2021.04.05-1
+
 ### v2021.04.05-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.03.28-3...v2021.04.05-1)
