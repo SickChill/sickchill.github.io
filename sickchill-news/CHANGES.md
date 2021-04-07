@@ -1,3 +1,9 @@
+### v2021.04.06-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-2...v2021.04.06-3)
+
+* Skip python req from toml
+
 ### v2021.04.06-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-1...v2021.04.06-2)
