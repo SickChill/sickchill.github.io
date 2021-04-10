@@ -1,3 +1,15 @@
+### v2021.04.10-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-3...v2021.04.10-1)
+
+* Release 2021.4.10
+* Do not log info in postprocessor for "@eaDir". Fixes [#7072](https://github.com/SickChill/SickChill/issues/7072)
+* Update depends
+* Add some type checking in transmission andm qbittorrent project
+* Bump twilio from 6.55.0 to 6.56.0
+* Bump sqlalchemy from 1.4.5 to 1.4.6
+* Bump cloudscraper from 1.2.56 to 1.2.58
+
 ### v2021.04.06-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-2...v2021.04.06-3)
