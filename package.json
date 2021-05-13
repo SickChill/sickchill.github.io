@@ -4,7 +4,7 @@
   "description": "Site and support files for SickChill",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt-cli": "^1.3.0",
+    "grunt-cli": "^1.4.2",
     "grunt-contrib-jshint": "^0.12.0",
     "grunt-contrib-watch": "^1.0.1",
     "grunt-jsonlint": "^1.0.7",
