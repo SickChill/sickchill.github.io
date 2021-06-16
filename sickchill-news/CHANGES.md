@@ -1,6 +1,66 @@
-### v2021.04.10-1
+### v2021.06.16-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-3...v2021.04.10-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/tags/v2021.04.10-1...v2021.06.16-1)
+
+* Update gruntfile
+* Update dependencies Remove thegft tracker (domain jacked) Allow 265 in more regexes
+* Update anime regexes to accept 4 digits ep num
+* Yarn upgrade
+* Merge branch 'master' into develop
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Dutch)
+* New translations messages.pot (Dutch)
+* Bump feedparser from 6.0.5 to 6.0.6
+* Bump feedparser from 6.0.4 to 6.0.5
+* Bump sqlalchemy from 1.4.17 to 1.4.18
+* Bump feedparser from 6.0.2 to 6.0.4
+* Fix logger format
+* Bump pytest-cov from 2.12.0 to 2.12.1
+* Bump twilio from 6.59.0 to 6.59.1
+* Bump sqlalchemy from 1.4.15 to 1.4.17
+* Bump coveralls from 3.0.1 to 3.1.0
+* Bump flake8-pytest-style from 1.4.1 to 1.4.2
+* New translations messages.pot (French)
+* Log Url destination in " " to be consistent with file destination
+* Adjusting logging.info result data
+* simplify posted logger info
+* Revert "Update download_station.py"
+* Update download_station.py
+* Update download_station.py
+* Not a fan of string concatenation
+* Call it destination rather than path, because it is a remote destination not a local path
+* Make sure we are using the correct path in DSM, and this keeps working for nzb users.
+* Update download_station.py
+* Bump qbittorrent-api from 2021.5.21 to 2021.5.22
+* Bump sqlalchemy from 1.4.14 to 1.4.15
+* Bump pytest-cov from 2.11.1 to 2.12.0
+* Update torrentday.py
+* Isort
+* add space after comma for params & add reponse.content in debug log
+* use tvdbId for emby show update instead of fs path
+* Bump twilio from 6.58.0 to 6.59.0
+* Bump pytest-isort from 1.3.0 to 2.0.0
+* Release 2021.5.10-1
+* Bump python-slugify from 4.0.1 to 5.0.2
+* Merge branch 'master' into develop
+* Drop twilio until their dependancies are updated for pyjwt
+* Create SECURITY.md
+* Release 2021.5.6-1
+* Upgrade to GitHub-native Dependabot
+* Fix ncore torrent provider url
+* Add StartYear to detailed show info for api
+* Make sure branch names are valid docker tag values
+* Update dependancies
+* Use user space for pip install in testing
+* Bump qbittorrent-api from 2021.4.19 to 2021.4.20
+* Bump pymediainfo from 5.0.3 to 5.0.4
+
+### tags/v2021.04.10-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-3...tags/v2021.04.10-1)
 
 * Release 2021.4.10
 * Do not log info in postprocessor for "@eaDir". Fixes [#7072](https://github.com/SickChill/SickChill/issues/7072)
