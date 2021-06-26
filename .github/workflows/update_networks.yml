@@ -1,0 +1,43 @@
+name: Update Network Timezones
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    if: github.actor == 'miigotu'
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.x
+      - name: Run image
+        uses: abatilo/actions-poetry@v2.0.0
+        with:
+          poetry-version: 1.2.0a1
+      - name: View poetry --help
+        run: |
+          pip install poethepoet
+          cd sb_network_timezones
+          poetry install --no-root
+          poe poetry_update
+          poe run
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update networks and timezones
+
+          branch: sb_network_timezones
+          commit_options: '--no-verify --signoff'
+
+          file_pattern: sb_network_timezones
+
+          # Optional commit user and author settings
+          commit_user_name: miigotu
+          commit_user_email: miigotu@gmail.com
+          commit_author: miigotu <miigotu@gmail.com>
+
+          push_options: '--force'
+          skip_dirty_check: true
+          skip_fetch: true
+          disable_globbing: true

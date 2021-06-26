@@ -1,0 +1,15 @@
+{
+  "name": "tvdb-network-timezones",
+  "version": "0.0.1",
+  "description": "Tool to generate lists of networks, companies, and their timezones from theTVDB",
+  "main": "''",
+  "repository": "https://github.com/SickChill/sickchill.github.io",
+  "author": "Dustyn Gibson",
+  "license": "GPLv3",
+  "private": true,
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.40.3",
+    "yarn": "^1.22.10"
+  }
+}
