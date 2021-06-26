@@ -45,6 +45,7 @@ class Scraper:
         self.purge_old = False
         self.start_page = 1
         self.number_of_pages = -1
+        self._include_types = ["Networks"]
         self.throttle = True
         self.throttle_seconds = None
         self._pages_processed = 0
@@ -115,6 +116,13 @@ class Scraper:
             help="output filename",
         )
         self.parser.add_argument(
+            "-i",
+            "--include-types",
+            dest="include_types",
+            default=",".join(self.include_types),
+            help="company types to include",
+        )
+        self.parser.add_argument(
             "--no-throttle",
             dest="throttle",
             action="store_false",
@@ -142,6 +150,16 @@ class Scraper:
 
         self._next_page = self.start_page
         self._new_list = {}
+        self._extra_companies = {}
+        self._extra_company_types = []
+
+    @property
+    def include_types(self):
+        return self._include_types
+
+    @include_types.setter
+    def include_types(self, value):
+        self._include_types = {name.strip().lower() for name in value.split(",")}
 
     def scrape_tvdb(self):
 
@@ -157,12 +175,16 @@ class Scraper:
         for _current in company_rows:
             company_name = _current.find(class_="mt-0 mb-0").get_text(strip=True)
             company_country = _current.find(class_="ml-0").get_text(strip=True)
-            company_type =  _current.find(class_="ml-1").get_text(strip=True)
+            company_type = _current.find(class_="ml-1").get_text(strip=True)
 
-            if company_type == 'Network':
+            if company_type.lower() in self.include_types:
                 logger.verbose(f"Found result: {company_name}:{company_country} with type {company_type}")
                 self._new_list[company_name] = company_country
             else:
+                if company_type not in self._extra_companies:
+                    self._extra_companies[company_type] = {}
+                self._extra_companies[company_type][company_name] = company_country
+
                 logger.verbose(f"Skipping result: {company_name}:{company_country} with type {company_type}")
 
         # This must be before any return due to checks such as number of pages processed,
@@ -189,6 +211,18 @@ class Scraper:
             logger.debug(f"Sleeping for {(seconds)}")
             time.sleep(seconds)
 
+    def dump_extra_company_types(self):
+        logger.info("Dumping excluded types to corresponding txt files, in format {company}:{country} (not timezone!)")
+        for company_type, companies in self._extra_companies.items():
+            location = self.location.joinpath(f"{company_type.lower()}_countries.txt")
+            logger.info(f"Dumping company type {company_type} to {location}")
+            with open(location, "w") as dump_file:
+                for company, country in sorted(companies.items()):
+                    dump_file.write(f"{company}:{country}\n")
+
+        self._extra_company_types = sorted(self._extra_companies)
+        self._extra_companies.clear()
+
     def run(self):
         # Load data from TVDB network select box
         while self._next_page is not None:
@@ -196,6 +230,8 @@ class Scraper:
             self.sleep()
 
         logger.info(f"Processed {self._pages_processed} pages from theTVDB")
+
+        self.dump_extra_company_types()
 
         dump_list = {}
         file_path = self.location.joinpath("json_data", "tvseries-table-networks.json")
@@ -256,8 +292,6 @@ class Scraper:
             new_data.append(line_format)
             logger.verbose(f"Re-adding: {current['name']} - {current['time_zone']}")
 
-        logger.verbose("")
-
         data_to_append = []
         logger.verbose("--- Adding new networks ---")
         logger.verbose("Action - Network Name - Country - Guessed Time Zone")
@@ -302,8 +336,6 @@ class Scraper:
                 logger.verbose(f"New network: {key} - Unknown - Unknown")
                 data_to_append.append(f"{key}:{tz_guess}\n")
 
-        logger.verbose("")
-
         with codecs.open(self.output_file, "w", "utf-8") as tz_file:
             if self.purge_old:
                 if new_data:
@@ -323,7 +355,13 @@ class Scraper:
                 tz_file.writelines(invalid_data)
 
         logger.info("--- Done ---")
+        logger.info(f"Processed {self._pages_processed} pages")
+        logger.info(f"Skipped all {self._extra_company_types}")
         logger.info(f"New file created [{self.output_file.name}]")
+        for company_type in self._extra_company_types:
+            location = self.location.joinpath(f"{company_type.lower()}_countries.txt")
+            logging.info(f"New file created: {location}")
+
         logger.info(f"Total {len(new_data)}")
         logger.info(f"New with time zone {auto_new_count}")
         logger.info(f"New without time zone {new_count}")
