@@ -4,7 +4,6 @@ An over-engineered script for scraping networks (now called companies) from theT
 """
 
 import argparse
-import codecs
 import json
 import logging
 import random
@@ -21,11 +20,9 @@ from pytz import country_timezones
 from requests_cache import CacheMixin
 from requests_html import HTMLSession
 
-verboselogs.install()
-logger = verboselogs.VerboseLogger("")
-logger.addHandler(logging.StreamHandler())
-logger.setLevel(logging.VERBOSE)
-coloredlogs.install(level="VERBOSE", logger=logger)
+from typing import Type
+
+logger = logging.getLogger("")
 
 
 class CachedHTMLSession(CacheMixin, HTMLSession):
@@ -45,15 +42,13 @@ class Scraper:
         self.purge_old = False
         self.start_page = 1
         self.number_of_pages = -1
-        self._include_types = ["Networks"]
+        self._include_types = ["Network"]
         self.throttle = True
         self.throttle_seconds = None
         self._pages_processed = 0
 
         self.output_file = self.location.joinpath("network_timezones.txt")
         self.discarded_file_path = self.output_file.parent.joinpath(f"DISCARDED_{self.output_file.name}")
-
-        logger.setLevel("INFO")
 
         self.parser = argparse.ArgumentParser(
             epilog=f"""
@@ -140,11 +135,13 @@ class Scraper:
         self.parser.parse_args(namespace=self)
 
         if self.verbose:
-            logger.setLevel(logging.VERBOSE)
+            self.set_log_level(logging.VERBOSE)
         elif self.debug:
-            logger.setLevel(logging.DEBUG)
+            self.set_log_level(logging.DEBUG)
         elif self.quiet:
-            logger.setLevel(logging.WARNING)
+            self.set_log_level(logging.WARNING)
+        else:
+            self.set_log_level(logging.INFO)
 
         self.country_codes = CountryCode(self.location)
 
@@ -152,6 +149,17 @@ class Scraper:
         self._new_list = {}
         self._extra_companies = {}
         self._extra_company_types = []
+
+
+    def set_log_level(self, level: Type[int]):
+        verboselogs.install()
+        global logger
+        logger = verboselogs.VerboseLogger("")
+        logger.addHandler(logging.StreamHandler())
+        logger.setLevel(level)
+        coloredlogs.install(level=level, logger=logger)
+        for handler in logger.handlers:
+            handler.setLevel(level)
 
     @property
     def include_types(self):
@@ -177,7 +185,7 @@ class Scraper:
             company_country = _current.find(class_="ml-0").get_text(strip=True)
             company_type = _current.find(class_="ml-1").get_text(strip=True)
 
-            if company_type.lower() in self.include_types:
+            if company_type.lower() in [item.lower() for item in self.include_types]:
                 logger.verbose(f"Found result: {company_name}:{company_country} with type {company_type}")
                 self._new_list[company_name] = company_country
             else:
@@ -216,7 +224,7 @@ class Scraper:
         for company_type, companies in self._extra_companies.items():
             location = self.location.joinpath(f"{company_type.lower()}_countries.txt")
             logger.info(f"Dumping company type {company_type} to {location}")
-            with open(location, "w") as dump_file:
+            with open(location, "w", "utf-8") as dump_file:
                 for company, country in sorted(companies.items()):
                     dump_file.write(f"{company}:{country}\n")
 
@@ -235,7 +243,7 @@ class Scraper:
 
         dump_list = {}
         file_path = self.location.joinpath("json_data", "tvseries-table-networks.json")
-        with codecs.open(file_path, "r", "utf-8") as dump_file:
+        with open(file_path, encoding="utf-8") as dump_file:
             for item in json.load(dump_file):
                 item = item["Network"]
                 if item not in dump_list and item not in self._new_list:
@@ -244,7 +252,7 @@ class Scraper:
         # Load data from current list
         old_list = []
         if self.output_file.is_file():
-            with codecs.open(self.output_file, "r", "utf-8") as tz_file:
+            with open(self.output_file, encoding="utf-8") as tz_file:
                 for current in tz_file.readlines():
                     name, time_zone = current.strip("\n").rsplit(":", 1)
                     old_list.append({"name": name, "time_zone": time_zone})
@@ -305,12 +313,12 @@ class Scraper:
 
             if tz_guess:
                 auto_new_count += 1
-                logger.verbose(f"New network: {key} - {value} - {tz_guess}")
+                logger.debug(f"New network: {key} - {value} - {tz_guess}")
                 new_data.append(f"{key}:{tz_guess}\n")
             else:
                 new_count += 1
                 fixed_value = re.sub(re.escape(key) + r"(?:.* \((.*)\))?$", r"\1", value)
-                logger.verbose(f"New network: {key} - {fixed_value} - Unknown")
+                logger.debug(f"New network: {key} - {fixed_value} - Unknown")
                 data_to_append.append(f"{key}:{tz_guess}\n")
 
         match_country = re.compile(r"\(([a-z\s]+)\)$", re.I)
@@ -325,18 +333,18 @@ class Scraper:
 
             if tz_guess:
                 auto_new_count += 1
-                logger.verbose(f"New network: {key} - {country[0]} - {tz_guess}")
+                logger.debug(f"New network: {key} - {country[0]} - {tz_guess}")
                 new_data.append(f"{key}:{tz_guess}\n")
             elif country:
                 new_count += 1
-                logger.verbose(f"New network: {key} - {country[0]} - Unknown")
+                logger.debug(f"New network: {key} - {country[0]} - Unknown")
                 data_to_append.append(f"{key}:{tz_guess}\n")
             else:
                 new_count += 1
-                logger.verbose(f"New network: {key} - Unknown - Unknown")
+                logger.debug(f"New network: {key} - Unknown - Unknown")
                 data_to_append.append(f"{key}:{tz_guess}\n")
 
-        with codecs.open(self.output_file, "w", "utf-8") as tz_file:
+        with open(self.output_file, "w", "utf-8") as tz_file:
             if self.purge_old:
                 if new_data:
                     new_data.sort()
@@ -351,7 +359,7 @@ class Scraper:
                 tz_file.writelines(data_to_append)
 
         if self.purge_old and invalid_data:
-            with codecs.open(self.discarded_file_path, "w", "utf-8") as tz_file:
+            with open(self.discarded_file_path, "w", "utf-8") as tz_file:
                 tz_file.writelines(invalid_data)
 
         logger.info("--- Done ---")
@@ -379,7 +387,8 @@ class CountryCode:
     def __init__(self, location: "Path"):
         """Load countries data from json file"""
         self.countries = None
-        with codecs.open(location.joinpath("json_data", "countries.json"), "r", "utf-8") as countries_file:
+        self.location = location.joinpath("json_data", "countries.json")
+        with open(self.location, encoding="utf-8") as countries_file:
             self.countries = json.load(countries_file)
 
         self.exceptions = {"UK": "GB"}
@@ -388,13 +397,12 @@ class CountryCode:
         """Get country two-letter code from name"""
         return self.countries.get(country, self.exceptions.get(country, country))
 
-
-def fix_utf8_output():
-    # try a workaround to fix utf-8 output on terminals
-    utf8_writer = codecs.getwriter("UTF-8")
-    sys.stdout = utf8_writer(sys.stdout.buffer, errors="replace")
-
-
 if __name__ == "__main__":
-    fix_utf8_output()
-    Scraper().run()
+
+    scraper = Scraper()
+    if sys.getdefaultencoding() != "utf-8" or sys.getfilesystemencoding() != "utf-8":
+        logger.error("Default encoding and file system encoding must me utf-8 for use this script")
+        logger.info(f"File system encoding is: {sys.getfilesystemencoding()}")
+        logger.info(f"Default system encoding is: {sys.getdefaultencoding()}")
+        sys.exit(1)
+    scraper.run()
