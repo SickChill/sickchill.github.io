@@ -1,0 +1,202 @@
+101 Studios:America/New_York
+20th Century Fox:
+20th Century Fox Animation:
+20th Century Fox Home Entertainment:
+20th Century Pictures:
+8bit:Japan
+A-1 Pictures:Japan
+A24:America/New_York
+Ajia-dou:Japan
+Amazon Studios:America/New_York
+Amblin Entertainment:
+Amblin Partners:
+Annapurna Pictures:
+Apple:
+Asread:Japan
+Atomic Cartoons:America/St_Johns
+AwesomenessTV:America/New_York
+Axis Studios:Europe/London
+Axsiz:Japan
+BBC Films:Europe/London
+BONES:Japan
+Barrandov Studios:
+Bell Media Inc:America/St_Johns
+Bibury Animation Studios:Japan
+Blade:Japan
+Bleecker Street:
+Bridge:Japan
+Broadway Video Television:America/New_York
+Brown Bag Films:Europe/Dublin
+Buena Vista Distribution Company:
+Buena Vista Film Distribution Company:
+Buena Vista Pictures:
+Buena Vista Pictures Distribution:
+C-Station:Japan
+C2C:Japan
+CBS Films:America/New_York
+CBS Television Studios:America/New_York
+CNN Films:America/New_York
+Canal+ España:
+Canal+ Polska:
+Candy Box:Japan
+CloverWorks:Japan
+Columbia Pictures:America/New_York
+Columbia Pictures Corporation:America/New_York
+Connect:Japan
+Critical Content:America/New_York
+DC Comics:
+DC Entertainment:
+David Production:Japan
+Dimension Films:
+Dimension Pictures:
+Domerica:Japan
+DreamWorks:
+DreamWorks Animation:America/New_York
+DreamWorks Distribution:
+Dwarf Animation Studio:Europe/Paris
+EMT Squared:Japan
+ENGI:Japan
+ESPN Films:
+Ealing Studios:
+Encourage Films:Japan
+EuropaCorp:
+FOX Alternative Entertainment:America/New_York
+Filmové Studio Barrandov:
+Focus Features:
+Fox 2000:
+Fox 2000 Pictures:
+Fox Animation:
+Fox Film Corporation:
+Fox International Productions:
+Fox Searchlight:
+Fox Searchlight Pictures:
+Gaumont:
+Geek Toys:Japan
+Geno Studio:Japan
+Gigglebug Entertainment:Europe/Helsinki
+Gorky Film Studios:
+HBO Documentary Films:America/New_York
+HBO Films:
+Hoods Entertainment:Japan
+IFC Films:America/New_York
+J.C.Staff:Japan
+Legendary Entertainment:
+Lerche:Japan
+Liden Films:Japan
+Lions Gate Films:
+Lionsgate:
+Lionsgate Premiere:
+Lucasfilm:
+MAPPA:Japan
+MGM:
+MGM/UA Entertainment Company:
+Magnolia:
+Maho Film:Japan
+MarVista Entertainment:America/New_York
+Marvel Studios:America/New_York
+Metro-Goldwyn Pictures Corporation:
+Metro-Goldwyn-Mayer:
+Metro-Goldwyn-Mayer (MGM):
+Metro-Goldwyn-Mayer Distributing Corporation (MGM):
+Millennium Entertainment:
+Millepensee:Japan
+Miramax:
+Mosfilm:
+Music Box Films:
+NBCUniversal:America/New_York
+NBCUniversal International Studios:America/New_York
+Neon:
+New Line Cinema:America/New_York
+New Regency Pictures:
+New Regency Productions:
+Nikkatsu Corporation:
+Nomad:Japan
+OLM:Japan
+Okuruto Noboru:Japan
+Open Road Films:
+Open Road Films (II):
+Orange:Japan
+Orion Pictures:
+P.A.Works:Japan
+Paramount:
+Paramount Classics:
+Paramount Pictures:
+Paramount Vantage:
+Particular Crowd:America/New_York
+Passione:Japan
+Pixar:
+Platinumvision:Japan
+Production I.G:Japan
+Project No.9:Japan
+RKO:
+RKO Radio Pictures:
+Regency Enterprises:
+Relativity Media:America/New_York
+Revolution Studios:
+Revoroot:Japan
+Roadside Attractions:
+SHAFT:Japan
+SILVER LINK.:Japan
+STX Entertainment:
+SUNRISE:Japan
+Samuel Goldwyn Films:
+Samuel Goldwyn Productions:
+Sanzigen:Japan
+Screen Gems:
+Seven Arcs:Japan
+Shed Media:America/New_York
+Signal MD:Japan
+Signal.MD:Japan
+Skydance Animation:America/New_York
+Sony Pictures Entertainment:Japan
+Sony Pictures Television:America/New_York
+Sparkly Key Animation Studio:Asia/Shanghai
+Studio A-CAT:Japan
+Studio Bind:Japan
+Studio Deen:Japan
+Studio Ghibli:
+Studio Gokumi:Japan
+Studio Mother:Japan
+Studio T:America/New_York
+StudioCanal:
+Summit:
+Summit Entertainment:America/New_York
+SynergySP:Japan
+TMS Entertainment:Japan
+Telecom Animation Film:Japan
+Tezuka Productions:Japan
+The Samuel Goldwyn Company:
+The Weinstein Company:
+Titmouse:America/New_York
+Toei Animation:Japan
+Touchstone Pictures:
+TriStar Pictures:America/New_York
+Triple A:Japan
+Twentieth Century Fox:
+Twentieth Century Fox Animation:
+United Artists:
+United Artists Pictures:
+Universal Pictures:
+Universal Television:America/New_York
+Ventureland:America/New_York
+ViacomCBS:America/New_York
+Village Roadshow Pictures:
+Visual Flight:Japan
+Walt Disney Animation:
+Walt Disney Animation Studios:
+Walt Disney Pictures:
+Walt Disney Productions:
+Walt Disney Studios:
+Warner Animation:
+Warner Bros.:
+Warner Bros. Animation:
+Warner Bros. Entertainment:
+Warner Bros. Japan:
+Warner Bros. Pictures:
+Warner Bros./Seven Arts:
+Warner Home Video:
+Wiip:America/New_York
+Wit Studio:Japan
+Yeti Farm Creative:America/St_Johns
+Yokohama Animation Lab:Japan
+feel.:Japan
