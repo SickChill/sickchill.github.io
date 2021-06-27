@@ -1,7 +1,7 @@
 name: Update Network Timezones
 
 on:
-  pushh:
+  push:
   pull_request:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
         uses: abatilo/actions-poetry@v2.0.0
         with:
           poetry-version: 1.2.0a1
-      - name: View poetry --help
+      - name: Lint
         run: |
           pip install poethepoet
           cd sb_network_timezones
