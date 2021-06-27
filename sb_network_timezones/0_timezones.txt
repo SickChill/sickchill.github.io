@@ -1,0 +1,20 @@
+2sTV:Africa/Dakar
+Amedia AS:Europe/Oslo
+Argonon:Europe/London
+Asterion Pictures:
+Brasil Paralelo:America/Noronha
+CJ ENM:Asia/Seoul
+Canal+ Afrique:Africa/Dakar
+Carol Mendelsohn Productions:America/New_York
+Centurions Films:
+Discovery+ (NO):Europe/Oslo
+Lambur Productions:America/New_York
+OWN:America/St_Johns
+Paramount Network Latinoamérica:
+SLI Entertainment:
+Studio Kai:Japan
+Tello:America/New_York
+UEFA.tv:Europe/Zurich
+Urtext Film Productions:
+Windfall Films Ltd:Europe/London
+k22 film:Europe/Berlin
