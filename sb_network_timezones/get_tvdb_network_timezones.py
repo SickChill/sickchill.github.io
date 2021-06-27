@@ -5,6 +5,7 @@ An over-engineered script for scraping networks (now called companies) from theT
 
 import argparse
 import logging
+import mimetypes
 import random
 import re
 import sys
@@ -17,6 +18,7 @@ from urllib.parse import parse_qs, urlparse
 import coloredlogs
 import country_converter
 import pytz
+import requests
 import verboselogs
 from bs4 import BeautifulSoup
 from pytz import country_timezones
@@ -376,6 +378,36 @@ class Scraper:
             else:
                 logger.info(f"New file created [{self.discarded_file_path.name}]")
                 logger.info(f"Total discarded {len(invalid_data)}")
+
+        self.missing_images(new_data)
+
+    def missing_images(self, network_list):
+        def is_image(name):
+            return mimetypes.guess_type(name)[0] == "image"
+
+        contents_url: str = "https://api.github.com/repos/SickChill/SickChill/contents/sickchill/gui/slick/images/network"
+        contents_json: dict = requests.get(contents_url).json()
+
+        # Split off the timezones
+        network_list: list = [network.rsplit(":", 1)[0] for network in network_list]
+
+        existing_images: dict = {image["name"].rsplit(".", 1)[0].lower(): image["name"] for image in contents_json if is_image(image["name"])}
+
+        # Lowercase to make for easier comparison
+        network_list_lower: list = [network.lower() for network in network_list]
+
+        extra_images: list = [filename for image, filename in existing_images.items() if image not in network_list_lower]
+        missing_images: list = [network for network in network_list if network.lower() not in existing_images.keys()]
+
+        missing_location: "Path" = self.location.joinpath("missing_images.txt")
+        with open(missing_location, "w", encoding="utf-8") as missing:
+            missing.write("\n".join(missing_images))
+
+        extra_location = self.location.joinpath("extra_images.txt")
+        with open(extra_location, "w", encoding="utf-8") as extra:
+            extra.write("\n".join(extra_images))
+
+        logger.info(f"Missing images count: {len(missing_images)}, Extra images count: {len(extra_images)}")
 
 
 if __name__ == "__main__":
