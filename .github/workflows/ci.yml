@@ -1,11 +1,11 @@
-name: Update Network Timezones
+name: Test
 
 on:
   push:
   pull_request:
 
 jobs:
-  scrape:
+  test:
     runs-on: ubuntu-latest
     if: github.actor == 'miigotu'
     steps:
