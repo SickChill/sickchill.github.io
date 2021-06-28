@@ -4,7 +4,7 @@ node_js:
   - "15"
 
 install:
-  - npm install -G yarn
+  - npm install -g yarn
   - yarn
  
 notifications:
