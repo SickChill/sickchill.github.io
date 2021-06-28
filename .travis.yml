@@ -1,10 +1,11 @@
 language: node_js
 
 node_js:
-  - "5.0.0"
+  - "15"
 
 install:
-  - npm install
+  - npm install -G yarn
+  - yarn
  
 notifications:
   irc: "irc.freenode.net#sickchill-builds"

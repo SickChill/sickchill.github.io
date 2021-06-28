@@ -2,21 +2,19 @@
   "name": "sickchill.github.io",
   "version": "1.0.0",
   "description": "Site and support files for SickChill",
-  "main": "Gruntfile.js",
-  "dependencies": {
-    "grunt-cli": "^1.4.2",
-    "grunt-contrib-jshint": "^0.12.0",
-    "grunt-contrib-watch": "^1.0.1",
-    "grunt-jsonlint": "^1.0.7",
-    "snyk": "^1.605.0"
-  },
+  "main": "",
+  "dependencies": {},
   "devDependencies": {
-    "grunt": "^1.3.0"
+    "prettier": "2.3.2",
+    "snyk": "^1.646.0",
+    "yarn-minify": "^1.0.1"
   },
   "scripts": {
-    "test": "grunt",
+    "test": "snyk test && yarn prettier",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "yarn run snyk-protect && yarn prettier --check --ignore-path .gitignore",
+    "prettier": "prettier '**/*.json' --ignore-path .gitignore --check",
+    "prettier:fix": "prettier --write '**/*.json' --ignore-path .gitignore --check"
   },
   "repository": {
     "type": "git",
