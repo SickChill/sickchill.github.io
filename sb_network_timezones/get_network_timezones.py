@@ -245,8 +245,8 @@ class Scraper:
                 self.sleep()
                 self._next_page += 1
             except NetworkNotFound:
-                    logger.info(f"Finished processing {self._next_page - 1} Networks from tvmaze")
-                    break
+                logger.info(f"Finished processing {self._next_page - 1} Networks from tvmaze")
+                break
 
         self._next_page = self.start_page
         while True:
