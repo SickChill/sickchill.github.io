@@ -5,7 +5,7 @@ description = "Tool to generate lists of networks, companies, and their timezone
 authors = ["miigotu <miigotu@gmail.com>"]
 license = "GPLv3"
 readme = "README.md"
-packages = [{include = "get_tvdb_network_timezones.py"}]
+packages = [{include = "get_network_timezones.py"}]
 
 [tool.poetry.dependencies]
 python = " >=3.6.2,<4.0"
@@ -44,8 +44,8 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.pytest.ini_options]
-testpaths = ["tests", "get_tvdb_network_timezones.py"]
-addopts = "--cov=get_tvdb_network_timezones.py --cov-report xml --no-cov-on-fail"
+testpaths = ["tests", "get_network_timezones.py"]
+addopts = "--cov=get_network_timezones.py --cov-report xml --no-cov-on-fail"
 
 [tool.isort]
 line_length = 160
@@ -54,7 +54,7 @@ order_by_type = false
 remove_imports = [ "from __future__ import absolute_import", "from __future__ import print_function", "from __future__ import unicode_literals" ]
 extra_standard_library = [ "posixpath", "ntpath" ]
 use_parentheses = true
-src_paths = [ "get_tvdb_network_timezones.py" ]
+src_paths = [ "get_network_timezones.py" ]
 profile = "black"
 
 [tool.black]
@@ -136,4 +136,4 @@ poetry_update = {shell = "poetry update", help = "update python dependancies"}
 _add_locks = {shell = "git add poetry.lock yarn.lock", help = "Add yarn and poetry lock files"}
 depup = ["poetry_update", "yarn_upgrade", "_add_locks"]
 
-run = "python get_tvdb_network_timezones.py"
+run = "python get_network_timezones.py"

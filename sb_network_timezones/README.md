@@ -19,9 +19,9 @@ network name:timezone
 
 **Part 2:**
 ```bash
-File: *get_tvdb_network_timezones.py [-q] [-p]*
+File: *get_network_timezones.py [-q] [-p]*
 
-usage: get_tvdb_network_timezones.py [-h] [-v] [-d] [-q] [-p] [-s START_PAGE] [-n NUMBER_OF_PAGES] [-o OUTPUT_FILE] [--no-throttle] [-t THROTTLE_SECONDS]
+usage: get_network_timezones.py [-h] [-v] [-d] [-q] [-p] [-s START_PAGE] [-n NUMBER_OF_PAGES] [-o OUTPUT_FILE] [--no-throttle] [-t THROTTLE_SECONDS]
 
 optional arguments:
   -h, --help            show this help message and exit

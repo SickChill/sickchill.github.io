@@ -41,6 +41,7 @@ ABC iview:Australia/Lord_Howe
 ABC1:Australia/Lord_Howe
 ABC2:Australia/Lord_Howe
 ABC3:Australia/Lord_Howe
+ABC:America/New_York
 ABS-CBN Broadcasting Company:Asia/Manila
 AHC:America/New_York
 ALLBLK:America/New_York
@@ -132,6 +133,7 @@ Astro Prima:Asia/Kuala_Lumpur
 Astro Ria:Asia/Kuala_Lumpur
 Astro Warna:Asia/Kuala_Lumpur
 AtomFilms:America/New_York
+Audience Network:America/New_York
 Audience:America/New_York
 Australian Christian Channel:Australia/Lord_Howe
 B4U Movies:Europe/London
@@ -236,6 +238,7 @@ CTV (JP):Japan
 CTV (TW):Asia/Taipei
 CTV Comedy:America/St_Johns
 CTV Drama:America/St_Johns
+CTV Sci-Fi Channel:America/Halifax
 CTV Sci-Fi:America/St_Johns
 CTV:America/St_Johns
 CTi TV:Asia/Taipei
@@ -542,6 +545,7 @@ France 5:Europe/Paris
 France Inter:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:America/New_York
+FreeForm:America/New_York
 Freeform:America/New_York
 Frissons TV:America/St_Johns
 Fuel TV:America/New_York
@@ -850,6 +854,7 @@ National Geographic (AU/NZ):Australia/Lord_Howe
 National Geographic (BG):Europe/Sofia
 National Geographic (FI):Europe/Helsinki
 National Geographic (UK):Europe/London
+National Geographic Channel:America/New_York
 National Geographic Wild:America/New_York
 National Geographic:America/New_York
 National Media Authority:Egypt
@@ -1220,6 +1225,7 @@ Style:America/New_York
 Stöð 2:Iceland
 Sub:Europe/Helsinki
 Sun Television:Japan
+Sundance TV:America/New_York
 SundanceTV:America/New_York
 SuoimiTV:Europe/Helsinki
 Super Channel:America/St_Johns
@@ -1230,6 +1236,7 @@ Superstar TV:Europe/Belgrade
 Superstation WGN:America/New_York
 Swarnawahini:Asia/Colombo
 Swearnet:America/St_Johns
+Syfy:America/New_York
 Syndication:America/New_York
 Syrian Drama TV:Asia/Damascus
 Séries+:America/St_Johns
@@ -1261,6 +1268,7 @@ TNT Comedy (Germany):Europe/Berlin
 TNT Latin America:America/Argentina/Buenos_Aires
 TNT Serie:Europe/Berlin
 TNT Spain:Europe/Madrid
+TNT:America/New_York
 TNU:America/Montevideo
 TONTON:Asia/Kuala_Lumpur
 TQS:America/St_Johns
@@ -1417,6 +1425,7 @@ The Den:Europe/Dublin
 The Family Channel:America/New_York
 The Great Courses:America/New_York
 The Hub:America/New_York
+The Movie Network:America/Halifax
 The Nashville Network:America/New_York
 The National Network:America/New_York
 The Roku Channel:America/New_York
@@ -1546,6 +1555,7 @@ XY TV:America/New_York
 Xbox Video:America/New_York
 Xee:Europe/Copenhagen
 XtvN:Asia/Seoul
+YAHOO! View:America/New_York
 YLE:Europe/Helsinki
 YTV (JP):Japan
 YTV (UK):Europe/London

@@ -1624,3 +1624,13 @@ yes
 ערוץ 10
 ערוץ הילדים‎
 רשת
+ABC
+CTV Sci-Fi Channel
+TNT
+Syfy
+FreeForm
+Audience Network
+Sundance TV
+The Movie Network
+National Geographic Channel
+YAHOO! View

@@ -1,4 +1,4 @@
-"""get_tvdb_network_timezones.py
+"""get_network_timezones.py
 
 An over-engineered script for scraping networks (now called companies) from theTVDB and formatting them into something we can use.
 """
@@ -12,18 +12,21 @@ import sys
 import time
 import traceback
 from pathlib import Path
-from typing import Type
+from typing import Type, Union
 from urllib.parse import parse_qs, urlparse
 
 import coloredlogs
 import country_converter
 import pytz
 import requests
+import tvmaze.api
+import tvmaze.models
 import verboselogs
 from bs4 import BeautifulSoup
 from pytz import country_timezones
 from requests_cache import CacheMixin
 from requests_html import HTMLSession
+from tvmaze.expections import NetworkNotFound, WebChannelNotFound
 
 logger = logging.getLogger("")
 country_converter_logger = logging.getLogger("country_converter")
@@ -216,6 +219,51 @@ class Scraper:
             query = parse_qs(parsed_url.query)
             self._next_page = query.get("page")
 
+    def __process_tvmaze_result(self, item: Union[tvmaze.models.WebChannel, tvmaze.models.Network]):
+        try:
+            timezone = item.country.timezone
+        except AttributeError:
+            timezone = ""
+
+        if item.name not in self._new_list:
+            logger.verbose(f"Found result: {item.name}:{timezone} with type {item.__class__.__name__}")
+            self._new_list[item.name] = timezone
+        elif timezone:
+            logger.verbose(f"Setting result: {item.name}:{timezone} with type {item.__class__.__name__}")
+            self._new_list[item.name] = timezone
+
+    def scrape_tvmaze(self):
+        api = tvmaze.api.Api()
+
+        original_throttle = self.throttle_seconds
+        self.throttle_seconds = 2
+        self._next_page = self.start_page
+        while True:
+            try:
+                data = api.network.get(self._next_page)
+                self.__process_tvmaze_result(data)
+                self.sleep()
+                self._next_page += 1
+            except NetworkNotFound:
+                    logger.info(f"Finished processing {self._next_page - 1} Networks from tvmaze")
+                    break
+
+        self._next_page = self.start_page
+        while True:
+            try:
+                data = api.web_channel.get(self._next_page)
+                self.__process_tvmaze_result(data)
+                self.sleep()
+                self._next_page += 1
+            except WebChannelNotFound:
+                logger.info(f"Finished processing {self._next_page - 1} Web Channels from tvmaze")
+                break
+
+        self.throttle_seconds = original_throttle
+
+    def scrape_tmdb(self):
+        pass
+
     def sleep(self):
         if self.throttle:
             seconds = self.throttle_seconds
@@ -275,6 +323,8 @@ class Scraper:
         while self._next_page is not None:
             self.scrape_tvdb()
             self.sleep()
+
+        self.scrape_tvmaze()
 
         logger.info(f"Processed {self._pages_processed} pages from theTVDB")
 

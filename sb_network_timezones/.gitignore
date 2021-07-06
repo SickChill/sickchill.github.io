@@ -18,4 +18,4 @@ node_modules
 
 .coverage
 coverage.xml
-requests_cache.sqlite
+*_cache.sqlite
