@@ -1,6 +1,14 @@
+### v2021.07.12-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.06.16-1...v2021.07.12-1)
+
+* Merge branch 'develop'
+* HOTFIX: Logging errors calls to logging.exception were not being handled, which caused many users head scratching and confusion as to why thing were not working when they were not working.
+* Hotfix undefined TVShow type hint
+
 ### v2021.06.16-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/tags/v2021.04.10-1...v2021.06.16-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.10-1...v2021.06.16-1)
 
 * Update gruntfile
 * Update dependencies Remove thegft tracker (domain jacked) Allow 265 in more regexes
@@ -58,9 +66,9 @@
 * Bump qbittorrent-api from 2021.4.19 to 2021.4.20
 * Bump pymediainfo from 5.0.3 to 5.0.4
 
-### tags/v2021.04.10-1
+### v2021.04.10-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-3...tags/v2021.04.10-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.04.06-3...v2021.04.10-1)
 
 * Release 2021.4.10
 * Do not log info in postprocessor for "@eaDir". Fixes [#7072](https://github.com/SickChill/SickChill/issues/7072)
