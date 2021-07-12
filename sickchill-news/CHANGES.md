@@ -1,3 +1,14 @@
+### v2021.07.12-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-3...v2021.07.12-4)
+
+* Release 2021.7.12-6
+* Fix auto detection of git path when installer was used on windows
+* More path fixes to use nupkg python for windows
+* Set proper interpreter for windows
+* Add missing url type
+* Add ability to use a portable virtualenv module when it does not exist in the environment, also download and run get-pip.py when pip is not available
+
 ### v2021.07.12-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-2...v2021.07.12-3)
