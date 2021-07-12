@@ -1,3 +1,10 @@
+### v2021.07.12-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-2...v2021.07.12-3)
+
+* HOTFIX: Make sure we excplicitly specify python3 as the interpreter of new virtualenvs
+* Merge branch 'develop'
+
 ### v2021.07.12-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-1...v2021.07.12-2)
