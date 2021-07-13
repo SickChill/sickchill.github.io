@@ -1,3 +1,18 @@
+### v2021.07.13-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-4...v2021.07.13-1)
+
+* Merge branch 'master' into develop
+* isort
+* Fix deletion of tempfile created for virtualenv.pyz and get-pip.py (you can manually delete the temp files that were left behind) Better venv python executable detection for systems that use an unconventional method. Signed-off-by: miigotu <miigotu@gmail.com>
+* isort
+* Use pathlib in update_manager
+* Update dockerfile to work with new changes
+* Merge branch 'master' into develop
+* sc_update
+* SC comment cleanup
+* Poe format
+
 ### v2021.07.12-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-3...v2021.07.12-4)
