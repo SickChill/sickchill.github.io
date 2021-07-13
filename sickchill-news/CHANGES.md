@@ -1,3 +1,9 @@
+### v2021.07.13-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-1...v2021.07.13-2)
+
+* Daemonize before poetry/pip code is called, so services do not time out before they fork
+
 ### v2021.07.13-1
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.12-4...v2021.07.13-1)
