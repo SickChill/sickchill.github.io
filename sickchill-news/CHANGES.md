@@ -1,3 +1,9 @@
+### v2021.07.13-5
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-4...v2021.07.13-5)
+
+* Less log spam, update depends
+
 ### v2021.07.13-4
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-3...v2021.07.13-4)
