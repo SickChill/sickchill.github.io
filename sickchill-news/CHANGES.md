@@ -1,3 +1,10 @@
+### v2021.07.13-4
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-3...v2021.07.13-4)
+
+* Handle issue when getsitepackages does not exist
+* Publish 2021.7.13-2
+
 ### v2021.07.13-3
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-2...v2021.07.13-3)
