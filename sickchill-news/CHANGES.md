@@ -1,3 +1,9 @@
+### v2021.07.13-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-2...v2021.07.13-3)
+
+* Missed a file, release v2021.7.13-1
+
 ### v2021.07.13-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-1...v2021.07.13-2)
