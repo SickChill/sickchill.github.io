@@ -1,3 +1,10 @@
+### v2021.07.13-6
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-5...v2021.07.13-6)
+
+* Do not list links to the incorrect wheels, dont install requirements in docker build, let SC do it.
+* Release 2021.7.13-4
+
 ### v2021.07.13-5
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-4...v2021.07.13-5)
