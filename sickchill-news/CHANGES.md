@@ -1,3 +1,10 @@
+### v2021.07.14-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-6...v2021.07.14-1)
+
+* Fix source based updater
+* Some work on docker builder workflow and dockerfile
+
 ### v2021.07.13-6
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.13-5...v2021.07.13-6)
