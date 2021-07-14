@@ -1,3 +1,10 @@
+### v2021.07.14-3
+
+[full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.14-2...v2021.07.14-3)
+
+* update pythonpackage.yml
+* Fix label in pythonpackage.yml
+
 ### v2021.07.14-2
 
 [full changelog](https://github.com/SickChill/SickChill/compare/v2021.07.14-1...v2021.07.14-2)
