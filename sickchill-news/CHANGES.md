@@ -2565,12 +2565,20 @@
 
 ### v2020.01.03-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.22-1...v2020.01.03-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.22-2...v2020.01.03-1)
 
 * Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
 * Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
 * Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
 * Update translations (build 10420) [skip ci]
+
+### 2021.07.22-2
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.22-1...2021.07.22-2)
+
+* Release 2021.7.22-8
+* Ignore incompatibility between xo and grunt-contrib-uglify
+* Update JS
 
 ### 2021.07.22-1
 
