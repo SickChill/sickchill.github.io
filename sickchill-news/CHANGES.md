@@ -2565,12 +2565,33 @@
 
 ### v2020.01.03-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.14-6...v2020.01.03-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.22...v2020.01.03-1)
 
 * Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
 * Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
 * Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
 * Update translations (build 10420) [skip ci]
+
+### 2021.07.22
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.14-6...2021.07.22)
+
+* Release 2021.7.22-2
+* Fix formatting
+* Bump webpack from 4.46.0 to 5.45.1
+* Bump eslint-plugin-unicorn from 29.0.0 to 34.0.1
+* Bump grunt-contrib-sass from 1.0.0 to 2.0.0
+* Bump eslint from 7.30.0 to 7.31.0
+* Bump eslint-config-xo from 0.35.0 to 0.37.0
+* Bump xo from 0.41.0 to 0.42.0
+* Bump grunt-contrib-jshint from 1.1.0 to 3.0.0
+* Bump load-grunt-tasks from 3.5.2 to 5.1.0
+* Bump grunt-contrib-clean from 1.1.0 to 2.0.0
+* Bump coveralls from 3.1.0 to 3.2.0
+* Bump actions/stale from 3 to 4
+* Bump ava from 0.24.0 to 3.15.0
+* Bump black from 20.8b1 to 21.7b0
+* Use kodipydent-alt and beekeeper-alt
 
 ### 2021.07.14-6
 
