@@ -2565,12 +2565,19 @@
 
 ### v2020.01.03-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.23...v2020.01.03-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.23-1...v2020.01.03-1)
 
 * Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
 * Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
 * Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
 * Update translations (build 10420) [skip ci]
+
+### 2021.07.23-1
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2021.07.23...2021.07.23-1)
+
+* Publish 2021.7.23-1
+* Try to add syno wheelhouse dir to search paths for pip
 
 ### 2021.07.23
 
