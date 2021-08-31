@@ -41,6 +41,7 @@ ABC iview
 ABC1
 ABC2
 ABC3
+ABC
 ABS-CBN Broadcasting Company
 AHC
 ALLBLK
@@ -132,6 +133,7 @@ Astro Prima
 Astro Ria
 Astro Warna
 AtomFilms
+Audience Network
 Audience
 Australian Christian Channel
 B4U Movies
@@ -236,6 +238,7 @@ CTV (JP)
 CTV (TW)
 CTV Comedy
 CTV Drama
+CTV Sci-Fi Channel
 CTV Sci-Fi
 CTV
 CTi TV
@@ -542,6 +545,7 @@ France 5
 France Inter
 France Ô
 Fred TV
+FreeForm
 Freeform
 Frissons TV
 Fuel TV
@@ -850,6 +854,7 @@ National Geographic (AU/NZ)
 National Geographic (BG)
 National Geographic (FI)
 National Geographic (UK)
+National Geographic Channel
 National Geographic Wild
 National Geographic
 National Media Authority
@@ -1220,6 +1225,7 @@ Style
 Stöð 2
 Sub
 Sun Television
+Sundance TV
 SundanceTV
 SuoimiTV
 Super Channel
@@ -1230,6 +1236,7 @@ Superstar TV
 Superstation WGN
 Swarnawahini
 Swearnet
+Syfy
 Syndication
 Syrian Drama TV
 Séries+
@@ -1261,6 +1268,7 @@ TNT Comedy (Germany)
 TNT Latin America
 TNT Serie
 TNT Spain
+TNT
 TNU
 TONTON
 TQS
@@ -1417,6 +1425,7 @@ The Den
 The Family Channel
 The Great Courses
 The Hub
+The Movie Network
 The Nashville Network
 The National Network
 The Roku Channel
@@ -1546,6 +1555,7 @@ XY TV
 Xbox Video
 Xee
 XtvN
+YAHOO! View
 YLE
 YTV (JP)
 YTV (UK)
@@ -1624,13 +1634,4 @@ yes
 ערוץ 10
 ערוץ הילדים‎
 רשת
-ABC
-CTV Sci-Fi Channel
-TNT
-Syfy
-FreeForm
-Audience Network
-Sundance TV
-The Movie Network
-National Geographic Channel
-YAHOO! View
+STARZ
