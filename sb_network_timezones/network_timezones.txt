@@ -912,6 +912,7 @@ One 31:Asia/Bangkok
 One Channel:Europe/Athens
 One Magic:Africa/Johannesburg
 Open TV:Europe/Athens
+Oprah Winfrey Network:America/New_York
 Opto:Portugal
 Ora TV:America/New_York
 Orange TV España:Europe/Madrid
