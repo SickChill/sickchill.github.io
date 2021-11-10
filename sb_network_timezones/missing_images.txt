@@ -1108,6 +1108,7 @@ STAR Sports Malaysia
 STAR Sports Southeast Asia
 STAR Sports Taiwan
 STAR Vijay
+STARZ
 STV (TW)
 STV (UK)
 SUN TV
@@ -1634,4 +1635,3 @@ yes
 ערוץ 10
 ערוץ הילדים‎
 רשת
-STARZ
