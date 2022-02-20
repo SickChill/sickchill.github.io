@@ -2565,12 +2565,25 @@
 
 ### v2020.01.03-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/2022.02.17-3...v2020.01.03-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/2022.02.20...v2020.01.03-1)
 
 * Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
 * Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
 * Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
 * Update translations (build 10420) [skip ci]
+
+### 2022.02.20
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2022.02.17-3...2022.02.20)
+
+* Release 2022.02.22 Fix curly braces in request formatter, Fixes [#7886](https://github.com/SickChill/SickChill/issues/7886)
+* Update poetry (python) and yarn (npm) dependencies
+* Update upgrade_dependencies.yml
+* Update upgrade_dependencies.yml
+* Bump qbittorrent-api from 2022.1.27 to 2022.2.28 ([#7878](https://github.com/SickChill/SickChill/issues/7878))
+* Bump webpack from 5.69.0 to 5.69.1 ([#7879](https://github.com/SickChill/SickChill/issues/7879))
+* Bump grunt-contrib-jshint from 3.1.1 to 3.2.0 ([#7880](https://github.com/SickChill/SickChill/issues/7880))
+* Bump snyk from 1.854.0 to 1.855.0 ([#7881](https://github.com/SickChill/SickChill/issues/7881))
 
 ### 2022.02.17-3
 
