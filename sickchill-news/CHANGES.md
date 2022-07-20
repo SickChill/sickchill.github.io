@@ -2565,12 +2565,26 @@
 
 ### v2020.01.03-1
 
-[full changelog](https://github.com/SickChill/SickChill/compare/2022.02.20...v2020.01.03-1)
+[full changelog](https://github.com/SickChill/SickChill/compare/2022.07.20...v2020.01.03-1)
 
 * Fix error when sending a download to rtorrent9 that caused item to not be seen as snatched Fixes [#5802](https://github.com/SickChill/SickChill/issues/5802)
 * Ygg have changed their URL to www2.yggtorrent.ws ([#5801](https://github.com/SickChill/SickChill/issues/5801))
 * Rename Shudder icon to correct name. Fixes [#5790](https://github.com/SickChill/SickChill/issues/5790)
 * Update translations (build 10420) [skip ci]
+
+### 2022.07.20
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2022.02.20...2022.07.20)
+
+* Merge branch 'develop'
+* Make sure VIRTUAL_ENV is set when we restart into a virtualenv
+* Remove poetry.lock
+* Add updated pyproject.toml to master
+* Add back poetry.lock, update yarn.lock, and check for VIRTUAL_ENV environment variable to prevent race condition
+* Update dependabot.yml
+* Bump grunt from 1.4.1 to 1.5.2 ([#7948](https://github.com/SickChill/SickChill/issues/7948))
+* Bump minimist from 1.2.5 to 1.2.6 ([#7940](https://github.com/SickChill/SickChill/issues/7940))
+* Fix identifier for license in pyproject and fix LICENSE.md to include the full license
 
 ### 2022.02.20
 
