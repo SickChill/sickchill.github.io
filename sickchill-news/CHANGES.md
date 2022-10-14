@@ -1,3 +1,14 @@
+### 2022.10.13
+
+[full changelog](https://github.com/SickChill/SickChill/compare/2022.07.20...2022.10.13)
+
+* Release version 2022.10.13
+* Merge branch 'develop'
+* Update poetry (python) and yarn (npm) dependencies
+* Update upgrade_dependencies.yml
+* Update upgrade_dependencies.yml
+* style(maint): add pre-commit and commitizen ([#8244](https://github.com/SickChill/SickChill/issues/8244)) ([#8248](https://github.com/SickChill/SickChill/issues/8248))
+
 ### 2022.07.20
 
 [full changelog](https://github.com/SickChill/SickChill/compare/2022.02.20...2022.07.20)
