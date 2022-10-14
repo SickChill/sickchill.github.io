@@ -1,22 +1,30 @@
 version: 2
 updates:
-  - package-ecosystem: pip
-    directory: "/"
-    schedule:
-      interval: daily
-    target-branch: develop
-  - package-ecosystem: github-actions
-    directory: "/"
-    target-branch: develop
-    schedule:
-      interval: daily
-  - package-ecosystem: docker
-    directory: "/"
-    target-branch: develop
-    schedule:
-      interval: daily
-  - package-ecosystem: npm
-    directory: "/"
-    target-branch: develop
-    schedule:
-      interval: daily
+- package-ecosystem: pip
+  directory: "/sb_network_timezones"
+  target-branch: develop
+  schedule:
+    interval: daily
+  allow:
+    dependency-type: all
+- package-ecosystem: github-actions
+  directory: "/"
+  target-branch: develop
+  schedule:
+    interval: daily
+  allow:
+    dependency-type: all
+- package-ecosystem: docker
+  directory: "/"
+  target-branch: develop
+  schedule:
+    interval: daily
+  allow:
+    dependency-type: all
+- package-ecosystem: npm
+  directory: "/"
+  target-branch: develop
+  schedule:
+    interval: daily
+  allow:
+    dependency-type: all
