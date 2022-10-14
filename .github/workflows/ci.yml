@@ -8,12 +8,14 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.sha }}
   cancel-in-progress: true
 
+defaults:
+  run:
+    working-directory: sb_network_timezones
+    shell: bash
+
 jobs:
   test:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: sb_network_timezones
     steps:
       - uses: actions/checkout@v2
       -
