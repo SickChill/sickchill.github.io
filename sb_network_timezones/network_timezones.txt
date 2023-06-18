@@ -585,6 +585,7 @@ H2:America/New_York
 HBO Asia:Singapore
 HBO Canada:America/St_Johns
 HBO España:Europe/Madrid
+HBO Europe:Europe/Madrid
 HBO Latin America:America/Noronha
 HBO Magyarország:Europe/Budapest
 HBO Max:America/New_York
@@ -633,10 +634,12 @@ ITV Cymru Wales:Europe/London
 ITV Encore:Europe/London
 ITV Granada:Europe/London
 ITV Hub:Europe/London
+ITV1:Europe/London
 ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
 ITV:Europe/London
+ITVX:Europe/London
 ITVBe:Europe/London
 Imagen Televisión:America/Mexico_City
 Imago TV:Europe/Paris
@@ -1161,6 +1164,7 @@ Sky Atlantic (UK):Europe/London
 Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
+Sky Comedy:Europe/London
 Sky Crime (UK):Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
@@ -1291,6 +1295,7 @@ TSN:America/St_Johns
 TSR:Europe/Zurich
 TTV (PL):Poland
 TTV:Asia/Taipei
+Tubi:America/New_York
 TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Fri:Europe/Copenhagen
