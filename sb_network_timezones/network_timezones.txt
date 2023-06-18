@@ -1295,6 +1295,7 @@ TSN:America/St_Johns
 TSR:Europe/Zurich
 TTV (PL):Poland
 TTV:Asia/Taipei
+Tubi:America/New_York
 TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Fri:Europe/Copenhagen
