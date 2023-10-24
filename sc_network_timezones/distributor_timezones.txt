@@ -1,0 +1,20 @@
+Anchor Bay Entertainment:America/New_York
+Anchor Bay Films:America/New_York
+Columbia Music Video:America/New_York
+Columbia TriStar Home Entertainment:America/New_York
+Crunchyroll:America/New_York
+DIA TV:Asia/Seoul
+FUNimation Entertainment:America/New_York
+HIDIVE:America/New_York
+Mediterráneo Mediaset España Group:Europe/Madrid
+NBCUniversal Global Distribution:America/New_York
+Sony Pictures Classics:America/New_York
+Sony Pictures Home Entertainment:America/New_York
+Sony Pictures Releasing:America/New_York
+Sony Pictures Releasing International:America/New_York
+Universal Marion Corporation (UMC):America/New_York
+Universal Pictures Home Entertainment:America/New_York
+Universal Pictures International (UPI):Europe/London
+Vertical Entertainment:America/New_York
+Viacom 18 Motion Pictures:Asia/Kolkata
+dTV:Japan
