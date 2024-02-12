@@ -1,9 +1,26 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickChill/SickChill/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickChill/SickChill/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).  
+All issues and bug reports can be discussed or opened in help at **[Discord: #Chat](https://discord.com/channels/502612977271439372/502612977803984898)** or **[Discord: #Help](https://discord.com/channels/502612977271439372/1048317980343283733)** and you **MUST** follow **ALL** [guidelines](https://github.com/SickChill/sickchill.github.io#submitting-a-bugissue-ticket).  
+GitHub remains as the repository.  
+
+**[Discord: #Chat](https://discord.com/channels/502612977271439372/502612977803984898)**  
+**[Discord: #Help](https://discord.com/channels/502612977271439372/1048317980343283733)**
 
 <br/>
 
-####2020-08-31###
+####2024-02-02####
+
+Major updates in packages and functional improvements.
+Head to [Discord:#Chat](https://discord.com/channels/502612977271439372/502612977803984898) for all SC items.
+
+<br/>
+
+####2024-01-31####
+
+Much news has been avoided, busy with contemplating why 42.  
+
+<br/>
+
+####2020-08-31####
 
 Just a quick update. Movies support is currently being worked on, so I really need to get the python3 code into users hands and out of develop.  
 I have a new DB added for movies and code is already in to add movies into your SC. 
@@ -11,7 +28,7 @@ The code for searching and downloading them is still being worked out and the GU
 I do not anticipate movies support taking a ton of time to finish up, although all providers will need updated one by one to support searching and downloading movies.  
 SC uses a whole new DB system for movies support, and eventually will hopefully have an option to import your couchpotato databases.  
 
-Python3 support is ready for prime time (as far as we know, many have been using it for awhile now).  
+Python3 support is ready for prime time (as far as we know, many have been using it for a while now).  
 I am going to do my best to wait a week from today before I merge develop to master.  
 When this happens, if you are using docker, pip, etc everything will be seemless.  
 
@@ -116,13 +133,16 @@ and try to avoid checking github for a full 24 hours. Don't worry, I will be bac
 
 <br/>
 
+
 ####2018-10-24####
 
 Due to a phony trademark claim, we have renamed the organization and application to SickChill.  
 Note that echel0n is in control of the old SickRage organization and is neither trusted or afiliated with this project.  
 (even references to the old organization and application name have been renamed in this file)  
 
-</br>
+
+<br/>
+
 
 ####2017-08-05####
 
@@ -375,7 +395,7 @@ Also as a consequence of the TVRage shutdown we where forced to push some change
     - Now when you will add a **NEW** show you will be asked for two status settings: already aired episodes and unaired episodes.
 
 <span style="margin-left:100px">
-<img src="https://cloud.githubusercontent.com/assets/2620870/8724471/3cb943f4-2ba6-11e5-99cd-d645fb9e824f.png" width="300">
+<img src="https://cloud.githubusercontent.com/assets/2620870/8724471/3cb943f4-2ba6-11e5-99cd-d645fb9e824f.png" width="300" alt="SickChill#5159">
 </span>
 
 + **Providers:** Sick beard index and Womble provider are blocking SR application so avoid using them
