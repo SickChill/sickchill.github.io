@@ -105,6 +105,7 @@ Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
 Alpha TV:Europe/Athens
 Altice Studio:Europe/Paris
+Amazon Freevee:America/New_York
 Amazon Prime Video:America/New_York
 America One Television Network:America/New_York
 Amman TV:Asia/Amman
@@ -565,6 +566,7 @@ GMM25:Asia/Bangkok
 GNT:America/Noronha
 GTV:Asia/Taipei
 GYAO!:Japan
+GagaOOLala:Asia/Taipei
 Gaia:America/New_York
 Game One:Europe/Paris
 Game Show Network:America/New_York
@@ -639,8 +641,8 @@ ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
 ITV:Europe/London
-ITVX:Europe/London
 ITVBe:Europe/London
+ITVX:Europe/London
 Imagen Televisión:America/Mexico_City
 Imago TV:Europe/Paris
 Independent Television Network:Asia/Colombo
@@ -834,6 +836,7 @@ NET TV:America/Argentina/Buenos_Aires
 NET.:Asia/Jakarta
 NFL Network:America/New_York
 NHK BS1:Japan
+NHK Educational TV:Japan
 NHK:Japan
 NHL Network:America/New_York
 NHNZ:Pacific/Auckland
@@ -953,6 +956,7 @@ Pivot:America/New_York
 Planet Green:America/New_York
 Planète+:America/St_Johns
 Play More:Europe/Brussels
+Play Plus:America/Noronha
 Play UK:Europe/London
 PlayJam:Europe/London
 PlayStation Network:America/New_York
@@ -973,6 +977,7 @@ Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
 Prime Box Brazil:America/Noronha
+Prime Video:America/New_York
 ProSieben Maxx:Europe/Berlin
 ProSieben:Europe/Berlin
 Prva Srpska Televizija:Europe/Belgrade
@@ -1190,6 +1195,7 @@ Smithsonian Channel:America/New_York
 Snapchat Originals:America/New_York
 SoHo:Australia/Lord_Howe
 Sohu TV:Asia/Shanghai
+Sony Channel:Africa/Johannesburg
 Sony Entertainment Television:America/New_York
 SonyLIV:Asia/Kolkata
 Space (Brasil):America/Noronha
@@ -1295,7 +1301,6 @@ TSN:America/St_Johns
 TSR:Europe/Zurich
 TTV (PL):Poland
 TTV:Asia/Taipei
-Tubi:America/New_York
 TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Fri:Europe/Copenhagen
@@ -1461,6 +1466,7 @@ Treehouse TV:America/St_Johns
 Trend E:Asia/Seoul
 TrueID:Asia/Bangkok
 TrueVisions:Asia/Bangkok
+Tubi:America/New_York
 Turner South:America/New_York
 Twitch:America/New_York
 Twitter:America/New_York
@@ -1483,6 +1489,7 @@ USA Network:America/New_York
 UTV:Europe/Dublin
 Unis TV:America/St_Johns
 United Nations Television:America/New_York
+Univer Video:America/Noronha
 Universal Kids:America/New_York
 Universal TV:America/Noronha
 Universo:America/New_York
@@ -1567,6 +1574,7 @@ YTV (JP):Japan
 YTV (UK):Europe/London
 YTV:America/St_Johns
 Yahoo! Screen:America/New_York
+Yahoo! View:America/New_York
 YouTube Premium:America/New_York
 YouTube:America/New_York
 Youku:Asia/Shanghai
@@ -1597,6 +1605,7 @@ fridayVideo:Asia/Taipei
 here!:America/New_York
 hulu Japan:Japan
 iQiyi:Asia/Shanghai
+iWantTFC:Asia/Manila
 ivi (Russia):Europe/Kaliningrad
 jTBC:Asia/Seoul
 motorsports.tv:Europe/London
@@ -1640,9 +1649,3 @@ yes:Israel
 ערוץ 10:Israel
 ערוץ הילדים‎:Israel
 רשת:Israel
-GagaOOLala:
-NHK Educational TV:
-Play Plus:
-Sony Channel:
-Univer Video:
-iWantTFC:
