@@ -1,0 +1,139 @@
+[tool.poetry]
+name = "tvdb-network-timezones"
+version = "2021.6.26-1"
+description = "Tool to generate lists of networks, companies, and their timezones from theTVDB"
+authors = ["miigotu <miigotu@gmail.com>"]
+license = "GPLv3"
+readme = "README.md"
+packages = [{include = "get_network_timezones.py"}]
+
+[tool.poetry.dependencies]
+python = " >=3.6.2,<4.0"
+poethepoet = "^0.10.0"
+requests-cache = "^0.6.4"
+beautifulsoup4 = "^4.9.3"
+pytz = "^2021.1"
+coloredlogger = "^1.3.12"
+coloredlogs = "^15.0.1"
+verboselogs = "^1.7"
+requests-html = "^0.10.0"
+country-converter = "^0.7.3"
+
+[tool.poetry.dev-dependencies]
+isort = "^5.9.1"
+black = "^21.6-beta.0"
+coveralls = "^3.1.0"
+mock = "^4.0.3"
+Babel = "^2.9.0"
+pytest-vcr = "^1.0.2"
+pytest-cov = "^2.12.1"
+pytest-isort = "^2.0.0"
+flake8-pytest-style = "^1.5.0"
+flake8-commas = "^2.0.0"
+flake8-quotes = "^3.2.0"
+flake8-bandit = "^2.1.2"
+flake8-docstrings = "^1.6.0"
+codecov = "^2.1.11"
+pytest = "^6.2.4"
+poethepoet = "^0.10.0"
+flake8-coding = "^1.3.2"
+flake9 = "^3.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "get_network_timezones.py"]
+addopts = "--cov=get_network_timezones.py --cov-report xml --no-cov-on-fail"
+
+[tool.isort]
+line_length = 160
+combine_as_imports = true
+order_by_type = false
+remove_imports = [ "from __future__ import absolute_import", "from __future__ import print_function", "from __future__ import unicode_literals" ]
+extra_standard_library = [ "posixpath", "ntpath" ]
+use_parentheses = true
+src_paths = [ "get_network_timezones.py" ]
+profile = "black"
+
+[tool.black]
+line-length = 160
+target_version = ['py38']
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.venv         # exclude virtualenv
+    | \.venv
+    | build
+    | dist
+  )/
+)
+'''
+
+[tool.flake8]
+exclude = [
+    ".eggs",
+    ".git",
+    "__pycache__",
+    "docs/source/conf.py",
+    "build",
+    "dist",
+    ".venv",
+]
+inline-quotes = "double"
+docstring-convention = "numpy"
+ignore = [
+    "C812",
+    "D4",
+    "D400",
+    "D401",
+    "D403",
+    "D406",
+    "D407",
+    "D200",
+    "D202",
+    "D205",
+    "D100",
+    "D101",
+    "D102",
+    "D103",
+    "D104",
+    "D106",
+    "S101",
+    "PT009",
+    "PT017"
+]
+
+max_line_length = 160
+show_source = "True"
+no-accept-encodings = "True"
+builtins = ["_"]
+select = 'C103'
+
+[tool.poe.tasks]
+ava = "which ava && ava"
+codecov = "codecov"
+pytest = "pytest"
+xo = "which xo && xo"
+yarn = "which yarn && yarn"
+
+black = {cmd = "black .", help = "Reformat code using black"}
+_black = {cmd = "black . --check --diff", help = "Check code style using black"}
+isort = {cmd = "isort .", help = "Fix import order"}
+_isort = {cmd = "isort . --check-only --diff", help = "Check import order"}
+flake8 = {cmd = "flake8 --select C103 update_network_lists.py", help = "Check for undefined variables"}
+
+lint = ["_black", "_isort", "flake8"]
+format = ["black", "isort", "flake8"]
+
+install_yarn = {shell = "which npm && npm install -G"}
+yarn_upgrade = {cmd = "yarn upgrade", help = "update yarn dependancies"}
+poetry_update = {shell = "poetry update", help = "update python dependancies"}
+_add_locks = {shell = "git add poetry.lock yarn.lock", help = "Add yarn and poetry lock files"}
+depup = ["poetry_update", "yarn_upgrade", "_add_locks"]
+
+run = "python get_network_timezones.py"
