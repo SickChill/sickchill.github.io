@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+
 def test_loads():
     scene_exceptions_file = Path(__file__).parent.with_name("scene_exceptions.json")
     print(scene_exceptions_file.exists())
@@ -13,5 +14,6 @@ def test_loads():
         json.dump(scene_exceptions_dict, fp, indent=2, sort_keys=True)
 
     assert scene_exceptions_dict
+
 
 test_loads()

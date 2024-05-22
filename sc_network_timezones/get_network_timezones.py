@@ -179,7 +179,6 @@ class Scraper:
         self._include_types = {name.strip().lower() for name in value.split(",")}
 
     def scrape_tvdb(self):
-
         logger.info(f"Scraping page: {self._next_page}")
 
         companies_url = "https://thetvdb.com/companies/"
@@ -461,7 +460,6 @@ class Scraper:
 
 
 if __name__ == "__main__":
-
     scraper = Scraper()
     if sys.getdefaultencoding() != "utf-8" or sys.getfilesystemencoding() != "utf-8":
         logger.error("Default encoding and file system encoding must me utf-8 for use this script")

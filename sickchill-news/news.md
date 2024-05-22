@@ -7,6 +7,13 @@ GitHub remains as the repository.
 
 <br/>
 
+####2024-03-01####
+
+Major updates in packages and functional improvements.
+Head to [Discord:#Chat](https://discord.com/channels/502612977271439372/502612977803984898) for all SC items.
+
+<br/>
+
 ####2024-02-02####
 
 Major updates in packages and functional improvements.
