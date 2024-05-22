@@ -12,6 +12,11 @@ GitHub remains as the repository.
 Major updates in packages and functional improvements.
 Head to [Discord:#Chat](https://discord.com/channels/502612977271439372/502612977803984898) for all SC items.
 
+Update: If you get a warning in your log like **Missing time zone for network:** those can be added [here.](https://github.com/SickChill/sickchill.github.io/blob/master/sc_network_timezones/network_timezones.txt)  
+The location has been updated but keeps the old one for older installations.  
+This info is used to calculate the exact airtime of a show in your specific timezone. This allows SickChill to start searching more precise, without this the search starts at exactly midnight local time.  
+
+
 <br/>
 
 ####2024-02-02####

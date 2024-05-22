@@ -19,7 +19,7 @@ jobs:
       - name: Run network timezone updater.
         run: |
           pip install poethepoet
-          cd sb_network_timezones
+          cd sc_network_timezones
           poetry install --no-root
           poe poetry_update
           poe run
@@ -27,10 +27,10 @@ jobs:
         with:
           commit_message: Update networks and timezones
 
-          branch: sb_network_timezones
+          branch: sc_network_timezones
           commit_options: '--no-verify --signoff'
 
-          file_pattern: sb_network_timezones
+          file_pattern: sc_network_timezones
 
           # Optional commit user and author settings
           commit_user_name: miigotu
