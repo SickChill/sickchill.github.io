@@ -122,6 +122,7 @@ Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apple Music:America/New_York
 Apple TV+:America/New_York
+Apple TV:America/New_York
 Arena:Australia/Lord_Howe
 Arirang TV:Asia/Seoul
 Arte Creative:Europe/Paris
