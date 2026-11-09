@@ -1,20 +1,59 @@
+1091 Pictures:Asia/Ho_Chi_Minh
+3C Films Group:America/Argentina/Buenos_Aires
+Adam Film:Europe/Istanbul
+All3Media International:Europe/London
 Anchor Bay Entertainment:America/New_York
 Anchor Bay Films:America/New_York
+Bridgestone Multimedia:America/New_York
+Central Park Films:Asia/Seoul
+Charisma Group:Asia/Amman
+Cineflix Rights:Europe/London
+Cinemundo:America/Puerto_Rico
 Columbia Music Video:America/New_York
 Columbia TriStar Home Entertainment:America/New_York
+Cranked Up Films:America/New_York
 Crunchyroll:America/New_York
+DECAL:America/New_York
 DIA TV:Asia/Seoul
+Distrib Films:America/New_York
+Dollar Film:Africa/Cairo
+Dutch CORE Media:Europe/Amsterdam
+El Dokki Video Film:Africa/Cairo
 FUNimation Entertainment:America/New_York
+GjirafaVideo:
+Grasshopper Film:America/New_York
+Graça Filmes:America/Noronha
+Greenwich Entertainment:America/New_York
 HIDIVE:America/New_York
+Heliopolis Film:Africa/Cairo
+Horus for Video and Cinema:Africa/Cairo
+IMPS:
+Icarus Films:America/New_York
+Jinga Films:Europe/London
+Lionsgate Play:Asia/Kolkata
+Lusomundo:America/Puerto_Rico
+MOVIE&NEW:Asia/Seoul
 Mediterráneo Mediaset España Group:Europe/Madrid
+Melo e Castelo Branco:America/Puerto_Rico
+Misr El Arabia Films:Africa/Cairo
 NBCUniversal Global Distribution:America/New_York
+NOS Audiovisuais:America/Puerto_Rico
+Paramount Domestic Television:America/New_York
+Paramount Worldwide Acquisition Group:America/New_York
+Paris Filmes:America/Noronha
+Rising Star Entertainment:Europe/London
+Roadside Attractions:America/New_York
+Sala46:Europe/Madrid
 Sony Pictures Classics:America/New_York
 Sony Pictures Home Entertainment:America/New_York
 Sony Pictures Releasing:America/New_York
 Sony Pictures Releasing International:America/New_York
+United Art Group:Africa/Cairo
+United Films Company:Africa/Cairo
 Universal Marion Corporation (UMC):America/New_York
 Universal Pictures Home Entertainment:America/New_York
 Universal Pictures International (UPI):Europe/London
 Vertical Entertainment:America/New_York
 Viacom 18 Motion Pictures:Asia/Kolkata
-dTV:Japan
+Walid Tabi'i Films:Africa/Cairo
+Warner Bros. Discovery:America/New_York

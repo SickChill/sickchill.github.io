@@ -1,36 +1,39 @@
-#0
 1+1
 10 Bold
 10 Peach
-13ème rue
-2M
+10 Shake
+24
 2×2
 3+
+360
+3Plus
 3net
 4+
 5+
+5
 5Star
 6'eren
 6+
-6play
-6ter
 7 RM Spain
 8TV
 A Haber
 A+
-AB1
+AAN TV
+ABC (JP)
 ABC Comedy
-ABC Kids
+ABC Entertains
 ABC Me
+ABC TV (JP)
+ABC TV Plus
 ABC iview
-ABS-CBN Broadcasting Company
-ALLBLK
+ABEMA
+ABS-CBN
+AIS PLAY
 ALT Balaji
-ANT1
 APTN
+ARD alpha
 ART TV
 ARY Digital
-ARY One World
 ARY Shopping Channel
 ARY Zouq
 ATN Aastha Channel
@@ -42,34 +45,35 @@ AXN España
 AXN Polska
 Action
 Adult Channel
-Adult Swim (FR)
 Africa Magic
 Aftenposten
 Aizo TV
 Al Alam
 Al Aoula
-Al Arabiyya
+Al Arabiya
 Al Badeel
+Al Hayah
 Al Hidaya Al Libiya
 Al Jadeed
 Al Jamahiriya TV English
 Al Libiya
 Al Mayadeen
 Al Mounawaa
-Al Nahar
 Al Shababiyah
 Al-Jamahiriya TV
 Al-Madina TV
-Alibi
+AlSharqiya
 All 4
-AlloCiné
 Alnabaa
 Alpha TV GUJARATI
 Alpha TV PUNJABI
 Altice Studio
+Alwayz Shortdrama
+Amarin TV
 Amman TV
 América TV
 And TV
+Angel
 Anhui TV
 Anime Hodai
 Anime OAV
@@ -79,6 +83,7 @@ Apple Music
 Arirang TV
 Arte Creative
 Arte1
+Arutz Hayeladim
 Astro Awani
 Astro Citra
 Astro Oasis
@@ -91,66 +96,68 @@ B4U Movies
 B4U Music
 B92
 BBANGYA TV
+BBC Cymru Wales
 BBC Kids
-BBC Music
-BBC News
-BBC Northern Ireland
-BBC Parliament
+BBC News Arabic
+BBC One Cambridgeshire
+BBC One Channel Islands
+BBC One London
+BBC One North East
+BBC One North West
+BBC One Northern Ireland
+BBC One Oxfordshire
+BBC One Scotland
+BBC One Wales
+BBC One Yorks & Lincs
+BBC One Yorkshire
+BBC Two Wales
 BBC UKTV (AU)
-BBC Wales
-BBC World News
+BET Africa
 BFM TV
 BNNVARA
 BNT1
 BRTN TV2
 BYUtv
+BabyFirst
 BabyTV
 Baiskoafu
+Band
 BeTV
 Betevé
 Beyaz TV
 Big Ten Network (BTN)
-Blackpills
+Binge
 Blaze
-Blim
 Bloomberg Television
 Blue Sky (Greece)
-Bravo (NZ)
-BritBox
-BrutX
+Bounce
+Box Brazil Play
+Brat TV
 Bubble Hits
 C31
-C8
-CBC (EG)
-CBC Gem
-CBC News Network
 CBS Reality (UK)
+CCN TV6
 CDA
 CFPL-TV
 CGV
 CHCH-TV
 CHOCO TV
+CHUKYO TV (CTV)
 CI
-CITV
 CMTV
 CN8
 CNBC TV18
-CNews
 CONtv
 CPAC
 CRTV
-CStar
 CTC (RU)
 CTS
-CTV (CN)
-CTV (JP)
-CTV (TW)
-CTV Comedy
-CTV Drama
-CTV Sci-Fi
+CTV Comedy Channel
+CTV Drama Channel
 CTV Sci-Fi Channel
 CTi TV
 Cable TV
+Cairo Centric
 Canadian Learning Television
 Canal 10 (AR)
 Canal 10 Saeta
@@ -160,58 +167,54 @@ Canal 22
 Canal 4 Montecarlo
 Canal 5
 Canal 9 (AR)
-Canal Brasil
 Canal Famille
 Canal J
+Canal Nou
 Canal Once
+Canal Panda
 Canal Q
 Canal Sur
 Canal Vie
-Canal de las Estrellas
 Canal+ (ES)
-Canal+ Cyfrowy
+Canal+ Comédie
 Carlton Central
+Carousel
 Cartoon Hangover
-Cartoon Network (UK)
-Cartoon Network Brasil
+Cartoon Network Arabic
 Cartoonito
 Casa
 Caution Zero
+Centro de Televisão da Anhanguera
 Channel 2
-Channel 3
 Channel 5 (SG)
 Channel 5 (TH)
 Channel 6
 Channel 7
-Channel 8
 Channel 8 (TH)
+Channel 8
 Channel 9
-Channel A
 Channel NewsAsia
-Channel One
 Channel U
 Channel [V]
 Chart Show TV
+Chaupal
 Chilevisión
 Choice
 Chorus Sports
 Christian Broadcasting Network
-Chubu-Nippon Broadcasting
-Chérie 25
 Cielo
 Cine 5
+CineBrasil TV
+Cinema Heaven
+Cinema One
 City Channel
-CityTV
+Citytv
+Claro Video
 Classic FM TV
 Cloo (fka Sleuth)
 Colors TV
 Columbia Broadcasting System, Inc.
-Comedy Central (DE)
-Comedy Central (ES)
-Comedy Central (FR)
-Comedy Central (Latin America)
 Community Channel
-Comédie !
 Comédie+
 Conmebol TV
 Contar
@@ -222,58 +225,53 @@ Crime & Investigation Network (AU)
 Crime & Investigation Network (Europe)
 Crime & Investigation Network (UK)
 Crime & Investigation Network (US)
+Crime District
+Crunchyroll Channel
+DAZN
 DD-Gujarati
 DDR1
 DMAX (IT)
-DMC
+DMM TV
 DR K
+DR P3
 DR Ramasjang
 DR Ultra
 DRAMAcube
 DW (Arabia)
 DaAi TV
+DailyWire+
 Dark
 Daum tvPot
 Dawn News
 DeporTV
 Deutsche Welle TV
+Dice Media
 Direct-to-video
-Discovery (NL)
 Discovery Channel (AU)
 Discovery Channel (PL)
 Discovery Channel (SE)
 Discovery GO
 Discovery HD World
 Discovery History
+Discovery Home & Health (BR)
 Discovery Life
 Discovery MAX
 Discovery Shed
-Discovery+
-Discovery+ (SE)
-Disney Channel (BR)
-Disney Channel (DE)
-Disney Channel (FR)
-Disney Channel (IT)
-Disney Channel (Latin America)
-Disney Channel (NL)
-Disney Channel (UK)
-Disney XD (Latin America)
-Disney+ Hotstar
+Disney Jr.
 DisneyLife
 Dlife
 Doordarshan News
 Doordarshan Sports
 Dost TV
 Draemong
-Dragon TV
 DramaH
-DramaX
 DreamWorks Channel
 DrinkTV
 Duck TV
 Duna TV
 E-Channel
-EBS
+EBC
+ENA
 ENTV
 EPIC TV
 ERT
@@ -282,22 +280,22 @@ ESPN Hong Kong
 ESPN India
 ESPN Philippines
 ESPN Taiwan
-ESPN+
 ESPN2
 ETB1
 ETB2
-ETTV
+ETC
 ETTV Yoyo
-ETV
 ETV Gujarati
+ETV
+EXXEN
 Earwolf Podcast Network
 EbonyLife TV
 Echorouk TV
 El Djazairia One
 El Garage TV
 El Khabar Broadcasting Company (KBC)
-El Trece
-Eleven
+El Shams
+Elhiwar ElTounsi
 Elisa Viihde Viaplay
 Elle Girl
 Encore
@@ -308,33 +306,35 @@ Estação Cultura da TVE
 European Broadcasting Union (EBU)
 Express Entertainment
 Expresso
-Exxen
 F1TV
 FEARNet
 FEM
-FOD
+FIFA+
+FOUR
 FOX Reality
 FOX Traveller
 FOX Türkiye
-FOX+
+FS1
+FS2
+FTV Prima
 FTV
-FX (BR)
-FX (Latin America)
-Family (CA)
-Family CHRGD
+Family Channel
 Family Gekijo
 Fantastic TV
 Fashion TV
 Feeln
+Feliz7Play
 Filles TV
+FilmNet
 FilmOn.tv
 Five Life
 Five US
 Fix & Foxi
+Flavour Network
 Flooxer
 FlopTV
+Flow
 Food Network Kitchen
-Forever Dog
 Formula 1 TV
 Fox 1 (Latin America)
 Fox Action (Latin America)
@@ -344,22 +344,16 @@ Fox Channel (FI)
 Fox Channel (IT)
 Fox Cinéma
 Fox Classics
-Fox Family
 Fox Family (Latin America)
+Fox Family
 Fox Life (IT)
 Fox Movies
-Fox Nation
-Fox News
 Fox Showcase
 Fox Sports (AU)
-Fox Sports 2
 Fox Sports Net
-Fox Telecolombia
 Fox8
 Foxtel Arts
-France 5
 France Inter
-France Ô
 Fred TV
 Frissons TV
 Fuel TV
@@ -368,60 +362,53 @@ Fusion
 Futura
 GAIN
 GEO Super
-GMA
+GMA Network
 GMC TV
-GMM One
-GMM25
 GTV
 GYAO!
-GagaOOLala
+GZBN
 Gaia
-Game One
-GameTV Canada
+GameTV
 Gazeta
-Geo TV
-GloboNews
-Globoplay
+Gley
 Gloob
 Go90
 GoPlay
-Golf Channel
+Gshow
 Guardian Television Network
-Gulli
 HBO Asia
+HBO Brazil
 HBO España
 HBO Magyarország
 HIFI
 HKTV
-HLN
 HUMAN
 Hakka TV
-Hallmark Movies & Mysteries
-Hallmark Movies Now
+Hallmark Mystery
+Hallmark+
 Heartland
 Hikari TV
-Histoire
+Histoire TV
 Historia (CA)
 Historia (ES)
-History (UK)
 History Canada
+History Hit
 Hoichoi
 Hokkaido Television Broadcasting
-Hrvatska radiotelevizija
+Home Network
+HonorClub
+Hulu Japan
 Hum TV
-Hunan TV
 Hungama
 Hír TV
 IB3
 ICE TV
+ICI ARTV
 ICI TOU.TV
-ICI Télé
 ICTV
+IMPACT Plus
 INSP
-ITV Central
 ITV Cymru Wales
-ITV Hub
-ITVBe
 Imagen Televisión
 Imago TV
 Independent Television Network
@@ -430,13 +417,15 @@ Indus News
 Indus Vision
 Infinity
 Insight TV
-Instagram / IGTV
 Investigation
-J
+J-One
+J:COMテレビ
 JIM
-JTBC2
 JW.org
+Jawwy TV
 Jeuxvideo.com
+JioCinema
+JioHotstar
 Joi
 Joiz (CH)
 Joiz (DE)
@@ -446,43 +435,41 @@ Jupiter Broadcasting
 K2
 KBS 1
 KBS 2
-KBS Joy
-KBS World
 KCET
+KCTV
 KKTV
 KPN Presenteert
 KTN
 KVOS
 Kakao TV
 Kampüs TV
-Kan
 Kanal 4 (DK)
-Kanal 5 (SE)
 Kanal 7
 Kanal A (TR)
 Kanal D Romania
-Kansai TV
-Kashish TV
+Kapamilya Channel
 Kerrang! TV
 Keshet
-Keshet 12
-Kids and Teens TV
+Kids and Teens Television
 KinoPoisk
 Kiss
 Knowledge Network
 Korean Central Television
 Kunskapskanalen
-Kyushu Asahi Broadcasting
 Kyushu Asahi Broadcasting (KBC)
-L'Équipe 21
-LCI
+Kyushu Asahi Broadcasting
 LINE TV (TH)
 LNK TV
-La 2 (TVE2)
+LRT TV
+La 1
+La 2
 La Cinq
 La Red
 La Siete
+La chaîne L'Équipe
 La5
+Las Estrellas
+Latvijas Televīzija
 Lebanese Broadcasting Corporation International
 LewSpears (Australia)
 Liberty Channel
@@ -494,7 +481,6 @@ Libya Awalan TV
 Life OK
 LifeStyle FOOD
 LifeStyle HOME
-Lifetime (UK)
 Lifetime Korea
 Line TV
 Live Well Network
@@ -503,63 +489,50 @@ London Live
 Longhorn Network
 Lâlegül TV
 M-Net
-MBC
-MBC 4 (UAE)
-MBC Drama
-MBC Drama (UAE)
-MBC Every1
-MBC Masr
-MBC Plus Media
-MBC Queen
-MBN
+MBC ON
+MBC Plus
+MBC Shahid
 MCE TV (Ma Chaîne Étudiante)
-MCM
 MCOT
-MEGA
+MGM+
+MHz Choice
 MLB Network
+MNC TV
 MNN
-MSNBC
-MTV (AU/NZ)
-MTV (CA)
-MTV (FR)
-MTV (Lebanon)
-MTV (PL)
+MPT 1
+MS NOW
 MTV Base
 MTV Dance
-MTV España
 MTV Hits
-MTV India
-MTV Italia
-MTV Latin America
 MTV Live
-MTV Mandarin
 MUTV
-MX
-MagentaTV
+MX Player
 Magic
-Magnolia Network
-Magyar Televízió
-Mais na tela
+Majid
 Mango TV
 MasterClass
 MavTV
 Maxdome
 MeVue (USA)
+Means TV
 Mediaset
-Mega Channel
+Melody
 Mnet
+Moga Comedy
 Moi & Cie
 Mondo TV
 MoonTV
-MotorTrend
-Much
+More.tv
+Movie Central
+Movistar Series (España)
+Movistar TV
 Much TV
-MuchMusic
+Much
 MyNetworkTV
-MyTF1
 Mya
+Mzansi Magic
 Māori Television
-NAVER tvcast
+NAVER SERIES ON
 NBA TV
 NBC Sports Network
 NDTV 24x7
@@ -569,161 +542,150 @@ NECO
 NET TV
 NET.
 NHK BS1
-NHK Educational TV
 NHL Network
 NHNZ
 NOVE
-NRJ 12
+NOW TV
 NRK Super
 NRK2
-NT1
 NTA
 NTV (TW)
 NTV7
 Nagoya Broadcasting Network
 Namava
-Nat Geo Kids (BR)
-National Geographic (AU/NZ)
-National Geographic (BG)
-National Geographic (FI)
+Nat Geo Kids
 National Geographic Wild
-National Media Authority
+Naver TV
 Nebula
-Nederlandse Publieke Omroep 3
+Neon TV
 Neox
+Network 10
 New Tang Dynasty TV
 News One
 Nick App
 Nick GAS
-Nickelodeon (Latin America)
-Nitro
+Nissi Play
 NoA
-Noggin
 Noovo
+Norddeutscher Rundfunk (NDR)
 Northern Visions Television
 Nou 24
-Nou Televisió
+Nova BH
+Nova S
 Nova
+Novyi Kanal
 Now TV
 Nuevo Siglo TV
 Numéro 23
 OBS Gyeongin TV
-OCN
-OLN
+OLL.TV
 ONDirecTV (Latin America)
 ORTF
-OSN
 OUFtivi
-Okoo
-Olive
+Oho Gujarati
+Olympic Channel
 Omega TV
 Omni
 OnStyle
-One 31
 One Channel
 One Magic
 Open TV
-Opto
 Ora TV
 Orange TV España
 Ouatch
-OutTV
 Outdoor Channel
 Ovation TV
-PBS Kids Sprout
+POPS Worldwide
 PPTV
 PRIMA TV
 PRO TV
-PTS
 PTS HD
 PTS Taigi
+PTS
 PTV Bolan
 PTV Global
 PTV Home
 PTV News
 PVC (UK)
 Pakapaka
-Pantaya
+Panorama (PNC)
 Paramount Channel (FR)
 Paramount Comedy
+Paramount+ with Showtime
 Paravi
-Paris Première
+Pervyy kanal
 Phoenix TV
 Piccoma TV - ピッコマTV
 Pick TV
-Pivot
 Planet Green
-Planète+
 Play More
-Play Plus
 Play UK
+Play
 PlayJam
-Playhouse Disney
 Playhouse Disney France
+Playhouse Disney
 Playz
 Podcast (All Platforms)
-Polsat
-Polynésie 1ère
+Podium Podcast
+Pogo
+Polynésie La 1re
 Pop TV
 Porto Canal
 Premier (Russia)
 Press TV
-Prima televize
 Prime Box Brazil
 Prva Srpska Televizija
 Pub Channel
+Public Sénat
 Puls 4
 Pureflix
 Pursuit Channel
+Pyatnitsa!
 Q TV
 QVC
 Queens Public Television
 R&R
-RCN TV
+RBB Fernsehen
 RCTI
 RED+
 RLTV
-RMC Découverte
+RMC Life
 RMC Sport
-RMC Story
 RT
 RTBF Webcréation
 RTF Télévision
 RTHK
-RTL Klub
-RTL Televizija
+RTL Kockica
+RTL Play
 RTL XL
-RTL9
-RTLplus
+RTL Zwei
+RTLup
 RTP Açores
 RTP Memória
 RTP Play
 RTP2
 RTP3
-RTS Un
 RTV Noord Holland
 RTVC Spain
 RTVS
 RTVSLO
-RTÉ One
-RTÉ Two
-RTÉjr
 Radio Television of Serbia (RTS/PTC)
 Radio Televizija Vojvodine
 Radio-Québec
-Radiotopia
 Rai 5
+Rai Extra
 Real Time
 Really
 Record News
-RecordTV
+Record TV Europa
+RecordPlus
 Red Bull TV
 Red Hot TV
 Rede Brasil (RBTV)
+Rede Gospel
 Rede Manchete
 Rede Vida
-RedeTV!
-Reshet 13
+Reshet
 Revelation TV
 Revolt
 Roya TV
@@ -735,12 +697,13 @@ RÚV
 S1TV
 S4/C
 S4C
-SABC1
-SABC2
-SABC3
+SABC 1
+SABC 2
+SABC 3
 SAPO Vídeos
 SBS Plus
 SEC Network
+SET Entertainment HD
 SET Metro
 SF 1
 SFR Play
@@ -749,7 +712,7 @@ SIC Comédia
 SIC Notícias
 SKY PerfecTV!
 SOAPnet
-SRF 1
+SRF Schweizer Radio und Fernsehen
 STAR Chinese Channel
 STAR Gold
 STAR Movies
@@ -762,72 +725,62 @@ STAR Sports Malaysia
 STAR Sports Southeast Asia
 STAR Sports Taiwan
 STAR Vijay
-STV (TW)
+START
+STV (CN)
 SUN music
 SUN news
-SVT 1
-SVT 2
+SVT Barn
 SVT24
-SVTB
-Sab TV
+Sabor & Arte
 Sahara ONE
-Salto
 Sama Dubai TV
 Sama TV
+Samira TV
+San Marino RTV
 Sanskar
 Scuzz
-Seezn
 Semerkand TV
 SescTV
 Setanta Ireland
+Seven
 Señal Colombia
-Shahid (UAE)
 Shandong Television
 Shenzhen TV
 Shout! Factory (USA)
-Show TV
-ShowMax
-ShowMax Poland
+Showmax Poland
+Showmax
 Sigma TV
 Sirasa
+Sjuan
 Sjónvarp Símans
-Skai
 Sky Arte
 Sky Atlantic (DE)
 Sky Box Office
-Sky Crime (UK)
-Sky Documentaries
-Sky Kids
+Sky History
 Sky Living
+Sky Max
 Sky Movies
-Sky Nature
-Sky News
 Sky News Ireland
-Sky One
 Sky One (DE)
+Sky One
+Sky Showcase
+Sky Sport (IT)
 Sky Sports F1
 Sky Travel
 Sky Uno
-Sky Witness
 Sky2
 Sky3
 Slice
 Smash Hits
-Smithsonian Channel (CA)
-Snapchat Originals
 Sohu TV
-Sony Channel
-SonyLIV
+Sony LIV
 Space (Brasil)
 Space (Latin America)
 Spektrum
-Spike (NL)
 SporTV
-Sportsnet
 Star (Latin America)
 Star Bharat
-Star Channel (BR)
-Star Channel (Greece)
+Star Channel (GR)
 Star Comedy
 Star Hits 1 (Brazil)
 Star Hits 2 (Brazil)
@@ -835,103 +788,97 @@ Star Jalsha
 Star Life (BR)
 Star Life (Latin America)
 Star Media
-Star World
+Star+
+Stardom World
 Stargate Command
-Start Russia
 Steel
 Streamz
 Studio 100 TV
 Studio 23
 Studio 4
 Studio+
-Stöð 2
 Sun Television
-Sundance TV
 SuoimiTV
-Super Écran
+Super Polsat
 Super!
 Superstar TV
 Superstation WGN
 Swarnawahini
 Syrian Drama TV
-Séries+
+Séries Plus
+Sýn
+TBC
 TBD
 TBN (Trinity Broadcasting Network)
-TBS (Latin America)
 TCM
-TEENick
 TEN Spain
 TEN Sports
 TET
-TF1 Séries Films
+TF6
 TFO
-TFX
 TG4
 TGRT Haber
+THT
 TIMvision
+TIS Productions
 TITV
 TLC India
-TMC
-TNT  (Russia)
 TNT Brasil
 TNT Comedy (Germany)
 TNT Latin America
-TNT Spain
 TNU
+TOD
 TONTON
 TRK Ukraina
+TRT 2
 TRT Arabic
 TRT Avaz
 TRT Belgesel
-TRT Diyanet
-TRT HD
+TRT Genç
 TRT Haber
 TRT Kurdî
-TRT Okul
 TRT Türk
 TRT World
-TRT Çocuk
-TSN
 TSR
 TTV
-TTV (PL)
 TV 2 (DK)
 TV 2 Charlie
+TV 2 Echo
 TV 2 Fri
+TV 2 Play
 TV 2 Sport
-TV 2 Sumo
 TV 2 Zebra
 TV 2/Nord
 TV Aichi
 TV Aparecida
+TV Bahia
 TV Brasil
+TV Canção Nova
 TV Chile
-TV Joj
+TV Chosun
 TV Markíza
 TV Net
 TV Nova
 TV Okey
-TV One
 TV Osaka
 TV Perú
 TV Pública
 TV São Carlos
 TV Thunder
 TV Tupi
-TV-3 (Russia)
 TV1 (MY)
 TV11
-TV2 (MY)
 TV24 (CH)
 TV25 (CH)
-TV3 (ES)
+TV3 (DK)
+TV3 (Estonia)
 TV3 (IE)
 TV3 (MY)
 TV3 (NZ) Three
 TV3 (SE)
 TV3 Puls
 TV3+
-TV4 (NZ)
+TV360
 TV4 Fakta
 TV4 Guld
 TV4 Komedi
@@ -941,22 +888,20 @@ TV5 (CA)
 TV5 (FI)
 TV5 (PH)
 TV7 (BG)
-TV7 (SE)
 TV8 (IT)
 TV8 (SE)
 TV8 (TR)
 TV9
-TVA (JP)
-TVBS
+TVB Jade
 TVBS Entertainment Channel
+TVBS
 TVFPlay
 TVGN
 TVI24
-TVING
 TVM
+TVN 7
 TVN Style
 TVN Turbo
-TVNOW
 TVNZ 1
 TVNZ 2
 TVOne Global
@@ -968,73 +913,69 @@ TVS China
 TVS Sydney
 TVSA
 TXN (Japan)
-TYT Network
+Telad
 TeleG
 TeleZüri
+Telecaribe
 Teledoce
-Telefe
 Telefuturo
 Telelatino
-Telemundo
 Televen
-Televisa
 Television Maldives
 Television Osaka
 Televisión de Galicia
-Tencent Video
+Telewizja Polska S.A.
 Terra Viva
 TestTube
 TevéCiudad
+Thairath TV
 The 5 Network
 The Africa Channel (UK)
 The Africa Channel (US)
 The Amp
 The Box
 The BrewDog Network
+The CW App
 The Comedy Channel
 The Den
 The Family Channel
 The Great Courses
 The Nashville Network
 The National Network
-The Roku Channel
 The Sportsman Channel
 The Verge
 The Weather Channel
 The Zeus Network
 TheBlaze
 This TV
-Tik Tok
 TikTok
 Tipik
 Toggle
-Tokai TV
-Tongyang Broadcasting Company
-Tou.tv
+Topic
 Toute l'histoire
 Travel + Escape
+Trece
 Trend E
+True Crime
 TrueID
 TrueVisions
 Turner South
-Twitch
-Twitter
-Télé-Québec
-Télétoon
+U&Alibi
+U&Dave
+U&Drama
+U&Gold
+U&W
+U&Yesterday
+U-NEXT
 UFC Fight Pass
 UK Entertainment Channel
-UKTV Drama
 UKTV Food
 UKTV Style
-UMC
 UN3TV
 UNTV 37
-UPtv
 UTV
 Unis TV
 United Nations Television
-Univer Video
-Universal Kids
 Universal TV
 Universo
 Urban America Television
@@ -1042,100 +983,100 @@ Urbanflix
 Urdu 1
 Ustream
 V télé
+V+ TVI
 VENN
 VH1 Brasil
-VIJF
-VLIVE
-VRT
+VRT 1
+VRT CANVAS
+VRT Max
+VTM 4
+VTV3
 VVVVID
 Varsity TV
-Venevision
 Versus
 Veteran Television
 Viafree
 Viasat 4
 Viasat3
-Vice on TV (US)
 Viceland (CA)
 Viceland (FR)
 Viceland (NL)
 Viceland (UK)
-VidAngel (USA)
 Videoland Television Network
 Vidi Space
+Vidio
 Vidol
-Viki
 Virgin Media One
-ViuTV
+Viu
+Viva One
 Volksmusik TV
 Voot
 Voyage
-Vudu
+Vrai
 W
-W9
 WCNY
 WPIX
-WWE Network
+WZTV
+Warhammer TV
 Warner Channel
-Warner TV
-WatchFrance
+Warner TV Serie
+WarnerTV Comedy (Germany)
 Wavve
+WeTV
 WealthTV
-Weverse (KR)
+Westdeutscher Rundfunk (WDR)
+Weverse
+WildBrainTV
 Workpoint TV
+X
 XY TV
 Xee
 XtvN
-YAHOO! View
 YTV (UK)
-Yahoo! View
-Youku
 Z
 ZOOM
 ZTV
 Zee Cinema
 Zee Gujarati
-Zee Muzic
-Zee TV
-Zee5
-Zeste
 Zhejiang TV
+aha
+atresplayer
 beIN Connect
+beIN Sports
+dTV
 dk4
+dmc
 documentary Channel
 element14
+eltrece
 eqhd
-france.tv
 france.tv slash
+france.tv
 fridayVideo
+hellolive
 here!
-hulu Japan
-iQiyi
-iWantTFC
-ivi (Russia)
-jTBC
+iWant
+ivi
 motorsports.tv
 myVideo
 oksusu
+one
 radX
 revry
 rmusic TV
 serieclub
+tabii
 téva
 vtm.be
 À Punt
 Évasion
 Ülke TV
-één
 Československá televize
-Česká televize
 Інтер
 ДТВ
 Дождь
 Домашний
 Звезда
-Мульт
-НТВ
 Пятый канал
 РЕН
 Россия К
@@ -1146,5 +1087,6 @@ vtm.be
 הערוץ הראשון
 טלעד
 ערוץ 10
-ערוץ הילדים‎
-רשת
+Lionsgate+
+Televizioni 7
+Toei Tokusatsu Fan Club
