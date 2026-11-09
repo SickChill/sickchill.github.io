@@ -1,0 +1,200 @@
+#0:Europe/Madrid
++Globosat:America/Noronha
+13ème rue:Europe/Paris
+6play:Europe/Paris
+ABC (AU):Australia/Lord_Howe
+ABC (JA):Japan
+ABC3:Australia/Lord_Howe
+ABC:America/New_York
+ABS-CBN Broadcasting Company:Asia/Manila
+ARTV:America/St_Johns
+ARY One World:Asia/Karachi
+ATRESplayer Premium:Europe/Madrid
+Abema TV:Japan
+Al Arabiyya:Asia/Dubai
+Alibi:Europe/London
+Amazon Prime Video:America/New_York
+Apple TV+:America/New_York
+Audience Network:America/New_York
+BBC Wales:Europe/London
+BR-alpha:Europe/Berlin
+BabyFirstTV:America/New_York
+Blim:America/Mexico_City
+Bounce TV:America/New_York
+CBC (EG):Egypt
+CSTV:Asia/Seoul
+CTV (JP):Japan
+CTV Comedy:America/St_Johns
+CTV Drama:America/St_Johns
+CTV Sci-Fi:America/St_Johns
+CW Seed:America/New_York
+Canal de las Estrellas:America/Mexico_City
+Canal+ Cyfrowy:Poland
+Canvas:Europe/Brussels
+Cartoon Network Brasil:America/Noronha
+Channel 5:Europe/London
+Channel One:Europe/Kaliningrad
+Chubu-Nippon Broadcasting:Japan
+Chérie 25:Europe/Paris
+CityTV:America/St_Johns
+Comédie !:Europe/Paris
+DMC:Egypt
+DR3:Europe/Copenhagen
+DROPOUT:America/New_York
+Dave:Europe/London
+Discovery Channel (CA):America/St_Johns
+Disney Channel (Latin America):America/Argentina/Buenos_Aires
+Disney Junior:America/New_York
+Disney+ Hotstar:Asia/Kolkata
+DramaX:Asia/Seoul
+ETTV:Asia/Taipei
+Einsfestival:Europe/Berlin
+El Trece:America/Argentina/Buenos_Aires
+Exxen:Turkey
+FOX Sports 1:America/New_York
+FUNimation Channel:America/New_York
+FX (BR):America/Noronha
+Family (CA):America/St_Johns
+Family CHRGD:America/St_Johns
+Food Network Canada:America/St_Johns
+Fox Sports 2:America/New_York
+Fox Telecolombia:America/Bogota
+FreeForm:America/New_York
+GMA:Asia/Manila
+GMM One:Asia/Bangkok
+GameTV Canada:America/St_Johns
+HBO Europe:Europe/Madrid
+HBO Latin America:America/Noronha
+HGTV Canada:America/St_Johns
+Hallmark Movies & Mysteries:America/New_York
+Hallmark Movies Now:America/New_York
+Histoire:Europe/Paris
+History (UK):Europe/London
+Hrvatska radiotelevizija:Europe/Zagreb
+ICI Télé:America/St_Johns
+IRIB TV1:Iran
+ITV Hub:Europe/London
+ITV:Europe/London
+Kan:Israel
+Kashish TV:Asia/Karachi
+Kids and Teens TV:America/New_York
+L'Équipe 21:Europe/Paris
+LOGO:America/New_York
+La 2 (TVE2):Europe/Madrid
+La Uno (TVE1):Europe/Madrid
+MAX:Europe/Oslo
+MBC 1:Asia/Dubai
+MBC 4 (UAE):Asia/Dubai
+MBC Drama (UAE):Asia/Dubai
+MBC Every1:Asia/Seoul
+MBC Masr:Egypt
+MBC Plus Media:Asia/Seoul
+MBC Queen:Asia/Seoul
+MEGA:America/Santiago
+MSNBC:America/New_York
+MTV Brazil:America/Noronha
+MTV España:Europe/Madrid
+MTV India:Asia/Kolkata
+MTV Italia:Europe/Rome
+MTV Latin America:America/New_York
+MTV Mandarin:Asia/Taipei
+MX:Asia/Kolkata
+Mais na tela:America/Noronha
+MyTF1:Europe/Paris
+NAVER tvcast:Asia/Seoul
+NDR:Europe/Berlin
+NPO 1:Europe/Amsterdam
+NT1:Europe/Paris
+Nat Geo Kids (BR):America/Noronha
+National Geographic Channel:America/New_York
+National Media Authority:Egypt
+Nederlandse Publieke Omroep 3:Europe/Amsterdam
+Network Ten:Australia/Lord_Howe
+NickToons:America/New_York
+Nou Televisió:Europe/Madrid
+OutTV:America/St_Johns
+Play Plus:America/Noronha
+Polynésie 1ère:Europe/Paris
+Prima televize:Europe/Prague
+RBB:Europe/Berlin
+RTL II:Europe/Berlin
+RTL Klub:Europe/Budapest
+RTL Televizija:Europe/Zagreb
+RTLplus:Europe/Berlin
+RecordTV:America/Noronha
+Rede Bandeirantes:America/Noronha
+Rede Globo:America/Noronha
+SABC1:Africa/Johannesburg
+SABC2:Africa/Johannesburg
+SABC3:Africa/Johannesburg
+SBS (AU):Australia/Lord_Howe
+SBS (KR):Asia/Seoul
+SRF 1:Europe/Zurich
+STV (TW):Asia/Taipei
+SVT 1:Europe/Stockholm
+SVT 2:Europe/Stockholm
+SVTB:Europe/Stockholm
+Seven Network:Australia/Lord_Howe
+Shahid (UAE):Asia/Dubai
+ShowMax Poland:Poland
+ShowMax:Africa/Johannesburg
+Showtime:America/New_York
+SonyLIV:Asia/Kolkata
+Spike TV:America/New_York
+Star Channel (Greece):Europe/Athens
+Star World:Asia/Hong_Kong
+Start Russia:Europe/Kaliningrad
+Starz:America/New_York
+Stöð 2:Iceland
+Sundance TV:America/New_York
+Syfy:America/New_York
+Séries+:America/St_Johns
+TEENick:America/New_York
+TNT  (Russia):Europe/Kaliningrad
+TNT Serie:Europe/Berlin
+TNT:America/New_York
+TRT Diyanet:Turkey
+TRT HD:Turkey
+TRT Okul:Turkey
+TV 2 Sumo:Europe/Oslo
+TV 2:Europe/Oslo
+TV 3:Europe/Copenhagen
+TV Joj:Europe/Bratislava
+TV One (NZ):Pacific/Auckland
+TV2:Europe/Budapest
+TV4 (NZ):Pacific/Auckland
+TV7 (SE):Europe/Stockholm
+TVA (JP):Japan
+TVB:Asia/Hong_Kong
+TVNOW:Europe/Berlin
+TVP SA:Poland
+Tencent Video:Asia/Shanghai
+The Movie Network:America/Halifax
+Tokyo Broadcasting System:Japan
+Tongyang Broadcasting Company:Asia/Seoul
+Tou.tv:America/St_Johns
+Twitter:America/New_York
+UKTV Drama:Europe/London
+UKTV Gold:Europe/London
+UKTV Yesterday:Europe/London
+VIER:Europe/Brussels
+VIJF:Europe/Brussels
+VRT:Europe/Brussels
+Venevision:America/Caracas
+Vice TV (US):America/New_York
+VidAngel (USA):America/New_York
+ViuTV:Asia/Hong_Kong
+WDR:Europe/Berlin
+Weverse (KR):Asia/Seoul
+YAHOO! View:America/New_York
+Yahoo! View:America/New_York
+Zee Muzic:Asia/Kolkata
+hulu Japan:Japan
+iQiyi:Asia/Shanghai
+iWantTFC:Asia/Manila
+ivi (Russia):Europe/Kaliningrad
+jTBC:Asia/Seoul
+één:Europe/Brussels
+Мульт:Europe/Kaliningrad
+ערוץ הילדים‎:Israel
+רשת:Israel

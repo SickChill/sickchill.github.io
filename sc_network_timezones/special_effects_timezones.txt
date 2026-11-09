@@ -1,3 +1,7 @@
+Blue Monk:Africa/Cairo
+Frame Film Services:Africa/Cairo
 Holey & Moley:
 Polygon Entertainment:America/New_York
 Sony Pictures Imageworks (SPI):America/New_York
+Squids Visual Arts:Africa/Cairo
+Trend VFX:Africa/Cairo
